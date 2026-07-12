@@ -319,7 +319,8 @@ function renderSentiment() {
 const BRENT_FROM = "2026-07-01";
 
 function renderIndexHistory() {
-  const rows = state.history.per_day;
+  // Ось начинается с июля 2026: сентимент и цена ведутся только с этой даты
+  const rows = state.history.per_day.filter((r) => r.date >= BRENT_FROM);
   const mode = state.modes.idxHist;
   const key = mode === "price" ? "price_index" : "emo_index";
   const brent = state.history.brent || {};
