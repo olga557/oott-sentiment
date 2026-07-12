@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.pyc
+.DS_Store
+data/tweet_oil_june_july.xlsx
+data/archive/

@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>#OOTT — Oil Twitter Sentiment</title>
+<link rel="stylesheet" href="styles.css">
+<script src="https://cdn.jsdelivr.net/npm/echarts@5.5.1/dist/echarts.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/echarts-wordcloud@2.1.0/dist/echarts-wordcloud.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/echarts@4.9.0/map/js/world.js"></script>
+</head>
+<body>
+<header class="topbar">
+  <div class="brand">
+    <h1>#OOTT <span>Oil Twitter Sentiment</span></h1>
+  </div>
+  <div class="date-nav">
+    <button id="prevDay" class="nav-btn" title="Предыдущий день">‹</button>
+    <input type="date" id="datePicker">
+    <button id="nextDay" class="nav-btn" title="Следующий день">›</button>
+  </div>
+</header>
+
+<main>
+  <!-- Карточки-сводка дня -->
+  <section id="statCards" class="cards"></section>
+
+  <!-- Саммари дня -->
+  <section class="panel" id="summaryPanel">
+    <div class="panel-head">
+      <h2>Саммари дня</h2>
+      <div class="seg" id="summaryLang">
+        <button data-v="ru" class="on">RU</button><button data-v="en">EN</button>
+      </div>
+    </div>
+    <div id="summaryBody" class="summary-body"></div>
+  </section>
+
+  <!-- Сентимент: влияние на цену -->
+  <section class="panel">
+    <div class="panel-head">
+      <h2>Сентимент: влияние на цену нефти</h2>
+      <div class="seg" id="priceIdxMode">
+        <button data-v="simple" class="on">Простой</button><button data-v="weighted">Взвеш. по просмотрам</button>
+      </div>
+    </div>
+    <div class="sent-grid">
+      <div class="gauge-box"><div id="priceGauge" class="gauge"></div><div id="priceGaugeMeta" class="gauge-meta"></div></div>
+      <div id="priceHourly" class="chart tall"></div>
+    </div>
+  </section>
+
+  <!-- Сентимент: эмоциональный тон -->
+  <section class="panel">
+    <div class="panel-head">
+      <h2>Сентимент: эмоциональный тон</h2>
+      <div class="seg" id="emoIdxMode">
+        <button data-v="simple" class="on">Простой</button><button data-v="weighted">Взвеш. по просмотрам</button>
+      </div>
+    </div>
+    <div class="sent-grid">
+      <div class="gauge-box"><div id="emoGauge" class="gauge"></div><div id="emoGaugeMeta" class="gauge-meta"></div></div>
+      <div id="emoHourly" class="chart tall"></div>
+    </div>
+  </section>
+
+  <!-- История индекса vs цена Brent -->
+  <section class="panel">
+    <div class="panel-head">
+      <h2>История сентимента и цена Brent</h2>
+      <div class="seg" id="idxHistMode">
+        <button data-v="price" class="on">Влияние на цену</button><button data-v="emo">Эмоции</button>
+      </div>
+    </div>
+    <div id="idxHistory" class="chart tall"></div>
+  </section>
+
+  <!-- Темы дня -->
+  <section class="panel">
+    <div class="panel-head"><h2>Темы дня</h2><span class="hint">число твитов и разбивка bullish / neutral / bearish</span></div>
+    <div id="topicsChart" class="chart tall"></div>
+  </section>
+
+  <!-- Число твитов -->
+  <section class="panel">
+    <div class="panel-head">
+      <h2>Число твитов</h2>
+      <div class="seg" id="volMode"><button data-v="day" class="on">По дням</button><button data-v="month">По месяцам</button></div>
+    </div>
+    <div id="volumeChart" class="chart"></div>
+  </section>
+
+  <div class="two-col">
+    <!-- Распределение по часам -->
+    <section class="panel">
+      <div class="panel-head">
+        <h2>Твиты по часам (UTC)</h2>
+        <div class="seg" id="hourMode"><button data-v="day" class="on">Этот день</button><button data-v="all">Весь период</button></div>
+      </div>
+      <div id="hoursChart" class="chart"></div>
+    </section>
+
+    <!-- Теплокарта -->
+    <section class="panel">
+      <div class="panel-head"><h2>Активность: день недели × час</h2><span class="hint">весь период</span></div>
+      <div id="heatmapChart" class="chart"></div>
+    </section>
+  </div>
+
+  <!-- Вовлечённость -->
+  <section class="panel">
+    <div class="panel-head">
+      <h2>Вовлечённость</h2>
+      <div class="seg-group">
+        <div class="seg" id="engMetric">
+          <button data-v="views" class="on">Просмотры</button><button data-v="likes">Лайки</button><button data-v="replies">Реплаи</button><button data-v="retweets">Ретвиты</button><button data-v="bookmarks">Закладки</button>
+        </div>
+        <div class="seg" id="engGran">
+          <button data-v="days" class="on">По дням</button><button data-v="months">По месяцам</button><button data-v="hours">По часам (день)</button>
+        </div>
+        <div class="seg" id="engStat">
+          <button data-v="avg" class="on">Среднее/твит</button><button data-v="med">Медиана</button><button data-v="sum">Сумма</button>
+        </div>
+      </div>
+    </div>
+    <div id="engCards" class="mini-cards"></div>
+    <div id="engChart" class="chart"></div>
+  </section>
+
+  <div class="two-col">
+    <!-- Языки -->
+    <section class="panel">
+      <div class="panel-head">
+        <h2>Языки твитов</h2>
+        <div class="seg" id="langMode"><button data-v="day" class="on">День</button><button data-v="month">Месяц</button><button data-v="all">Вся история</button></div>
+      </div>
+      <div class="lang-grid"><div id="langChart" class="chart"></div><div id="langTable"></div></div>
+    </section>
+
+    <!-- Авторы -->
+    <section class="panel">
+      <div class="panel-head">
+        <h2>Авторы</h2>
+        <div class="seg" id="authMode"><button data-v="tweets" class="on">Топ по твитам</button><button data-v="views">Топ по охвату</button></div>
+      </div>
+      <div id="authorsInfo" class="mini-cards"></div>
+      <div id="authorsTable"></div>
+    </section>
+  </div>
+
+  <!-- Уникальные авторы по дням -->
+  <section class="panel">
+    <div class="panel-head"><h2>Уникальные авторы по дням</h2><span class="hint">и сколько из них впервые пишут с #OOTT</span></div>
+    <div id="authorsChart" class="chart"></div>
+  </section>
+
+  <!-- Топ твитов -->
+  <section class="panel">
+    <div class="panel-head">
+      <h2>Топ-5 постов дня</h2>
+      <div class="seg" id="topMode">
+        <button data-v="views" class="on">Просмотры</button><button data-v="likes">Лайки</button><button data-v="replies">Реплаи</button><button data-v="retweets">Ретвиты</button><button data-v="bookmarks">Закладки</button>
+      </div>
+    </div>
+    <div id="topTweets"></div>
+  </section>
+
+  <!-- Карта -->
+  <section class="panel">
+    <div class="panel-head">
+      <h2>География авторов</h2>
+      <div class="right-group">
+        <span class="hint" id="mapCoverage"></span>
+        <div class="seg" id="mapMode"><button data-v="day" class="on">День</button><button data-v="month">Месяц</button><button data-v="all">Вся история</button></div>
+      </div>
+    </div>
+    <div id="mapChart" class="chart extra-tall"></div>
+  </section>
+
+  <div class="two-col">
+    <!-- Эмодзи -->
+    <section class="panel">
+      <div class="panel-head">
+        <h2>Облако эмодзи</h2>
+        <div class="seg" id="emojiMode"><button data-v="day" class="on">День</button><button data-v="month">Месяц</button></div>
+      </div>
+      <div id="emojiCloud" class="chart"></div>
+    </section>
+
+    <!-- Облако слов -->
+    <section class="panel">
+      <div class="panel-head">
+        <h2>Облако слов</h2>
+        <div class="seg" id="wordMode"><button data-v="all" class="on">Все</button><button data-v="bull">Bullish</button><button data-v="bear">Bearish</button></div>
+      </div>
+      <div id="wordCloud" class="chart"></div>
+    </section>
+  </div>
+
+  <!-- Граф хэштегов -->
+  <section class="panel">
+    <div class="panel-head"><h2>Хэштеги вместе с #OOTT</h2><span class="hint">размер — частота, связи — совместное использование</span></div>
+    <div id="hashtagGraph" class="chart extra-tall"></div>
+  </section>
+
+  <footer id="footer"></footer>
+</main>
+
+<script src="app.js"></script>
+</body>
+</html>
