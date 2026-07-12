@@ -27,6 +27,7 @@ data/
   prices.json       цены Brent по дням
 dashboard/          статичный дашборд (HTML+JS, ECharts), данные в dashboard/data/
 run_daily.sh        ежедневный пайплайн (шаги без LLM)
+publish.sh          публикация: коммит + пуш -> GitHub Pages
 serve.sh            локальный просмотр дашборда
 ```
 
@@ -50,6 +51,9 @@ cp .env.example .env        # вставить ключ twitterapi.io
    - `python3 scripts/merge_labels.py <день> <файлы меток>`;
    - пишет саммари по `prompts/summarize.md` в `data/summaries/<день>.json`;
    - `python3 scripts/aggregate.py <день>` — финальный пересчёт.
+3. `./publish.sh` — публикует обновления на сайт
+   https://olga557.github.io/oott-sentiment/ (коммит + пуш, дальше GitHub
+   Actions разворачивает Pages автоматически).
 
 Пример промпта для ежедневной автоматизации: «Запусти ./run_daily.sh в
 ~/Projects/oott-sentiment, затем классифицируй батчи дня по
