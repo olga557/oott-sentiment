@@ -233,13 +233,18 @@ function renderCards() {
   };
   const idxClass = (v) => (v === null ? "" : v > 10 ? "bullish" : v < -10 ? "bearish" : "");
 
-  el("statCards").innerHTML = `
-    <div class="card"><div class="k">Твиты</div><div class="v">${fmt(s.tweets)}</div>${delta(s.tweets, prev?.tweets)}</div>
-    <div class="card"><div class="k">Авторы</div><div class="v">${fmt(d.unique_authors)}</div><div class="d">${fmt(d.new_authors)} новых</div></div>
-    <div class="card"><div class="k">Просмотры</div><div class="v">${fmt(s.sum_views)}</div>${delta(s.sum_views, prev?.sum_views)}</div>
-    <div class="card"><div class="k">Индекс цены</div><div class="v ${idxClass(price.index)}">${price.index === null ? "—" : (price.index > 0 ? "+" : "") + price.index}</div>${delta(price.index, prev?.price_index)}</div>
-    <div class="card"><div class="k">Индекс эмоций</div><div class="v ${idxClass(emo.index)}">${emo.index === null ? "—" : (emo.index > 0 ? "+" : "") + emo.index}</div>${delta(emo.index, prev?.emo_index)}</div>
-    <div class="card"><div class="k">Боты</div><div class="v">${d.bots_pct}%</div><div class="d">${fmt(d.bots)} твитов</div></div>`;
+  const card = (html) => html;
+  const tweets = card(`<div class="card"><div class="k">Твиты</div><div class="v">${fmt(s.tweets)}</div>${delta(s.tweets, prev?.tweets)}</div>`);
+  const authors = card(`<div class="card"><div class="k">Авторы</div><div class="v">${fmt(d.unique_authors)}</div><div class="d">${fmt(d.new_authors)} новых</div></div>`);
+  const views = card(`<div class="card"><div class="k">Просмотры</div><div class="v">${fmt(s.sum_views)}</div>${delta(s.sum_views, prev?.sum_views)}</div>`);
+  const priceCard = card(`<div class="card"><div class="k">Индекс цены</div><div class="v ${idxClass(price.index)}">${price.index === null ? "—" : (price.index > 0 ? "+" : "") + price.index}</div>${delta(price.index, prev?.price_index)}</div>`);
+  const emoCard = card(`<div class="card"><div class="k">Индекс эмоций</div><div class="v ${idxClass(emo.index)}">${emo.index === null ? "—" : (emo.index > 0 ? "+" : "") + emo.index}</div>${delta(emo.index, prev?.emo_index)}</div>`);
+  const bots = card(`<div class="card"><div class="k">Боты</div><div class="v">${d.bots_pct}%</div><div class="d">${fmt(d.bots)} твитов</div></div>`);
+
+  // Mobile: tweets|views, price|emo, authors|bots
+  el("statCards").innerHTML = isMobile()
+    ? tweets + views + priceCard + emoCard + authors + bots
+    : tweets + authors + views + priceCard + emoCard + bots;
 }
 
 /* ---------------------------------------------------------------- summary */
