@@ -9,7 +9,7 @@
 ```
 scripts/
   fetch_tweets.py   сбор твитов за день через twitterapi.io (ключ в .env)
-  fetch_prices.py   дневные цены Brent (Yahoo Finance, без ключа)
+  fetch_prices.py   дневные цены Brent (ICE front-month авто; Yahoo — fallback)
   ingest_excel.py   одноразовый бэкфилл из Excel
   make_batches.py   готовит батчи твитов дня для LLM-классификации
   merge_labels.py   валидирует и сливает метки в data/enriched/
