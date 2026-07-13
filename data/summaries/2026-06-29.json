@@ -1,67 +1,67 @@
 {
   "date": "2026-06-29",
-  "overview_en": "Monday led with a multi-decade SPR plunge and conflicting US–Iran talk signals around Doha, plus spreading Russian fuel shortages and a bearish curve-momentum read. Price sentiment was mixed — inventory and Hormuz risk were bullish, but fading backwardation and ceasefire hopes capped upside; emotional tone stayed wary.",
-  "overview_ru": "В понедельник главным стало падение SPR до многолетних минимумов и противоречивые сигналы по переговорам США–Иран в Дохе на фоне распространения дефицита топлива в России и медвежьего сигнала по кривой. Сентимент по цене был смешанным — запасы и риск Ормуза бычьи, но ослабление бэквордации и надежды на перемирие ограничивали рост; эмоциональный тон — настороженный.",
+  "overview_en": "Monday mixed a deep U.S. SPR draw and Iran’s harder Hormuz transit rules with Venezuela outages and Russia’s spreading fuel shortages. Price sentiment was slightly bullish on inventories and geopolitics; emotional tone stayed mostly neutral.",
+  "overview_ru": "В понедельник смешались глубокий отбор из SPR США и более жёсткие правила транзита Ирана через Ормуз с авариями в Венесуэле и расползающимся топливным дефицитом в России. Сентимент по цене был слабо бычьим из‑за запасов и геополитики; эмоциональный тон оставался в основном нейтральным.",
   "themes": [
     {
-      "title_en": "SPR falls ~5.5 mb to 325.7 mb — 1983 low",
-      "title_ru": "SPR −~5,5 млн барр. до 325,7 — минимум с 1983 г.",
-      "blurb_en": "Weekly SPR data showed a ~5.5 mb draw to 325.7 mb — the lowest since 1983 — sour and sweet both down sharply.",
-      "blurb_ru": "Недельные данные по SPR показали отбор ~5,5 млн барр. до 325,7 млн — минимум с 1983 г.; снижение и кислой, и сладкой нефти.",
-      "text_en": "Staunovo's SPR tweet dominated the day at 80k+ views: sour down ~2.7 mb to 205.5 mb, sweet ~2.9 mb to 120.9 mb. Follow-on posts warned the reserve is at multi-decade lows while shorts remain elevated — framing a future squeeze narrative.",
-      "text_ru": "Твит Staunovo по SPR собрал 80k+ просмотров: кислая −~2,7 млн барр. до 205,5 млн, сладкая −~2,9 млн до 120,9 млн. Последующие посты предупреждали о минимумах за десятилетия при высоких шортах — нарратив будущего сжатия.",
+      "title_en": "SPR crude −5.5 mb to multi-year low",
+      "title_ru": "SPR −5.5 млн барр. до многолетнего минимума",
+      "blurb_en": "U.S. SPR crude fell about 5.5 mb week-on-week to 325.7 mb—a multi-year low that dominated the day’s inventory read.",
+      "blurb_ru": "Запасы нефти в SPR США упали примерно на 5.5 млн барр. н/н до 325.7 млн — многолетний минимум, задавший тон инвентарной картине дня.",
+      "text_en": "The day’s top post said SPR crude inventories fell ~5.5 mb w/w to a multi-year low of 325.7 mb, with sour down ~2.7 mb to 205.5 mb and sweet down ~2.9 mb to 120.9 mb. That draw anchored the bullish inventory camp even as some traders said commercial stocks were hard to track. WTI settled near $70.75/bbl and Brent near $73.15/bbl in the same session.",
+      "text_ru": "Топ-пост дня писал, что запасы нефти SPR упали ~5.5 млн барр. н/н до многолетнего минимума 325.7 млн, sour −~2.7 млн до 205.5 млн, sweet −~2.9 млн до 120.9 млн. Этот отбор держал бычий лагерь по запасам, даже когда часть трейдеров жаловалась, что коммерческие стоки трудно считать. WTI закрылся около $70.75/барр., Brent — около $73.15/барр. в той же сессии.",
       "tone": "bullish",
-      "tweet_ids": ["2071642954632921559", "2071673157920919573"]
+      "tweet_ids": ["2071642954632921559"]
     },
     {
-      "title_en": "Doha talk chaos: Trump vs Iran 'no talks'",
-      "title_ru": "Хаос вокруг Дохи: Трамп vs «переговоров не будет»",
-      "blurb_en": "Trump said Iran requested a Tuesday Doha meeting while Tehran officials denied any US talks were planned this week.",
-      "blurb_ru": "Трамп заявил, что Иран запросил встречу во вторник в Дохе, тогда как официальные лица Тегерана отрицали переговоры с США на этой неделе.",
-      "text_en": "Conflicting headlines whipsawed sentiment: Trump posted Iran requested a meeting; Gharibabadi and Tasnim said no technical talks were planned. Energy Tidbits noted senior US officials had already floated a halt to reciprocal strikes.",
-      "text_ru": "Противоречивые заголовки качали настроение: Трамп писал о запросе встречи; Gharibabadi и Tasnim — что технических переговоров не планируется. Energy Tidbits отмечал, что старшие американские чиновники уже говорили о прекращении взаимных ударов.",
-      "tone": "mixed",
-      "tweet_ids": ["2071557470879887408", "2071542116074074383"]
-    },
-    {
-      "title_en": "Iran vows to obstruct 'unauthorized' Hormuz paths",
-      "title_ru": "Иран обещает блокировать «несанкционированные» маршруты Ормуза",
-      "blurb_en": "Deputy FM Gharibabadi said Iran would try to obstruct vessels transiting Hormuz outside Tehran-specified routes.",
-      "blurb_ru": "Замминистра Gharibabadi заявил, что Иран будет препятствовать судам, идущим через Ормуз вне маршрутов, указанных Тегераном.",
-      "text_en": "LiveSquawk and Staunovo relayed the obstruction threat as Hormuz traffic dropped after Saturday's vessel strike. A separate Muscat Hormuz Joint Committee meeting with Oman offered a diplomatic offset, but hard-line transit language kept risk premium alive.",
-      "text_ru": "LiveSquawk и Staunovo передавали угрозу блокировки на фоне падения трафика через Ормуз после удара по судну в субботу. Отдельная встреча Hormuz Joint Committee в Мускате с Оманом давала дипломатическую разрядку, но жёсткая риторика по транзиту сохраняла риск-премию.",
+      "title_en": "Iran: obstruct non-Tehran Hormuz paths",
+      "title_ru": "Иран: блокировать пути Ормуза вне правил Тегерана",
+      "blurb_en": "Iran’s deputy FM said Tehran opposes and will try to obstruct vessels using Hormuz paths not specified by Iran.",
+      "blurb_ru": "Замглавы МИД Ирана заявил, что Тегеран против и будет мешать судам, идущим путями Ормуза, не указанными Ираном.",
+      "text_en": "High-reach headlines quoted Iran’s deputy foreign minister: Iran opposes and will try to obstruct any vessels transiting Hormuz paths not specified by Tehran. Parallel coverage noted Iran and Oman still held a first Hormuz Joint Committee meeting in Muscat even as tit-for-tat U.S.–Iran strikes continued over the weekend. Separate flow math argued Strait recovery looked smaller once ~6 mb/d via the Red Sea was netted out of ~14 mb/d regional exports.",
+      "text_ru": "Самые заметные заголовки цитировали замглавы МИД Ирана: Тегеран против и будет мешать судам на путях Ормуза, не указанных Ираном. Параллельно писали, что Иран и Оман всё же провели первое заседание Hormuz Joint Committee в Маскате на фоне взаимных ударов США и Ирана на выходных. Отдельная математика потоков утверждала, что восстановление пролива выглядит скромнее, если из ~14 млн б/с регионального экспорта вычесть ~6 млн б/с через Красное море.",
       "tone": "bullish",
-      "tweet_ids": ["2071661460585914619", "2071651265742827830"]
+      "tweet_ids": ["2071661460585914619", "2071661663133081807"]
     },
     {
-      "title_en": "Curve momentum turns bearish — Bouchouev",
-      "title_ru": "Импульс кривой стал медвежьим — Bouchouev",
-      "blurb_en": "With inventories hard to track, traders leaned on curve dynamics; a 'deceleration of backwardation' signal turned decisively bearish.",
-      "blurb_ru": "При невозможности отследить запасы трейдеры смотрели на кривую; сигнал «замедления бэквордации» стал явно медвежьим.",
-      "text_en": "Ilia Bouchouev's widely shared post argued curve-momentum had flipped bearish and was driving recent selling. Pickering separately said oil was weak on sentiment over decent inventory fundamentals and US deal-seeking.",
-      "text_ru": "Широко расшаренный пост Ilia Bouchouev утверждал, что импульс кривой стал медвежьим и толкал недавние продажи. Pickering отдельно писал, что нефть слаба из‑за сентимента при неплохих фундаментальных запасах и стремления США к сделке.",
+      "title_en": "Curve momentum turns bearish",
+      "title_ru": "Импульс кривой становится медвежьим",
+      "blurb_en": "With inventories hard to track, traders leaned on curve dynamics—and a “deceleration of backwardation” signal flipped bearish.",
+      "blurb_ru": "На фоне трудностей с учётом запасов трейдеры опирались на динамику кривой — сигнал «замедления бэквордации» развернулся в медвежью сторону.",
+      "text_en": "A widely viewed technical note said traders increasingly use curve dynamics as a proxy for forward supply–demand when inventories are opaque, and that the deceleration-of-backwardation / curve-momentum signal had turned decidedly bearish. Brent curve charts versus one week and one month earlier circulated alongside. Other commentary called spot price weak on sentiment despite decent inventory fundamentals and a strong U.S. desire for a deal.",
+      "text_ru": "Широко читаемая техническая заметка писала, что при непрозрачных запасах трейдеры всё больше используют динамику кривой как прокси форвардного баланса, и сигнал deceleration-of-backwardation / curve-momentum стал явно медвежьим. Рядом ходили графики кривой Brent против недели и месяца назад. Другие комментарии называли спот слабым по сентименту при относительно нормальных фундаментах запасов и сильном желании США добиться сделки.",
       "tone": "bearish",
       "tweet_ids": ["2071590681882116251", "2071606521276899329"]
     },
     {
-      "title_en": "Russia fuel shortages spread; Putin admits bite",
-      "title_ru": "Дефицит топлива в РФ расширяется; Путин признаёт удар",
-      "blurb_en": "Putin acknowledged fuel shortages as Ukrainian drone strikes dented refinery output and shortages spread to more regions.",
-      "blurb_ru": "Путин признал дефицит топлива на фоне ударов дронов по НПЗ и распространения нехватки на новые регионы.",
-      "text_en": "Staunovo flagged Putin's first admission that long-range Ukrainian attacks had dented production, with a task force set up to secure supplies. Venezuela's largest refinery also shut after a power outage — extra supply-side noise.",
-      "text_ru": "Staunovo отмечал первое признание Путиным, что дальнобойные удары Украины снизили переработку, и создание штаба по обеспечению поставок. Крупнейший НПЗ Венесуэлы также остановился после отключения электричества — дополнительный шум по предложению.",
+      "title_en": "Venezuela: largest refinery down, rig blast",
+      "title_ru": "Венесуэла: крупнейший НПЗ стоит, взрыв на буровой",
+      "blurb_en": "Sources said Venezuela’s largest refinery shut after a power outage and a PDVSA rig blast injured at least eight workers.",
+      "blurb_ru": "Источники сообщали об остановке крупнейшего НПЗ Венесуэлы после отключения электричества и о взрыве на буровой PDVSA с минимум восемью пострадавшими.",
+      "text_en": "Staunovo flagged that Venezuela’s largest refinery shut down after a power outage, per sources. Separate Reuters-linked posts said an explosion at a PDVSA-operated rig in Apure left at least eight workers injured late Sunday. Together the items kept a bullish LatAm supply-and-products risk premium in the Monday mix.",
+      "text_ru": "Staunovo отмечал остановку крупнейшего НПЗ Венесуэлы после блэкаута по данным источников. Отдельные посты со ссылкой на Reuters писали о взрыве на буровой PDVSA в штате Апуре с минимум восемью пострадавшими поздно в воскресенье. Вместе это держало бычью премию риска по предложению и продуктам Латинской Америки в понедельничной смеси.",
+      "tone": "bullish",
+      "tweet_ids": ["2071445905870401853", "2071642010201559263"]
+    },
+    {
+      "title_en": "Russia admits fuel shortages after drone hits",
+      "title_ru": "Россия признаёт дефицит топлива после дронов",
+      "blurb_en": "Putin acknowledged fuel shortages and a task force to secure supplies as Ukrainian attacks on refineries continued to bite.",
+      "blurb_ru": "Путин признал дефицит топлива и создание штаба для обеспечения поставок на фоне продолжающихся ударов Украины по НПЗ.",
+      "text_en": "Coverage said Putin acknowledged fuel shortages and ordered a task force to ensure supplies—framed as a first admission that Kyiv’s long-range attacks had dented production. Follow-ups reported shortages spreading to more regions and a deputy PM urging regions to use fuel efficiently. India lifting petrol/diesel sale restrictions from July 1 offered a separate products-easing note.",
+      "text_ru": "В ленте писали, что Путин признал дефицит топлива и поручил штабу обеспечить поставки — это трактовали как первое признание ущерба от дальнобойных ударов Киева. Далее сообщали о расползании дефицита по регионам и призыве вице-премьера эффективнее использовать топливо. Снятие Индией ограничений на продажу бензина и дизеля с 1 июля давало отдельную смягчающую продуктовую ноту.",
       "tone": "bullish",
       "tweet_ids": ["2071438678665077028", "2071599305345872110"]
     },
     {
-      "title_en": "WTI $70.75 / Brent $73.15 settle",
-      "title_ru": "Закрытие WTI $70,75 / Brent $73,15",
-      "blurb_en": "Front-month contracts settled near $71 WTI and $73 Brent as Qatar temporarily suspended recreational maritime activity amid security concerns.",
-      "blurb_ru": "Ближайшие контракты закрылись около $71 WTI и $73 Brent на фоне временной приостановки рекреационного морского движения в Кatarе из‑за безопасности.",
-      "text_en": "Staunovo posted WTI at $70.75/bbl and Brent at $73.15/bbl at settlement. Qatar's transport ministry directive on suspending sailing added a fresh Gulf security footnote into the close.",
-      "text_ru": "Staunovo фиксировал WTI на $70,75/бbl и Brent на $73,15/бbl на закрытии. Директива минтранса Катара о приостановке плавания добавила свежую сноску о безопасности в Заливе.",
+      "title_en": "Oil-on-water and US drilling snapshots",
+      "title_ru": "Нефть на воде и снимок бурения США",
+      "blurb_en": "Vortexa oil-on-water barrels and U.S. drilling-activity charts circulated as neutral balance-sheet context.",
+      "blurb_ru": "Графики Vortexa по нефти на воде и буровой активности в США ходили как нейтральный контекст балансов.",
+      "text_en": "Staunovo posted Vortexa oil-on-water in million barrels and Baker Hughes/Primary Vision U.S. drilling-activity charts. Those visuals sat beside debates over how much Strait of Hormuz capacity had truly recovered. They functioned mainly as neutral market-structure footnotes rather than a directional catalyst.",
+      "text_ru": "Staunovo выложил графики Vortexa по нефти на воде в млн баррелей и буровой активности США (Baker Hughes/Primary Vision). Эти визуалы шли рядом со спорами о том, насколько реально восстановилась пропускная способность Ормуза. Они скорее служили нейтральными сносками по структуре рынка, чем направленным катализатором.",
       "tone": "neutral",
-      "tweet_ids": ["2071662893133693040", "2071605931742495115"]
+      "tweet_ids": ["2071474530531361154", "2071474773767459063"]
     }
   ]
 }

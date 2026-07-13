@@ -1,67 +1,67 @@
 {
   "date": "2026-06-28",
-  "overview_en": "Saturday mixed fresh Iran–US strikes on Bahrain and Kuwait with Russia's fuel crisis, record Japan crude draws, and a viral bullish oil call — then late ceasefire headlines ahead of futures open. Price sentiment was mixed: risk stayed bid early but weekend de-escalation leaks turned bearish; emotional tone swung from alarm to cynicism.",
-  "overview_ru": "В субботу свежие ирано-американские удары по Бахрейну и Кувейту смешались с топливным кризисом в России, рекордным отбором нефти в Японии и вирусным бычьим прогнозом — затем перед открытием фьючерсов пошли заголовки о прекращении огня. Сентимент по цене был смешанным: риск держал премию, но утечки о деэскалации в выходные дали медвежий оттенок; эмоциональный тон — от тревоги к цинизму.",
+  "overview_en": "Sunday mixed Iranian drone retaliation on Kuwait and Bahrain with Ukraine’s strikes on Russian refineries and a loud bullish call that oil was set to skyrocket. Price sentiment was firmly bullish; emotional tone stayed tense and negative amid weekend escalation.",
+  "overview_ru": "В воскресенье смешались ответные дрон-удары Ирана по Кувейту и Бахрейну, украинские удары по российским НПЗ и громкий бычий тезис, что нефть готова к резкому взлёту. Сентимент по цене был уверенно бычьим; эмоциональный тон оставался напряжённым и негативным на фоне уикенд-эскалации.",
   "themes": [
     {
-      "title_en": "IRGC strikes US bases in Bahrain, Kuwait",
-      "title_ru": "КСИР бьёт по базам США в Бахрейне и Кувейте",
-      "blurb_en": "Iran's Revolutionary Guards claimed ballistic-missile and drone strikes on US Fifth Fleet and Kuwait bases in retaliation for recent US attacks.",
-      "blurb_ru": "КСИР заявил об ударах баллистическими ракетами и дронами по базам Пятого флота США и Кувейта в ответ на недавние атаки США.",
-      "text_en": "Breaking posts described explosions in Manama and strikes on Salman Port and Ali Al Salem base. Amena Bakr summarized the IRGC warning that further aggression would meet a crushing response. Energy Tidbits linked the attacks to a second tanker hit near Hormuz carrying 2+ million barrels.",
-      "text_ru": "Breaking-посты описывали взрывы в Манаме и удары по порту Salman и базе Ali Al Salem. Amena Bakr передавала предупреждение КСИР о «сокрушительном ответе» на дальнейшую агрессию. Energy Tidbits связывал атаки со вторым ударом по танkerу у Ормуза с более чем 2 млн барр. нефти.",
+      "title_en": "Iran drones hit Kuwait and Bahrain",
+      "title_ru": "Дроны Ирана бьют по Кувейту и Бахрейну",
+      "blurb_en": "IRGC said it struck Kuwait and Bahrain in retaliation for U.S. attacks, warning further aggression would meet a crushing response.",
+      "blurb_ru": "КСИР заявил об ударах по Кувейту и Бахрейну в ответ на атаки США и предупредил, что новая агрессия встретит сокрушительный ответ.",
+      "text_en": "Posts said Iran’s Revolutionary Guards claimed Saturday-night strikes on Kuwait and Bahrain after U.S. attacks on Iranian territory. Separate notes framed a “weekend war” pattern—U.S. action while major markets were closed—and skepticism that a short-lived MoU would hold. Some commentary also floated further tanker risk in Hormuz into the coming week.",
+      "text_ru": "Посты писали, что КСИР заявил о субботних ночных ударах по Кувейту и Бахрейну после атак США по территории Ирана. Отдельно описывали схему «уикенд-войны» — действия США при закрытых крупных рынках — и скепсис, что недолговечный MoU устоит. Часть комментариев допускала новые риски для танкеров в Ормузе на следующей неделе.",
       "tone": "bullish",
       "tweet_ids": ["2071177734089285835", "2071063964633719043"]
     },
     {
-      "title_en": "Ceasefire headlines before futures open",
-      "title_ru": "Заголовки о прекращении огня перед открытием",
-      "blurb_en": "Late-Sunday Axios reports that the US and Iran agreed to halt reciprocal strikes fed a 'weekend war' narrative that could cap oil into the open.",
-      "blurb_ru": "Поздние сообщения Axios о согласии США и Ирана прекратить взаимные удары усилили нарратив «выходной войны», способный сдержать нефть к открытию.",
-      "text_en": "Pickering called the pattern 90% predictable — action when markets are closed. ZmansEnrgyBrain quipped 'peace breaks out just ahead of futures open.' Nicholas James argued Washington was using anonymous leaks to lower prices before the bell.",
-      "text_ru": "Pickering называл схему предсказуемой на 90% — действия при закрытых рынках. ZmansEnrgyBrain иронизировал, что «мир наступает перед открытием фьючерсов». Nicholas James писал, что Вашингтон использует анонимные утечки, чтобы снизить цены перед звонком.",
-      "tone": "bearish",
-      "tweet_ids": ["2071347018866295155", "2071381829358362720"]
-    },
-    {
-      "title_en": "Viral call: oil set to skyrocket",
-      "title_ru": "Вирусный прогноз: нефть «взлетит»",
-      "blurb_en": "The day's most-viewed post warned the launchpad was set for oil prices to suddenly skyrocket despite the weekend headline noise.",
-      "blurb_ru": "Самый просматриваемый пост дня предупреждал, что «площадка для запуска» готова — нефть может резко взлететь несмотря на выходные заголовки.",
-      "text_en": "JustDario's episode 83 drew over 130k views with an explicit skyrocket thesis. WTI weekend tracker coins traded above $72 earlier in the session, contrasting with later ceasefire-driven softness.",
-      "text_ru": "Эпизод 83 JustDario набрал более 130 тыс. просмотров с явным тезисом о резком росте. WTI weekend tracker ранее торговался выше $72 — контраст с поздней мягкостью на фоне прекращения огня.",
+      "title_en": "Bulls: launchpad for an oil spike",
+      "title_ru": "Быки: трамплин для скачка нефти",
+      "blurb_en": "The day’s most-viewed clip argued the launchpad was set for oil to skyrocket, while weekend WTI trackers printed above $72.",
+      "blurb_ru": "Самый просматриваемый ролик дня утверждал, что трамплин для резкого роста нефти уже готов, а уикенд-трекеры WTI печатали выше $72.",
+      "text_en": "JustDario’s Episode 83 claimed the launchpad was set for oil prices to suddenly skyrocket and drew the session’s largest audience. A weekend WTI tracker printed above $72. Inventory-focused posts said consecutive record prints would soon force WTI to “feel” tighter balances despite soft headline price action.",
+      "text_ru": "83-й эпизод JustDario утверждал, что трамплин для внезапного взлёта цен на нефть уже готов, и собрал крупнейшую аудиторию дня. Уикенд-трекер WTI показывал выше $72. Посты про запасы писали, что череда рекордных цифр скоро заставит WTI «почувствовать» более жёсткие балансы несмотря на мягкую цену.",
       "tone": "bullish",
       "tweet_ids": ["2071233269140459847", "2071047682022388010"]
     },
     {
-      "title_en": "Ukraine hits Russian refineries; Putin on fuel",
-      "title_ru": "Украина бьёт по НПЗ РФ; Путин о топливе",
-      "blurb_en": "Overnight drone strikes hit Krasnodar and Yaroslavl refineries while Putin acknowledged fuel shortages and a diesel-export ban was under review.",
-      "blurb_ru": "Ночные удары дронов по НПЗ в Краснодарском и Ярославской областях совпали с признанием Путина дефицита топлива и обсуждением запрета экспорта дизеля.",
-      "text_en": "Staunovo cited Zelenskyy on Slavyansk-na-Kubani and Yaroslavl hits as part of Kyiv's long-range sanctions. Novak first said no diesel ban was needed, then Putin said a ban was under consideration — a whipsaw on Russian product policy.",
-      "text_ru": "Staunovo цитировал Зелenskyy об ударах по Slavyansk-na-Kubani и Ярославлю в рамках «дальних санкций». Сначала Novak говорил, что запрет дизеля не нужен, затем Путin заявил, что он рассматривается — качели в политике РФ по продуктам.",
+      "title_en": "Ukraine hits Russian refineries again",
+      "title_ru": "Украина снова бьёт по НПЗ России",
+      "blurb_en": "Kyiv said overnight strikes hit a Krasnodar-region refinery and reached another in Yaroslavl as part of a longer pressure campaign.",
+      "blurb_ru": "Киев сообщил о ночных ударах по НПЗ в Краснодарском крае и о достижении объекта в Ярославской области в рамках кампании давления.",
+      "text_en": "Zelenskyy said Ukraine struck the Slavyansk-na-Kubani oil refinery in Krasnodar and “reached” a Yaroslavl-region plant overnight. Wire-style posts repeated the Krasnodar hit as evidence that Russian refining remains a live target set. That narrative kept a products-tightness premium in the weekend mix.",
+      "text_ru": "Зеленский сообщил, что Украина ударила по НПЗ в Славянске-на-Кубани (Краснодарский край) и «достигла» завода в Ярославской области за ночь. Ленточные посты повторяли удар по Краснодару как сигнал, что российская переработка остаётся живой целью. Этот нарратив держал премию за жёсткость продуктов в уикенд-смеси.",
       "tone": "bullish",
-      "tweet_ids": ["2071189505650921553", "2071305664878576058"]
+      "tweet_ids": ["2071189505650921553", "2071130058488422604"]
     },
     {
-      "title_en": "Japan crude stocks: record drawdown",
-      "title_ru": "Запасы нефти Японии: рекордный отбор",
-      "blurb_en": "Headlines flagged Japan's largest-ever crude inventory drawdown, with posts arguing WTI would soon feel the tightness.",
-      "blurb_ru": "Заголовки сообщали о крупнейшем в истории отборе нефтяных запасов Японии — посты ожидали, что WTI скоро это отразит.",
-      "text_en": "ZmansEnrgyBrain amplified the record Japan crude draw. Amalteya tied consecutive inventory records to eventual WTI pressure, calling conditions 'quite bullish.'",
-      "text_ru": "ZmansEnrgyBrain усилил новость о рекордном отборе в Японии. Amalteya связывала серию рекордов по запасам с будущим давлением на WTI, называя картину «весьма бычьей».",
-      "tone": "bullish",
-      "tweet_ids": ["2071230642499486055", "2071318321270571249"]
+      "title_en": "Talk-down headlines before futures open",
+      "title_ru": "Заголовки «успокоения» перед открытием",
+      "blurb_en": "Skeptics said Washington was using anonymous briefings and ceasefire optics to cap oil just as futures prepared to reopen.",
+      "blurb_ru": "Скептики утверждали, что Вашингтон использует анонимные брифинги и оптику перемирия, чтобы придержать нефть перед открытием фьючерсов.",
+      "text_en": "One high-reach post listed Axios citing an anonymous senior U.S. official near the open plus alleged persistent shorting as tricks to lower oil. Another quipped that “peace in the Middle East” broke out just ahead of futures open. Critics called the pattern fake ceasefire news designed to keep crude below $80.",
+      "text_ru": "Один из самых заметных постов перечислял Axios с анонимным старшим чиновником США перед открытием и якобы постоянный шорт как приёмы для снижения нефти. Другой ехидно писал, что «мир на Ближнем Востоке» вспыхнул как раз перед открытием фьючерсов. Критики называли это фейковыми перемириями, чтобы держать нефть ниже $80.",
+      "tone": "mixed",
+      "tweet_ids": ["2071381829358362720", "2071329940461543677"]
     },
     {
-      "title_en": "Global diesel tightness persists",
-      "title_ru": "Дефицит дизеля в мире сохраняется",
-      "blurb_en": "Posts stressed diesel above $5/gal globally with Kpler seeing supported refining margins through H2 despite rising crude supply.",
-      "blurb_ru": "Посты подчёркивали дизель выше $5/гал глобально, а Kpler видел поддержанные маржи переработки во II пол. несмотря на рост предложения нефти.",
-      "text_en": "TheWuhanClan noted diesel still above $5/gal with goods and transport costs surging. Ritolia cited Kpler: refinery runs constrained across Russia, the Middle East and parts of Asia keep product markets tight.",
-      "text_ru": "TheWuhanClan отмечал дизель выше $5/гал и рост транспортных издержек. Ritolia со ссылкой на Kpler: ограниченные переработки в РФ, на Ближнем Востоке и в части Азии держат продуктовый рынок жёстким.",
-      "tone": "bullish",
-      "tweet_ids": ["2071368796711923991", "2071261867427889532"]
+      "title_en": "Novak: no need for Russia diesel ban",
+      "title_ru": "Новак: запрет экспорта дизеля РФ не нужен",
+      "blurb_en": "Russia’s deputy PM said there was no need to ban diesel exports—a bearish products counterpoint to refinery-strike headlines.",
+      "blurb_ru": "Вице-премьер России заявил, что запрет экспорта дизеля не нужен — медвежий продуктовый противовес заголовкам об ударах по НПЗ.",
+      "text_en": "Coverage quoted Deputy PM Novak saying Russia did not need a diesel export ban. Later posts noted he had said the same earlier, framing the line as an attempt to calm products markets. The message clashed with Ukraine’s overnight refinery strikes in the same feed.",
+      "text_ru": "В ленте цитировали вице-премьера Новака: России не нужен запрет экспорта дизеля. Позже напоминали, что он говорил то же ранее, трактуя это как попытку успокоить продуктовый рынок. Сообщение контрастировало с ночными ударами Украины по НПЗ в той же ленте.",
+      "tone": "bearish",
+      "tweet_ids": ["2071216076210282949", "2071305664878576058"]
+    },
+    {
+      "title_en": "Flights still near 2019 demand levels",
+      "title_ru": "Авиарейсы всё ещё около спроса 2019",
+      "blurb_en": "Eurocontrol’s 7-day average sat only +0.6% versus 2019, offering a soft demand check beside the geopolitical noise.",
+      "blurb_ru": "7-дневное среднее Eurocontrol было лишь на +0.6% к 2019 году — мягкая проверка спроса на фоне геополитического шума.",
+      "text_en": "Charts of commercial flights tracked by Flightradar24 circulated alongside Eurocontrol data showing the 7-day average at +0.6% versus 2019, down from +0.9% the prior week. Separately, some argued Hormuz workarounds helped explain strong April oil-product demand. The aviation prints kept a neutral demand anchor in an otherwise risk-on geopolitical day.",
+      "text_ru": "Графики коммерческих рейсов Flightradar24 шли рядом с данными Eurocontrol: 7‑дневное среднее +0.6% к 2019 против +0.9% неделей ранее. Отдельно связывали обходы Ормуза с сильным апрельским спросом на нефтепродукты. Авиационные цифры держали нейтральный якорь спроса в иначе геополитически бычьем дне.",
+      "tone": "neutral",
+      "tweet_ids": ["2071136687262998585", "2071136974954541168"]
     }
   ]
 }

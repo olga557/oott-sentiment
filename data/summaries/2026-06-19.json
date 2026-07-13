@@ -1,65 +1,65 @@
 {
   "date": "2026-06-19",
-  "overview_en": "Friday centered on Iran's new Hormuz transit-permit regime, continued Iranian crude exports, and Gulf producers moving to restart output after the MoU. Price sentiment was mixed; emotional tone stayed mostly neutral amid mines, closure headlines, and ceasefire noise.",
-  "overview_ru": "В пятницу в центре были новый режим разрешений Ирана на транзит через Ормуз, продолжающийся экспорт иранской нефти и попытки стран Залива возобновить добычу после MoU. Сентимент по цене был смешанным; эмоциональный тон оставался в основном нейтральным на фоне мин, заголовков о закрытии и шума вокруг перемирия.",
+  "overview_en": "Friday centered on Iran’s new Hormuz transit-permit rules, heavy Iranian crude loadings, and Gulf producers moving to restart output after the MoU. Price sentiment was mixed; emotional tone stayed mostly neutral amid mine scares, thin traffic, and ceasefire noise.",
+  "overview_ru": "В пятницу в центре были новые правила Ирана на транзит через Ормуз, крупные погрузки иранской нефти и попытки стран Залива возобновить добычу после MoU. Сентимент по цене был смешанным; эмоциональный тон оставался в основном нейтральным на фоне мин, тонкого трафика и шума вокруг перемирия.",
   "themes": [
     {
       "title_en": "Iran requires Hormuz transit permission",
       "title_ru": "Иран требует разрешение на транзит через Ормуз",
-      "blurb_en": "Iran told all vessels to file a form and obtain permission before passing the strait — the day's most-viewed shipping headline.",
-      "blurb_ru": "Иран потребовал от всех судов подавать форму и получать разрешение перед проходом через пролив — самый просматриваемый морской заголовок дня.",
-      "text_en": "Amena Bakr flagged that Iran is requiring every vessel seeking Hormuz passage to complete an online form and gain prior approval. Commentary framed the strait not as simply open or closed but as a tap Iran can throttle. Posts warned insurers and owners would stay cautious despite reopening rhetoric.",
-      "text_ru": "Amena Bakr отметила, что Иран требует от каждого судна, идущего через Ормуз, заполнить онлайн-форму и получить предварительное одобрение. Комментарии описывали пролив не как просто открытый или закрытый, а как «кран», который Иран может душить. Посты предупреждали, что страховщики и владельцы останутся осторожными несмотря на риторику об открытии.",
+      "blurb_en": "Iran told every vessel to file a form and obtain permission before passing the strait — the day’s most-viewed shipping headline.",
+      "blurb_ru": "Иран потребовал от каждого судна подавать форму и получать разрешение перед проходом через пролив — самый просматриваемый морской заголовок дня.",
+      "text_en": "Posts said Iran is requiring all vessels seeking Hormuz passage to complete an online form and gain prior approval. Commentary framed the strait not as simply open or closed but as a tap Tehran can throttle even when traffic is allowed. Shipowners were still described as erring on the side of safety as Friday traffic thinned.",
+      "text_ru": "Посты сообщали, что Иран требует от всех судов, идущих через Ормуз, заполнить онлайн-форму и получить предварительное одобрение. Комментарии описывали пролив не как просто открытый или закрытый, а как «кран», который Тегеран может душить даже при разрешённом трафике. Владельцев судов по-прежнему описывали как осторожных на фоне истончения пятничного трафика.",
       "tone": "bullish",
-      "tweet_ids": ["2067952923108118844", "2067952745773142491"]
+      "tweet_ids": ["2067952923108118844", "2067888311234949620"]
     },
     {
       "title_en": "Iran exported ~18 mb in five days",
       "title_ru": "Иран экспортировал ~18 млн барр. за пять дней",
-      "blurb_en": "Tracking data showed nearly 18 million barrels of Iranian crude moved in five days — a major bearish counter to closure fears.",
-      "blurb_ru": "Данные трекинга показали почти 18 млн барр. иранской нефти за пять дней — главный медвежий контраргумент страхам закрытия.",
-      "text_en": "TankerTrackers reported Iran exported roughly 18 million barrels, worth about $1.44 billion, over the past five days. Satellite posts from CRUDEOIL231 added Gulf hub imagery. Bears argued Trump had lost leverage as barrels cleared before any full normalization.",
-      "text_ru": "TankerTrackers сообщил, что Иран экспортировал около 18 млн барр., или примерно $1,44 млрд, за последние пять дней. Спутниковые посты CRUDEOIL231 добавили снимки нефтяных хабов Залива. Медведи утверждали, что Трамп потерял рычаг, пока баррели уходили до полной нормализации.",
+      "blurb_en": "Tracking showed nearly 18 million barrels of Iranian crude moved in five days — a major counterweight to closure fears.",
+      "blurb_ru": "Трекинг показал почти 18 млн барр. иранской нефти за пять дней — главный контраргумент страхам закрытия.",
+      "text_en": "One of the day’s top posts said Iran exported roughly 18 million barrels, worth about $1.44 billion, over the past five days. Separate headlines said Iranian ships were heading home to the Gulf for “business as usual” after the US deal. Bears treated the loadings as proof barrels were clearing before any full normalization.",
+      "text_ru": "Один из главных постов дня сообщал, что Иран экспортировал около 18 млн барр., или примерно $1,44 млрд, за последние пять дней. Отдельные заголовки писали, что иранские суда возвращаются в Залив к «обычному бизнесу» после сделки с США. Медведи читали погрузки как доказательство, что баррели уходят ещё до полной нормализации.",
       "tone": "bearish",
-      "tweet_ids": ["2067884574554628133", "2068026764870521209"]
+      "tweet_ids": ["2067884574554628133", "2067822373349253633"]
     },
     {
-      "title_en": "Mines and IRGC closure headlines",
-      "title_ru": "Мины и заголовки о закрытии КСИР",
-      "blurb_en": "Reports of ~80 mines in the shipping lane and a fresh IRGC closure warning kept Hormuz risk premium alive.",
-      "blurb_ru": "Сообщения о ~80 минах в судоходной полосе и новое предупреждение КСИР о закрытии поддерживали премию риска по Ормузу.",
-      "text_en": "Intertanko was cited saying around 80 mines remain in the main Hormuz lane. Pakistan reported a mine off Musandam, and IRGC-linked posts warned vessels not to approach. Iran's foreign ministry later rejected closure claims, but traffic-thinning headlines persisted.",
-      "text_ru": "Со ссылкой на Intertanko писали, что около 80 мин остаётся на главной полосе Ормуза. Пакистан сообщил о мине у Мусандам, посты, связанные с КСИР, предупреждали суда не приближаться. МИД Ирана позже отверг заявления о закрытии, но заголовки об истончении трафика сохранялись.",
-      "tone": "bullish",
-      "tweet_ids": ["2067974870558785543", "2067939327867232549"]
+      "title_en": "Mine scare vs closure denials",
+      "title_ru": "Страх мин против отрицания закрытия",
+      "blurb_en": "A Pakistan mine report in the Hormuz area kept risk premium alive even as Iran’s foreign ministry rejected closure claims.",
+      "blurb_ru": "Сообщение Пакистана о мине в районе Ормуза поддерживало премию риска, даже когда МИД Ирана отверг заявления о закрытии.",
+      "text_en": "A widely viewed headline said Pakistan reported a mine in the Strait of Hormuz area. Iran’s foreign ministry rejected claims that the strait had been closed, but shipowners still thinned traffic on safety grounds. The mix left Hormuz looking controllable rather than fully normalized.",
+      "text_ru": "Широко просматриваемый заголовок сообщал, что Пакистан заявил о мине в районе Ормузского пролива. МИД Ирана отверг утверждения о закрытии пролива, но судовладельцы всё равно сокращали трафик из осторожности. В итоге Ормуз выглядел управляемым, а не полностью нормализованным.",
+      "tone": "mixed",
+      "tweet_ids": ["2067974870558785543", "2067973752101433724"]
     },
     {
       "title_en": "Gulf producers restart output",
       "title_ru": "Производители Залива возобновляют добычу",
-      "blurb_en": "KPC lifted force majeure and Iraq aimed to restore southern output above 3 mb/d within one to two months.",
-      "blurb_ru": "KPC снял форс-мажор, а Ирак нацелился вернуть южную добычу выше 3 млн б/с за один–два месяца.",
-      "text_en": "Kuwait's KPC rescinded force majeure and resumed production. Iraq's oil ministry said southern fields could return above 3 million bpd in one to two months, while Abu Dhabi issued another crude tender. Iraq also explored exporting via Syria after the Hormuz shock.",
-      "text_ru": "KPC Кувейта отменил форс-мажор и возобновил производство. Минэнерго Ирака заявило, что южные месторождения могут вернуться выше 3 млн б/с за один–два месяца, а Абу-Даби выставил ещё один тендер на сырую нефть. Ирак также рассматривал экспорт через Сирию после шока по Ормузу.",
+      "blurb_en": "KPC lifted force majeure and Iraq said southern fields could return above 3 mb/d within one to two months.",
+      "blurb_ru": "KPC снял форс-мажор, а Ирак заявил, что южные месторождения могут вернуться выше 3 млн б/с за один–два месяца.",
+      "text_en": "Kuwait’s KPC rescinded force majeure and resumed production, citing the MoU and improving conditions. Iraq’s oil ministry said southern output could return above 3 million bpd in one to two months. Separate notes said Iraq was exploring crude and naphtha exports via Syria after the Hormuz shock.",
+      "text_ru": "KPC Кувейта отменил форс-мажор и возобновил производство, ссылаясь на MoU и улучшение условий. Минэнерго Ирака заявило, что южная добыча может вернуться выше 3 млн б/с за один–два месяца. Отдельно писали, что Ирак рассматривает экспорт нефти и нафты через Сирию после шока по Ормузу.",
       "tone": "bearish",
-      "tweet_ids": ["2067895277818638734", "2068037390455771216"]
+      "tweet_ids": ["2068037390455771216", "2067895277818638734"]
     },
     {
-      "title_en": "Brent positioning washout",
-      "title_ru": "Обвал позиций по Brent",
-      "blurb_en": "ICE data showed money managers slashed Brent net length by nearly 95,000 contracts — one of the day's top posts.",
-      "blurb_ru": "Данные ICE показали, что управляющие сократили чистую длинную позицию по Brent почти на 95 тыс. контрактов — один из главных постов дня.",
-      "text_en": "Staunovo flagged Brent managed-money net length down 94,763 to 114,128 for the week ending June 16, with longs cut and shorts rising sharply. Brent settled near $80.57/bbl. Some traders still warned against being short oil into the close.",
-      "text_ru": "Staunovo отметил снижение чистой длинной позиции управляющих по Brent на 94 763 до 114 128 за неделю по 16 июня — с падением лонгов и резким ростом шортов. Brent закрылся около $80,57/бbl. Часть трейдеров всё же предупреждала не шортить нефть перед закрытием.",
+      "title_en": "Brent managed-money washout",
+      "title_ru": "Обвал позиций управляющих по Brent",
+      "blurb_en": "Money managers cut Brent net length by nearly 95,000 contracts in the week ending June 16 as Brent settled near $80.57.",
+      "blurb_ru": "Управляющие сократили чистую длинную позицию по Brent почти на 95 тыс. контрактов за неделю по 16 июня, а Brent закрылся около $80,57.",
+      "text_en": "ICE positioning showed managed-money Brent net length down 94,763 contracts to 114,128 for the week ending June 16, with longs cut and shorts rising sharply. A companion chart of non-commercial net positioning circulated widely. Brent settled at $80.57/bbl.",
+      "text_ru": "Позиционирование ICE показало снижение чистой длинной позиции управляющих по Brent на 94 763 контракта до 114 128 за неделю по 16 июня — с падением лонгов и резким ростом шортов. Широко разошёлся сопутствующий график нетто-позиций некоммерческих счетов. Brent закрылся по $80,57/барр.",
       "tone": "bearish",
       "tweet_ids": ["2068035002609053794", "2068027349480681674"]
     },
     {
       "title_en": "MoU fragility and Lebanon ceasefire",
       "title_ru": "Хрупкость MoU и перемирие в Ливане",
-      "blurb_en": "US-Iran peace talks were postponed and Israel-Lebanon fighting repeatedly threatened the war-ending deal.",
-      "blurb_ru": "Мирные переговоры США–Иран были отложены, а боевые действия Израиль–Ливан неоднократно угрожали сделке о прекращении войны.",
-      "text_en": "Posts noted Switzerland talks were postponed and a 60-day MoU timeline looked tight. LiveSquawk carried a reported Israel-Hezbollah ceasefire for 16:00 local time, while other headlines said Israel continued strikes. US intelligence warnings that Israel could undermine the Iran deal circulated widely.",
-      "text_ru": "Посты отмечали перенос переговоров в Швейцарии и сжатые сроки 60-дневного MoU. LiveSquawk передал сообщение о перемирии Израиль–Хезболла с 16:00 местного времени, тогда как другие заголовки говорили о продолжении ударов. Широко цитировали предупреждения разведки США, что Израиль может сорвать сделку с Ираном.",
+      "blurb_en": "A reported Israel-Hezbollah ceasefire sat beside US intelligence warnings that Israel could undermine the Iran deal.",
+      "blurb_ru": "Сообщение о перемирии Израиль–Хезболла соседствовало с предупреждениями разведки США, что Израиль может сорвать сделку с Ираном.",
+      "text_en": "Senior US officials were cited saying Israel and Hezbollah had agreed a ceasefire from 16:00 local time Friday. Separate Washington Post-linked headlines warned Israel was likely to undermine the Iran peace deal. The geopolitics kept the MoU looking fragile even as Gulf supply restarted.",
+      "text_ru": "Старшие чиновники США цитировались со словами, что Израиль и Хезболла договорились о перемирии с 16:00 местного времени в пятницу. Отдельные заголовки со ссылкой на Washington Post предупреждали, что Израиль, вероятно, подорвёт мирную сделку с Ираном. Геополитика оставляла MoU хрупким даже на фоне рестарта предложения в Заливе.",
       "tone": "mixed",
       "tweet_ids": ["2067953678510604302", "2067999006882508885"]
     }

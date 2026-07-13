@@ -1,67 +1,67 @@
 {
   "date": "2026-06-30",
-  "overview_en": "Tuesday paired blockbuster supply datapoints — Iran's post-blockade export surge and EIA/API draws — with physical tightness signals like zero August Brent cargoes and record crack spreads, all under messy Doha diplomacy. Price sentiment was mixed: visible barrels and curve weakness weighed bearish, but inventories, products and Hormuz threats kept a bullish undercurrent; emotional tone was frustrated.",
-  "overview_ru": "Во вторник крупные данные по предложению — всплеск иранского экспорта после блокады и отборы EIA/API — смешались с физической жёсткостью вроде нулевых августовских грузов Brent и рекордных crack-spread на фоне путаницы вокруг Дохи. Сентимент по цене был смешанным: видимые баррели и слабость кривой тянули вниз, но запасы, продукты и угрозы по Ормузу сохраняли бычий подтекст; эмоциональный тон — раздражённый.",
+  "overview_en": "Tuesday weighed Iran’s rapid post-blockade crude exports against a large API crude draw, record U.S. April demand, and a rare blank Brent August loading slate. Price sentiment was mixed-to-bullish; emotional tone remained largely neutral amid the data dump.",
+  "overview_ru": "Во вторник взвешивали быстрый пост-блокадный экспорт сырой нефти Ирана против сильного отбора crude по API, рекордного апрельского спроса США и редкого пустого слота августовских отгрузок Brent. Сентимент по цене был смешанно-бычьим; эмоциональный тон оставался в основном нейтральным на фоне потока данных.",
   "themes": [
     {
-      "title_en": "Iran exported 50 mb since blockade lifted",
+      "title_en": "Iran exports 50 mb since blockade lift",
       "title_ru": "Иран экспортировал 50 млн барр. после снятия блокады",
-      "blurb_en": "TankerTrackers said Iran shipped about 50 million barrels (~1.66 mb/d in June) since the US blockade ended — far outpacing regional recovery.",
-      "blurb_ru": "TankerTrackers сообщил, что Иран отгрузил около 50 млн барр. (~1,66 млн б/с в июне) после снятия американской блокады — опережая восстановление региона.",
-      "text_en": "The tweet drew 150k+ views: 50 million barrels since the blockade lifted two weeks ago, while most Gulf producers remained below pre-war levels. LiveSquawk amplified the figure — the day's main bearish supply-unwind headline.",
-      "text_ru": "Твит набрал 150k+ просмотров: 50 млн барр. за две недели после снятия блокады, тогда как большинство производителей Залива ниже довоенного уровня. LiveSquawk усилил цифру — главный медвежий заголовок дня о раскрутке предложения.",
+      "blurb_en": "Trackers said Iran exported 50 million barrels since the U.S. blockade was lifted—about 1.66 mb/d for June—while peers still lagged.",
+      "blurb_ru": "Трекеры писали, что Иран экспортировал 50 млн баррелей после снятия блокады США — около 1.66 млн б/с за июнь — тогда как соседи всё ещё отставали.",
+      "text_en": "The day’s most-viewed post said Iran had exported 50 million barrels of crude since the U.S.-imposed blockade was lifted two weeks earlier, equating to about 1.66 mb/d for June 2026, with most regional peers still nowhere near that pace. Tanker Trackers echoed the 50 mb figure after the lifting of U.S. sanctions/blockade constraints. Separate notes floated Iranian floating storage near Singapore as a possible bet on higher near-term prices.",
+      "text_ru": "Самый просматриваемый пост дня писал, что Иран экспортировал 50 млн баррелей сырой нефти за две недели после снятия блокады США — около 1.66 млн б/с за июнь 2026 — тогда как большинство стран региона всё ещё далеко от такого темпа. Tanker Trackers повторил цифру 50 млн барр. после снятия ограничений. Отдельно допускали накопление иранского плавучего хранения у Сингапура как ставку на рост цен вблизи.",
       "tone": "bearish",
       "tweet_ids": ["2072011769740997078", "2072014788624810295"]
     },
     {
-      "title_en": "No Brent cargoes loading for August",
-      "title_ru": "Нет грузов Brent на погрузку в августе",
-      "blurb_en": "For the first time, no Brent crude cargoes were set to load in August — a stark physical-tightness signal despite paper weakness.",
-      "blurb_ru": "Впервые не было грузов Brent на погрузку в августе — резкий сигнал физической жёсткости при слабости «бумаги».",
-      "text_en": "Staunovo flagged zero August Brent loadings for the global benchmark. FluxOfficials posted a record-low Dated Brent differential of -$1.215/bbl — physical markets pricing scarcity even as futures sold off.",
-      "text_ru": "Staunovo отметил нулевые августовские погрузки Brent для глобального бенчмарка. FluxOfficials зафиксировал рекордно низкий дифф Dated Brent −$1,215/бbl — физический рынок закладывал дефицит при распродажах фьючерсов.",
+      "title_en": "API: crude −6.1 mb, gasoline also down",
+      "title_ru": "API: нефть −6.1 млн барр., бензин тоже вниз",
+      "blurb_en": "API showed crude −6.072 mb and gasoline −2.106 mb, with distillates +2.9 mb, Cushing +0.503 mb, and SPR −5.5 mb.",
+      "blurb_ru": "API показал crude −6.072 млн барр. и бензин −2.106 млн при дистиллятах +2.9 млн, Cushing +0.503 млн и SPR −5.5 млн.",
+      "text_en": "API inventory moves for 06/30 printed crude −6.072 million, gasoline −2.106 million, distillates +2.9 million, Cushing +503,000, and SPR actual −5.5 million. Shorter recaps repeated the crude and gasoline draws as the bullish core of the print. EIA monthly data the same day also showed total U.S. petroleum inventories (crude, SPR, refined products) down 53.929 mb m/m in April.",
+      "text_ru": "Движения запасов API на 06/30: crude −6.072 млн, бензин −2.106 млн, дистилляты +2.9 млн, Cushing +503 тыс., SPR фактически −5.5 млн. Короткие рекапы повторяли отборы нефти и бензина как бычье ядро отчёта. Месячные данные EIA в тот же день показали падение суммарных нефтезапасов США (нефть, SPR, продукты) на 53.929 млн барр. м/м в апреле.",
       "tone": "bullish",
-      "tweet_ids": ["2071985431739077097", "2071988232552665563"]
+      "tweet_ids": ["2072060074365698538", "2072058464025624652"]
     },
     {
-      "title_en": "API crude −6.1 mb; EIA April demand record",
-      "title_ru": "API: нефть −6,1 млн барр.; рекорд спроса EIA за апрель",
-      "blurb_en": "API showed a 6.072 mb crude draw (gasoline also down) while April EIA data put US oil demand at a record 20.808 mb/d.",
-      "blurb_ru": "API показал отбор нефти 6,072 млн барр. (бензин тоже вниз), а данные EIA за апрель зафиксировали рекорд спроса США 20,808 млн б/с.",
-      "text_en": "Julianne Geiger's API recap drew nearly 50k views: crude -6.072 mb, Cushing +503 kb, gasoline -2.106 mb. Staunovo's EIA thread showed demand up 595 kb/d y/y to 20.808 mb/d — the highest April on record — even as production rose to 13.934 mb/d.",
-      "text_ru": "Сводка API Julianne Geiger набрала почти 50k просмотров: нефть −6,072 млн, Cushing +503 тыс., бензин −2,106 млн. Тред Staunovo по EIA: спрос +595 тыс. б/с г/г до 20,808 млн б/с — рекорд апреля — при росте добычи до 13,934 млн б/с.",
+      "title_en": "No Brent August cargoes to load",
+      "title_ru": "Нет августовских грузов Brent к отгрузке",
+      "blurb_en": "Headline risk flipped bullish after reports that no Brent crude cargoes were set to load in August—a first for the benchmark.",
+      "blurb_ru": "Риск заголовка стал бычьим после сообщений, что на август не намечено ни одного груза Brent — впервые для бенчмарка.",
+      "text_en": "A high-reach wire noted that no Brent crude oil cargoes were set to load in August, described as a first for the global price benchmark. That scarcity signal sat beside still-heavy talk of Iranian barrels returning to the water. For bulls it was the cleanest physical-tightness headline of the day.",
+      "text_ru": "Широко разошедшаяся лента отмечала, что на август не намечено ни одного груза сырой Brent — впервые для мирового ценового бенчмарка. Сигнал дефицита стоял рядом с разговорами о возвращении иранских баррелей на воду. Для быков это был самый чистый заголовок дня о физической жёсткости.",
       "tone": "bullish",
-      "tweet_ids": ["2072060074365698538", "2072019228081754333"]
+      "tweet_ids": ["2071985431739077097"]
     },
     {
-      "title_en": "Trump vs record 3-2-1 crack spreads",
-      "title_ru": "Трамп vs рекордные crack-spread 3-2-1",
-      "blurb_en": "Trump pressed gasoline retailers to cut pump prices even as posts highlighted the highest 3-2-1 crack spread relative to Brent in history.",
-      "blurb_ru": "Трамп призывал ритейлеров снизить цены на АЗС на фоне постов о рекордном соотношении crack-spread 3-2-1 к Brent.",
-      "text_en": "Energy Tidbits contrasted Trump's shifting blame from oil companies to retailers. PMroil argued lower gas prices were unlikely with crack spreads at historic highs relative to Brent — products, not crude, driving the pump pain.",
-      "text_ru": "Energy Tidbits сопоставил смену вины Трампа с нефтяных компаний на ритейлеров. PMroil писал, что снижение цен на бензин маловероятно при crack-spread на исторических максимумах к Brent — боль на АЗС от продуктов, не от сырья.",
+      "title_en": "US April demand hits record 20.8 mb/d",
+      "title_ru": "Спрос США в апреле — рекорд 20.8 млн б/с",
+      "blurb_en": "EIA said U.S. oil demand rose 595 kb/d y/y to 20.808 mb/d in April—a new record high for that month.",
+      "blurb_ru": "EIA: спрос на нефть в США вырос на 595 тыс. б/с г/г до 20.808 млн б/с в апреле — новый рекорд для этого месяца.",
+      "text_en": "EIA prints showed U.S. oil demand up 595 kb/d or 2.9% y/y to 20.808 mb/d in April, a record for the month. Product detail had gasoline +213 kb/d to 9.123 mb/d, NGL +242 to 3.489, jet +50 to 1.814, and distillate roughly flat. Record U.S. refined-product exports of 8.017 mb/d in April reinforced the strong demand/pull narrative.",
+      "text_ru": "По EIA спрос США вырос на 595 тыс. б/с или 2.9% г/г до 20.808 млн б/с в апреле — рекорд для месяца. В разбивке: бензин +213 тыс. до 9.123 млн б/с, NGL +242 до 3.489, авиакеросин +50 до 1.814, дистиллят почти без изменений. Рекордный экспорт нефтепродуктов США 8.017 млн б/с в апреле усиливал нарратив сильного спроса/отгрузки.",
+      "tone": "bullish",
+      "tweet_ids": ["2072019228081754333", "2072020608892723281"]
+    },
+    {
+      "title_en": "US crude output +216 kb/d to 13.93 mb/d",
+      "title_ru": "Добыча нефти США +216 тыс. б/с до 13.93 млн б/с",
+      "blurb_en": "April U.S. crude production rose to 13.934 mb/d from 13.718 mb/d in March, led by the Gulf of America and New Mexico.",
+      "blurb_ru": "Апрельская добыча нефти США выросла до 13.934 млн б/с с 13.718 млн в марте — лидировали Gulf of America и Нью-Мексико.",
+      "text_en": "EIA monthly data put U.S. crude production at 13.934 mb/d in April versus 13.718 mb/d in March (revised), a +216 kb/d m/m rise. Gains were led by Gulf of America/Mexico (+119), New Mexico (+65), and Texas (+36). Record U.S. crude exports of 5.593 mb/d in April added a bearish supply-availability footnote.",
+      "text_ru": "Месячные данные EIA показали добычу нефти США 13.934 млн б/с в апреле против 13.718 млн в марте (пересмотр) — рост +216 тыс. б/с м/м. Лидеры прироста: Gulf of America/Mexico (+119), Нью-Мексико (+65) и Техас (+36). Рекордный экспорт сырой нефти США 5.593 млн б/с в апреле добавлял медвежью сноску о доступности предложения.",
+      "tone": "bearish",
+      "tweet_ids": ["2071984422174220735", "2072003184525033485"]
+    },
+    {
+      "title_en": "Russia fuel stress; India buys more Russian oil",
+      "title_ru": "Топливный стресс РФ; Индия берёт больше нефти РФ",
+      "blurb_en": "Russia weighed lower-quality fuel output and imports as its supply crisis bit, while India’s June Russian oil imports headed for a record.",
+      "blurb_ru": "Россия взвешивала выпуск топлива худшего качества и импорт на фоне кризиса поставок, а июньский импорт российской нефти в Индию шёл к рекорду.",
+      "text_en": "Reports said Russia may allow lower-quality fuel production and imports as the domestic supply crisis deepened. Separate data showed India’s Russian oil imports heading for a June record high. Those threads kept products tightness in Russia alongside continued Asian bid for discounted barrels.",
+      "text_ru": "Сообщения говорили, что Россия может разрешить выпуск топлива худшего качества и импорт на фоне углубления внутреннего кризиса поставок. Отдельные данные показывали курс июньского импорта российской нефти в Индию на рекорд. Эти ветки держали жёсткость продуктов в РФ рядом с продолжающимся азиатским спросом на дисконтные баррели.",
       "tone": "mixed",
-      "tweet_ids": ["2071772903352459742", "2072013629692563941"]
-    },
-    {
-      "title_en": "Russia fuel crisis: imports, lower-grade fuel",
-      "title_ru": "Топливный кризис РФ: импорт, топливо низкого качества",
-      "blurb_en": "Reports said Russia may allow lower-quality fuel production and imports as pump prices passed 100 roubles amid refinery stress.",
-      "blurb_ru": "Сообщалось, что РФ может разрешить выпуск и импорт топлива низкого качества, пока цены на АЗС превысили 100 руб. на фоне проблем НПЗ.",
-      "text_en": "Staunovo flagged possible lower-grade fuel rules and spreading shortages. Ukraine-linked refinery damage and Kazakhstan/Karachaganak output still not fully restored added upstream/product stress across the FSU complex.",
-      "text_ru": "Staunovo отмечал возможные правила по топливу низкого качества и распространение дефицита. Удары по НПЗ со стороны Украины и неполное восстановление добычи в Казахстане/Karachaganak добавляли стресс по сырью и продуктам в постсоветском блоке.",
-      "tone": "bullish",
-      "tweet_ids": ["2071800709167661249", "2072013077810131033"]
-    },
-    {
-      "title_en": "Doha talks fizzle; Hormuz closure threats",
-      "title_ru": "Переговоры в Дохе срываются; угрозы закрыть Ормуз",
-      "blurb_en": "Qatar said no high-level US–Iran meeting was scheduled while IRGC channels warned Hormuz could close again if talks fail to grant Iran exclusive control.",
-      "blurb_ru": "Кatar заявил, что высокого уровня встречи США–Иран не планируется, а каналы КСИР предупреждали о повторном закрытии Ормуза без эксклюзивного контроля Ирана.",
-      "text_en": "Energy Tidbits noted Kushner and Witkoff were in Doha but Iran denied plans to meet US officials. Late posts cited WSJ reporting that the IRGC signaled a Hormuz re-closure if Doha talks did not drop the southern Omani route.",
-      "text_ru": "Energy Tidbits отмечал присутствие Kushner и Witkoff в Дохе при отказе Ирана встречаться с американцами. Поздние посты со ссылкой на WSJ: КСИР сигнализировал о повторном закрытии Ормуза, если переговоры не откажутся от южного оманского маршрута.",
-      "tone": "bullish",
-      "tweet_ids": ["2071947365339345061", "2072049515750707236"]
+      "tweet_ids": ["2071800709167661249", "2071945248599630071"]
     }
   ]
 }

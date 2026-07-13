@@ -1,15 +1,15 @@
 {
   "date": "2026-06-24",
-  "overview_en": "Wednesday jolted between Iran's 40-million-barrel export surge and an EIA crude draw, with debate over sudden oversupply versus falling inventories. Price sentiment was mixed; emotional tone stayed largely neutral as Hormuz shorts and strait reopening headlines collided.",
+  "overview_en": "Wednesday jolted between Iran's 40-million-barrel export surge and an EIA crude draw, with debate over sudden oversupply versus falling inventories. Price sentiment was mixed; emotional tone stayed largely neutral as Hormuz shorts and strait-reopening headlines collided.",
   "overview_ru": "В среду рынок метался между всплеском иранского экспорта на 40 млн барр. и отбором нефти по EIA, споря о внезапном избытке предложения и падающих запасах. Сентимент по цене был смешанным; эмоциональный тон оставался в основном нейтральным на фоне экстремальных шортов по Ормузу и заголовков об открытии пролива.",
   "themes": [
     {
       "title_en": "Iran exported 40 mb since mid-June",
       "title_ru": "Иран экспортировал 40 млн барр. с середины июня",
-      "blurb_en": "The day's top headline said Iran shipped 40 million barrels since June 15, with half exiting in a single week after the US waiver.",
-      "blurb_ru": "Главный заголовок дня: Иран отправил 40 млн барр. с 15 июня, половина — за одну неделю после американского waiver.",
-      "text_en": "A viral post said Iran exported 40 million barrels of crude since June 15, exactly half in one week, framing aggressive post-ceasefire sales. Commentary tied the surge to sanctions relief improving Iran's oil outlook even as infrastructure damage limits full recovery.",
-      "text_ru": "Вирусный пост сообщил об экспорте Ирана 40 млн барр. нефти с 15 июня, ровно половина — за одну неделю, на фоне активных продаж после перемирия. Комментарии связывали всплеск со смягчением санкций, хотя повреждения инфраструктуры ограничивают полное восстановление.",
+      "blurb_en": "The day's top headline said Iran shipped 40 million barrels since June 15, with half exiting in a single day on June 19.",
+      "blurb_ru": "Главный заголовок дня: Иран отправил 40 млн барр. с 15 июня, половина — за один день 19 июня.",
+      "text_en": "A viral post said Iran exported 40 million barrels of crude since June 15, with exactly half shipped out on Friday June 19. Separate notes said sanctions relief lifts Iran's oil outlook, but full recovery will take time after war and sanctions damage. The surge framed the day's strongest bearish supply shock.",
+      "text_ru": "Вирусный пост сообщил об экспорте Ирана 40 млн барр. нефти с 15 июня, причём ровно половина ушла в пятницу 19 июня. Отдельно писали, что смягчение санкций улучшает перспективы иранской нефти, но полное восстановление займёт время после войны и ущерба от санкций. Всплеск стал главным медвежьим шоком предложения дня.",
       "tone": "bearish",
       "tweet_ids": ["2069811106177229025", "2069638952391168464"]
     },
@@ -18,8 +18,8 @@
       "title_ru": "Шорты по Brent на экстремумах",
       "blurb_en": "A widely viewed Hormuz crisis podcast warned Brent crude shorts had reached extreme levels even as strait risk lingered.",
       "blurb_ru": "Популярный подкаст о кризисе Ормуза предупредил, что шорты по Brent достигли экстремальных уровней, хотя риск по проливу сохранялся.",
-      "text_en": "JustDarioDaily's Hormuz Crisis Watch episode flagged Brent crude shorts at extreme levels. Separate posts argued oil prices were back near pre-war levels while inventories kept falling toward record lows, with positioning priced as if the conflict were over.",
-      "text_ru": "Выпуск Hormuz Crisis Watch от JustDarioDaily отметил экстремальные шорты по Brent. Отдельные посты писали, что нефть вернулась к довоенным уровням, а запасы продолжают падать к рекордным минимумам — позиционирование как будто конфликт уже закончился.",
+      "text_en": "JustDarioDaily's Hormuz Crisis Watch episode flagged Brent crude shorts at extreme levels. Separate posts argued oil prices were back near pre-war levels while inventories kept falling toward record lows, with far fewer watching barrels returning into the Gulf. Positioning looked priced as if the conflict were already over.",
+      "text_ru": "Выпуск Hormuz Crisis Watch от JustDarioDaily отметил экстремальные шорты по Brent. Отдельные посты писали, что нефть вернулась к довоенным уровням, а запасы продолжают падать к рекордным минимумам, и куда меньше следят за возвращением баррелей в залив. Позиционирование выглядело так, будто конфликт уже закончился.",
       "tone": "bullish",
       "tweet_ids": ["2069767914597879837", "2069925230655471731"]
     },
@@ -28,18 +28,18 @@
       "title_ru": "Отбор EIA: нефть −6,1 млн барр., всего −15,1 млн",
       "blurb_en": "Weekly EIA data showed a 6.088 mb commercial crude draw and a 15.148 mb total decline including a 9.060 mb SPR drop.",
       "blurb_ru": "Недельные данные EIA показали отбор коммерческой нефти на 6,088 млн барр. и общее снижение на 15,148 млн с учётом падения SPR на 9,060 млн.",
-      "text_en": "LiveSquawk and follow-on posts flagged the June 19 EIA print: crude down 6.088 mb versus a −3.60 mb estimate, with gasoline up 2.1 mb and distillates up 3.1 mb. Staunovo put total crude including SPR down 15.148 mb. TMF argued inventories are still drawing even if China is not buying today.",
-      "text_ru": "LiveSquawk и последующие посты сообщили отчёт EIA на 19 июня: нефть −6,088 млн барр. при ожидании −3,60 млн, бензин +2,1 млн, дистилляты +3,1 млн. Staunovo указал общее снижение нефти с SPR на 15,148 млн. TMF писал, что запасы продолжают снижаться, даже если Китай сегодня не покупает.",
+      "text_en": "LiveSquawk flagged the June 19 EIA print: crude down 6.088 mb versus a −3.60 mb estimate, with gasoline up about 2.1 mb and distillates up about 3.1 mb. Follow-on posts put total crude including SPR down 15.148 mb. Cushing also drew about 1.077 mb, keeping the inventory read firmly bullish.",
+      "text_ru": "LiveSquawk сообщил отчёт EIA на 19 июня: нефть −6,088 млн барр. при ожидании −3,60 млн, бензин примерно +2,1 млн, дистилляты примерно +3,1 млн. Последующие посты указали общее снижение нефти с SPR на 15,148 млн. Cushing также снизился примерно на 1,077 млн — отчёт по запасам оставался уверенно бычьим.",
       "tone": "bullish",
       "tweet_ids": ["2069790534613315606", "2069791394479149067"]
     },
     {
       "title_en": "Oversupply headline vs inventory math",
       "title_ru": "Заголовок об избытке vs математика запасов",
-      "blurb_en": "Reuters's sudden-oversupply take drew pushback from traders arguing production and demand had not actually surged or collapsed.",
+      "blurb_en": "Reuters's sudden-oversupply take drew pushback arguing production and demand had not actually surged or collapsed.",
       "blurb_ru": "Тезис Reuters о внезапном избытке вызвал возражения: добыча и спрос фактически не взлетели и не рухнули.",
-      "text_en": "One post summarized Reuters saying oil markets were suddenly oversupplied, but countered that production had not surged and demand had not collapsed. TMF's inventory thread argued the numbers still show draws, and a separate widely viewed post said prices are near pre-war levels while stocks keep falling.",
-      "text_ru": "Один пост пересказал Reuters об внезапном избытке на рынке нефти, но возразил, что добыча не выросла и спрос не обвалился. Тред TMF по запасам настаивал на продолжающихся отборах, а отдельный популярный пост отмечал цены у довоенных уровней при падающих запасах.",
+      "text_en": "One post summarized Reuters saying oil markets were suddenly oversupplied, but countered that production had not surged and demand had not collapsed—only trapped barrels were moving again as the Hormuz fear premium faded. A high-view inventory thread argued draws continue even if China is not buying today. The clash between paper oversupply narratives and stock draws defined the day's debate.",
+      "text_ru": "Один пост пересказал Reuters об внезапном избытке на рынке нефти, но возразил, что добыча не выросла и спрос не обвалился — двинулись лишь ранее застрявшие баррели, а премия за страх по Ормузу испарилась. Популярный тред по запасам настаивал на продолжающихся отборах, даже если Китай сегодня не покупает. Столкновение нарратива бумажного избытка и отборов запасов задало главную дискуссию дня.",
       "tone": "mixed",
       "tweet_ids": ["2069734111678247253", "2069806840695967988"]
     },
@@ -48,8 +48,8 @@
       "title_ru": "IMO: сотни судов могут выйти через Ормуз",
       "blurb_en": "An IMO-related headline said hundreds of vessels could now exit the Persian Gulf via Hormuz even as crude sold off toward $73.5.",
       "blurb_ru": "Заголовок, связанный с IMO, сообщил, что сотни судов могут покинуть Персидский залив через Ормуз, пока нефть просела к $73,5.",
-      "text_en": "One post juxtaposed an IMO headline that hundreds of vessels can leave the Gulf via Hormuz with an oil selloff to about $73.5, calling the market reaction an oil bath. Staunovo and others noted more tankers, including non-Iranian supertankers, transiting and leaving the Gulf.",
-      "text_ru": "Один пост сопоставил заголовок IMO о возможности выхода сотен судов из залива через Ормуз с распродажей нефти до ~$73,5, назвав реакцию «массажем нефти». Staunovo и другие отмечали рост транзитов, включая неиранские супертанкеры, и отход судов из залива.",
+      "text_en": "One post juxtaposed an IMO headline that hundreds of vessels can leave the Gulf via Hormuz with an oil selloff to about $73.5, calling the market reaction an oil bath. It counted about 89 crude tankers and up to roughly 135 mb of capacity leaving, with exits outpacing entries. Separate notes said more tankers, including non-Iranian supertankers, were transiting with AIS left on.",
+      "text_ru": "Один пост сопоставил заголовок IMO о возможности выхода сотен судов из залива через Ормуз с распродажей нефти до около $73,5, назвав реакцию «нефтяной баней». Он насчитал около 89 танкеров с сырой нефтью и до примерно 135 млн барр. вместимости на выходе, причём выходы опережали входы. Отдельно отмечали рост транзитов, включая неиранские супертанкеры, с включёнными транспондерами.",
       "tone": "bearish",
       "tweet_ids": ["2069789247603962024", "2069586105385746682"]
     },
@@ -58,8 +58,8 @@
       "title_ru": "Жара в Европе ужесточает продуктовый рынок",
       "blurb_en": "Posts flagged Europe's heat wave as another bullish factor for refined products as high temperatures disrupt supply chains.",
       "blurb_ru": "Посты отмечали жару в Европе как ещё один бычий фактор для нефтепродуктов — высокие температуры нарушают цепочки поставок.",
-      "text_en": "Energy_Tidbits said Europe's heat wave is another bullish factor for ref products because extreme temperatures can disrupt supply. HFI_Research pushback on East-Asia refinery supply sat in the same day's products debate alongside the EIA distillate build.",
-      "text_ru": "Energy_Tidbits писал, что жара в Европе — ещё один бычий фактор для продуктов, поскольку экстремальные температуры нарушают поставки. Спор HFI_Research о снабжении восточноазиатских НПЗ шёл в том же продуктовом дне рядом с ростом дистиллятов по EIA.",
+      "text_en": "Energy_Tidbits said Europe's heat wave is another bullish factor for ref products because extreme temperatures can disrupt logistics and operations even at heat-ready refineries. That sat beside pushback on East-Asia refinery supply claims and the same day's EIA distillate build. Products stayed a two-sided story: weather tightness versus regional oversupply talk.",
+      "text_ru": "Energy_Tidbits писал, что жара в Европе — ещё один бычий фактор для продуктов, поскольку экстремальные температуры нарушают логистику и операции даже на НПЗ, рассчитанных на жару. Это шло рядом со спором о снабжении восточноазиатских НПЗ и ростом дистиллятов по EIA в тот же день. Продуктовый рынок оставался двусторонним: погодная жёсткость против разговоров о региональном избытке.",
       "tone": "bullish",
       "tweet_ids": ["2069652709209448811", "2069722988488863908"]
     }
