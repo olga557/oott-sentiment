@@ -1,0 +1,77 @@
+{
+  "date": "2026-06-25",
+  "overview_en": "Thursday centered on brittle Hormuz diplomacy—IRGC rejection of the Oman corridor, tanker attacks, and warnings the physical market could turn ugly—alongside hard-running Asian refineries and a Trainer refinery fire. Price sentiment leaned modestly bullish; emotional tone stayed mostly neutral amid ceasefire doubts.",
+  "overview_ru": "В четверг в центре были хрупкая дипломатия по Ормузу — отказ КСИР от оманского коридора, атаки на танкеры и предупреждения об ухудшении физического рынка — а также высокая загрузка азиатских НПЗ и пожар на Trainer. Сентимент по цене был слабо бычим; эмоциональный тон оставался в основном нейтральным на фоне сомнений в перемирии.",
+  "themes": [
+    {
+      "title_en": "IRGC rejects Oman-IMO Hormuz plan",
+      "title_ru": "КСИР отверг план Oman-IMO по Ормузу",
+      "blurb_en": "Posts said the IRGC Navy rejected the Oman-IMO transit plan and insisted vessels coordinate directly with Tehran.",
+      "blurb_ru": "Посты сообщали, что ВМС КСИР отвергли план транзита Oman-IMO и настаивали на координации судов напрямую с Тегераном.",
+      "text_en": "Multiple accounts said the IRGC Navy rejected the Oman-IMO Hormuz transit plan, with Iran calling the Omani route unacceptable and demanding coordination with Tehran. LiveSquawk and Staunovo flagged Iran's Persian Gulf Strait Authority warning international traffic. Rabobank's Michael Every argued the situation is an armistice, not peace, with unresolved fault lines.",
+      "text_ru": "Несколько аккаунтов писали, что ВМС КСИР отвергли план транзита Oman-IMO: оманский маршрут неприемлем, суда должны согласовывать проход с Тегераном. LiveSquawk и Staunovo отметили предупреждение PGSA для международного судоходства. Michael Every из Rabobank называл ситуацию перемирием, а не миром, с нерешёнными линиями разлома.",
+      "tone": "bullish",
+      "tweet_ids": ["2069968057380802568", "2070233781449974091"]
+    },
+    {
+      "title_en": "Ship struck in Hormuz, US investigating",
+      "title_ru": "Судно атаковано в Ормузе, США расследуют",
+      "blurb_en": "The White House said it was looking into a strike on a ship in Hormuz as tankers used the southern corridor and some were turned back.",
+      "blurb_ru": "Белый дом сообщил о расследовании атаки на судно в Ормузе, пока танкеры шли по южному коридору, а часть развернулась.",
+      "text_en": "Staunovo cited the White House saying it was too soon to identify who attacked a ship in Hormuz. LiveSquawk flagged three oil tankers passing through the southern corridor while bypassing others. Separate posts said the IMO paused evacuation in the strait following the attack.",
+      "text_ru": "Staunovo со ссылкой на Белый дом писал, что рано говорить, кто атаковал судно в Ормузе. LiveSquawk отметил три танкера, прошедших через южный коридор, обходя другие суда. Отдельно сообщали, что IMO приостановила эвакуацию в проливе после атаки.",
+      "tone": "bullish",
+      "tweet_ids": ["2070221504394965275", "2070087372440523051"]
+    },
+    {
+      "title_en": "Watch Hormuz inflows, not outflows",
+      "title_ru": "Смотреть на приток в Ормуз, а не отток",
+      "blurb_en": "Shipping trackers warned more vessels were leaving Hormuz than returning, suggesting the Gulf was still effectively a trap.",
+      "blurb_ru": "Трекеры судоходства предупреждали: из Ормуза уходит больше судов, чем возвращается — залив по-прежнему ловушка.",
+      "text_en": "A widely shared post urged watching Hormuz inflows, not just outflows, noting more ships leaving than returning. LVision-style commentary asked who was going back into the Gulf. Study of War analysis argued many analysts expect normalization, but Iran is using the ceasefire to consolidate leverage.",
+      "text_ru": "Популярный пост призывал смотреть на приток в Ормуз, а не только на отток: уходит больше судов, чем возвращается. Комментарии в духе LVision спрашивали, кто снова заходит в залив. Анализ Study of War: многие ждут нормализации, но Иран использует перемирие для закрепления рычагов.",
+      "tone": "bullish",
+      "tweet_ids": ["2069968888884760728", "2069967184302850213"]
+    },
+    {
+      "title_en": "BLAS: physical market to get ugly",
+      "title_ru": "BLAS: физический рынок ужесточится",
+      "blurb_en": "A blunt headline warned the physical oil market is about to get ugly even as paper prices softened.",
+      "blurb_ru": "Жёсткий заголовок предупредил, что физический нефтяной рынок скоро ужесточится, хотя бумажные цены смягчились.",
+      "text_en": "Javier Blas posted that the physical oil market is going to get ugly. That sat beside Rabobank's armistice framing and a widely viewed post arguing the next Middle East conflict may be an oil price war rather than a military one. Iran was also said to estimate a $40 billion windfall from reopening Hormuz with Gulf states.",
+      "text_ru": "Javier Blas написал, что физический нефтяной рынок станет жёстче. Это шло рядом с рамкой перемирия от Rabobank и популярным постом о том, что следующий конфликт на Ближнем Востоке может быть ценовой войной за нефть. Иран, по сообщениям, оценивал потенциальный доход от открытия Ормуза с государствами залива в $40 млрд.",
+      "tone": "bullish",
+      "tweet_ids": ["2070186992827060731", "2070064384353685685"]
+    },
+    {
+      "title_en": "Japan, Korea refineries running hard",
+      "title_ru": "НПЗ Японии и Кореи работают на пределе",
+      "blurb_en": "Asia-focused posts said Japanese and Korean refiners were running hard while China's independents stayed offline, making margins the swing factor.",
+      "blurb_ru": "Азиатские посты писали, что японские и корейские НПЗ работают на пределе, а китайские независимые стоят — решают маржи.",
+      "text_en": "June Goh's thread said Japan and Korea are running refineries hard, China's independents are offline, and it comes down to margins until they turn back on. USGC 3:2:1 refining margins were flagged as hot in the same products conversation.",
+      "text_ru": "Тред June Goh: Япония и Корея гонят НПЗ на пределе, китайские независимые стоят, всё упирается в маржи, пока они не вернутся. В том же продуктовом разговоре отмечали «горячие» маржи USGC 3:2:1.",
+      "tone": "bullish",
+      "tweet_ids": ["2070175193348165659", "2070128831323897954"]
+    },
+    {
+      "title_en": "Trainer refinery fire in Pennsylvania",
+      "title_ru": "Пожар на НПЗ Trainer в Пенсильвании",
+      "blurb_en": "A fire at Monroe Energy's Trainer refinery in Marcus Hook added another US Atlantic Coast refining disruption.",
+      "blurb_ru": "Пожар на НПЗ Trainer компании Monroe Energy в Marcus Hook добавил ещё один сбой переработки на атлантическом побережье США.",
+      "text_en": "Staunovo and follow-on posts flagged a fire burning at the Trainer refinery in Marcus Hook, Pennsylvania. The incident landed in a day already focused on tight US product balances and high crack spreads.",
+      "text_ru": "Staunovo и последующие посты сообщили о пожаре на НПЗ Trainer в Marcus Hook, Пенсильвания. Инцидент пришёлся на день, уже сосредоточенный на жёстком балансе продуктов в США и высоких crack spreads.",
+      "tone": "bullish",
+      "tweet_ids": ["2070181720591061413", "2070209491396706454"]
+    },
+    {
+      "title_en": "Iraq may suspend OPEC membership",
+      "title_ru": "Ирак может приостановить членство в OPEC",
+      "blurb_en": "Reports said Iraq would consider suspending OPEC membership if barred from producing to its capabilities.",
+      "blurb_ru": "Сообщалось, что Ирак рассмотрит приостановку членства в OPEC, если ему запретят добывать в соответствии с возможностями.",
+      "text_en": "Posts cited Iraq threatening to leave OPEC, arguing national interests now outweigh membership benefits when the epicenter of oil is fragmenting. The headline sat beside ongoing Gulf export recovery talk.",
+      "text_ru": "Посты цитировали угрозу Ирака выйти из OPEC: национальные интересы перевешивают выгоды членства, когда «эпицентр нефти» фрагментируется. Заголовок шёл рядом с разговорами о восстановлении экспорта из залива.",
+      "tone": "bearish",
+      "tweet_ids": ["2070015265710997738", "2070106868786094133"]
+    }
+  ]
+}

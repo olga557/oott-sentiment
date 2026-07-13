@@ -1,0 +1,67 @@
+{
+  "date": "2026-06-15",
+  "overview_en": "Sunday centered on the signed US-Iran MoU, promised Hormuz reopening, and deep skepticism over mines, backlog, and deal fragility. Price sentiment was mixed as headline-driven selling met alarm over depleted SPR stocks; emotional tone stayed mostly neutral amid deal euphoria and doubt.",
+  "overview_ru": "В воскресенье в центре были подписанный MoU США–Иран, обещанное открытие Ормуза и глубокий скепсис по минам, затору и хрупкости сделки. Сентимент по цене был смешанным: продажи на заголовках сталкивались с тревогой по истощённым запасам SPR; эмоциональный тон оставался в основном нейтральным на фоне эйфории и сомнений.",
+  "themes": [
+    {
+      "title_en": "SPR draw to 43-year low",
+      "title_ru": "Отбор SPR до 43-летнего минимума",
+      "blurb_en": "US SPR crude fell about 8.9 mb w/w to 340.3 mb — the day's most-viewed inventory headline and a clear bullish supply signal.",
+      "blurb_ru": "Запасы нефти в SPR США снизились примерно на 8,9 млн барр. за неделю до 340,3 млн — самый просматриваемый инвентарный заголовок дня и явный бычий сигнал по предложению.",
+      "text_en": "Staunovo flagged SPR crude down roughly 8.9 mb w/w to a multi-year low of 340.3 mb, with sour at 211.9 mb and sweet at 128.3 mb. Posts tied the draw to continued wartime releases and warned depleted stocks could keep prices supported even if Hormuz rhetoric turned dovish.",
+      "text_ru": "Staunovo отметил снижение нефти в SPR примерно на 8,9 млн барр. за неделю до многолетнего минимума 340,3 млн барр., с кислой нефтью на 211,9 млн и сладкой на 128,3 млн. Посты связывали отбор с продолжающимися военными релизами и предупреждали, что истощённые запасы могут поддерживать цены даже при мирной риторике по Ормузу.",
+      "tone": "bullish",
+      "tweet_ids": ["2066569785584877874", "2066590334277030100"]
+    },
+    {
+      "title_en": "US-Iran MoU signed",
+      "title_ru": "Подписан MoU США–Иран",
+      "blurb_en": "A senior US official confirmed the MoU was signed, promising Hormuz reopening, blockade lift, and a possible $300 billion reconstruction fund.",
+      "blurb_ru": "Старший чиновник США подтвердил подписание MoU с обещанием открытия Ормуза, снятия блокады и возможного фонда восстановления на $300 млрд.",
+      "text_en": "LiveSquawk reported the US signed an MoU with Iran, with Trump and Vance among signatories. The deal called for immediate Hormuz opening and lifting the US blockade, though officials said mine clearance could delay flows by one to two weeks. Details on frozen funds and sanctions relief were tied to Iranian performance.",
+      "text_ru": "LiveSquawk сообщил, что США подписали MoU с Ираном, среди подписантов — Трамп и Вэнс. Сделка предусматривала немедленное открытие Ормуза и снятие американской блокады, хотя чиновники говорили, что разминирование может задержать потоки на 1–2 недели. Детали по замороженным средствам и санкционным послаблениям были привязаны к выполнению обязательств Ираном.",
+      "tone": "bearish",
+      "tweet_ids": ["2066546606854295655", "2066548400909127906"]
+    },
+    {
+      "title_en": "Price drop vs war damage",
+      "title_ru": "Падение цены vs ущерб войны",
+      "blurb_en": "The day's top geopolitical post argued the headline selloff ignored real war damage and surprised the market with price manipulation.",
+      "blurb_ru": "Главный геополитический пост дня утверждал, что распродажа на заголовках игнорирует реальный ущерб войны и удивила рынок манипуляциями с ценой.",
+      "text_en": "Amena Bakr wrote that the expected drop on deal headlines was happening, but damage from the conflict was not yet reflected in price. She questioned whether the market was celebrating a fragile status quo while roughly 500 vessels remained trapped in the Gulf.",
+      "text_ru": "Amena Bakr писала, что ожидаемое падение на заголовках о сделке происходит, но ущерб от конфликта ещё не отражён в цене. Она ставила вопрос, не празднует ли рынок хрупкий статус-кво, пока около 500 судов остаются в ловушке в заливе.",
+      "tone": "bullish",
+      "tweet_ids": ["2066348854107087123", "2066364912440422833"]
+    },
+    {
+      "title_en": "Hormuz reopening will take weeks",
+      "title_ru": "Открытие Ормуза займёт недели",
+      "blurb_en": "Analysts warned Hormuz backlog and mine clearance could take weeks, with about 60 laden crude vessels still inside the strait.",
+      "blurb_ru": "Аналитики предупреждали, что разбор заторов и разминирование в Ормузе могут занять недели, а около 60 гружёных танкеров с нефтью всё ещё внутри пролива.",
+      "text_en": "Staunovo cited warnings that Hormuz oil backlog could take weeks to clear and that scouring for mines might delay shippers. Amena Bakr noted about 60 laden crude vessels remained in the strait, while EIA commentary suggested pre-conflict traffic might not return until early 2027.",
+      "text_ru": "Staunovo со ссылкой на предупреждения писал, что разбор нефтяного заторa в Ормузе может занять недели, а поиск мин — задержать судовладельцев. Amena Bakr отмечала около 60 гружёных танкеров с нефтью в проливе, а комментарии EIA предполагали, что довоенный трафик может не вернуться до начала 2027 года.",
+      "tone": "bullish",
+      "tweet_ids": ["2066368590928810057", "2066545140982804787"]
+    },
+    {
+      "title_en": "WTI slips below $80",
+      "title_ru": "WTI опустился ниже $80",
+      "blurb_en": "Crude futures fell below $80/bbl for the first time since March after the peace-deal headlines, with WTI settling at $80.75.",
+      "blurb_ru": "Фьючерсы на нефть впервые с марта упали ниже $80/бbl на заголовках о мире, WTI закрылся на $80,75.",
+      "text_en": "LiveSquawk flagged US crude below $80/bbl for the first time since March after the US-Iran deal news. Staunovo later posted WTI at $80.75/bbl and Brent at $83.17/bbl. Equity futures rose on the same headline, underscoring the risk-off unwind in oil.",
+      "text_ru": "LiveSquawk отметил, что нефть США впервые с марта опустилась ниже $80/бbl после новостей о сделке США–Иран. Позже Staunovo указал WTI на $80,75/бbl и Brent на $83,17/бbl. Фьючерсы на акции выросли на том же заголовке, подчёркивая разворот риска в нефти.",
+      "tone": "bearish",
+      "tweet_ids": ["2066422561169133814", "2066591234517270694"]
+    },
+    {
+      "title_en": "Deal fragility: Israel and Lebanon",
+      "title_ru": "Хрупкость сделки: Израиль и Ливан",
+      "blurb_en": "Posts warned key MoU pillars were already fraying as Israel rejected the Lebanon clause and framework terms looked shaky.",
+      "blurb_ru": "Посты предупреждали, что ключевые столпы MoU уже рассыпаются: Израиль отверг ливанский пункт, а условия рамочного соглашения выглядели шаткими.",
+      "text_en": "Amena Bakr highlighted Netanyahu telling Trump Israeli forces would not withdraw from Lebanon and that Israel was not bound by the Lebanon clause. Separate posts said MOU terms were already falling apart and that the agreement remained a vague if-then framework rather than a finished deal.",
+      "text_ru": "Amena Bakr подчеркнула, что Нетаньяху сообщил Трампу об отказе выводить израильские силы из Ливана и не считать Израиль связанным ливанским пунктом. Отдельные посты говорили, что условия MoU уже рассыпаются и соглашение остаётся расплывчатым if-then каркасом, а не готовой сделкой.",
+      "tone": "bullish",
+      "tweet_ids": ["2066347414135476367", "2066378426861170882"]
+    }
+  ]
+}

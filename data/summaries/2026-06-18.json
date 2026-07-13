@@ -1,0 +1,67 @@
+{
+  "date": "2026-06-18",
+  "overview_en": "Thursday tracked early Hormuz transits, Gulf producers racing to restore output, Iran sanctions-relief headlines, and renewed Israel-Lebanon deal risks. Price sentiment was mixed; emotional tone stayed mostly neutral amid reopening optimism and lingering geopolitical doubt.",
+  "overview_ru": "В четверг отслеживали первые транзиты через Ормуз, гонку производителей Залива за восстановлением добычи, заголовки о послаблении санкций против Ирана и новые риски для сделки из‑за Израиль–Ливан. Сентимент по цене был смешанным; эмоциональный тон оставался в основном нейтральным на фоне оптимизма по открытию и сохраняющихся геополитических сомнений.",
+  "themes": [
+    {
+      "title_en": "Hormuz transits picking up",
+      "title_ru": "Транзиты через Ормуз оживают",
+      "blurb_en": "Kpler data showed verified Hormuz crossings continuing and three Saudi VLCCs with about 6 mb of crude reappearing on AIS.",
+      "blurb_ru": "Данные Kpler показали продолжающиеся подтверждённые проходы через Ормуз и три саудовских VLCC с около 6 млн барр. нефти, снова появившихся на AIS.",
+      "text_en": "Amena Bakr flagged three Saudi VLCCs carrying around 6 million barrels transiting the strait after more than two months off AIS. Kpler tracking posts recorded six verified Hormuz crossings on June 17, while SAR radar commentary noted vessel prints east of the strait — still far from full normalization.",
+      "text_ru": "Amena Bakr отметила три саудовских VLCC с около 6 млн барр. нефти, прошедших через пролив после более двух месяцев вне AIS. Посты Kpler зафиксировали шесть подтверждённых проходов через Ормуз 17 июня, а комментарии по SAR-радару отмечали слепки судов к востоку от пролива — всё ещё далеко от полной нормализации.",
+      "tone": "bearish",
+      "tweet_ids": ["2067527218780361017", "2067678551676256386"]
+    },
+    {
+      "title_en": "Israel rejects Lebanon withdrawal",
+      "title_ru": "Израиль отвергает вывод из Ливана",
+      "blurb_en": "A senior Israeli official said the IDF would not withdraw from southern Lebanon despite the US-Iran MOU — a top deal-spoiler headline.",
+      "blurb_ru": "Старший израильский чиновник заявил, что ЦАХАЛ не выведет войска из южного Ливана несмотря на MoU США–Иран — главный заголовок о срыве сделки.",
+      "text_en": "Posts circulated a senior Israeli official saying that despite the MOU, the IDF would not withdraw from southern Lebanon. Commentary framed the statement as the kind of headline that could spoil the broader peace framework even as tanker traffic ticked higher.",
+      "text_ru": "Посты распространяли заявление старшего израильского чиновника о том, что несмотря на MoU, ЦАХАЛ не выведет войска из южного Ливана. Комментарии описывали это как заголовок, способный сорвать более широкий мирный каркас даже при росте танкерного трафика.",
+      "tone": "bullish",
+      "tweet_ids": ["2067527848253116459"]
+    },
+    {
+      "title_en": "Iran sanctions relief path",
+      "title_ru": "Путь к послаблению санкций Ирана",
+      "blurb_en": "US officials signaled temporary Iran sanctions could be lifted without Congress and Tehran may access $6 bn in frozen funds for US goods.",
+      "blurb_ru": "Чиновники США заявили, что временные санкции против Ирана можно снять без Конгресса, а Тегеран может получить доступ к $6 млрд замороженных средств на закупку американских товаров.",
+      "text_en": "Vance was quoted saying the administration felt confident it could temporarily lift Iran sanctions without congressional approval. FT headlines added Iran would get access to $6 billion of frozen funds to buy US goods, reinforcing the bearish supply-return narrative.",
+      "text_ru": "Вэнс цитировался со словами, что администрация уверена в возможности временно снять санкции против Ирана без одобрения Конгресса. Заголовки FT добавили, что Иран получит доступ к $6 млрд замороженных средств на покупку американских товаров, усиливая медвежий нарратив о возврате предложения.",
+      "tone": "bearish",
+      "tweet_ids": ["2067637281733664968", "2067673360935333966"]
+    },
+    {
+      "title_en": "Kuwait targets 2 mb/d in a week",
+      "title_ru": "Кувейт целится в 2 млн б/с за неделю",
+      "blurb_en": "KPC said it could reach 2 mb/d within a week and lifted all war-era force majeure notices — far faster than prior guidance.",
+      "blurb_ru": "KPC заявил, что может выйти на 2 млн б/с за неделю и снял все форс-мажорные уведомления военного периода — намного быстрее прежних ориентиров.",
+      "text_en": "Bloomberg and business posts said Kuwait started ramping production toward 2 mb/d within a week, versus a two-month timeline cited just weeks earlier. Staunovo later reported KPC lifted all force majeure notices issued during the war with immediate effect.",
+      "text_ru": "Bloomberg и деловые посты сообщали, что Кувейт начал наращивать добычу к 2 млн б/с за неделю против двухмесячного срока, озвученного ещё несколько недель назад. Позже Staunovo сообщил, что KPC снял все форс-мажорные уведомления военного периода немедленно.",
+      "tone": "bearish",
+      "tweet_ids": ["2067631465089638597", "2067651888774861047"]
+    },
+    {
+      "title_en": "OPEC WOO: robust demand",
+      "title_ru": "OPEC WOO: устойчивый спрос",
+      "blurb_en": "OPEC's World Oil Outlook launch maintained strong near-term demand growth and nudged up longer-term views.",
+      "blurb_ru": "Презентация World Oil Outlook OPEC сохранила сильный рост спроса в ближайшие годы и немного повысила долгосрочные оценки.",
+      "text_en": "Staunovo summarized OPEC's 2026 WOO launch, saying the group kept robust global oil demand growth over the next four years and revised its 2050 demand forecast higher. Separate posts cited a $580 billion annual investment need and no sign of a demand peak.",
+      "text_ru": "Staunovo резюмировал запуск WOO 2026 OPEC: группа сохранила устойчивый рост мирового спроса на нефть в ближайшие четыре года и повысила прогноз спроса к 2050 году. Отдельные посты указывали на потребность в $580 млрд инвестиций в год и отсутствие признаков пика спроса.",
+      "tone": "bullish",
+      "tweet_ids": ["2067611824413876272", "2067688380670828691"]
+    },
+    {
+      "title_en": "Products ease: Singapore stocks up",
+      "title_ru": "Смягчение продуктов: рост запасов Сингапура",
+      "blurb_en": "Singapore oil product inventories rose 0.85 mb w/w as US gasoline slipped back below $4/gal on easing Iran strain.",
+      "blurb_ru": "Запасы нефтепродуктов в Сингапуре выросли на 0,85 млн барр. за неделю, а бензин в США снова опустился ниже $4/гал на фоне ослабления напряжения с Ираном.",
+      "text_en": "Staunovo posted Singapore oil product stocks up 850,000 bbl w/w to 35.258 mb. Headlines tied lower US gasoline prices below $4 a gallon to easing Iran war strain, while a large Sep Brent $70 put traded for 100 million barrels as a bearish positioning reminder.",
+      "text_ru": "Staunovo сообщил о росте запасов нефтепродуктов в Сингапуре на 850 тыс. барр. за неделю до 35,258 млн. Заголовки связывали снижение бензина в США ниже $4/гал с ослаблением напряжения из‑за Ирана, а крупный пут на сентябрьский Brent $70 на 100 млн барр. напоминал о медвежьем позиционировании.",
+      "tone": "bearish",
+      "tweet_ids": ["2067528491117969765", "2067605700193271819"]
+    }
+  ]
+}

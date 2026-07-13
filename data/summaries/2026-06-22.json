@@ -1,0 +1,67 @@
+{
+  "date": "2026-06-22",
+  "overview_en": "Monday mixed optimistic Iran progress headlines and a US oil-sales license with whipsaw Hormuz counts, a plunging SPR, and weak China import data. Price sentiment was mixed; emotional tone stayed mostly neutral amid conflicting diplomacy and inventory math.",
+  "overview_ru": "В понедельник смешались оптимистичные заголовки о прогрессе с Ираном и лицензия США на продажу нефти с резкими переключениями по Ормузу, падением SPR и слабыми импортами Китая. Сентимент по цене был смешанным; эмоциональный тон оставался в основном нейтральным на фоне противоречивой дипломатии и математики запасов.",
+  "themes": [
+    {
+      "title_en": "US SPR falls to 331 mb, lowest since 1983",
+      "title_ru": "SPR США упал до 331 млн барр. — минимум с 1983 г.",
+      "blurb_en": "US SPR stocks dropped about 9.1 mb w/w to 331.2 mb — the day's most-viewed inventory headline.",
+      "blurb_ru": "Запасы SPR США снизились примерно на 9,1 млн барр. з/н до 331,2 млн — самый просматриваемый заголовок дня по запасам.",
+      "text_en": "Staunovo and LiveSquawk flagged SPR crude down roughly 9.1 million barrels to 331.2 million, the lowest since 1983, with sour and sweet both falling. Amalteya warned draw paces could hit 10 mb/week in driving season and reach a 300 mb red line by mid-July.",
+      "text_ru": "Staunovo и LiveSquawk отметили снижение нефти в SPR примерно на 9,1 млн барр. до 331,2 млн — минимума с 1983 года — с падением и sour, и sweet. Amalteya предупредила, что темп отборов может достичь 10 млн барр./нед. в сезон поездок и красной отметки 300 млн к середине июля.",
+      "tone": "bullish",
+      "tweet_ids": ["2069093369880486277", "2069111358252040631"]
+    },
+    {
+      "title_en": "71 Hormuz transits vs closure headlines",
+      "title_ru": "71 транзит через Ормуз vs заголовки о закрытии",
+      "blurb_en": "Kpler data showed 71 confirmed Hormuz crossings over June 19–21 even as Iran again claimed the strait was shut.",
+      "blurb_ru": "Данные Kpler показали 71 подтверждённый проход через Ормуз за 19–21 июня, хотя Иран снова заявлял о закрытии пролива.",
+      "text_en": "Amena Bakr posted that confirmed crossings through the monitored Hormuz zone rose sharply to 71 over June 19–21. The same day Staunovo flagged shipping slowing after Iran said it had again shut the strait, and LukeyTrags asked whether Hormuz was open or closed.",
+      "text_ru": "Amena Bakr сообщила, что подтверждённые проходы через контролируемую зону Ормуза резко выросли до 71 за 19–21 июня. В тот же день Staunovo отметил замедление судоходства после заявления Ирана о повторном закрытии, а LukeyTrags спросил, открыт ли Ормуз или закрыт.",
+      "tone": "mixed",
+      "tweet_ids": ["2068975624366989767", "2068898829563281577"]
+    },
+    {
+      "title_en": "Araghchi progress claims, US oil license",
+      "title_ru": "Заявления Aраghchi о прогрессе и лицензия США на нефть",
+      "blurb_en": "Iran's FM cited oil-export waivers and progress on Lebanon, while Treasury issued a general license for Iranian crude sales.",
+      "blurb_ru": "МИД Ирана сообщил об освобождениях для экспорта нефти и прогрессе по Ливану, а Treasury выпустила general license на продажу иранской нефти.",
+      "text_en": "Araghchi said talks delivered major progress, with oil and petrochemical exports waived and some frozen assets released. Oil initially fell about $2 on the headline. Later LiveSquawk and Staunovo flagged a US general license authorizing some Iranian-origin crude sales through August 21.",
+      "text_ru": "Aраghchi заявил о крупном прогрессе переговоров — освобождения для экспорта нефти и нефтехимии и частичный размороз активов. Нефть сначала упала примерно на $2 на заголовке. Позже LiveSquawk и Staunovo сообщили о general license США, разрешающей часть продаж иранской нефти до 21 августа.",
+      "tone": "bearish",
+      "tweet_ids": ["2068949177447444625", "2069047170628497619"]
+    },
+    {
+      "title_en": "Saudi April exports and output plunge",
+      "title_ru": "Обвал экспорта и добычи Саудовской Аравии в апреле",
+      "blurb_en": "JODI data showed Saudi crude exports fell to 3.986 mb/d in April from 4.974 mb/d in March.",
+      "blurb_ru": "Данные JODI показали падение экспорта нефти Саудовской Аравии до 3,986 млн б/с в апреле с 4,974 млн б/с в марте.",
+      "text_en": "Staunovo shared JODI prints: Saudi crude exports down about 1 mb/d month-on-month, total crude and products exports at 4.995 mb/d, inventories at 139.967 mb, and direct crude burn rising. Commentary noted production fell to levels not seen since 1989–1990.",
+      "text_ru": "Staunovo опубликовал JODI: экспорт саудовской нефти упал примерно на 1 млн б/с м/м, суммарный экспорт нефти и продуктов — 4,995 млн б/с, запасы — 139,967 млн барр., прямое сжигание нефти выросло. Комментарии отмечали добычу на уровнях, не виденных с 1989–1990 гг.",
+      "tone": "bullish",
+      "tweet_ids": ["2069038951680131347", "2069042886855848159"]
+    },
+    {
+      "title_en": "China May imports crash to 7.82 mb/d",
+      "title_ru": "Импорт Китая в мае рухнул до 7,82 млн б/с",
+      "blurb_en": "May China crude imports fell to 7.82 mb/d, down 1.58 mb/d from April and 3.2 mb/d from March.",
+      "blurb_ru": "Импорт нефти Китая в мае упал до 7,82 млн б/с — минус 1,58 млн б/с к апрелю и 3,2 млн б/с к марту.",
+      "text_en": "Energy_Tidbits highlighted the May crash to 7.82 mb/d alongside Staunovo's customs charts by origin. Separate posts said Iranian sellers cut prices to China after the interim deal eased supply fears, while another account argued Beijing was now actively buying cargoes.",
+      "text_ru": "Energy_Tidbits выделил майский обвал до 7,82 млн б/с вместе с таможенными графиками Staunovo по странам происхождения. Отдельные посты сообщали о снижении цен иранских продавцов для Китая после промежуточной сделки, а другой аккаунт утверждал, что Пекин теперь активно покупает партии.",
+      "tone": "mixed",
+      "tweet_ids": ["2069018490133270977", "2068971961103855704"]
+    },
+    {
+      "title_en": "Thin SPR lease uptake, bulls see breaking point",
+      "title_ru": "Слабый спрос на аренду SPR, быки видят точку перелома",
+      "blurb_en": "Only 500,000 barrels of a 40 mb SPR exchange were awarded, fueling talk that markets are near a supply breaking point.",
+      "blurb_ru": "Из 40 млн барр. обмена SPR было распределено лишь 500 тыс., усиливая разговоры о том, что рынок близок к точке перелома по предложению.",
+      "text_en": "Staunovo noted DOE awarded Vitol just 500,000 barrels from a proposed 40 million-barrel SPR exchange. Cheekybaua argued refiners would not take SPR barrels now at $75 and return them later at much higher prices, and asked when the military might block further releases.",
+      "text_ru": "Staunovo отметил, что DOE выделила Vitol лишь 500 тыс. барр. из предложенного обмена 40 млн из SPR. Cheekybaua утверждал, что переработчики не возьмут баррели из SPR сейчас по $75, чтобы вернуть их позже намного дороже, и спрашивал, когда военные могут заблокировать дальнейшие релизы.",
+      "tone": "bullish",
+      "tweet_ids": ["2069123682077692140", "2069205270534738097"]
+    }
+  ]
+}

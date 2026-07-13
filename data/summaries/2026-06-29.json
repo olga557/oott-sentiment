@@ -1,0 +1,67 @@
+{
+  "date": "2026-06-29",
+  "overview_en": "Monday led with a multi-decade SPR plunge and conflicting US–Iran talk signals around Doha, plus spreading Russian fuel shortages and a bearish curve-momentum read. Price sentiment was mixed — inventory and Hormuz risk were bullish, but fading backwardation and ceasefire hopes capped upside; emotional tone stayed wary.",
+  "overview_ru": "В понедельник главным стало падение SPR до многолетних минимумов и противоречивые сигналы по переговорам США–Иран в Дохе на фоне распространения дефицита топлива в России и медвежьего сигнала по кривой. Сентимент по цене был смешанным — запасы и риск Ормуза бычьи, но ослабление бэквордации и надежды на перемирие ограничивали рост; эмоциональный тон — настороженный.",
+  "themes": [
+    {
+      "title_en": "SPR falls ~5.5 mb to 325.7 mb — 1983 low",
+      "title_ru": "SPR −~5,5 млн барр. до 325,7 — минимум с 1983 г.",
+      "blurb_en": "Weekly SPR data showed a ~5.5 mb draw to 325.7 mb — the lowest since 1983 — sour and sweet both down sharply.",
+      "blurb_ru": "Недельные данные по SPR показали отбор ~5,5 млн барр. до 325,7 млн — минимум с 1983 г.; снижение и кислой, и сладкой нефти.",
+      "text_en": "Staunovo's SPR tweet dominated the day at 80k+ views: sour down ~2.7 mb to 205.5 mb, sweet ~2.9 mb to 120.9 mb. Follow-on posts warned the reserve is at multi-decade lows while shorts remain elevated — framing a future squeeze narrative.",
+      "text_ru": "Твит Staunovo по SPR собрал 80k+ просмотров: кислая −~2,7 млн барр. до 205,5 млн, сладкая −~2,9 млн до 120,9 млн. Последующие посты предупреждали о минимумах за десятилетия при высоких шортах — нарратив будущего сжатия.",
+      "tone": "bullish",
+      "tweet_ids": ["2071642954632921559", "2071673157920919573"]
+    },
+    {
+      "title_en": "Doha talk chaos: Trump vs Iran 'no talks'",
+      "title_ru": "Хаос вокруг Дохи: Трамп vs «переговоров не будет»",
+      "blurb_en": "Trump said Iran requested a Tuesday Doha meeting while Tehran officials denied any US talks were planned this week.",
+      "blurb_ru": "Трамп заявил, что Иран запросил встречу во вторник в Дохе, тогда как официальные лица Тегерана отрицали переговоры с США на этой неделе.",
+      "text_en": "Conflicting headlines whipsawed sentiment: Trump posted Iran requested a meeting; Gharibabadi and Tasnim said no technical talks were planned. Energy Tidbits noted senior US officials had already floated a halt to reciprocal strikes.",
+      "text_ru": "Противоречивые заголовки качали настроение: Трамп писал о запросе встречи; Gharibabadi и Tasnim — что технических переговоров не планируется. Energy Tidbits отмечал, что старшие американские чиновники уже говорили о прекращении взаимных ударов.",
+      "tone": "mixed",
+      "tweet_ids": ["2071557470879887408", "2071542116074074383"]
+    },
+    {
+      "title_en": "Iran vows to obstruct 'unauthorized' Hormuz paths",
+      "title_ru": "Иран обещает блокировать «несанкционированные» маршруты Ормуза",
+      "blurb_en": "Deputy FM Gharibabadi said Iran would try to obstruct vessels transiting Hormuz outside Tehran-specified routes.",
+      "blurb_ru": "Замминистра Gharibabadi заявил, что Иран будет препятствовать судам, идущим через Ормуз вне маршрутов, указанных Тегераном.",
+      "text_en": "LiveSquawk and Staunovo relayed the obstruction threat as Hormuz traffic dropped after Saturday's vessel strike. A separate Muscat Hormuz Joint Committee meeting with Oman offered a diplomatic offset, but hard-line transit language kept risk premium alive.",
+      "text_ru": "LiveSquawk и Staunovo передавали угрозу блокировки на фоне падения трафика через Ормуз после удара по судну в субботу. Отдельная встреча Hormuz Joint Committee в Мускате с Оманом давала дипломатическую разрядку, но жёсткая риторика по транзиту сохраняла риск-премию.",
+      "tone": "bullish",
+      "tweet_ids": ["2071661460585914619", "2071651265742827830"]
+    },
+    {
+      "title_en": "Curve momentum turns bearish — Bouchouev",
+      "title_ru": "Импульс кривой стал медвежьим — Bouchouev",
+      "blurb_en": "With inventories hard to track, traders leaned on curve dynamics; a 'deceleration of backwardation' signal turned decisively bearish.",
+      "blurb_ru": "При невозможности отследить запасы трейдеры смотрели на кривую; сигнал «замедления бэквордации» стал явно медвежьим.",
+      "text_en": "Ilia Bouchouev's widely shared post argued curve-momentum had flipped bearish and was driving recent selling. Pickering separately said oil was weak on sentiment over decent inventory fundamentals and US deal-seeking.",
+      "text_ru": "Широко расшаренный пост Ilia Bouchouev утверждал, что импульс кривой стал медвежьим и толкал недавние продажи. Pickering отдельно писал, что нефть слаба из‑за сентимента при неплохих фундаментальных запасах и стремления США к сделке.",
+      "tone": "bearish",
+      "tweet_ids": ["2071590681882116251", "2071606521276899329"]
+    },
+    {
+      "title_en": "Russia fuel shortages spread; Putin admits bite",
+      "title_ru": "Дефицит топлива в РФ расширяется; Путин признаёт удар",
+      "blurb_en": "Putin acknowledged fuel shortages as Ukrainian drone strikes dented refinery output and shortages spread to more regions.",
+      "blurb_ru": "Путин признал дефицит топлива на фоне ударов дронов по НПЗ и распространения нехватки на новые регионы.",
+      "text_en": "Staunovo flagged Putin's first admission that long-range Ukrainian attacks had dented production, with a task force set up to secure supplies. Venezuela's largest refinery also shut after a power outage — extra supply-side noise.",
+      "text_ru": "Staunovo отмечал первое признание Путиным, что дальнобойные удары Украины снизили переработку, и создание штаба по обеспечению поставок. Крупнейший НПЗ Венесуэлы также остановился после отключения электричества — дополнительный шум по предложению.",
+      "tone": "bullish",
+      "tweet_ids": ["2071438678665077028", "2071599305345872110"]
+    },
+    {
+      "title_en": "WTI $70.75 / Brent $73.15 settle",
+      "title_ru": "Закрытие WTI $70,75 / Brent $73,15",
+      "blurb_en": "Front-month contracts settled near $71 WTI and $73 Brent as Qatar temporarily suspended recreational maritime activity amid security concerns.",
+      "blurb_ru": "Ближайшие контракты закрылись около $71 WTI и $73 Brent на фоне временной приостановки рекреационного морского движения в Кatarе из‑за безопасности.",
+      "text_en": "Staunovo posted WTI at $70.75/bbl and Brent at $73.15/bbl at settlement. Qatar's transport ministry directive on suspending sailing added a fresh Gulf security footnote into the close.",
+      "text_ru": "Staunovo фиксировал WTI на $70,75/бbl и Brent на $73,15/бbl на закрытии. Директива минтранса Катара о приостановке плавания добавила свежую сноску о безопасности в Заливе.",
+      "tone": "neutral",
+      "tweet_ids": ["2071662893133693040", "2071605931742495115"]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "date": "2026-06-28",
+  "overview_en": "Saturday mixed fresh Iran–US strikes on Bahrain and Kuwait with Russia's fuel crisis, record Japan crude draws, and a viral bullish oil call — then late ceasefire headlines ahead of futures open. Price sentiment was mixed: risk stayed bid early but weekend de-escalation leaks turned bearish; emotional tone swung from alarm to cynicism.",
+  "overview_ru": "В субботу свежие ирано-американские удары по Бахрейну и Кувейту смешались с топливным кризисом в России, рекордным отбором нефти в Японии и вирусным бычьим прогнозом — затем перед открытием фьючерсов пошли заголовки о прекращении огня. Сентимент по цене был смешанным: риск держал премию, но утечки о деэскалации в выходные дали медвежий оттенок; эмоциональный тон — от тревоги к цинизму.",
+  "themes": [
+    {
+      "title_en": "IRGC strikes US bases in Bahrain, Kuwait",
+      "title_ru": "КСИР бьёт по базам США в Бахрейне и Кувейте",
+      "blurb_en": "Iran's Revolutionary Guards claimed ballistic-missile and drone strikes on US Fifth Fleet and Kuwait bases in retaliation for recent US attacks.",
+      "blurb_ru": "КСИР заявил об ударах баллистическими ракетами и дронами по базам Пятого флота США и Кувейта в ответ на недавние атаки США.",
+      "text_en": "Breaking posts described explosions in Manama and strikes on Salman Port and Ali Al Salem base. Amena Bakr summarized the IRGC warning that further aggression would meet a crushing response. Energy Tidbits linked the attacks to a second tanker hit near Hormuz carrying 2+ million barrels.",
+      "text_ru": "Breaking-посты описывали взрывы в Манаме и удары по порту Salman и базе Ali Al Salem. Amena Bakr передавала предупреждение КСИР о «сокрушительном ответе» на дальнейшую агрессию. Energy Tidbits связывал атаки со вторым ударом по танkerу у Ормуза с более чем 2 млн барр. нефти.",
+      "tone": "bullish",
+      "tweet_ids": ["2071177734089285835", "2071063964633719043"]
+    },
+    {
+      "title_en": "Ceasefire headlines before futures open",
+      "title_ru": "Заголовки о прекращении огня перед открытием",
+      "blurb_en": "Late-Sunday Axios reports that the US and Iran agreed to halt reciprocal strikes fed a 'weekend war' narrative that could cap oil into the open.",
+      "blurb_ru": "Поздние сообщения Axios о согласии США и Ирана прекратить взаимные удары усилили нарратив «выходной войны», способный сдержать нефть к открытию.",
+      "text_en": "Pickering called the pattern 90% predictable — action when markets are closed. ZmansEnrgyBrain quipped 'peace breaks out just ahead of futures open.' Nicholas James argued Washington was using anonymous leaks to lower prices before the bell.",
+      "text_ru": "Pickering называл схему предсказуемой на 90% — действия при закрытых рынках. ZmansEnrgyBrain иронизировал, что «мир наступает перед открытием фьючерсов». Nicholas James писал, что Вашингтон использует анонимные утечки, чтобы снизить цены перед звонком.",
+      "tone": "bearish",
+      "tweet_ids": ["2071347018866295155", "2071381829358362720"]
+    },
+    {
+      "title_en": "Viral call: oil set to skyrocket",
+      "title_ru": "Вирусный прогноз: нефть «взлетит»",
+      "blurb_en": "The day's most-viewed post warned the launchpad was set for oil prices to suddenly skyrocket despite the weekend headline noise.",
+      "blurb_ru": "Самый просматриваемый пост дня предупреждал, что «площадка для запуска» готова — нефть может резко взлететь несмотря на выходные заголовки.",
+      "text_en": "JustDario's episode 83 drew over 130k views with an explicit skyrocket thesis. WTI weekend tracker coins traded above $72 earlier in the session, contrasting with later ceasefire-driven softness.",
+      "text_ru": "Эпизод 83 JustDario набрал более 130 тыс. просмотров с явным тезисом о резком росте. WTI weekend tracker ранее торговался выше $72 — контраст с поздней мягкостью на фоне прекращения огня.",
+      "tone": "bullish",
+      "tweet_ids": ["2071233269140459847", "2071047682022388010"]
+    },
+    {
+      "title_en": "Ukraine hits Russian refineries; Putin on fuel",
+      "title_ru": "Украина бьёт по НПЗ РФ; Путин о топливе",
+      "blurb_en": "Overnight drone strikes hit Krasnodar and Yaroslavl refineries while Putin acknowledged fuel shortages and a diesel-export ban was under review.",
+      "blurb_ru": "Ночные удары дронов по НПЗ в Краснодарском и Ярославской областях совпали с признанием Путина дефицита топлива и обсуждением запрета экспорта дизеля.",
+      "text_en": "Staunovo cited Zelenskyy on Slavyansk-na-Kubani and Yaroslavl hits as part of Kyiv's long-range sanctions. Novak first said no diesel ban was needed, then Putin said a ban was under consideration — a whipsaw on Russian product policy.",
+      "text_ru": "Staunovo цитировал Зелenskyy об ударах по Slavyansk-na-Kubani и Ярославлю в рамках «дальних санкций». Сначала Novak говорил, что запрет дизеля не нужен, затем Путin заявил, что он рассматривается — качели в политике РФ по продуктам.",
+      "tone": "bullish",
+      "tweet_ids": ["2071189505650921553", "2071305664878576058"]
+    },
+    {
+      "title_en": "Japan crude stocks: record drawdown",
+      "title_ru": "Запасы нефти Японии: рекордный отбор",
+      "blurb_en": "Headlines flagged Japan's largest-ever crude inventory drawdown, with posts arguing WTI would soon feel the tightness.",
+      "blurb_ru": "Заголовки сообщали о крупнейшем в истории отборе нефтяных запасов Японии — посты ожидали, что WTI скоро это отразит.",
+      "text_en": "ZmansEnrgyBrain amplified the record Japan crude draw. Amalteya tied consecutive inventory records to eventual WTI pressure, calling conditions 'quite bullish.'",
+      "text_ru": "ZmansEnrgyBrain усилил новость о рекордном отборе в Японии. Amalteya связывала серию рекордов по запасам с будущим давлением на WTI, называя картину «весьма бычьей».",
+      "tone": "bullish",
+      "tweet_ids": ["2071230642499486055", "2071318321270571249"]
+    },
+    {
+      "title_en": "Global diesel tightness persists",
+      "title_ru": "Дефицит дизеля в мире сохраняется",
+      "blurb_en": "Posts stressed diesel above $5/gal globally with Kpler seeing supported refining margins through H2 despite rising crude supply.",
+      "blurb_ru": "Посты подчёркивали дизель выше $5/гал глобально, а Kpler видел поддержанные маржи переработки во II пол. несмотря на рост предложения нефти.",
+      "text_en": "TheWuhanClan noted diesel still above $5/gal with goods and transport costs surging. Ritolia cited Kpler: refinery runs constrained across Russia, the Middle East and parts of Asia keep product markets tight.",
+      "text_ru": "TheWuhanClan отмечал дизель выше $5/гал и рост транспортных издержек. Ritolia со ссылкой на Kpler: ограниченные переработки в РФ, на Ближнем Востоке и в части Азии держат продуктовый рынок жёстким.",
+      "tone": "bullish",
+      "tweet_ids": ["2071368796711923991", "2071261867427889532"]
+    }
+  ]
+}

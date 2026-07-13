@@ -1,0 +1,67 @@
+{
+  "date": "2026-06-23",
+  "overview_en": "Tuesday mixed Hormuz transit rebound headlines with Iran caps and conflicting shipping guidance, plus Russia diesel-ban talk and a sizable API crude draw. Price sentiment was modestly bullish; emotional tone stayed mostly neutral amid supply-tightness chatter versus easing strait flows.",
+  "overview_ru": "Во вторник смешались заголовки о восстановлении транзитов через Ормуз с иранскими лимитами и противоречивыми указаниями для судов, разговоры о запрете экспорта дизеля из России и заметный отбор нефти по API. Сентимент по цене был умеренно бычим; эмоциональный тон оставался в основном нейтральным на фоне жёсткости предложения и ослабления потоков через пролив.",
+  "themes": [
+    {
+      "title_en": "API crude draw, SPR at 40-year low",
+      "title_ru": "Отбор нефти по API, SPR — минимум за 40 лет",
+      "blurb_en": "Weekly API data showed a 765 kb crude draw plus product builds, with SPR down 9.1 mb to the lowest level in more than four decades.",
+      "blurb_ru": "Недельные данные API показали отбор нефти на 765 тыс. барр. при росте запасов продуктов; SPR упал на 9,1 млн барр. до минимума более чем за 40 лет.",
+      "text_en": "Julianne Geiger's API recap flagged crude down 765,000 barrels, Cushing down 982,000, gasoline up 1.238 mb and distillates up 1.447 mb, with SPR falling 9.1 mb. BroadStreetOil and ZmansEnrgyBrain echoed the commercial draw. The print landed beside same-day WTI settlement near $73.21 and Brent near $77.08.",
+      "text_ru": "Обзор API от Julianne Geiger зафиксировал отбор нефти на 765 тыс. барр., снижение в Cushing на 982 тыс., рост бензина на 1,238 млн и дистиллятов на 1,447 млн; SPR упал на 9,1 млн барр. BroadStreetOil и ZmansEnrgyBrain подтвердили коммерческий отбор. Цифры вышли в день, когда WTI закрылся около $73,21, а Brent — около $77,08.",
+      "tone": "bullish",
+      "tweet_ids": ["2069520457041056153", "2069520082103877900"]
+    },
+    {
+      "title_en": "Hormuz rebound vs daily transit caps",
+      "title_ru": "Восстановление Ормуза vs суточные лимиты транзита",
+      "blurb_en": "Posts cited Hormuz flows rebounding toward 4.8 mb/d even as Iran's navy said it would allow only a limited number of vessels through each day.",
+      "blurb_ru": "Посты отмечали восстановление потоков через Ормуз до ~4,8 млн б/с, хотя ВМС Ирана заявили о пропуске лишь ограниченного числа судов в сутки.",
+      "text_en": "Amena Bakr highlighted Hormuz transits rebounding to 4.8 mb/d as stranded tonnage and sanctioned fleets cleared. Staunovo and ZmansEnrgyBrain countered that Iran's Revolutionary Guards would coordinate a capped daily number of passages varying with conditions. Crudeoilreport noted Trump claiming 19 mb/d flowing, framing a bearish normalization narrative.",
+      "text_ru": "Amena Bakr отметила восстановление транзитов через Ормуз до 4,8 млн б/с по мере разблокировки застрявшего тоннажа и санкционных флотов. Staunovo и ZmansEnrgyBrain добавили, что КСИР будет координировать ограниченное суточное число проходов в зависимости от обстановки. Crudeoilreport цитировал заявление Трампа о 19 млн б/с — медвежий нарратив нормализации.",
+      "tone": "mixed",
+      "tweet_ids": ["2069482976170103238", "2069390364893487155"]
+    },
+    {
+      "title_en": "Conflicting US-Iran Hormuz guidance",
+      "title_ru": "Противоречивые указания США и Ирана по Ормузу",
+      "blurb_en": "The FT and follow-on posts said shipowners were getting incompatible US and Iranian routing advice on the safest way through the strait.",
+      "blurb_ru": "FT и последующие посты сообщали, что судовладельцы получают несовместимые указания США и Ирана по безопасному маршруту через пролив.",
+      "text_en": "LiveSquawk flagged an FT story that conflicting US-Iran advice on Hormuz left shipowners adrift, with vessels given incompatible instructions. Staunovo amplified the same headline. Energy Blogger later cited Oman and the IMO offering a temporary maritime corridor with defined coordinates.",
+      "text_ru": "LiveSquawk процитировал FT: противоречивые советы США и Ирана по Ормузу оставляют судовладельцев в неопределённости, с несовместимыми инструкциями для судов. Staunovo продублировал заголовок. Energy Blogger позже писал об Омане и IMO, предлагающих временный морской коридор с заданными координатами.",
+      "tone": "bullish",
+      "tweet_ids": ["2069272383848947899", "2069274425128612297"]
+    },
+    {
+      "title_en": "Russia mulling diesel export ban",
+      "title_ru": "Россия рассматривает запрет экспорта дизеля",
+      "blurb_en": "Deputy PM Novak said Moscow was considering a complete diesel export ban to stabilize domestic fuel markets after refinery stress.",
+      "blurb_ru": "Вице-премьер Новак заявил, что Москва рассматривает полный запрет экспорта дизеля для стабилизации внутреннего топливного рынка после проблем с переработкой.",
+      "text_en": "Staunovo reported Novak saying Russia may ban diesel exports and other measures to address shortages after Ukrainian strikes on energy infrastructure. Separate posts said refineries were maxing out and rescheduling maintenance. Earlier headlines also flagged Russia discussing fuel imports amid the strikes.",
+      "text_ru": "Staunovo сообщил, что Новак допускает запрет экспорта дизеля и другие меры из‑за дефицита после ударов по энергетической инфраструктуре. Отдельно писали о работе НПЗ на пределе и переносе ремонтов. Ранее заголовки отмечали обсуждение импорта топлива в Россию на фоне атак.",
+      "tone": "bullish",
+      "tweet_ids": ["2069443089429631122", "2069429934179680346"]
+    },
+    {
+      "title_en": "Market feels like The Big Short",
+      "title_ru": "Рынок напоминает «Игру на понижение»",
+      "blurb_en": "A widely shared post argued traders can see tightening ahead while prices move the other way, with inventories still falling.",
+      "blurb_ru": "Популярный пост утверждал, что участники видят ужесточение впереди, а цены идут в другую сторону, хотя запасы продолжают снижаться.",
+      "text_en": "Nicholas James's Big Short analogy drew heavy engagement, saying the market sees what's coming but trades opposite. He also argued the US modus operandi is talking oil down ahead of the open while daily deficits and global inventory draws continue. Rabobank's Art Berman added that the Hormuz risk premium is fading faster than physical disruption.",
+      "text_ru": "Аналогия Nicholas James с «Игрой на понижение» собрала много просмотров: рынок видит ужесточение, но торгуется в обратную сторону. Он также писал о схеме «разговорить нефть вниз» перед открытием при продолжающемся дефиците и снижении мировых запасов. Art Berman из Rabobank добавил, что премия за риск Ормуза исчезает быстрее физических сбоев.",
+      "tone": "bullish",
+      "tweet_ids": ["2069432177432178817", "2069403913254773066"]
+    },
+    {
+      "title_en": "Iraq southern output near 2.1 mb/d",
+      "title_ru": "Добыча на юге Ирака около 2,1 млн б/с",
+      "blurb_en": "Reuters sources said Iraq raised southern field output to about 2.1 mb/d as more tankers queued at Gulf export terminals.",
+      "blurb_ru": "Источники Reuters сообщили, что Ирак поднял добычу на южных месторождениях до ~2,1 млн б/с, пока к экспортным терминалам в заливе выстраивались танкеры.",
+      "text_en": "Staunovo and Ahmed Rasheed cited two Iraqi oil officials telling Reuters that southern output reached roughly 2.1 million bpd with more tankers lining up to load. The ramp sat alongside separate posts on Iraq leaning on central bank reserves after an oil export collapse.",
+      "text_ru": "Staunovo и Ahmed Rasheed со ссылкой на двух иракских чиновников Reuters писали о добыче на юге около 2,1 млн б/с и очереди танкеров на погрузку. Рост шёл рядом с материалами о том, что Ирак опирается на резервы центробанка после обвала экспорта нефти.",
+      "tone": "bearish",
+      "tweet_ids": ["2069360883281596903", "2069264118377251298"]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "date": "2026-06-20",
+  "overview_en": "Saturday was dominated by Iran's renewed Hormuz closure claim, conflicting transit counts, and weekend talk that the MoU was fraying over Lebanon. Price sentiment leaned bullish; emotional tone stayed mostly neutral amid propaganda and satellite evidence.",
+  "overview_ru": "В субботу доминировало заявление Ирана о повторном закрытии Ормуза, противоречивые подсчёты транзитов и разговоры о том, что MoU рассыпается из‑за Ливана. Сентимент по цене склонялся к бычьему; эмоциональный тон оставался в основном нейтральным на фоне пропаганды и спутниковых данных.",
+  "themes": [
+    {
+      "title_en": "Iran declares Hormuz closed again",
+      "title_ru": "Иран снова объявляет Ормуз закрытым",
+      "blurb_en": "Iran's military command said the strait would close to all maritime traffic, citing US and Israeli ceasefire violations.",
+      "blurb_ru": "Военное командование Ирана заявило, что пролив закрыт для всего морского трафика, ссылаясь на нарушения перемирия США и Израилем.",
+      "text_en": "Tasnim and Khatam al-Anbiya HQ posts said Hormuz was shut again because of alleged MoU breaches and continued Israel-Lebanon fighting. Staunovo amplified the headline that the strait would close to all traffic. Traders called it a Schrodinger's strait as other counts still showed movement.",
+      "text_ru": "Посты Tasnim и штаба Хатам аль-Анбия заявили о повторном закрытии Ормуза из‑за предполагаемых нарушений MoU и продолжающихся боёв Израиль–Ливан. Staunovo усилил заголовок о закрытии пролива для всего трафика. Трейдеры называли это «ормузом Шрёdingера», пока другие подсчёты всё ещё показывали движение.",
+      "tone": "bullish",
+      "tweet_ids": ["2068323382915940543", "2068321067312062692"]
+    },
+    {
+      "title_en": "Satellite: empty lanes, Iranian corridor",
+      "title_ru": "Спутник: пустые полосы, иранский коридор",
+      "blurb_en": "SAR imagery showed traditional Hormuz lanes at zero traffic while hulls hugged the Iranian corridor.",
+      "blurb_ru": "SAR-снимки показали нулевой трафик на традиционных полосах Ормуза, тогда как суда шли по иранскому коридору.",
+      "text_en": "CRUDEOIL231 posted June 20 SAR imagery of the Strait of Hormuz, noting white specks hugging the Iranian side while traditional transit lanes were empty. A follow-up post said other GCC players struggled to load normally even as Iran concurrently loaded three hulls at Kharg.",
+      "text_ru": "CRUDEOIL231 опубликовал SAR-снимок Ормуза от 20 июня: белые точки — суда у иранского берега, традиционные транзитные полосы пусты. Следующий пост добавил, что другие игроки ЗСК не могут нормально грузиться, пока Иран одновременно грузит три судна в Харге.",
+      "tone": "bullish",
+      "tweet_ids": ["2068397928260284736", "2068404791219495210"]
+    },
+    {
+      "title_en": "IEA tallies massive SPR releases",
+      "title_ru": "МЭА подсчитала масштабные релизы из SPR",
+      "blurb_en": "IEA data showed 252 mb released so far with April-May draw paces of 2–2.5 mb/d — a key weekend post.",
+      "blurb_ru": "Данные МЭА показали уже 252 млн барр. релизов при темпах отбора в апреле–мае 2–2,5 млн б/с — ключевой пост выходных.",
+      "text_en": "Staunovo shared IEA figures: 252 million barrels released to date, 79 million more scheduled, with April at 2 mb/d and May at 2.5 mb/d. Weekend commentary tied slower future SPR draining to higher eventual price spikes.",
+      "text_ru": "Staunovo поделился цифрами МЭА: уже выпущено 252 млн барр., ещё 79 млн запланировано, в апреле темп 2 млн б/с, в мае — 2,5 млн. Комментарии выходных связывали замедление будущих отборов из SPR с более высокими последующими скачками цен.",
+      "tone": "bullish",
+      "tweet_ids": ["2068379950269252046"]
+    },
+    {
+      "title_en": "MoU dealbreakers pile up",
+      "title_ru": "Копятся dealbreaker'ы MoU",
+      "blurb_en": "Weekend posts listed US navy presence, Israel's Lebanon stance, and Iran's Hormuz reversal as breaking the ceasefire framework.",
+      "blurb_ru": "Посты выходных перечислили присутствие ВМС США, позицию Израиля по Ливану и новый разворот Ирана по Ормузу как разрушающие рамку перемирия.",
+      "text_en": "Commentary said Israel kept striking Lebanon despite Trump's ceasefire demand and that Iran may have exported oil first before re-closing Hormuz. Late posts cited Iran insisting Hormuz stays shut unless Israel fully withdraws from southern Lebanon.",
+      "text_ru": "Комментарии говорили, что Израиль продолжал удары по Ливану несмотря на требование перемирия от Трампа, а Иран мог сначала вывести нефть, а затем снова закрыть Ормуз. Поздние посты цитировали требование Ирана держать пролив закрытым, пока Израиль полностью не выведет войска из южного Ливана.",
+      "tone": "bullish",
+      "tweet_ids": ["2068347638840185275", "2068481283311964380"]
+    },
+    {
+      "title_en": "WTI oversold after 10% weekly drop",
+      "title_ru": "WTI перепродан после недельного падения на 10%",
+      "blurb_en": "Art Berman argued WTI was oversold after falling $8.28 to $76.60, though spreads pointed to sideways action.",
+      "blurb_ru": "Art Berman считал WTI перепроданным после падения на $8,28 до $76,60, хотя спреды указывали на боковик.",
+      "text_en": "Berman posted that WTI fell about 10% for the week ending June 19, from roughly $84.99 to $76.60, and that 12-month spreads suggested sideways prices. SpreadCharts pushed back on talk of record Brent shorts, noting specs remained net long.",
+      "text_ru": "Berman написал, что WTI упал примерно на 10% за неделю по 19 июня — с ~$84,99 до $76,60 — и что 12-месячные спреды указывают на боковик. SpreadCharts возражал против разговоров о рекордных шортах Brent, отмечая, что спекулянты всё ещё в чистом лонге.",
+      "tone": "mixed",
+      "tweet_ids": ["2068307749495070817", "2068265519040348629"]
+    }
+  ]
+}

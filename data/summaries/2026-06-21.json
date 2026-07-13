@@ -1,0 +1,67 @@
+{
+  "date": "2026-06-21",
+  "overview_en": "Sunday mixed collapsed US-Iran talks in Switzerland with Hormuz closure headlines, Trump strait threats, and Iran still exporting large crude volumes. Price sentiment was mixed; emotional tone turned more negative as Qatar LNG and talk-walkout headlines hit.",
+  "overview_ru": "В воскресенье смешались сорванные переговоры США–Иран в Швейцарии, заголовки о закрытии Ормуза, угрозы Трампа по проливу и продолжающийся крупный экспорт иранской нефти. Сентимент по цене был смешанным; эмоциональный тон стал более негативным на фоне инцидента с СПГ в Кatar и ухода делегации с переговоров.",
+  "themes": [
+    {
+      "title_en": "Iran walks out after Trump Hormuz threats",
+      "title_ru": "Иран уходит с переговоров после угроз Трампа по Ормузу",
+      "blurb_en": "Iran's delegation left Switzerland talks protesting Trump's threats to take the strait and collect tolls.",
+      "blurb_ru": "Делегация Ирана покинула переговоры в Швейцарии в знак протеста против угроз Трампа взять пролив под контроль и взимать пошлины.",
+      "text_en": "Staunovo amplified Trump saying Iran would not have a country if it closed Hormuz and that the US might take over the strait or collect tolls. Iran's team later walked out, calling the remarks an MoU violation, and posts said Tehran would not return unless Trump apologized.",
+      "text_ru": "Staunovo передал слова Трампа, что у Ирана не останется страны, если он закроет Ормуз, и что США могут взять пролив под контроль или взимать пошлины. Позже иранская команда ушла, назвав это нарушением MoU, а посты говорили, что Тегеран не вернётся, пока Трамп не извинится.",
+      "tone": "bullish",
+      "tweet_ids": ["2068687695010795875", "2068736105814556993"]
+    },
+    {
+      "title_en": "Hormuz: closed headlines, sparse transits",
+      "title_ru": "Ормуз: заголовки о закрытии, редкие транзиты",
+      "blurb_en": "Weekend posts cited no visible Hormuz transits in 24 hours even as isolated tankers still cleared the southern route.",
+      "blurb_ru": "Посты выходных сообщали об отсутствии видимых транзитов через Ормуз за 24 часа, хотя отдельные танкеры всё же проходили южным маршрутом.",
+      "text_en": "Multiple accounts warned Hormuz reopening progress had reversed with very low crossings. Staunovo also noted three Indian-flagged tankers cleared the strait, while another post said Gulf Sunrise transited via the southern route in dark mode.",
+      "text_ru": "Несколько аккаунтов предупреждали, что прогресс по открытию Ормуза откатился и проходов почти нет. Staunovo также отметил проход трёх индийских танкеров, а другой пост сообщил о транзите Gulf Sunrise южным маршрутом в «тёмном режиме».",
+      "tone": "bullish",
+      "tweet_ids": ["2068526613759685065", "2068570678807146867"]
+    },
+    {
+      "title_en": "Iran exported 36 mb since June 15",
+      "title_ru": "Иран экспортировал 36 млн барр. с 15 июня",
+      "blurb_en": "TankerTrackers said Iran shipped 36 million barrels since June 15 with a similar volume still afloat — the day's top post.",
+      "blurb_ru": "TankerTrackers сообщил об экспорте Ираном 36 млн барр. с 15 июня и примерно таком же объёме ещё на плаву — главный пост дня.",
+      "text_en": "The most-viewed weekend headline from TankerTrackers put Iranian exports at 36 million barrels since June 15, with roughly an equal amount still afloat in Iran. Bears used the figure to argue Iran was winning the export race while Hormuz stayed constrained for others.",
+      "text_ru": "Самый просматриваемый заголовок выходных от TankerTrackers оценил иранский экспорт в 36 млн барр. с 15 июня, примерно столько же ещё на плаву у Ирана. Медведи использовали цифру как аргument, что Иран выигрывает гонку экспорта, пока Ормуз остаётся ограниченным для других.",
+      "tone": "bearish",
+      "tweet_ids": ["2068838932201292164"]
+    },
+    {
+      "title_en": "Qatar LNG fire and Doha explosion",
+      "title_ru": "Пожар на СПГ в Кatar и взрыв в Дохе",
+      "blurb_en": "QatarEnergy confirmed a fire at a Ras Laffan gas site as explosion reports circulated in Doha.",
+      "blurb_ru": "QatarEnergy подтвердила пожар на газовом объекте в Рас-Лaffan на фоне сообщений о взрыве в Дохе.",
+      "text_en": "ZmansEnrgyBrain quoted QatarEnergy saying an operational incident during start-up at Ras Laffan led to explosion and fire at a Barzan gas supply site. Separate posts flagged loud explosions heard in Doha, adding another Gulf supply-risk layer to the weekend.",
+      "text_ru": "ZmansEnrgyBrain процитировал QatarEnergy: операционный инцидент при пуске в Рас-Лaffan привёл к взрыву и пожару на объекте снабжения газом Barzan. Отдельные посты сообщали о громких взрывах в Дохе, добавляя ещё один слой риска поставок из Залива.",
+      "tone": "bullish",
+      "tweet_ids": ["2068798117827277121", "2068784723028213829"]
+    },
+    {
+      "title_en": "Bulls eye inventory squeeze, $80–90 range",
+      "title_ru": "Быки смотрят на дефицит запасов и диапазон $80–90",
+      "blurb_en": "High-engagement posts warned of violent crude draws and a sustained $80–90 risk premium while talks frayed.",
+      "blurb_ru": "Популярные посты предупреждали о резких отборах нефти и устойчивой премии риска $80–90 на фоне срыва переговоров.",
+      "text_en": "SanctionsAML cited Robin Brooks saying loose ends in the peace deal keep oil stuck in an $80–90 range. Two widely shared posts from rjplanetb argued crude draws would accelerate and that Iran could stall Hormuz reopening until the world neared an oil crisis.",
+      "text_ru": "SanctionsAML процитировал Robin Brooks: незакрытые хвосты мирной сделки удерживают нефть в диапазоне $80–90. Два широко расшаренных поста rjplanetb утверждали, что отборы нефти ускорятся и Иран может тянуть с открытием Ормуза, пока мир не подойдёт к нефтяному кризису.",
+      "tone": "bullish",
+      "tweet_ids": ["2068838913213452488", "2068676675664064980"]
+    },
+    {
+      "title_en": "Ukraine hits Russian refining again",
+      "title_ru": "Украина снова бьёт по российской переработке",
+      "blurb_en": "Weekend headlines included confirmed drone strikes on Russian refining and Kerch port facilities.",
+      "blurb_ru": "Заголовки выходных включали подтверждённые удары дронов по российской переработке и объектам порта Керчь.",
+      "text_en": "Staunovo flagged Zelenskiy confirming strikes on Tyumen refining and separate reports of fires at Kerch and Port Kavkaz oil depots. The posts added a products-tightness footnote beside the Iran-focused weekend flow.",
+      "text_ru": "Staunovo отметил подтверждение Зелensky ударов по переработке в Тюмени и отдельные сообщения о пожарах на нефтебазах в Керчи и порту Кавkaz. Посты добавили сноску о жёсткости продуктового рынка рядом с иранским потоком выходных.",
+      "tone": "bullish",
+      "tweet_ids": ["2068570639254905235", "2068590083318456818"]
+    }
+  ]
+}

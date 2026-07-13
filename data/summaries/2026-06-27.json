@@ -1,0 +1,57 @@
+{
+  "date": "2026-06-27",
+  "overview_en": "Friday centered on Iran–Hormuz escalation — permit rules, tanker incidents, and strikes near Bahrain — alongside a sharp weekly crude selloff and rising middle-distillate supplies. Price sentiment was mixed: geopolitics stayed bullish but post-drop technicals and product-supply relief leaned bearish; emotional tone was tense.",
+  "overview_ru": "В пятницу доминировали эскалация вокруг Ирана и Ормуза — правила пропуска, инциденты с танкерами и удары по Бахрейну — на фоне резкого недельного падения нефти и роста предложения средних дистиллятов. Сентимент по цене был смешанным: геополитика оставалась бычьей, но техника после падения и продуктовое предложение тянули в медвежью сторону; эмоциональный тон — напряжённый.",
+  "themes": [
+    {
+      "title_en": "Iran tightens Hormuz control; Bahrain hit",
+      "title_ru": "Иран ужесточает контроль Ормуза; удар по Бахрейну",
+      "blurb_en": "Posts argued traditional Hormuz arrangements had collapsed as Iran demanded transit permits, fired warning shots, and retaliatory strikes reached Bahrain and Kuwait.",
+      "blurb_ru": "Посты утверждали, что прежние правила Ормуза рухнули: Иран требовал разрешений, стрелял предупредительно, а ответные удары дошли до Бахрейна и Кувейта.",
+      "text_en": "Noam Raydan's thread on Iranian control of Hormuz drew heavy engagement, warning the shift may not be temporary. Amena Bakr flagged more ships seeking Iranian permits after warning shots, Iran hitting US-linked targets, and JD Vance's 'violence met by violence' line. Energy Tidbits reported a tanker hit near Oman and Bahrain drone alerts near Ras Tanura.",
+      "text_ru": "Тред Noam Raydan об иранском контроле Ормуза собрал много просмотров с предупреждением, что сдвиг может быть не временным. Amena Bakr отмечала рост запросов на пропуск после предупредительных выстрелов, удары по целям, связанным с США, и формулировку JD Vance «на насилие — насилием». Energy Tidbits сообщал об ударе по танkerу у Омана и тревоге по дронам в Бахрейне рядом с Ras Tanura.",
+      "tone": "bullish",
+      "tweet_ids": ["2070895836372836698", "2070911943708127646"]
+    },
+    {
+      "title_en": "WTI/Brent down ~10% on the week",
+      "title_ru": "WTI/Brent −~10% за неделю",
+      "blurb_en": "Art Berman flagged oversold WTI after a $7+ (~10%) weekly drop and sharply narrowed spreads, implying further weakness into Monday.",
+      "blurb_ru": "Art Berman отмечал перепроданность WTI после падения более чем на $7 (~10%) за неделю и резкое сужение спредов — сигнал к дальнейшей слабости в понедельник.",
+      "text_en": "WTI fell from about $76.60 to $69.23 week ending June 26; Brent dropped from $79.85 to $71.99. Twelve-month spreads narrowed 57–74%, with Berman arguing the curve pointed to lower front-month prices. A separate post said $65 WTI might be needed before going long.",
+      "text_ru": "WTI упал примерно с $76,60 до $69,23 к концу недели 26 июня; Brent — с $79,85 до $71,99. 12-месячные спреды сузились на 57–74%, Berman указывал на более низкие цены ближайших контрактов. Отдельный пост писал, что для лонга может понадобиться WTI около $65.",
+      "tone": "bearish",
+      "tweet_ids": ["2070888390992478434", "2070905534555812038"]
+    },
+    {
+      "title_en": "Middle distillates: supplies above seasonal",
+      "title_ru": "Средние дистилляты: запасы выше сезонных",
+      "blurb_en": "Global seaborne middle-distillate supplies moved above the June seasonal average as Hormuz reopening added barrels and pressured product prices.",
+      "blurb_ru": "Морские поставки средних дистиллятов превысили сезонную норму июня на фоне частичного открытия Ормуза — давление на цены продуктов.",
+      "text_en": "Staunovo highlighted that global middle-distillate seaborne supplies exceeded the seasonal June average and were expected to rise further as Hormuz traffic improved. The headline framed prices falling alongside rising supplies — a bearish counter to Gulf risk premium.",
+      "text_ru": "Staunovo подчёркивал, что морские поставки средних дистиллятов превысили сезонную норму июня и, вероятно, вырастут дальше по мере улучшения трафика через Ормуз. Заголовок связывал рост предложения со снижением цен — медвежий контраст к риск-премии Залива.",
+      "tone": "bearish",
+      "tweet_ids": ["2070757581228773651"]
+    },
+    {
+      "title_en": "Norway offshore lockout disrupts drilling",
+      "title_ru": "Локаут нефтесервиса в Норвегии мешает бурению",
+      "blurb_en": "A Norway oil-service lockout took effect, disrupting offshore drilling activity in the North Sea.",
+      "blurb_ru": "Вступил в силу локаут нефтесервиса в Норвегии, нарушивший офшорное бурение в Северном море.",
+      "text_en": "Staunovo flagged the lockout's immediate impact on offshore drilling. The same day Rigzone noted Var Energi's Gjoa subsea FID targeting ~76 million boe — supply news flowing both ways.",
+      "text_ru": "Staunovo отмечал немедленное влияние локаута на офшорное бурение. В тот же день Rigzone писал о FID Var Energi по проекту Gjoa Subsea на ~76 млн boe — новости по предложению шли в обе стороны.",
+      "tone": "bullish",
+      "tweet_ids": ["2070749242830852436"]
+    },
+    {
+      "title_en": "Russia sanctions: Putin ban, EU phaseout push",
+      "title_ru": "Санкции против РФ: продление запрета, давление ЕС",
+      "blurb_en": "Putin extended Russia's G7/EU price-cap-linked oil export ban through 2027 while Baltic states urged a faster EU Russian-oil phaseout.",
+      "blurb_ru": "Путин продлил привязанный к потолку цен G7/ЕС запрет на экспорт российской нефти до 2027 г., а страны Балтии призывали ускорить отказ ЕС от нефти РФ.",
+      "text_en": "Staunovo relayed Putin's extension of the export ban tied to the G7/EU price cap through 2027. Separately, Baltic states pressed the EU to speed a Russian oil import ban, noting talks had stalled after Hormuz closure fears.",
+      "text_ru": "Staunovo передавал продление Путиным экспортного запрета, связанного с потолком цен G7/ЕС, до 2027 г. Отдельно страны Балтии настаивали на ускорении запрета на импорт российской нефти в ЕС, отмечая, что переговоры застопорились после страхов по Ормузу.",
+      "tone": "bullish",
+      "tweet_ids": ["2070755938424787091", "2070756397013152045"]
+    }
+  ]
+}
