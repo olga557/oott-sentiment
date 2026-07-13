@@ -200,16 +200,20 @@ main { max-width: 1280px; margin: 0 auto; padding: 20px 24px 60px; }
 .theme .links a { color: var(--accent); font-size: 11.5px; text-decoration: none; margin-right: 8px; }
 .no-data { color: var(--muted); padding: 20px; text-align: center; }
 
-.mini-cards { display: flex; gap: 10px; flex-wrap: wrap; margin-bottom: 10px; }
+.mini-cards { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 10px; margin-bottom: 10px; }
 .mini-card {
   background: var(--panel-2);
   border: 1px solid var(--border);
   border-radius: 8px;
-  padding: 8px 12px;
+  padding: 10px 12px;
   font-size: 13px;
   color: var(--muted);
+  min-width: 0;
 }
 .mini-card b { color: var(--text); font-size: 15px; }
+
+.table-scroll { width: 100%; overflow-x: auto; -webkit-overflow-scrolling: touch; }
+.table-scroll table { min-width: 520px; }
 
 table { width: 100%; border-collapse: collapse; font-size: 13.5px; }
 th {
@@ -243,9 +247,154 @@ a.author-link { color: var(--accent); text-decoration: none; font-weight: 600; }
 .badge.Bearish { background: rgba(224,82,82,0.15); color: var(--bear); }
 .badge.Neutral { background: rgba(139,150,173,0.15); color: var(--neu); }
 
+/* Mobile tweet accordion + author cards */
+.tweet-cards, .author-cards { display: flex; flex-direction: column; gap: 8px; }
+.tweet-card, .author-card {
+  background: var(--panel-2);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  overflow: hidden;
+}
+.tweet-card summary {
+  list-style: none;
+  cursor: pointer;
+  padding: 11px 12px;
+}
+.tweet-card summary::-webkit-details-marker { display: none; }
+.tweet-card[open] summary { border-bottom: 1px solid var(--border); }
+.tweet-card-top {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 6px 8px;
+  margin-bottom: 4px;
+}
+.tweet-rank {
+  width: 22px; height: 22px;
+  border-radius: 50%;
+  background: rgba(77,163,255,0.18);
+  color: var(--accent);
+  font-size: 12px;
+  font-weight: 700;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.tweet-metric { margin-left: auto; color: var(--text); font-size: 12.5px; }
+.tweet-preview {
+  color: var(--muted);
+  font-size: 13px;
+  line-height: 1.4;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.tweet-tap-hint {
+  margin-top: 5px;
+  font-size: 11px;
+  color: var(--accent);
+  opacity: 0.85;
+}
+.tweet-card[open] .tweet-tap-hint { display: none; }
+.tweet-card[open] .tweet-preview { display: none; }
+.tweet-card-body { padding: 11px 12px 13px; }
+.tweet-full { font-size: 14px; line-height: 1.45; margin-bottom: 10px; }
+.tweet-stats {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 6px;
+  margin-bottom: 8px;
+}
+.tweet-stats span, .author-metrics span {
+  background: var(--panel);
+  border-radius: 8px;
+  padding: 6px 8px;
+  font-size: 11.5px;
+  color: var(--muted);
+}
+.tweet-stats b, .author-metrics b { color: var(--text); }
+.author-card { padding: 11px 12px; }
+.author-metrics {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 6px;
+  margin-top: 8px;
+}
+
 .lang-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; align-items: center; }
 @media (max-width: 640px) { .lang-grid { grid-template-columns: 1fr; } }
 #langChart { height: 240px; }
 #langTable table { font-size: 13px; }
 
-footer { color: var(--muted); font-size: 12px; text-align: center; margin-top: 10px; }
+footer { color: var(--muted); font-size: 12px; text-align: center; margin-top: 10px; padding-bottom: env(safe-area-inset-bottom, 0); }
+
+/* -------- Mobile layout polish -------- */
+@media (max-width: 720px) {
+  .topbar {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 10px;
+    padding: 12px 14px;
+  }
+  .brand h1 { font-size: 18px; }
+  .brand h1 span { display: block; margin: 2px 0 0; font-size: 12px; }
+  .date-nav { justify-content: space-between; width: 100%; }
+  .date-nav input[type="date"] { flex: 1; min-width: 0; }
+
+  main { padding: 14px 12px 80px; }
+
+  .cards {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 8px;
+    margin-bottom: 14px;
+  }
+  .card { padding: 12px; border-radius: 10px; }
+  .card .k { font-size: 11px; }
+  .card .v { font-size: 20px; }
+  .card .d { font-size: 11px; }
+
+  .panel {
+    padding: 12px;
+    margin-bottom: 14px;
+    border-radius: 10px;
+    width: 100%;
+  }
+  .panel-head {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 8px;
+  }
+  .panel-head h2 { font-size: 15px; }
+  .right-group {
+    width: 100%;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 8px;
+  }
+  .seg {
+    width: 100%;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+  .seg button { padding: 7px 10px; font-size: 12px; flex: 1 0 auto; }
+  .seg-group { width: 100%; }
+  .seg-group .seg { width: 100%; }
+
+  .chart { height: 240px; }
+  .chart.tall { height: 260px; }
+  .chart.extra-tall { height: 280px; }
+  .gauge { height: 190px; }
+  .gauge-meta { font-size: 12px; padding: 0 4px; line-height: 1.45; }
+
+  .summary-body .overview { padding: 12px 14px; }
+  .overview-text { font-size: 14.5px; }
+  .theme { padding: 10px; }
+  .theme .blurb { font-size: 13.5px; }
+
+  .mini-cards { grid-template-columns: 1fr 1fr; gap: 8px; }
+  .mini-card { width: 100%; }
+
+  #mapChart { height: 280px !important; }
+}

@@ -124,7 +124,19 @@ async function init() {
     `Данные: ${days[0]} — ${days[days.length - 1]} · твиты #OOTT через twitterapi.io · ` +
     `обновлено ${state.index.generated_at.replace("T", " ").replace("Z", " UTC")}`;
 
-  window.addEventListener("resize", () => Object.values(charts).forEach((c) => c.resize()));
+  let wasMobile = isMobile();
+  window.addEventListener("resize", () => {
+    Object.values(charts).forEach((c) => c.resize());
+    const nowMobile = isMobile();
+    if (nowMobile !== wasMobile && state.dayData) {
+      wasMobile = nowMobile;
+      renderSentiment();
+      renderAuthors();
+      renderTopTweets();
+      renderIndexHistory();
+      renderAuthorsChart();
+    }
+  });
 }
 
 function step(dir) {
@@ -274,18 +286,33 @@ function renderSummary() {
 
 /* ---------------------------------------------------------------- sentiment */
 
+function isMobile() {
+  return window.matchMedia("(max-width: 720px)").matches;
+}
+
 function gaugeOption(value, title) {
+  const mobile = isMobile();
   return {
     series: [{
       type: "gauge",
       min: -100, max: 100, startAngle: 200, endAngle: -20,
-      axisLine: { lineStyle: { width: 16, color: [[0.35, COLORS.bear], [0.65, COLORS.neu], [1, COLORS.bull]] } },
-      pointer: { itemStyle: { color: COLORS.text }, width: 4 },
-      axisTick: { show: false }, splitLine: { length: 8, lineStyle: { color: "#0f1420", width: 2 } },
-      axisLabel: { color: COLORS.muted, distance: 22, fontSize: 10 },
+      splitNumber: mobile ? 4 : 8,
+      axisLine: { lineStyle: { width: mobile ? 12 : 16, color: [[0.35, COLORS.bear], [0.65, COLORS.neu], [1, COLORS.bull]] } },
+      pointer: { itemStyle: { color: COLORS.text }, width: mobile ? 3 : 4 },
+      axisTick: { show: false },
+      splitLine: { length: mobile ? 6 : 8, lineStyle: { color: "#0f1420", width: 2 } },
+      axisLabel: {
+        color: COLORS.muted,
+        distance: mobile ? 10 : 18,
+        fontSize: mobile ? 9 : 10,
+        formatter: (v) => (mobile && Math.abs(v) === 50 ? "" : String(v)),
+      },
       title: { show: false },
       detail: {
-        valueAnimation: true, fontSize: 30, fontWeight: 700, offsetCenter: [0, "62%"],
+        valueAnimation: true,
+        fontSize: mobile ? 26 : 30,
+        fontWeight: 700,
+        offsetCenter: [0, mobile ? "58%" : "62%"],
         color: value === null ? COLORS.muted : value > 10 ? COLORS.bull : value < -10 ? COLORS.bear : COLORS.text,
         formatter: value === null ? "нет данных" : (value > 0 ? "+" : "") + value,
       },
@@ -295,11 +322,17 @@ function gaugeOption(value, title) {
 }
 
 function hourlyStack(containerId, rows, names, colors) {
+  const mobile = isMobile();
   chart(containerId).setOption({
     tooltip: { ...baseTooltip, trigger: "axis" },
-    legend: { textStyle: { color: COLORS.muted }, top: 0 },
-    grid: { left: 40, right: 16, top: 34, bottom: 28 },
-    xAxis: { ...baseAxis, type: "category", data: rows.map((r) => r.hour), name: "час UTC", nameTextStyle: { color: COLORS.muted } },
+    legend: { textStyle: { color: COLORS.muted, fontSize: mobile ? 11 : 12 }, top: 0 },
+    grid: { left: mobile ? 32 : 40, right: 12, top: 34, bottom: mobile ? 36 : 28 },
+    xAxis: {
+      ...baseAxis, type: "category", data: rows.map((r) => r.hour),
+      name: mobile ? "" : "час UTC",
+      nameTextStyle: { color: COLORS.muted },
+      axisLabel: { ...baseAxis.axisLabel, fontSize: mobile ? 9 : 11, interval: mobile ? 2 : 0 },
+    },
     yAxis: { ...baseAxis, type: "value" },
     series: [
       { name: names[0], type: "bar", stack: "s", data: rows.map((r) => r.pos), itemStyle: { color: colors[0] } },
@@ -344,15 +377,19 @@ function renderIndexHistory() {
   const key = mode === "price" ? "price_index" : "emo_index";
   const brent = state.history.brent || {};
   const dates = rows.map((r) => r.date);
+  const mobile = isMobile();
 
   chart("idxHistory").setOption({
     tooltip: { ...baseTooltip, trigger: "axis" },
-    legend: { textStyle: { color: COLORS.muted }, top: 0 },
-    grid: { left: 48, right: 56, top: 34, bottom: 28 },
-    xAxis: { ...baseAxis, type: "category", data: dates },
+    legend: { textStyle: { color: COLORS.muted, fontSize: mobile ? 11 : 12 }, top: 0 },
+    grid: { left: mobile ? 40 : 48, right: mobile ? 40 : 56, top: 34, bottom: mobile ? 48 : 28 },
+    xAxis: {
+      ...baseAxis, type: "category", data: dates,
+      axisLabel: { ...baseAxis.axisLabel, rotate: mobile ? 45 : 0, fontSize: mobile ? 9 : 11 },
+    },
     yAxis: [
-      { ...baseAxis, type: "value", name: "индекс", min: -100, max: 100 },
-      { ...baseAxis, type: "value", name: "Brent, $", splitLine: { show: false }, scale: true },
+      { ...baseAxis, type: "value", name: mobile ? "" : "индекс", min: -100, max: 100 },
+      { ...baseAxis, type: "value", name: mobile ? "" : "Brent, $", splitLine: { show: false }, scale: true },
     ],
     series: [
       {
@@ -554,7 +591,7 @@ function renderLanguages() {
     `<tr><td>${LANG_RU[k] || k} <span class="hint">${k}</span></td><td class="num">${fmt(v)} (${(100 * v / total).toFixed(1)}%)</td></tr>`
   );
   if (restVal > 0) rows.push(`<tr><td>Прочие (вкл. «только хэштеги/медиа»)</td><td class="num">${fmt(restVal)} (${(100 * restVal / total).toFixed(1)}%)</td></tr>`);
-  el("langTable").innerHTML = `<table><thead><tr><th>Язык</th><th class="num">Твиты (%)</th></tr></thead><tbody>${rows.join("")}</tbody></table>`;
+  el("langTable").innerHTML = `<div class="table-scroll"><table><thead><tr><th>Язык</th><th class="num">Твиты (%)</th></tr></thead><tbody>${rows.join("")}</tbody></table></div>`;
 }
 
 /* ---------------------------------------------------------------- authors */
@@ -566,7 +603,21 @@ function renderAuthors() {
     <div class="mini-card">Впервые с #OOTT: <b>${d.new_authors}</b></div>`;
 
   const rows = state.modes.auth === "tweets" ? d.top_authors_by_tweets : d.top_authors_by_views;
-  el("authorsTable").innerHTML = `<table>
+  if (isMobile()) {
+    el("authorsTable").innerHTML = `<div class="author-cards">${rows.map((a) => `
+      <div class="author-card">
+        <a class="author-link" href="https://x.com/${a.username}" target="_blank" rel="noopener">@${a.username}</a>
+        <div class="hint">${a.name || ""}</div>
+        <div class="author-metrics">
+          <span><b>${a.tweets}</b> твитов</span>
+          <span><b>${fmt(a.views)}</b> просм.</span>
+          <span><b>${fmt(a.likes)}</b> лайков</span>
+          <span><b>${fmt(a.followers)}</b> фолл.</span>
+        </div>
+      </div>`).join("")}</div>`;
+    return;
+  }
+  el("authorsTable").innerHTML = `<div class="table-scroll"><table>
     <thead><tr><th>Автор</th><th class="num">Твиты</th><th class="num">Просмотры</th><th class="num">Лайки</th><th class="num">Фолловеры</th></tr></thead>
     <tbody>${rows.map((a) => `<tr>
       <td><a class="author-link" href="https://x.com/${a.username}" target="_blank" rel="noopener">@${a.username}</a><br><span class="hint">${a.name}</span></td>
@@ -574,16 +625,20 @@ function renderAuthors() {
       <td class="num">${fmt(a.views)}</td>
       <td class="num">${fmt(a.likes)}</td>
       <td class="num">${fmt(a.followers)}</td>
-    </tr>`).join("")}</tbody></table>`;
+    </tr>`).join("")}</tbody></table></div>`;
 }
 
 function renderAuthorsChart() {
   const rows = state.history.per_day;
+  const mobile = isMobile();
   chart("authorsChart").setOption({
     tooltip: { ...baseTooltip, trigger: "axis" },
     legend: { textStyle: { color: COLORS.muted }, top: 0 },
-    grid: { left: 44, right: 16, top: 34, bottom: 28 },
-    xAxis: { ...baseAxis, type: "category", data: rows.map((r) => r.date) },
+    grid: { left: 44, right: 16, top: 34, bottom: mobile ? 48 : 28 },
+    xAxis: {
+      ...baseAxis, type: "category", data: rows.map((r) => r.date),
+      axisLabel: { ...baseAxis.axisLabel, rotate: mobile ? 45 : 0, fontSize: mobile ? 9 : 11, interval: mobile ? "auto" : 0 },
+    },
     yAxis: { ...baseAxis, type: "value" },
     series: [
       { name: "Уникальные авторы", type: "line", data: rows.map((r) => r.unique_authors), smooth: true, lineStyle: { color: COLORS.accent }, itemStyle: { color: COLORS.accent }, areaStyle: { opacity: 0.08 } },
@@ -601,8 +656,45 @@ function renderTopTweets() {
     .replace(/&/g, "&amp;").replace(/</g, "&lt;")
     .replace(/https?:\/\/\S+/g, "")
     .replace(/@(\w+)/g, `<a href="https://x.com/$1" target="_blank" rel="noopener">@$1</a>`);
+  const plain = (text) => text.replace(/https?:\/\/\S+/g, "").replace(/\s+/g, " ").trim();
 
-  el("topTweets").innerHTML = `<table>
+  if (isMobile()) {
+    el("topTweets").innerHTML = `<div class="tweet-cards">${rows.map((t, i) => {
+      const lab = t.labels && t.labels.relevant ? `<span class="badge ${t.labels.price_sentiment}">${t.labels.price_sentiment}</span>` : "";
+      const preview = plain(t.text).slice(0, 90) + (plain(t.text).length > 90 ? "…" : "");
+      return `<details class="tweet-card">
+        <summary>
+          <div class="tweet-card-summary">
+            <div class="tweet-card-top">
+              <span class="tweet-rank">${i + 1}</span>
+              <a class="author-link" href="https://x.com/${t.author}" target="_blank" rel="noopener" onclick="event.stopPropagation()">@${t.author}</a>
+              ${lab}
+              <span class="tweet-metric"><b>${fmt(t[metric])}</b> ${METRIC_RU[metric] || metric}</span>
+            </div>
+            <div class="tweet-preview">${preview}</div>
+            <div class="tweet-tap-hint">нажмите, чтобы раскрыть</div>
+          </div>
+        </summary>
+        <div class="tweet-card-body">
+          <div class="tweet-full">${linkify(t.text)}</div>
+          <div class="tweet-stats">
+            <span><b>${fmt(t.views)}</b> просм.</span>
+            <span><b>${fmt(t.likes)}</b> лайков</span>
+            <span><b>${fmt(t.replies)}</b> реплаев</span>
+            <span><b>${fmt(t.retweets)}</b> RT</span>
+            <span><b>${fmt(t.bookmarks)}</b> закладок</span>
+          </div>
+          <div class="tweet-meta">
+            ${fmt(t.followers)} фолловеров · ${t.time} UTC ·
+            <a href="${t.url}" target="_blank" rel="noopener">открыть ↗</a>
+          </div>
+        </div>
+      </details>`;
+    }).join("")}</div>`;
+    return;
+  }
+
+  el("topTweets").innerHTML = `<div class="table-scroll"><table>
     <thead><tr><th>Твит</th><th class="num">Просм.</th><th class="num">Лайки</th><th class="num">Реплаи</th><th class="num">RT</th><th class="num">Закл.</th></tr></thead>
     <tbody>${rows.map((t) => {
       const lab = t.labels && t.labels.relevant ? `<span class="badge ${t.labels.price_sentiment}">${t.labels.price_sentiment}</span>` : "";
@@ -616,7 +708,7 @@ function renderTopTweets() {
       <td class="num">${fmt(t.views)}</td><td class="num">${fmt(t.likes)}</td>
       <td class="num">${fmt(t.replies)}</td><td class="num">${fmt(t.retweets)}</td>
       <td class="num">${fmt(t.bookmarks)}</td></tr>`;
-    }).join("")}</tbody></table>`;
+    }).join("")}</tbody></table></div>`;
 }
 
 /* ---------------------------------------------------------------- map */
