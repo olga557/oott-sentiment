@@ -1,0 +1,47 @@
+{
+  "date": "2026-07-08",
+  "overview_en": "Wednesday centered on Hormuz tanker traffic grinding to a halt, Trump saying the Iran ceasefire was over, and a sharp settlement rally in crude. Price sentiment was firmly bullish; emotional tone mixed toward negative amid war and squeeze talk.",
+  "overview_ru": "В среду обсуждали почти остановившийся танкерный трафик через Ормуз, слова Трампа о конце перемирия с Ираном и резкий рост расчётных цен на нефть. Сентимент по влиянию на цену был уверенно бычьим; эмоциональный тон — смешанный с уклоном в негатив на фоне войны и разговоров о шорт-сквизе.",
+  "themes": [
+    {
+      "title_en": "Hormuz: traffic 'essentially stopped'",
+      "title_ru": "Ормуз: трафик «практически остановился»",
+      "blurb_en": "Reports said Hormuz tanker traffic had essentially stopped, while others argued trapped hulls were clearing — chokepoint risk stayed front and center.",
+      "blurb_ru": "Сообщения говорили, что танкерный трафик через Ормуз практически остановился, другие — что застрявшие суда уже выходят; риск «бутылочного горлышка» оставался в центре внимания.",
+      "text_en": "Staunovo said oil tanker traffic through the Strait of Hormuz had 'essentially stopped', while CRUDEOIL231 argued the Persian Gulf bottleneck had largely cleared as trapped laden hulls left. Iran's Press TV, citing a source, said Tehran would close Hormuz if attacked again. Shipowners were described as wrestling with Hormuz risks as the US–Iran deal narrative crumbled.",
+      "text_ru": "Staunovo писал, что танкерный трафик через Ормуз «практически остановился», а CRUDEOIL231 утверждал, что узкое место в Заливе в основном рассосалось. Press TV Ирана со ссылкой на источник заявило о закрытии Ормуза при новых атаках. Отдельно писали, что судовладельцы борются с рисками Ормуза на фоне развала нарратива сделки США–Иран.",
+      "tone": "bullish",
+      "tweet_ids": ["2074857990323069040", "2074871726656385366"]
+    },
+    {
+      "title_en": "Trump: ceasefire over; oil may rise",
+      "title_ru": "Трамп: перемирие кончилось; нефть может вырасти",
+      "blurb_en": "Trump said the Iran ceasefire was over 'as far as I’m concerned' and floated steps that could lift oil prices.",
+      "blurb_ru": "Трамп заявил, что перемирие с Ираном кончилось «насколько его это касается», и допустил меры, которые могут поднять цены на нефть.",
+      "text_en": "Amena Bakr highlighted Trump in Ankara ending the ceasefire framing. LiveSquawk carried related soundbites — uncertainty about a deal, finishing the job, and comments that Washington might take steps that raise oil prices, plus Bessent on where US oil 'should' trade.",
+      "text_ru": "Amena Bakr выделила слова Трампа в Анкаре о конце перемирия. LiveSquawk передавал смежные реплики — сомнения насчёт сделки, «добить дело» и намёк, что США могут сделать шаги, поднимающие цену нефти, плюс комментарии Бессента о «правильном» уровне американской нефти.",
+      "tone": "bullish",
+      "tweet_ids": ["2074778685643927587", "2074863519950934169"]
+    },
+    {
+      "title_en": "Settlement spike: WTI +4%, Brent +5%",
+      "title_ru": "Расчётный скачок: WTI +4%, Brent +5%",
+      "blurb_en": "US crude settled near $73.52 (+$3.08) and Brent near $78.02 (+$3.86) as shorts were warned of a squeeze.",
+      "blurb_ru": "Американская нефть закрылась около $73.52 (+$3.08), Brent — около $78.02 (+$3.86); шортов предупреждали о риске сквиза.",
+      "text_en": "LiveSquawk printed WTI up 4.37% to $73.52 and Brent up 5.2% to $78.02. The day's most-viewed podcast framed oil shorts as fighting not to be brutally squeezed. EIA showed a crude build with large distillate draws — mixed inventory optics beside the rally.",
+      "text_ru": "LiveSquawk зафиксировал WTI +4.37% до $73.52 и Brent +5.2% до $78.02. Самый просматриваемый подкаст дня описывал нефтяные шорты как борющиеся, чтобы их «жестоко» не выдавило. EIA показала рост запасов нефти при сильном отборе дистиллятов — смешанная картинка запасов на фоне ралли.",
+      "tone": "bullish",
+      "tweet_ids": ["2074924371626316051", "2074841618574893206"]
+    },
+    {
+      "title_en": "Products tight; Russia diesel ban",
+      "title_ru": "Продукты жёсткие; запрет российского дизеля",
+      "blurb_en": "US refined-product exports hit a record 8.73 mbpd, and Russia banned diesel exports — supporting the product-tightness story.",
+      "blurb_ru": "Экспорт нефтепродуктов США достиг рекорда 8.73 млн б/с, а Россия запретила экспорт дизеля — в пользу истории о жёсткости продуктового рынка.",
+      "text_en": "Staunovo flagged record US refined product exports at 8.730 mbpd and separately reported Russia's diesel export ban via deputy PM Novak. Refining commentary stressed crude weakness versus product strength as the structural theme of the month.",
+      "text_ru": "Staunovo отметил рекордный экспорт нефтепродуктов США 8.730 млн б/с и отдельно — запрет России на экспорт дизеля (зампред Новак). В комментариях по переработке снова звучала тема «слабая нефть / сильные продукты» как структурный мотив месяца.",
+      "tone": "bullish",
+      "tweet_ids": ["2074868703418609796", "2074873886026469719"]
+    }
+  ]
+}
