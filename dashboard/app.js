@@ -217,7 +217,7 @@ function renderCards() {
     if (df === 0) return `<div class="d">без изменений</div>`;
     const cls = df > 0 ? "up" : "down";
     const sign = df > 0 ? "+" : "";
-    return `<div class="d ${cls}">${sign}${fmt(df)} к вчера</div>`;
+    return `<div class="d ${cls}">${sign}${fmt(df)} к предыдущему дню</div>`;
   };
   const idxClass = (v) => (v === null ? "" : v > 10 ? "bullish" : v < -10 ? "bearish" : "");
 
@@ -231,6 +231,15 @@ function renderCards() {
 }
 
 /* ---------------------------------------------------------------- summary */
+
+function themeBlurb(t, lang) {
+  const blurb = t["blurb_" + lang];
+  if (blurb) return blurb;
+  // fallback: первое предложение полного текста без имён авторов
+  const raw = (t["text_" + lang] || "").replace(/\([^)]*@[^)]*\)/g, "").replace(/@\w+/g, "");
+  const m = raw.match(/^[^.!?]+[.!?]/);
+  return (m ? m[0] : raw).trim();
+}
 
 function renderSummary() {
   const s = state.dayData.summary;
@@ -246,11 +255,15 @@ function renderSummary() {
       .join("");
     return `<div class="theme">
       <h3>${t["title_" + lang]} <span class="tone ${t.tone}">${t.tone}</span></h3>
-      <div>${t["text_" + lang]}</div>
+      <div class="blurb">${themeBlurb(t, lang)}</div>
       <div class="links">${links}</div>
     </div>`;
   }).join("");
-  body.innerHTML = `<div class="overview">${s["overview_" + lang]}</div>${themes}`;
+  body.innerHTML = `
+    <div class="summary-layout">
+      <div class="overview">${s["overview_" + lang]}</div>
+      <div class="themes-col">${themes}</div>
+    </div>`;
 }
 
 /* ---------------------------------------------------------------- sentiment */

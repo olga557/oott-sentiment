@@ -16,6 +16,8 @@
     {
       "title_en": "Short theme title",
       "title_ru": "Короткое название темы",
+      "blurb_en": "One sentence essence, no author names",
+      "blurb_ru": "Одно предложение-выжимка без имён авторов",
       "text_en": "2-4 sentences: what exactly was discussed, key facts/figures, who said what, and the community's take",
       "text_ru": "то же на русском",
       "tone": "bullish | bearish | neutral | mixed",
@@ -34,4 +36,5 @@
 - tone — доминирующая окраска обсуждения темы с точки зрения влияния на цену.
 - tweet_ids — 1–2 самых репрезентативных/популярных твита темы (для ссылок).
 - overview — главный вывод дня: о чём говорил рынок и куда смотрел сентимент.
+- blurb — ровно одно предложение, суть темы без имён авторов и хэндлов (@…).
 - Русский и английский тексты должны быть содержательно эквивалентны.
