@@ -1,0 +1,47 @@
+{
+  "date": "2026-07-06",
+  "overview_en": "Monday mixed SPR hitting multi-year lows and China buying again with OPEC+ OSP cuts, Iran oil on water, and deep Ukrainian strikes on Russian refining. Price sentiment was near flat/slightly bearish; tone mostly neutral.",
+  "overview_ru": "В понедельник смешались SPR на многолетних минимумах и возвращение покупок Китая с снижением OSP OPEC+, иранской нефтью на воде и глубокими ударами Украины по российской переработке. Сентимент по цене около нуля/слабо медвежий; тон в основном нейтральный.",
+  "themes": [
+    {
+      "title_en": "US SPR to multi-year low ~319.5 mb",
+      "title_ru": "SPR США на многолетнем минимуме ~319.5 млн барр.",
+      "blurb_en": "US SPR crude inventories fell about 6.2 mb week-on-week to a multi-year low — framed as draining savings, not getting richer.",
+      "blurb_ru": "Запасы SPR США упали примерно на 6.2 млн барр. за неделю до многолетнего минимума — «тратим сбережения», а не становимся богаче.",
+      "text_en": "Staunovo's top post showed SPR at ~319.5 mb after a ~6.2 mb weekly drop. Art Berman compared SPR draws to draining a savings account to zero while calling yourself richer.",
+      "text_ru": "Топ-пост Staunovo показал SPR около 319.5 млн барр. после недельного снижения ~6.2 млн. Art Berman сравнил отборы из SPR с обнулением сберегательного счёта под видом роста богатства.",
+      "tone": "bullish",
+      "tweet_ids": ["2074170124718817317", "2073954098877972592"]
+    },
+    {
+      "title_en": "China buys again; Aramco cuts Asia OSP",
+      "title_ru": "Китай снова покупает; Aramco режет OSP для Азии",
+      "blurb_en": "A PSA that China is starting to buy again met Saudi Aramco cutting Arab Light OSP for Asia by $11/bbl — demand support versus aggressive official pricing.",
+      "blurb_ru": "PSA «Китай снова начинает покупать» встретился со снижением Aramco OSP Arab Light для Азии на $11/барр. — поддержка спроса против агрессивного официального прайсинга.",
+      "text_en": "June Goh's widely shared note said China is starting to buy again. Staunovo reported Aramco cutting Arab Light OSP for Asia by $11.00/bbl. Gbrew24 listed UAE–Saudi price war and Iran oil building on water among factors keeping prices low.",
+      "text_ru": "Широко разошедшаяся заметка June Goh: Китай снова начинает покупать. Staunovo сообщил о снижении Aramco OSP Arab Light для Азии на $11. Gbrew24 среди факторов низких цен назвал ценовую войну ОАЭ–Саудовская Аравия и накопление иранской нефти на воде.",
+      "tone": "mixed",
+      "tweet_ids": ["2074066953870909948", "2074105592885461149"]
+    },
+    {
+      "title_en": "Ukraine hits Russia's largest refinery",
+      "title_ru": "Украина бьёт по крупнейшему НПЗ России",
+      "blurb_en": "Ukrainian drones hit Russia's largest refinery in one of the deepest strikes yet, alongside Moscow filling-station antitrust cases.",
+      "blurb_ru": "Украинские дроны ударили по крупнейшему НПЗ России — один из самых глубоких ударов; параллельно антимонопольные дела по АЗС в Москве.",
+      "text_en": "Staunovo reported Ukrainian drones hitting Russia's largest refinery in one of the deepest strikes yet, and Russia's anti-monopoly watchdog opening a case against six independent Moscow filling-station operators amid fuel stress.",
+      "text_ru": "Staunovo сообщал об ударе украинских дронов по крупнейшему НПЗ России — одном из самых глубоких — и о деле антимонопольной службы против шести независимых операторов АЗС в Москве на фоне топливного стресса.",
+      "tone": "bullish",
+      "tweet_ids": ["2074133047234941231", "2074171496948199823"]
+    },
+    {
+      "title_en": "Specs near record-low Brent longs",
+      "title_ru": "Спекулянты у рекордно низких лонгов Brent",
+      "blurb_en": "Art Berman noted Brent net longs near record lows — crowded short/underweight positioning as a potential squeeze setup.",
+      "blurb_ru": "Art Berman отмечал нетто-лонги Brent у рекордных минимумов — переполненный шорт/недостаточный лонг как потенциальный сетап сквиза.",
+      "text_en": "Berman wrote that speculators are almost all on the same side of the boat, with Brent net longs near record lows — a positioning warning amid the broader soft-price narrative.",
+      "text_ru": "Berman писал, что спекулянты почти все на одной стороне лодки, а нетто-лонги Brent у рекордных минимумов — предупреждение по позиционированию на фоне мягкого ценового нарратива.",
+      "tone": "bullish",
+      "tweet_ids": ["2074112960738287982"]
+    }
+  ]
+}

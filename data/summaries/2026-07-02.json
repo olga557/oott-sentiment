@@ -1,0 +1,47 @@
+{
+  "date": "2026-07-02",
+  "overview_en": "Thursday pushed back on the 'glut' narrative: Saudi export estimates were revised lower, Hormuz flows were called far from normal, and US oil rigs ticked up. Price sentiment was mildly bullish; tone stayed calm.",
+  "overview_ru": "В четверг спорили с нарративом «профицита»: оценки саудовского экспорта понизили, потоки через Ормуз назвали далёкими от нормы, а нефтяные буровые в США чуть выросли. Сентимент по цене был слабо бычьим; тон оставался спокойным.",
+  "themes": [
+    {
+      "title_en": "Saudi exports ~5.8, not 6.3 mb/d",
+      "title_ru": "Экспорт Саудовской Аравии ~5.8, не 6.3 млн б/с",
+      "blurb_en": "Saudi crude and products exports averaged about 5.8 mb/d rather than the 6.3 mb/d some trackers printed — undercutting the glut story.",
+      "blurb_ru": "Экспорт саудовской нефти и продуктов в среднем около 5.8 млн б/с, а не 6.3 млн б/с у части трекеров — удар по истории «профицита».",
+      "text_en": "Amena Bakr and Staunovo both flagged Saudi crude and product exports near 5.8 mbpd in recent days versus higher reported figures. Separate posts called the market-awash narrative increasingly hard to defend.",
+      "text_ru": "Amena Bakr и Staunovo отмечали экспорт саудовской нефти и продуктов около 5.8 млн б/с против более высоких оценок. Другие посты писали, что нарратив «рынок залит нефтью» всё труднее защищать.",
+      "tone": "bullish",
+      "tweet_ids": ["2072757494678753684", "2072747058369376292"]
+    },
+    {
+      "title_en": "Hormuz still not normal",
+      "title_ru": "Ормуз всё ещё не нормален",
+      "blurb_en": "Posts insisted Hormuz flows remained far from normal despite some traffic recovery headlines.",
+      "blurb_ru": "Посты настаивали, что потоки через Ормуз далеки от нормы, несмотря на заголовки о частичном восстановлении трафика.",
+      "text_en": "Amena Bakr wrote that Hormuz flows are far from normal. Additional VLCC signals for Basrah kept the tanker/shipping watchlist active without resolving the chokepoint debate.",
+      "text_ru": "Amena Bakr писала, что потоки через Ормуз далеки от нормы. Дополнительные сигналы VLCC на Басру держали танкерную тему в фокусе, не закрывая спор о «бутылочном горлышке».",
+      "tone": "bullish",
+      "tweet_ids": ["2072758583834669552", "2072727994469159140"]
+    },
+    {
+      "title_en": "US rigs +5 to 445",
+      "title_ru": "Буровые США +5 до 445",
+      "blurb_en": "Baker Hughes showed US oil rigs up 5 to 445 — a modest bearish supply signal in an otherwise anti-glut day.",
+      "blurb_ru": "Baker Hughes: нефтяные буровые США +5 до 445 — скромный медвежий сигнал на фоне антипрофицитного дня.",
+      "text_en": "Staunovo reported US oil rigs +5 to 445. The print was widely shared as incremental shale/US production response even as Saudis and Hormuz dominated the narrative fight.",
+      "text_ru": "Staunovo сообщил о росте нефтяных буровых США на 5 до 445. Цифру широко расшарили как реакцию сланца/добычи США, даже пока спор о Саудовской Аравии и Ормузе доминировал в нарративе.",
+      "tone": "bearish",
+      "tweet_ids": ["2072727365508038777"]
+    },
+    {
+      "title_en": "Russian fuel shortages spill over",
+      "title_ru": "Дефицит топлива в России перекидывается",
+      "blurb_en": "Kyrgyzstan asked neighbours for fuel help as Russian shortages bite — extending the products-stress theme.",
+      "blurb_ru": "Кыргызстан просил соседей о помощи с топливом на фоне дефицита в России — продолжение темы стресса продуктового рынка.",
+      "text_en": "Staunovo noted Kyrgyzstan seeking fuel supplies from neighbours as Russian shortages intensified, echoing the prior day's India-gasoline purchases story.",
+      "text_ru": "Staunovo отметил, что Кыргызстан ищет топливо у соседей на фоне усиления дефицита в России — эхо вчерашней истории о закупках бензина у Индии.",
+      "tone": "bullish",
+      "tweet_ids": ["2072590272228139461"]
+    }
+  ]
+}

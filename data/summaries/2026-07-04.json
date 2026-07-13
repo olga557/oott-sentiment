@@ -1,0 +1,37 @@
+{
+  "date": "2026-07-04",
+  "overview_en": "A light holiday Saturday still carried Iran/Gulf satellite reads, Ukrainian strikes on Russian ports, and talk of tight US frac capacity. Price sentiment was bullish on the thin sample; tone mixed.",
+  "overview_ru": "Лёгкая праздничная суббота всё же принесла спутниковые кадры по Заливу/Ирану, удары Украины по российским портам и разговоры о жёсткости US frac. Сентимент по цене на тонкой выборке был бычьим; тон смешанный.",
+  "themes": [
+    {
+      "title_en": "Ras Laffan loadings visible again",
+      "title_ru": "Погрузки в Рас-Лаффане снова видны",
+      "blurb_en": "Optical satellite imagery of Ras Laffan showed loading activity — a bearish hint that Qatar LNG logistics were functioning.",
+      "blurb_ru": "Оптическая съёмка Рас-Лаффана показала погрузочную активность — медвежий намёк, что логистика СПГ Катара работает.",
+      "text_en": "CRUDEOIL231 shared yesterday's optical satellite imagery of Ras Laffan with observable loading activity, widely viewed as evidence that key Gulf energy infrastructure was operating.",
+      "text_ru": "CRUDEOIL231 показал вчерашнюю оптическую съёмку Рас-Лаффана с заметной погрузкой — широко прочитано как признак работы ключевой энергоинфраструктуры Залива.",
+      "tone": "bearish",
+      "tweet_ids": ["2073200787224957418"]
+    },
+    {
+      "title_en": "Ukraine hits St Petersburg oil terminal",
+      "title_ru": "Украина бьёт по нефтетерминалу у Петербурга",
+      "blurb_en": "Authorities reported a major Ukrainian drone attack hit a St Petersburg-region port oil terminal — supporting products/energy-risk premium.",
+      "blurb_ru": "Власти сообщили о крупной атаке украинских дронов по нефтетерминалу порта в регионе Петербурга — в пользу премии за риск по энергии/продуктам.",
+      "text_en": "Staunovo relayed that a St Petersburg region port oil terminal was hit in a major Ukrainian drone attack. Separately, NuggetCapital tied high cracks partly to downstream outages in Russia.",
+      "text_ru": "Staunovo передал, что нефтетерминал порта в регионе Петербурга попал под крупную атаку украинских дронов. Отдельно NuggetCapital связывал высокие креки в том числе с простоями downstream в России.",
+      "tone": "bullish",
+      "tweet_ids": ["2073322837872443594", "2073434003755974953"]
+    },
+    {
+      "title_en": "PADD2 builds; US frac already tight",
+      "title_ru": "Рост запасов PADD2; US frac уже жёсткий",
+      "blurb_en": "PADD2 crude stocks rose as oil was transferred inland, while frac capacity was described as already tight.",
+      "blurb_ru": "Запасы нефти в PADD2 выросли из‑за перетока вглубь страны; мощности frac описывали как уже жёсткие.",
+      "text_en": "Avionsunantiqu1 noted last week PADD2 crude stocks increased while other PADDs declined. ZmansEnrgyBrain highlighted that US frac was already tight — an OFS/supply-constraint angle on a quiet board day.",
+      "text_ru": "Avionsunantiqu1 отметил рост запасов нефти в PADD2 при снижении в других PADD. ZmansEnrgyBrain подчеркивал, что US frac уже был жёстким — угол OFS/ограничения предложения в тихий биржевой день.",
+      "tone": "bullish",
+      "tweet_ids": ["2073451135038537799", "2073197769506918629"]
+    }
+  ]
+}

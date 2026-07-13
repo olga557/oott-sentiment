@@ -1,0 +1,47 @@
+{
+  "date": "2026-07-07",
+  "overview_en": "Tuesday turned sharply more bullish as Iran shipped tens of millions of barrels during the blockade pause, a Saudi-flagged tanker was damaged near Hormuz, and API showed product draws. Price sentiment was firmly bullish; emotional tone mixed with negative spikes on Gulf incidents.",
+  "overview_ru": "Во вторник тон резко стал бычьим: Иран вывез десятки миллионов баррелей за паузу блокады, у Ормуза повредили танкер под саудовским флагом, API показал отбор продуктов. Сентимент по цене уверенно бычий; эмоциональный тон смешанный с негативными всплесками по инцидентам в Заливе.",
+  "themes": [
+    {
+      "title_en": "Iran ships ~60 mb since blockade pause",
+      "title_ru": "Иран вывез ~60 млн барр. с паузы блокады",
+      "blurb_en": "TankerTrackers said Iran managed to ship out about 60 million barrels of crude since the US Navy blockade paused in mid-June — a huge volume flush that also underscored how much was trapped.",
+      "blurb_ru": "TankerTrackers: Иран смог вывезти около 60 млн баррелей сырой с паузы блокады ВМС США с середины июня — огромный выброс объёма, который также показал, сколько было заперто.",
+      "text_en": "The day's most-viewed post quantified ~60 mb of Iranian crude shipped since the mid-June blockade pause. That supply release sat beside warnings that the pause could reverse and that Hormuz risk remained asymmetric.",
+      "text_ru": "Самый просматриваемый пост дня оценил ~60 млн барр. иранской сырой, вывезенной с паузы блокады с середины июня. Выброс предложения шёл рядом с предупреждениями, что пауза может откатиться, а риск Ормуза остаётся асимметричным.",
+      "tone": "mixed",
+      "tweet_ids": ["2074636575435100606"]
+    },
+    {
+      "title_en": "Saudi tanker damaged near Hormuz",
+      "title_ru": "Саудовский танкер повреждён у Ормуза",
+      "blurb_en": "A Saudi-flagged crude tanker was damaged near the Strait of Hormuz after a separate LNG tanker collision — raising maritime risk premiums.",
+      "blurb_ru": "Танкер под саудовским флагом повреждён у Ормузского пролива после отдельного столкновения с газовозом — рост морской премии за риск.",
+      "text_en": "Amena Bakr reported a Saudi-flagged crude oil tanker damaged near Hormuz after a separate LNG tanker collision. Staunovo separately noted Israel's energy minister touting an oil pipeline to bypass Hormuz.",
+      "text_ru": "Amena Bakr сообщила о повреждении танкера под саудовским флагом у Ормуза после отдельного столкновения с газовозом. Staunovo отдельно отметил, что министр энергетики Израиля продвигает нефтепровод в обход Ормуза.",
+      "tone": "bullish",
+      "tweet_ids": ["2074435628209725713", "2074518601978011883"]
+    },
+    {
+      "title_en": "API: gasoline and distillate draws",
+      "title_ru": "API: отбор бензина и дистиллятов",
+      "blurb_en": "API showed large gasoline and distillate draws with only a small crude draw — supportive for products and overnight sentiment.",
+      "blurb_ru": "API показал сильный отбор бензина и дистиллятов при небольшом отборе сырой — поддержка продуктов и ночного сентимента.",
+      "text_en": "JuliOnTwtr and BroadStreetOil printed API crude roughly −0.4 mb, gasoline about −2.9 mb and distillates about −1.8 mb — among the day's most-shared inventory posts.",
+      "text_ru": "JuliOnTwtr и BroadStreetOil опубликовали API: сырая roughly −0.4 млн барр., бензин около −2.9 млн, дистилляты около −1.8 млн — среди самых расшаренных инвентарных постов дня.",
+      "tone": "bullish",
+      "tweet_ids": ["2074594405118345303", "2074593946706035132"]
+    },
+    {
+      "title_en": "SPR sales tally; Iran OFAC license",
+      "title_ru": "Итог продаж SPR; лицензия OFAC по Ирану",
+      "blurb_en": "US SPR sales so far were pegged near 96 mb of a 132.5 mb program, while OFAC issued an amended Iran-related general license.",
+      "blurb_ru": "Продажи из SPR США оценили примерно в 96 млн барр. из программы 132.5 млн; OFAC выпустил обновлённую генеральную лицензию по Ирану.",
+      "text_en": "Staunovo said SPR sales so far were around 96 million barrels versus 132.5 million authorized. LiveSquawk flagged an amended Iran-related OFAC general license — policy plumbing beside the Hormuz physical risk.",
+      "text_ru": "Staunovo оценил продажи из SPR примерно в 96 млн барр. при авторизованных 132.5 млн. LiveSquawk отметил обновлённую генеральную лицензию OFAC по Ирану — регуляторная «сантехника» рядом с физическим риском Ормуза.",
+      "tone": "mixed",
+      "tweet_ids": ["2074493461194055719", "2074567081048019410"]
+    }
+  ]
+}

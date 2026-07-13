@@ -1,0 +1,47 @@
+{
+  "date": "2026-07-03",
+  "overview_en": "Friday leaned bearish: money managers cut Brent length sharply, Russian crude on water hit records, and Gulf exports were described as slow but no longer zero. Price sentiment was mildly bearish; tone stayed mostly neutral.",
+  "overview_ru": "Пятница вышла скорее медвежьей: управляющие резко сократили лонг по Brent, российская нефть на воде обновила рекорды, а экспорт из Залива описывали как медленный, но уже не нулевой. Сентимент по цене был слабо медвежьим; тон в основном нейтральный.",
+  "themes": [
+    {
+      "title_en": "Managed money slashes Brent net-length",
+      "title_ru": "Управляющие резко режут нетто-лонг Brent",
+      "blurb_en": "Money managers cut Brent net-length by ~35k contracts, leaving non-commercials slightly net-short — a clear positioning unwind.",
+      "blurb_ru": "Управляющие сократили нетто-лонг Brent примерно на 35 тыс. контрактов; некоммерческие счета чуть ушли в нетто-шорт — явная разгрузка позиционирования.",
+      "text_en": "Staunovo reported money managers reduced Brent net-length by 34,704 to 55,634 and separately noted slightly net-short non-commercial accounts. Charts on crude net-positioning were among the day's most-viewed posts.",
+      "text_ru": "Staunovo сообщил о сокращении нетто-лонга управляющих по Brent на 34 704 до 55 634 и отдельно — о чуть нетто-шортовых некоммерческих счетах. Графики нетто-позиционирования были среди самых читаемых постов дня.",
+      "tone": "bearish",
+      "tweet_ids": ["2073125949697032487", "2073129893471092795"]
+    },
+    {
+      "title_en": "Russian crude on water at highs",
+      "title_ru": "Российская нефть на воде на максимумах",
+      "blurb_en": "Kpler tracking showed Russian crude on the water at an all-time high as refinery attacks boosted crude exports and dampened products.",
+      "blurb_ru": "По данным Kpler российская нефть на воде на историческом максимуме: атаки на НПЗ увеличили экспорт сырой и ослабили продукты.",
+      "text_en": "Refineryritolia cited Kpler that Russian crude on water climbed to a record. Staunovo noted refinery attacks boosted June Russian crude exports while dampening products — bearish for crude balances, bullish for products tightness elsewhere.",
+      "text_ru": "Refineryritolia со ссылкой на Kpler писал о рекорде российской нефти на воде. Staunovo отмечал, что атаки на НПЗ подняли июньский экспорт российской сырой и ослабили продукты — медвежье для балансов сырой, бычье для жёсткости продуктов.",
+      "tone": "bearish",
+      "tweet_ids": ["2073042252138709375", "2072947460893299081"]
+    },
+    {
+      "title_en": "Kuwait/Iraq flows thaw slowly",
+      "title_ru": "Потоки Кувейта/Ирака оттаивают медленно",
+      "blurb_en": "Exports from Kuwait and southern Iraq were moving like molasses but were no longer at zero — partial relief for Gulf supply.",
+      "blurb_ru": "Экспорт из Кувейта и южного Ирака шёл «как патока», но уже не был нулевым — частичное облегчение по поставкам из Залива.",
+      "text_en": "TankerTrackers said crude exports out of Kuwait and southern Iraq may be moving slowly but are no longer at zero, softening the extreme-disruption narrative without declaring normalcy.",
+      "text_ru": "TankerTrackers писал, что экспорт нефти из Кувейта и южного Ирака может идти медленно, но уже не нулевой — смягчая экстремальный нарратив срыва без объявления нормализации.",
+      "tone": "bearish",
+      "tweet_ids": ["2073108612608618987"]
+    },
+    {
+      "title_en": "Price undershoot vs marginal cost",
+      "title_ru": "Цена ниже «аттрактора» / маржинальной стоимости",
+      "blurb_en": "Art Berman argued oil had undershot its attractor by about $11 versus implied marginal price — a contrarian bullish valuation note.",
+      "blurb_ru": "Art Berman утверждал, что нефть недолетела до «аттрактора» примерно на $11 относительно подразумеваемой маржинальной цены — контрарный бычий акцент.",
+      "text_en": "Berman wrote that the oil price undershot its attractor and was about $11 below the implied marginal price, calling the dislocation abnormal even as the broader feed leaned bearish on positioning and floating supply.",
+      "text_ru": "Berman писал, что цена нефти недолетела до аттрактора и roughly на $11 ниже подразумеваемой маржинальной цены, называя дислокацию ненормальной на фоне в целом медвежьей ленты по позиционированию и плавающему предложению.",
+      "tone": "bullish",
+      "tweet_ids": ["2072998744694390930"]
+    }
+  ]
+}

@@ -1,0 +1,698 @@
+{
+ "date": "2026-07-03",
+ "tweets": [
+  {
+   "id": "2073129779809628182",
+   "views": 45035,
+   "username": "staunovo",
+   "text": "Crude: Net-positioning of non-commercial accounts (=managed money and other reportables) in Brent futures and options   #OOTT   latest value is June 30 https://t.co/AQHHA3cJbA",
+   "price_sentiment": "Neutral",
+   "emotional_sentiment": "Neutral",
+   "topics": [
+    "Prices/technicals"
+   ]
+  },
+  {
+   "id": "2072845248171024782",
+   "views": 32742,
+   "username": "gbrew24",
+   "text": "Everyone is a bear, oil on water is piling up, China is a mystery, calls are $60s or maybe lower, it's incredible how it's all just reverted to December 2025 like the last six months just didn't happen. #OOTT",
+   "price_sentiment": "Bearish",
+   "emotional_sentiment": "Neutral",
+   "topics": [
+    "Supply outlook",
+    "Prices/technicals"
+   ]
+  },
+  {
+   "id": "2073108612608618987",
+   "views": 28426,
+   "username": "TankerTrackers",
+   "text": "Crude oil exports out of Kuwait and southern Iraq may be moving like molasses but are no longer at zero.\n\n#OOTT #IranWar #Tankers https://t.co/Of002wbwsT",
+   "price_sentiment": "Bearish",
+   "emotional_sentiment": "Neutral",
+   "topics": [
+    "Tankers/shipping",
+    "Iraq"
+   ]
+  },
+  {
+   "id": "2073129893471092795",
+   "views": 14237,
+   "username": "staunovo",
+   "text": "Slightly net-short non-commercial accounts in Brent futures and options #oott",
+   "price_sentiment": "Bearish",
+   "emotional_sentiment": "Neutral",
+   "topics": [
+    "Prices/technicals"
+   ]
+  },
+  {
+   "id": "2073125949697032487",
+   "views": 13749,
+   "username": "staunovo",
+   "text": "Money managers reduced their net-length in Brent crude oil futures and options by 34,704 to 55,634 in the week ending June 30  \n\nLong-only positions fell by 11,724\nShort-only positions rose by 22,980\n\nother reportables net-length fell by 33,207\n\nICE #oott",
+   "price_sentiment": "Bearish",
+   "emotional_sentiment": "Neutral",
+   "topics": [
+    "Prices/technicals"
+   ]
+  },
+  {
+   "id": "2073042252138709375",
+   "views": 11050,
+   "username": "refineryritolia",
+   "text": "Russian crude on the water has climbed to an all-time high, as per @Kpler tracking. Elevated Russian exports, driven by lower refinery intake, combined with weaker Chinese buying, have left more cargoes searching for homes. Expect increased competition among suppliers. #OOTT https://t.co/zseIP7cUTU",
+   "price_sentiment": "Bearish",
+   "emotional_sentiment": "Neutral",
+   "topics": [
+    "Russia sanctions",
+    "Supply outlook"
+   ]
+  },
+  {
+   "id": "2072947460893299081",
+   "views": 7298,
+   "username": "staunovo",
+   "text": "Refinery attacks boost June Russian crude exports, dampen products #oott https://t.co/fOdCvS9Ig6",
+   "price_sentiment": "Bearish",
+   "emotional_sentiment": "Neutral",
+   "topics": [
+    "Russia sanctions",
+    "Supply outlook"
+   ]
+  },
+  {
+   "id": "2072998744694390930",
+   "views": 7155,
+   "username": "aeberman12",
+   "text": "Oil price has undershot its attractor & is now $11 less than the implied marginal price\n\nThis is normal discovery behavior as markets reassess geopolitical developments\n\nFundamentals are secondary to the changing probability landscape @ericnuttall \n\n#energy #OOTT #oilandgas #WTI #CrudeOil #fintwit #OPEC #Commodities #commoditiesmarket",
+   "price_sentiment": "Bullish",
+   "emotional_sentiment": "Neutral",
+   "topics": [
+    "Prices/technicals"
+   ]
+  },
+  {
+   "id": "2072904580761825510",
+   "views": 6139,
+   "username": "staunovo",
+   "text": "#Canada unveils plans for new oil pipeline to break dependence on US\nProject to supply Asia with 1mn barrels per day is part of push to reduce over-reliance on US amid trade hostilities #oott\nhttps://t.co/iev2Z5wqzf",
+   "price_sentiment": "Neutral",
+   "emotional_sentiment": "Neutral",
+   "topics": [
+    "Supply outlook"
+   ]
+  },
+  {
+   "id": "2073069524363165975",
+   "views": 6118,
+   "username": "avionsunantiqu1",
+   "text": "Jeff Currie interview today.\n\nIran/China arn't going to give up Hormuz and US can't afford to let that happen.\n\nChina benefits from sanctions on Iranian oil.\n\nPeople are too complacent #OOTT \n\nhttps://t.co/quHk7Ds0qG via @YouTube",
+   "price_sentiment": "Bullish",
+   "emotional_sentiment": "Neutral",
+   "topics": [
+    "Iran",
+    "Geopolitics"
+   ]
+  },
+  {
+   "id": "2072956247716819117",
+   "views": 6076,
+   "username": "staunovo",
+   "text": "#Russia makes no request for fuel supplies, including as humanitarian aid - Kazakh energy minister\n#oott https://t.co/VdXiyNGFz8",
+   "price_sentiment": "Neutral",
+   "emotional_sentiment": "Neutral",
+   "topics": [
+    "Russia sanctions"
+   ]
+  },
+  {
+   "id": "2072958368457633932",
+   "views": 5275,
+   "username": "staunovo",
+   "text": "#China Urges ‘Unimpeded Passage’ of Hormuz as Fee Chatter Mounts\n#oott https://t.co/DVOgIfP43a",
+   "price_sentiment": "Neutral",
+   "emotional_sentiment": "Neutral",
+   "topics": [
+    "Tankers/shipping",
+    "Iran"
+   ]
+  },
+  {
+   "id": "2072939729490768260",
+   "views": 5178,
+   "username": "staunovo",
+   "text": "#Canada: Alberta oil production was at 3.986mbpd in May, down 163kbpd or 3.9% m/m, up 380kbpd or 10.5% y/y - Alberta Energy Regulator data #oott https://t.co/dAz7LfddQr",
+   "price_sentiment": "Neutral",
+   "emotional_sentiment": "Neutral",
+   "topics": [
+    "Supply outlook"
+   ]
+  },
+  {
+   "id": "2072936472039072049",
+   "views": 5150,
+   "username": "staunovo",
+   "text": "Brent futures curve in USD/bbl (today, one week ago and one month ago) #OOTT https://t.co/xbrVObHhi1",
+   "price_sentiment": "Neutral",
+   "emotional_sentiment": "Neutral",
+   "topics": [
+    "Prices/technicals"
+   ]
+  },
+  {
+   "id": "2072936695368945840",
+   "views": 5131,
+   "username": "staunovo",
+   "text": "Aggregated open interest in Brent and WTI in million contracts #oott https://t.co/4pnqQRYYT5",
+   "price_sentiment": "Neutral",
+   "emotional_sentiment": "Neutral",
+   "topics": [
+    "Prices/technicals"
+   ]
+  },
+  {
+   "id": "2073131063597998354",
+   "views": 4962,
+   "username": "staunovo",
+   "text": "What Happened in Fuel Markets When Trump Lifted the Century-Old Jones Act\nCalifornia drivers, Gulf Coast refiners and Puerto Ricans have benefited from temporary suspension of the act #oott https://t.co/KtfPfjRQ1x",
+   "price_sentiment": "Neutral",
+   "emotional_sentiment": "Neutral",
+   "topics": [
+    "Refining/products",
+    "Tankers/shipping"
+   ]
+  },
+  {
+   "id": "2072937098718359774",
+   "views": 4889,
+   "username": "staunovo",
+   "text": "Drilling activity in the US (Baker Hughes/Primary Vision) #oott https://t.co/szyczf0vnB",
+   "price_sentiment": "Neutral",
+   "emotional_sentiment": "Neutral",
+   "topics": [
+    "Shale/US production"
+   ]
+  },
+  {
+   "id": "2072936896989102290",
+   "views": 4861,
+   "username": "staunovo",
+   "text": "Oil rigs in the Permian shale basin - Baker Hughes #oott https://t.co/JfpmhMuXMe",
+   "price_sentiment": "Neutral",
+   "emotional_sentiment": "Neutral",
+   "topics": [
+    "Shale/US production"
+   ]
+  },
+  {
+   "id": "2072936313355903298",
+   "views": 4704,
+   "username": "staunovo",
+   "text": "US air travel (TSA total traveler throughput in million passengers - 7 day average)  7-day average 7.6% above 2019 level  #OOTT https://t.co/z3b7dqZHuS",
+   "price_sentiment": "Bullish",
+   "emotional_sentiment": "Neutral",
+   "topics": [
+    "Demand outlook"
+   ]
+  },
+  {
+   "id": "2072935914628685834",
+   "views": 4566,
+   "username": "staunovo",
+   "text": "International oil rigs ex North America +15 m/m to 726 in June    \n\nEurope +4\nMiddle East +1  \nAfrica +14\nLatin America -4  \nAsia Pacific unchagned  \n\nBaker Hughes #oott https://t.co/LyUrmooCuu",
+   "price_sentiment": "Bearish",
+   "emotional_sentiment": "Neutral",
+   "topics": [
+    "Supply outlook"
+   ]
+  },
+  {
+   "id": "2072958898726752377",
+   "views": 4014,
+   "username": "staunovo",
+   "text": "#China to cut domestic retail gasoline, diesel prices from July 4 #oott  https://t.co/kKXjcNQJDY",
+   "price_sentiment": "Bearish",
+   "emotional_sentiment": "Neutral",
+   "topics": [
+    "China demand",
+    "Prices/technicals"
+   ]
+  },
+  {
+   "id": "2073122220201627867",
+   "views": 3889,
+   "username": "staunovo",
+   "text": "Brent settled at USD 72.12/bbl #oott",
+   "price_sentiment": "Neutral",
+   "emotional_sentiment": "Neutral",
+   "topics": [
+    "Prices/technicals"
+   ]
+  },
+  {
+   "id": "2072899093207060681",
+   "views": 3616,
+   "username": "staunovo",
+   "text": "#Canada, Alberta announce new west coast oil pipeline to boost exports\nPipeline would carry 1 million barrels per day from Alberta to the Pacific coast\nAlberta said construction could begin as early as September 2027\nPipeline would give Canada more export options to Asia\n#oott https://t.co/GpqdQ8sr5T",
+   "price_sentiment": "Neutral",
+   "emotional_sentiment": "Neutral",
+   "topics": [
+    "Supply outlook"
+   ]
+  },
+  {
+   "id": "2073039241102213262",
+   "views": 3613,
+   "username": "staunovo",
+   "text": "Iraq, Turkey discuss protocol to keep oil exports flowing, Iraqi foreign ministry says\nIraq and Turkey are expected to sign an executive protocol to ensure the continuation of Iraqi oil exports.\n#oott https://t.co/o8myH3POIW",
+   "price_sentiment": "Neutral",
+   "emotional_sentiment": "Neutral",
+   "topics": [
+    "Iraq"
+   ]
+  },
+  {
+   "id": "2072905383262265526",
+   "views": 3604,
+   "username": "staunovo",
+   "text": "Exxon’s comeback\nDarren Woods has become the most powerful oil industry chief executive for a generation by testing the limits of corporate power\n#oott https://t.co/uDiw0syv7E",
+   "price_sentiment": "Neutral",
+   "emotional_sentiment": "Neutral",
+   "topics": []
+  },
+  {
+   "id": "2073023379859202507",
+   "views": 3528,
+   "username": "staunovo",
+   "text": "US oil companies see big profit jump, gird for clash over pump prices with Trump #oott https://t.co/N1a8BJ1fe8",
+   "price_sentiment": "Neutral",
+   "emotional_sentiment": "Neutral",
+   "topics": [
+    "Refining/products"
+   ]
+  },
+  {
+   "id": "2073068665088418279",
+   "views": 3485,
+   "username": "staunovo",
+   "text": "#Venezuela's 645,000-barrel-per-day Amuay refinery, the country's largest, was back in service on Friday after a power outage. The refinery is processing some 140,000 bpd of crude and its fluid catalytic cracker is active, three sources from the facility said. #oott https://t.co/mFb915t7IM",
+   "price_sentiment": "Bearish",
+   "emotional_sentiment": "Neutral",
+   "topics": [
+    "Venezuela",
+    "Refining/products"
+   ]
+  },
+  {
+   "id": "2072993991969120563",
+   "views": 3199,
+   "username": "staunovo",
+   "text": "#Kazakhstan's oil and gas condensate production rose 2% month on month in June to 8.59 ‌million metric tons, or 2.16 million barrels per day, from 2.12 million bpd in May, a source familiar with preliminary data said.\n #oott\nhttps://t.co/DbvayVtFzD",
+   "price_sentiment": "Bearish",
+   "emotional_sentiment": "Neutral",
+   "topics": [
+    "Supply outlook"
+   ]
+  },
+  {
+   "id": "2072892328671400048",
+   "views": 3157,
+   "username": "aeberman12",
+   "text": "Oil markets don’t return to equilibrium. \n\nThey adapt. People imagine how things break\n\nMarkets search for how the system keeps functioning. \n\nComparative inventory shows that reorganization in real time.\n👇\nhttps://t.co/qTN11dS7Yx\n\n#OOTT #Oil #Energy #Commodities #Complexity #Risk #Markets",
+   "price_sentiment": "Neutral",
+   "emotional_sentiment": "Neutral",
+   "topics": [
+    "US inventories"
+   ]
+  },
+  {
+   "id": "2073084608439062652",
+   "views": 3144,
+   "username": "ZmansEnrgyBrain",
+   "text": "Step 1: Register for the site here: https://t.co/dCBSggVQED\nStep 2: Take a $75 full-site access test drive. \nStep 3: Enjoy.\n#OIL #NATGAS #OOTT https://t.co/EGO9B8ROSM",
+   "price_sentiment": "Neutral",
+   "emotional_sentiment": "Neutral",
+   "topics": []
+  },
+  {
+   "id": "2072993766571466835",
+   "views": 3095,
+   "username": "staunovo",
+   "text": "#Russia set to import North Asian jet fuel amid fuel crisis, sources say #oott https://t.co/LGwVQZUvng",
+   "price_sentiment": "Bullish",
+   "emotional_sentiment": "Neutral",
+   "topics": [
+    "Russia sanctions"
+   ]
+  },
+  {
+   "id": "2072958465434104071",
+   "views": 3056,
+   "username": "staunovo",
+   "text": "#Canada’s Carney Taps State-Owned Firm to Build Oil Pipeline to Serve Asia\n#oott https://t.co/u4YdQlqlqi",
+   "price_sentiment": "Neutral",
+   "emotional_sentiment": "Neutral",
+   "topics": [
+    "Supply outlook"
+   ]
+  },
+  {
+   "id": "2072958231282864448",
+   "views": 2984,
+   "username": "staunovo",
+   "text": "Australia orders in-depth review of Exxon-opposed Subsea7-Saipem merger #oott https://t.co/RKKSvZLWPr",
+   "price_sentiment": "Neutral",
+   "emotional_sentiment": "Neutral",
+   "topics": []
+  },
+  {
+   "id": "2073105800130916644",
+   "views": 2856,
+   "username": "PTertzakian",
+   "text": "Yesterday’s announcement of the pipeline proposal was positive news as Canada moves forward to diversify exports beyond our North American paradigm. I spoke to @BNNBloomberg about it this morning: https://t.co/N1kohOZvkU\n#OOTT https://t.co/DoKx5CvvbQ",
+   "price_sentiment": "Neutral",
+   "emotional_sentiment": "Positive",
+   "topics": [
+    "Supply outlook"
+   ]
+  },
+  {
+   "id": "2072947934677639205",
+   "views": 2849,
+   "username": "staunovo",
+   "text": "#Canada, Alberta Agree to Back New Crude Pipeline to Pacific Coast\nThe aims to carry about 1 million barrels of oil daily to the Pacific coast via southwest British Columbia\n#oott https://t.co/BqYjzzeqZe",
+   "price_sentiment": "Neutral",
+   "emotional_sentiment": "Neutral",
+   "topics": [
+    "Supply outlook"
+   ]
+  },
+  {
+   "id": "2072947516123873357",
+   "views": 2833,
+   "username": "staunovo",
+   "text": "Chinese independent refineries return to crude market as prices fall: sources\n#oott https://t.co/ZXCckgjH29",
+   "price_sentiment": "Bearish",
+   "emotional_sentiment": "Neutral",
+   "topics": [
+    "China demand"
+   ]
+  },
+  {
+   "id": "2072955351100481561",
+   "views": 2788,
+   "username": "staunovo",
+   "text": "Eneos secures enough crude through September, seeks source diversification #oott https://t.co/dchHcbROnU",
+   "price_sentiment": "Neutral",
+   "emotional_sentiment": "Neutral",
+   "topics": [
+    "Demand outlook"
+   ]
+  },
+  {
+   "id": "2072944193366802600",
+   "views": 2712,
+   "username": "staunovo",
+   "text": "#India's BPCL expands overseas upstream footprint through stake acquisition in Brazil\n#oott https://t.co/4HN4mNRQB7",
+   "price_sentiment": "Neutral",
+   "emotional_sentiment": "Neutral",
+   "topics": []
+  },
+  {
+   "id": "2072947386834354392",
+   "views": 2439,
+   "username": "staunovo",
+   "text": "#Bolivia allows private sector to import, sell refined products\n#oott https://t.co/BdBUck084R",
+   "price_sentiment": "Neutral",
+   "emotional_sentiment": "Neutral",
+   "topics": [
+    "Refining/products"
+   ]
+  },
+  {
+   "id": "2073056572377567723",
+   "views": 2306,
+   "username": "avionsunantiqu1",
+   "text": "Add to this Chinese domestic product inventory declines.\n\nOne way or another, there is a lot less oil/products in China today, than in February.\n\nRemember these imports are customs records (the actual agreement to purchase was probably ~2 months earlier).#OOTT",
+   "price_sentiment": "Bullish",
+   "emotional_sentiment": "Neutral",
+   "topics": [
+    "China demand"
+   ]
+  },
+  {
+   "id": "2073057575541637357",
+   "views": 2189,
+   "username": "ZmansEnrgyBrain",
+   "text": "#OOTT",
+   "price_sentiment": "Bullish",
+   "emotional_sentiment": "Neutral",
+   "topics": [
+    "China demand",
+    "US inventories"
+   ]
+  },
+  {
+   "id": "2072850025265205505",
+   "views": 1748,
+   "username": "Amalteya3000",
+   "text": "It's a nearly imperceptible change but Brent oil net short position has begun to decline.\nSometimes this marks start of oil trend reversal\n#oott https://t.co/R3wbr5fT5r",
+   "price_sentiment": "Bullish",
+   "emotional_sentiment": "Neutral",
+   "topics": [
+    "Prices/technicals"
+   ]
+  },
+  {
+   "id": "2073001191500624005",
+   "views": 1609,
+   "username": "Energy_Tidbits",
+   "text": "US 10-yr &amp; 2-yr closes last night.  \n\nNo trading today due to Independence Day holiday.\n\n#oott",
+   "price_sentiment": "Neutral",
+   "emotional_sentiment": "Neutral",
+   "topics": []
+  },
+  {
+   "id": "2072868962887754172",
+   "views": 1572,
+   "username": "UnintendedCons5",
+   "text": "Green Europhiles are surreal.  \n\n#OOTT https://t.co/X4SGjoOimL",
+   "price_sentiment": "Neutral",
+   "emotional_sentiment": "Negative",
+   "topics": []
+  },
+  {
+   "id": "2073149666108338385",
+   "views": 1456,
+   "username": "XennialTrader",
+   "text": "Good chance the bottom in oil is in. #WTI #OOTT #Crude",
+   "price_sentiment": "Bullish",
+   "emotional_sentiment": "Positive",
+   "topics": [
+    "Prices/technicals"
+   ]
+  },
+  {
+   "id": "2072981244824957297",
+   "views": 1428,
+   "username": "hchris999",
+   "text": "Fascinating oil markets!\n\nDemand for refined products continues strong as exemplified by crack spreads because China throttled exports.\n\nDemand for crude weakened by China, 5 mmb per day since May.\n\nWill they reverse course and create the opposite effect?\n\n#OOTT",
+   "price_sentiment": "Bullish",
+   "emotional_sentiment": "Neutral",
+   "topics": [
+    "China demand",
+    "Refining/products"
+   ]
+  },
+  {
+   "id": "2073173942366286223",
+   "views": 1140,
+   "username": "SpartaCommo",
+   "text": "Demand destruction just flipped.\n\nCrude supply is flooding the market now. Physical especially weak. The bottleneck broke.\n\nWatch the full episode here: https://t.co/f1804rBuYZ\n\n#oott #crudeoil #oilmarkets https://t.co/Br5ozCHiau",
+   "price_sentiment": "Bearish",
+   "emotional_sentiment": "Neutral",
+   "topics": [
+    "Supply outlook"
+   ]
+  },
+  {
+   "id": "2073134850144346120",
+   "views": 1072,
+   "username": "Rigzone",
+   "text": "China called for the unhindered flow of shipping through the Strait of Hormuz.\n\nhttps://t.co/8aCMggb2OR\n\n#OOTT #oilgas #Hormuz",
+   "price_sentiment": "Neutral",
+   "emotional_sentiment": "Neutral",
+   "topics": [
+    "Tankers/shipping",
+    "Iran"
+   ]
+  },
+  {
+   "id": "2073021992073146500",
+   "views": 962,
+   "username": "lzab1453",
+   "text": "You gotta love these analysts. They change opinion faster than my 5yr old…\n\n#oott https://t.co/talIy9Ia2g",
+   "price_sentiment": "Bearish",
+   "emotional_sentiment": "Negative",
+   "topics": [
+    "Prices/technicals",
+    "Supply outlook"
+   ]
+  },
+  {
+   "id": "2073175392559710677",
+   "views": 913,
+   "username": "NewLowObserver",
+   "text": "At some point, people have to question the quality of the data on Crude: Net-positioning of non-commercial accounts (=managed money and other reportables) in Brent futures and options #OOTT\n\nThis from December 2023 does not line up with the more recent posting of the same data. https://t.co/Klk6vqyjeD",
+   "price_sentiment": "Neutral",
+   "emotional_sentiment": "Neutral",
+   "topics": [
+    "Prices/technicals"
+   ]
+  },
+  {
+   "id": "2073089579247120886",
+   "views": 911,
+   "username": "Rigzone",
+   "text": "'Our goal is simple', RRC Commissioner Wayne Christian said.\n\nhttps://t.co/PRvYppk3he\n\n#OOTT #RRC #Texas #oilgas",
+   "price_sentiment": "Neutral",
+   "emotional_sentiment": "Neutral",
+   "topics": [
+    "Shale/US production"
+   ]
+  },
+  {
+   "id": "2073157533749969299",
+   "views": 865,
+   "username": "jason_corcoran",
+   "text": "Queues at Russian gas stations are now visible from space, according to BBC Verify\n#OOTT https://t.co/gihAjt5b9n",
+   "price_sentiment": "Bullish",
+   "emotional_sentiment": "Neutral",
+   "topics": [
+    "Russia sanctions"
+   ]
+  },
+  {
+   "id": "2072892967279349861",
+   "views": 827,
+   "username": "DB_WTI",
+   "text": "#OOTT #WTI [W1] \nThe weekly #CS shows how bad #Oil's price structure has become after relentless plunges over the last five weeks. https://t.co/iie3HPzoNw",
+   "price_sentiment": "Bearish",
+   "emotional_sentiment": "Neutral",
+   "topics": [
+    "Prices/technicals"
+   ]
+  },
+  {
+   "id": "2073013901352943970",
+   "views": 783,
+   "username": "Rigzone",
+   "text": "Oil remains in a divided market, Waleed Said, Technical Analyst at GivTrade, stated.\n\nhttps://t.co/hYPdh7p2WA\n\n#OOTT #oilprice #energy",
+   "price_sentiment": "Neutral",
+   "emotional_sentiment": "Neutral",
+   "topics": [
+    "Prices/technicals"
+   ]
+  },
+  {
+   "id": "2073044227659882511",
+   "views": 764,
+   "username": "Rigzone",
+   "text": "Rigzone examines the Energy Institute's latest statistical review of world energy report, which was released recently.\n\nhttps://t.co/ild9E9guI1\n\n#OOTT #oilgas #oil",
+   "price_sentiment": "Neutral",
+   "emotional_sentiment": "Neutral",
+   "topics": []
+  },
+  {
+   "id": "2073051638785523856",
+   "views": 679,
+   "username": "SpartaCommo",
+   "text": "ARA to the Americas is the key arb right now.\n\nDemand-driven, not speculative. Bull traders should ride the trend and buy the dips.\n\nWatch the full episode here: https://t.co/UUpuS2JQiu\n\n#oott #crudeoil #arbs https://t.co/hzNb6ld4PL",
+   "price_sentiment": "Bullish",
+   "emotional_sentiment": "Neutral",
+   "topics": [
+    "Refining/products"
+   ]
+  },
+  {
+   "id": "2072869764243046484",
+   "views": 610,
+   "username": "reasonus4",
+   "text": "@ProfessorPape Well apparently, the world doesnt need #OIL \n\nPeople will be sucking dick for gas but oil prices will remain the same. #OOTT $XLE",
+   "price_sentiment": "Bearish",
+   "emotional_sentiment": "Negative",
+   "topics": [
+    "Demand outlook"
+   ]
+  },
+  {
+   "id": "2072962137337577864",
+   "views": 601,
+   "username": "FluxOfficials",
+   "text": "The Officials MOC: Date 3/7/2026\nDubai Assessment: $63.80/bbl\nPhysical premium: -$3.59/bbl\nKey events: Vitol declares Oman to Trafi - first convergence since May!\nMore details here: https://t.co/FZC1yoNY22\n#OOTT #Oil #Dubai https://t.co/Ix3lVhaZ63",
+   "price_sentiment": "Bearish",
+   "emotional_sentiment": "Neutral",
+   "topics": [
+    "Prices/technicals"
+   ]
+  },
+  {
+   "id": "2073071221512544435",
+   "views": 557,
+   "username": "FluxOfficials",
+   "text": "The Officials MOC: Date 3/7/2026\nDated Brent Assessment: $69.125/bbl\nPhysical differential: -$1.175/bbl\nKey events: BP offers Brent, Forties and Johan Sverdrup. Unipec offers Midland\nMore info here: https://t.co/FZC1yoNY22\n#OOTT #TheOfficials #Oil https://t.co/hozD6lyAnz",
+   "price_sentiment": "Bearish",
+   "emotional_sentiment": "Neutral",
+   "topics": [
+    "Prices/technicals"
+   ]
+  },
+  {
+   "id": "2072833998473031867",
+   "views": 470,
+   "username": "PMroil",
+   "text": "@JavierBlas Until Iran no longer controls the Strait of Hormuz all bets are off and these predictions are pointless. Possible Trump go back to war after midterms. There are no tea leaves at the bottom of your cup it's sludge your seeing.\n#OOTT",
+   "price_sentiment": "Bullish",
+   "emotional_sentiment": "Neutral",
+   "topics": [
+    "Iran",
+    "Geopolitics"
+   ]
+  },
+  {
+   "id": "2073060835866358123",
+   "views": 251,
+   "username": "RusOilGasExpert",
+   "text": "@OilCfd ➡️ Thanks for the insight.\n➡️ In the heavy-sanctions era, ESPO has always been much more popular than Urals in Western ports (it's a question of distance to market and sanctions-elevated shipping costs).\n#oott",
+   "price_sentiment": "Neutral",
+   "emotional_sentiment": "Neutral",
+   "topics": [
+    "Russia sanctions"
+   ]
+  },
+  {
+   "id": "2073069316124377208",
+   "views": 235,
+   "username": "CDCapMan",
+   "text": "🇨🇦 is taking the same stance as 🇮🇷 during negotiations, regardless of the cost. Telling Trump to go fvck himself!\n\nhttps://t.co/VNYxXWePvd\n\n#oott #com #NaturalGas #ongt #oilandgas #oil #gas #IranWar‌ #Iran",
+   "price_sentiment": "Neutral",
+   "emotional_sentiment": "Positive",
+   "topics": [
+    "Geopolitics"
+   ]
+  },
+  {
+   "id": "2072836897337204749",
+   "views": 214,
+   "username": "Claire_Kraatz",
+   "text": "@CHED880 @politicalham Alberta is in for a world of hurt. \n@cspotweet #China #oil #oott",
+   "price_sentiment": "Bearish",
+   "emotional_sentiment": "Negative",
+   "topics": [
+    "China demand"
+   ]
+  }
+ ]
+}

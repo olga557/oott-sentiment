@@ -1,0 +1,47 @@
+{
+  "date": "2026-07-01",
+  "overview_en": "Wednesday mixed a large EIA crude draw and Hormuz flow notes with talk of another OPEC+ August quota hike. Price sentiment was slightly bullish; emotional tone stayed mostly neutral.",
+  "overview_ru": "В среду смешались сильный отбор нефти по EIA и заметки по потокам через Ормуз с разговорами о новом повышении квот OPEC+ в августе. Сентимент по цене был слабо бычьим; эмоциональный тон оставался в основном нейтральным.",
+  "themes": [
+    {
+      "title_en": "EIA draw: crude −3.8 mb, SPR also down",
+      "title_ru": "Отбор EIA: нефть −3.8 млн барр., SPR тоже вниз",
+      "blurb_en": "Weekly EIA prints showed a sizable commercial crude draw plus SPR withdrawals, supporting a mildly bullish inventory read.",
+      "blurb_ru": "Недельный отчёт EIA показал заметный отбор коммерческой нефти плюс снижение SPR — умеренно бычий сигнал по запасам.",
+      "text_en": "LiveSquawk and Staunovo flagged US crude inventories down about 3.8 mb commercially, with total crude including SPR down roughly 9.3 mb. Distillate builds offset some of the bullish optics. PADD2 commentary noted extra oil moving toward Cushing.",
+      "text_ru": "LiveSquawk и Staunovo отмечали снижение коммерческих запасов нефти США примерно на 3.8 млн барр., а с учётом SPR — около 9.3 млн. Рост дистиллятов частично смягчал бычью картину. По PADD2 писали о дополнительном притоке к Cushing.",
+      "tone": "bullish",
+      "tweet_ids": ["2072327228252143861", "2072327144886178204"]
+    },
+    {
+      "title_en": "Hormuz June flows vs the headline",
+      "title_ru": "Потоки Ормуза в июне vs заголовок",
+      "blurb_en": "About 5 mb/d of crude exited Hormuz in June — posts warned not to read the print as a full normalization of the strait.",
+      "blurb_ru": "Около 5 млн б/с нефти вышло через Ормуз в июне — посты предупреждали не читать цифру как полную нормализацию пролива.",
+      "text_en": "Amena Bakr stressed that just over 5 million bpd exiting Hormuz in June should not fool the market into thinking flows were healthy. Separate notes tied inventory math to Hormuz timing.",
+      "text_ru": "Amena Bakr подчеркивала, что чуть более 5 млн б/с через Ормуз в июне не должны создать иллюзию «здоровых» потоков. Отдельно связывали математику запасов с таймингом по Ормузу.",
+      "tone": "bullish",
+      "tweet_ids": ["2072331209904886023", "2072148210819166538"]
+    },
+    {
+      "title_en": "OPEC+ may add ~188 kb/d in August",
+      "title_ru": "OPEC+ может добавить ~188 тыс. б/с в августе",
+      "blurb_en": "The day's most-viewed headline said OPEC+ was likely to raise August quotas by 188,000 b/d — the main bearish counterweight.",
+      "blurb_ru": "Самый просматриваемый заголовок дня: OPEC+ с высокой вероятностью поднимет августовские квоты на 188 тыс. б/с — главный медвежий противовес.",
+      "text_en": "DeItaone reported OPEC+ was likely to raise August oil output quotas by 188,000 barrels per day at Sunday's meeting. That supply-unwinding expectation sat beside the inventory draw in the day's mix.",
+      "text_ru": "DeItaone сообщил, что OPEC+ на воскресной встрече, вероятно, повысит квоты на август на 188 тыс. б/с. Ожидание раскрутки предложения стояло рядом с отбором запасов в смеси дня.",
+      "tone": "bearish",
+      "tweet_ids": ["2072292131528483075"]
+    },
+    {
+      "title_en": "Russia buys Indian gasoline",
+      "title_ru": "Россия покупает индийский бензин",
+      "blurb_en": "Sources said Russia was buying gasoline from India to tackle shortages — a products-tightness footnote.",
+      "blurb_ru": "Источники сообщали, что Россия закупает бензин в Индии из‑за дефицита — сноска о жёсткости продуктового рынка.",
+      "text_en": "Staunovo cited sources that Russia bought at least 60,000 metric tons of gasoline from India to ease domestic shortages after refining stress.",
+      "text_ru": "Staunovo со ссылкой на источники писал, что Россия купила у Индии не менее 60 тыс. т бензина, чтобы смягчить внутренний дефицит после проблем с переработкой.",
+      "tone": "bullish",
+      "tweet_ids": ["2072288733156594134"]
+    }
+  ]
+}

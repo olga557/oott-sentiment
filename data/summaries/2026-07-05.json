@@ -1,0 +1,37 @@
+{
+  "date": "2026-07-05",
+  "overview_en": "Sunday focused on OPEC+ confirming another ~188 kb/d August unwind and a viral podcast arguing the oil glut is fake. Price sentiment was mildly bearish on the quota headline; emotional tone mostly neutral.",
+  "overview_ru": "В воскресенье в центре были подтверждение OPEC+ ещё около 188 тыс. б/с раскрутки в августе и вирусный подкаст о «фейковом профиците». Сентимент по цене слабо медвежий из‑за квот; эмоциональный тон в основном нейтральный.",
+  "themes": [
+    {
+      "title_en": "OPEC+ August +188 kb/d confirmed",
+      "title_ru": "OPEC+: август +188 тыс. б/с подтверждён",
+      "blurb_en": "Saudi Arabia, Russia and five peers adjusted production and reaffirmed commitment — another 188k of voluntary-cut unwind for August.",
+      "blurb_ru": "Саудовская Аравия, Россия и ещё пять стран скорректировали добычу и подтвердили курс — ещё 188 тыс. б/с раскрутки добровольных сокращений на август.",
+      "text_en": "Amena Bakr previewed another 188k unwind for August from OPEC+ voluntary-cut members. Staunovo listed Saudi Arabia, Russia, Iraq, Kuwait, Kazakhstan, Algeria and Oman adjusting production and reaffirming commitment, with monthly review meetings to continue.",
+      "text_ru": "Amena Bakr заранее писала о ещё 188 тыс. раскрутки в августе у стран с добровольными сокращениями OPEC+. Staunovo перечислил Саудовскую Аравию, Россию, Ирак, Кувейт, Казахстан, Алжир и Оман с корректировкой добычи и ежемесячными обзорами рынка.",
+      "tone": "bearish",
+      "tweet_ids": ["2073698893737431535", "2073712488034566584"]
+    },
+    {
+      "title_en": "Podcast: fake glut, record cracks",
+      "title_ru": "Подкаст: фейковый профицит, рекордные креки",
+      "blurb_en": "The day's top podcast argued oil's glut is fake given record crack spreads, low inventories and strategic storage demand.",
+      "blurb_ru": "Топ-подкаст дня утверждал, что профицит нефти «фейковый» на фоне рекордных креков, низких запасов и спроса стратегических хранилищ.",
+      "text_en": "DarioCpx's JustDarioCigarTime episode on fake glut, record cracks and low inventories dominated views. JODI data showing US gasoline demand up 1.14 mb/d added a demand-side bullish footnote.",
+      "text_ru": "Эпизод JustDarioCigarTime про фейковый профицит, рекордные креки и низкие запасы лидировал по просмотрам. Данные JODI о росте спроса на бензин в США на 1.14 млн б/с добавили бычью сноску по спросу.",
+      "tone": "bullish",
+      "tweet_ids": ["2073773602386952316", "2073705722597011599"]
+    },
+    {
+      "title_en": "CME 10-barrel contract after Iran war",
+      "title_ru": "Контракт CME на 10 баррелей после войны с Ираном",
+      "blurb_en": "CME planned a 10-barrel contract as retail traders poured in after the Iran war — a market-structure note, price-neutral.",
+      "blurb_ru": "CME готовила контракт на 10 баррелей на фоне притока ритейла после войны с Ираном — заметка о структуре рынка, нейтральная для цены.",
+      "text_en": "Staunovo covered CME launching a 10-barrel contract after Iran-war retail interest, contrasting it with the 1,000-barrel standard and 100-barrel micro.",
+      "text_ru": "Staunovo писал о запуске CME контракта на 10 баррелей на фоне ритейл-интереса после войны с Ираном, сравнивая со стандартным 1 000 и микро на 100 баррелей.",
+      "tone": "neutral",
+      "tweet_ids": ["2073639112595079225", "2073639497019826539"]
+    }
+  ]
+}
