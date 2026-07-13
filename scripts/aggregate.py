@@ -240,8 +240,8 @@ def build_day(day: str, all_seen_authors_before: set[str]) -> dict:
             "views": sum(t["views"] for t in ts),
             "likes": sum(t["likes"] for t in ts),
         })
-    top_by_tweets = sorted(author_rows, key=lambda a: a["tweets"], reverse=True)[:10]
-    top_by_views = sorted(author_rows, key=lambda a: a["views"], reverse=True)[:10]
+    top_by_tweets = sorted(author_rows, key=lambda a: a["tweets"], reverse=True)[:5]
+    top_by_views = sorted(author_rows, key=lambda a: a["views"], reverse=True)[:5]
 
     bots = sum(1 for t in tweets if t["author"]["automated"])
 

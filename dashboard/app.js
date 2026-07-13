@@ -296,16 +296,17 @@ function gaugeOption(value, title) {
     series: [{
       type: "gauge",
       min: -100, max: 100, startAngle: 200, endAngle: -20,
-      splitNumber: mobile ? 4 : 8,
+      // 4 → labels at -100, -50, 0, 50, 100 (readable on mobile)
+      splitNumber: 4,
       axisLine: { lineStyle: { width: mobile ? 12 : 16, color: [[0.35, COLORS.bear], [0.65, COLORS.neu], [1, COLORS.bull]] } },
       pointer: { itemStyle: { color: COLORS.text }, width: mobile ? 3 : 4 },
       axisTick: { show: false },
       splitLine: { length: mobile ? 6 : 8, lineStyle: { color: "#0f1420", width: 2 } },
       axisLabel: {
         color: COLORS.muted,
-        distance: mobile ? 10 : 18,
-        fontSize: mobile ? 9 : 10,
-        formatter: (v) => (mobile && Math.abs(v) === 50 ? "" : String(v)),
+        distance: mobile ? 12 : 18,
+        fontSize: mobile ? 10 : 11,
+        formatter: (v) => String(Math.round(v)),
       },
       title: { show: false },
       detail: {
@@ -573,6 +574,7 @@ function renderLanguages() {
   const named = entries.filter(([k]) => k !== "unknown" && k !== "service");
   const top5 = named.slice(0, 5);
   const restVal = total - top5.reduce((a, [, v]) => a + v, 0);
+  const mobile = isMobile();
 
   const pieData = top5.map(([k, v]) => ({ name: LANG_RU[k] || k, value: v }));
   if (restVal > 0) pieData.push({ name: "Прочие", value: restVal });
@@ -580,8 +582,11 @@ function renderLanguages() {
   chart("langChart").setOption({
     tooltip: { ...baseTooltip, formatter: (p) => `${p.name}: <b>${fmt(p.value)}</b> (${p.percent}%)` },
     series: [{
-      type: "pie", radius: ["45%", "72%"],
-      label: { color: COLORS.muted, fontSize: 12 },
+      type: "pie", radius: mobile ? ["42%", "68%"] : ["45%", "72%"],
+      label: mobile
+        ? { show: false }
+        : { color: COLORS.muted, fontSize: 12 },
+      labelLine: { show: !mobile },
       itemStyle: { borderColor: "#171e2e", borderWidth: 2 },
       data: pieData,
     }],
@@ -590,8 +595,8 @@ function renderLanguages() {
   const rows = top5.map(([k, v]) =>
     `<tr><td>${LANG_RU[k] || k} <span class="hint">${k}</span></td><td class="num">${fmt(v)} (${(100 * v / total).toFixed(1)}%)</td></tr>`
   );
-  if (restVal > 0) rows.push(`<tr><td>Прочие (вкл. «только хэштеги/медиа»)</td><td class="num">${fmt(restVal)} (${(100 * restVal / total).toFixed(1)}%)</td></tr>`);
-  el("langTable").innerHTML = `<div class="table-scroll"><table><thead><tr><th>Язык</th><th class="num">Твиты (%)</th></tr></thead><tbody>${rows.join("")}</tbody></table></div>`;
+  if (restVal > 0) rows.push(`<tr><td>Прочие</td><td class="num">${fmt(restVal)} (${(100 * restVal / total).toFixed(1)}%)</td></tr>`);
+  el("langTable").innerHTML = `<table class="compact-table"><thead><tr><th>Язык</th><th class="num">Твиты (%)</th></tr></thead><tbody>${rows.join("")}</tbody></table>`;
 }
 
 /* ---------------------------------------------------------------- authors */
@@ -602,7 +607,7 @@ function renderAuthors() {
     <div class="mini-card">Уникальных авторов: <b>${d.unique_authors}</b></div>
     <div class="mini-card">Впервые с #OOTT: <b>${d.new_authors}</b></div>`;
 
-  const rows = state.modes.auth === "tweets" ? d.top_authors_by_tweets : d.top_authors_by_views;
+  const rows = (state.modes.auth === "tweets" ? d.top_authors_by_tweets : d.top_authors_by_views).slice(0, 5);
   if (isMobile()) {
     el("authorsTable").innerHTML = `<div class="author-cards">${rows.map((a) => `
       <div class="author-card">
