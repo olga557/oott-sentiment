@@ -1,7 +1,0 @@
-{
- "ok": false,
- "source": null,
- "prices": {},
- "error": "ICE: ConnectionError: HTTPSConnectionPool(host='www.ice.com', port=443): Max retries exceeded with url: /marketdata/DelayedMarkets.shtml?getHistoricalChartDataAsJson=&marketId=6018448&historicalSpan=3 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f7b88373490>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known')) | Yahoo: ConnectionError: HTTPSConnectionPool(host='query1.finance.yahoo.com', port=443): Max retries exceeded with url: /v8/finance/chart/BZ=F?range=3mo&interval=1d (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f7b88373bb0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))",
- "raw_preview": null
-}
