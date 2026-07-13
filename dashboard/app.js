@@ -259,10 +259,16 @@ function renderSummary() {
       <div class="links">${links}</div>
     </div>`;
   }).join("");
+  const label = lang === "ru" ? "Главное за день" : "Day at a glance";
+  const themesLabel = lang === "ru" ? "Основные темы" : "Key themes";
   body.innerHTML = `
     <div class="summary-layout">
-      <div class="overview">${s["overview_" + lang]}</div>
-      <div class="themes-col">${themes}</div>
+      <div class="overview">
+        <div class="overview-label">${label}</div>
+        <div class="overview-text">${s["overview_" + lang]}</div>
+      </div>
+      <div class="themes-head">${themesLabel}</div>
+      <div class="themes-grid">${themes}</div>
     </div>`;
 }
 
