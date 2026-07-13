@@ -130,11 +130,13 @@ async function init() {
     const nowMobile = isMobile();
     if (nowMobile !== wasMobile && state.dayData) {
       wasMobile = nowMobile;
+      renderCards();
       renderSentiment();
       renderAuthors();
       renderTopTweets();
       renderIndexHistory();
       renderAuthorsChart();
+      renderLanguages();
     }
   });
 }
