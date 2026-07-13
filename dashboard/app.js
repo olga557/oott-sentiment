@@ -375,7 +375,7 @@ function renderSentiment() {
 /* ---------------------------------------------------------------- index history + brent */
 
 /* Линия Brent показывается только с июля 2026 — сентимент-история ведётся с этой даты,
-   и цена без сентимента на графике не нужна (ICE Brent front-month: в июле — Sep26). */
+   и цена без сентимента на графике не нужна (ICE Brent front-month, авто из fetch_prices). */
 const BRENT_FROM = "2026-07-01";
 
 function renderIndexHistory() {
