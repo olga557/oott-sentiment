@@ -1,17 +1,22 @@
-"""Ежедневный сбор твитов #OOTT через twitterapi.io.
+"""Ежедневный сбор твитов через twitterapi.io: #OOTT + from:JavierBlas.
 
 Ключ читается из .env (TWITTERAPI_IO_KEY). По умолчанию собирает вчерашний
 день UTC; можно явно указать даты:
 
-    python3 scripts/fetch_tweets.py                # вчера (UTC)
+    python3 scripts/fetch_tweets.py                # вчера (UTC), оба источника
     python3 scripts/fetch_tweets.py 2026-07-12     # конкретный день
     python3 scripts/fetch_tweets.py 2026-07-01 2026-07-05   # диапазон включительно
 
-Результат: data/raw/YYYY-MM-DD.jsonl (перезаписывается целиком — запуск идемпотентен).
-Логика пагинации с fallback по времени взята из исходного ноутбука пользователя.
+    # только JavierBlas с вливанием в уже собранные raw-файлы (бэкфилл автора):
+    python3 scripts/fetch_tweets.py 2026-06-01 2026-07-13 --only from:JavierBlas --merge
+
+Результат: data/raw/YYYY-MM-DD.jsonl.
+Без --merge файл дня перезаписывается целиком (идемпотентный дневной запуск).
+С --merge новые твиты дополняют существующие по id.
 """
 from __future__ import annotations
 
+import json
 import sys
 import time
 from datetime import datetime, timedelta, timezone
@@ -22,10 +27,19 @@ from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from common import PROJECT_ROOT, RAW_DIR, normalize_api_tweet, parse_created_at, write_daily_jsonl
+from common import (
+    PROJECT_ROOT,
+    RAW_DIR,
+    normalize_api_tweet,
+    parse_created_at,
+    read_jsonl,
+    write_daily_jsonl,
+)
 
 URL = "https://api.twitterapi.io/twitter/tweet/advanced_search"
-BASE_TAG = "#oott"
+
+# Оба источника ежедневно; пересечения (#oott у JavierBlas) дедуплируются по id.
+DEFAULT_QUERIES = ["#oott", "from:JavierBlas"]
 
 PAUSE_BETWEEN_PAGES = 2
 REQUEST_TIMEOUT = 30
@@ -61,9 +75,9 @@ def create_session() -> requests.Session:
     return session
 
 
-def make_query(since_dt: datetime, until_dt: datetime) -> str:
+def make_query(base: str, since_dt: datetime, until_dt: datetime) -> str:
     fmt = "%Y-%m-%d_%H:%M:%S_UTC"
-    return f"{BASE_TAG} since:{since_dt.strftime(fmt)} until:{until_dt.strftime(fmt)}"
+    return f"{base} since:{since_dt.strftime(fmt)} until:{until_dt.strftime(fmt)}"
 
 
 def fetch_page(session, headers, query, cursor):
@@ -75,11 +89,11 @@ def fetch_page(session, headers, query, cursor):
     return data.get("tweets", []), data.get("has_next_page", False), data.get("next_cursor", "")
 
 
-def fetch_window(session, headers, since_dt: datetime, until_dt: datetime) -> list[dict]:
-    """Собирает все твиты окна [since, until) с пагинацией и fallback по времени."""
+def fetch_window(session, headers, base: str, since_dt: datetime, until_dt: datetime) -> list[dict]:
+    """Собирает все твиты окна [since, until) по одному query base с пагинацией и fallback."""
     all_tweets: dict[str, dict] = {}
     window_until = until_dt
-    query = make_query(since_dt, window_until)
+    query = make_query(base, since_dt, window_until)
     cursor = ""
     seen_cursors: set[str] = set()
     fallbacks = 0
@@ -95,7 +109,7 @@ def fetch_window(session, headers, since_dt: datetime, until_dt: datetime) -> li
         window_until = min(dates) - timedelta(seconds=1)
         if window_until <= since_dt:
             return False
-        query = make_query(since_dt, window_until)
+        query = make_query(base, since_dt, window_until)
         cursor = ""
         seen_cursors.clear()
         fallbacks += 1
@@ -109,7 +123,7 @@ def fetch_window(session, headers, since_dt: datetime, until_dt: datetime) -> li
             continue
         seen_cursors.add(cursor)
 
-        tweets, has_next, next_cursor, = fetch_page(session, headers, query, cursor)
+        tweets, has_next, next_cursor = fetch_page(session, headers, query, cursor)
         new = 0
         for t in tweets:
             tid = str(t.get("id", ""))
@@ -132,30 +146,88 @@ def fetch_window(session, headers, since_dt: datetime, until_dt: datetime) -> li
     return list(all_tweets.values())
 
 
-def main() -> None:
-    args = sys.argv[1:]
-    if not args:
+def write_records(records: list[dict], *, merge: bool) -> dict[str, int]:
+    """Пишет data/raw; при merge дополняет существующие дни по tweet id."""
+    if not merge:
+        return write_daily_jsonl(records, RAW_DIR)
+
+    by_day: dict[str, dict[str, dict]] = {}
+    for r in records:
+        by_day.setdefault(r["date"], {})[r["id"]] = r
+
+    counts: dict[str, int] = {}
+    RAW_DIR.mkdir(parents=True, exist_ok=True)
+    for day, incoming in sorted(by_day.items()):
+        path = RAW_DIR / f"{day}.jsonl"
+        existing = {r["id"]: r for r in read_jsonl(path)}
+        before = len(existing)
+        existing.update(incoming)
+        merged = sorted(existing.values(), key=lambda r: r["created_at"])
+        with open(path, "w", encoding="utf-8") as f:
+            for r in merged:
+                f.write(json.dumps(r, ensure_ascii=False) + "\n")
+        added = len(existing) - before
+        counts[day] = len(merged)
+        print(f"  merge {day}: было {before}, +{added} новых, итого {len(merged)}")
+    return counts
+
+
+def parse_args(argv: list[str]):
+    only: str | None = None
+    merge = False
+    pos: list[str] = []
+    i = 0
+    while i < len(argv):
+        a = argv[i]
+        if a == "--merge":
+            merge = True
+        elif a == "--only":
+            i += 1
+            if i >= len(argv):
+                sys.exit("Ошибка: --only требует значение, напр. from:JavierBlas")
+            only = argv[i]
+        elif a.startswith("-"):
+            sys.exit(f"Неизвестный флаг: {a}")
+        else:
+            pos.append(a)
+        i += 1
+
+    if not pos:
         day = (datetime.now(timezone.utc) - timedelta(days=1)).date()
         start_date = end_date = day
-    elif len(args) == 1:
-        start_date = end_date = datetime.strptime(args[0], "%Y-%m-%d").date()
+    elif len(pos) == 1:
+        start_date = end_date = datetime.strptime(pos[0], "%Y-%m-%d").date()
     else:
-        start_date = datetime.strptime(args[0], "%Y-%m-%d").date()
-        end_date = datetime.strptime(args[1], "%Y-%m-%d").date()
+        start_date = datetime.strptime(pos[0], "%Y-%m-%d").date()
+        end_date = datetime.strptime(pos[1], "%Y-%m-%d").date()
+
+    queries = [only] if only else list(DEFAULT_QUERIES)
+    return start_date, end_date, queries, merge
+
+
+def main() -> None:
+    start_date, end_date, queries, merge = parse_args(sys.argv[1:])
 
     headers = {"X-API-Key": load_api_key()}
     session = create_session()
 
     since_dt = datetime.combine(start_date, datetime.min.time(), tzinfo=timezone.utc)
     until_dt = datetime.combine(end_date + timedelta(days=1), datetime.min.time(), tzinfo=timezone.utc)
-    print(f"Сбор {BASE_TAG} за {start_date} .. {end_date} (UTC)")
+    print(f"Сбор {', '.join(queries)} за {start_date} .. {end_date} (UTC)"
+          + (" [merge]" if merge else ""))
 
-    raw = fetch_window(session, headers, since_dt, until_dt)
-    records = [r for r in (normalize_api_tweet(t) for t in raw) if r is not None]
-    # Страховка от твитов за границей окна
+    by_id: dict[str, dict] = {}
+    for base in queries:
+        print(f"→ {base}")
+        for t in fetch_window(session, headers, base, since_dt, until_dt):
+            tid = str(t.get("id", ""))
+            if tid:
+                by_id[tid] = t
+
+    records = [r for r in (normalize_api_tweet(t) for t in by_id.values()) if r is not None]
     records = [r for r in records if str(start_date) <= r["date"] <= str(end_date)]
 
-    counts = write_daily_jsonl(records, RAW_DIR)
+    counts = write_records(records, merge=merge)
     for day, n in sorted(counts.items()):
         print(f"  {day}: {n} твитов -> data/raw/{day}.jsonl")
     if not counts:

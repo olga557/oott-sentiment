@@ -1,67 +1,67 @@
 {
   "date": "2026-06-28",
-  "overview_en": "Sunday mixed Iranian drone retaliation on Kuwait and Bahrain with Ukraine’s strikes on Russian refineries and a loud bullish call that oil was set to skyrocket. Price sentiment was firmly bullish; emotional tone stayed tense and negative amid weekend escalation.",
-  "overview_ru": "В воскресенье смешались ответные дрон-удары Ирана по Кувейту и Бахрейну, украинские удары по российским НПЗ и громкий бычий тезис, что нефть готова к резкому взлёту. Сентимент по цене был уверенно бычьим; эмоциональный тон оставался напряжённым и негативным на фоне уикенд-эскалации.",
+  "overview_en": "Sunday mixed inbound AIS-on Hormuz crossings under US watch with Iranian rejection of rival transit arrangements, IRGC strike threats toward Kuwait and Bahrain, Ukraine hits on Russian refineries, and a weekend price-launchpad debate. Price sentiment was firmly bullish; emotional tone leaned negative amid renewed Gulf violence talk.",
+  "overview_ru": "В воскресенье смешались входящие AIS-включённые проходы Ормуза под наблюдением США с отказом Ирана от чужих транзитных схем, угрозами КСИР по Кувейту и Бахрейну, ударами Украины по российским НПЗ и спором о «стартовой площадке» для цен на выходных. Сентимент по цене был уверенно бычьим; эмоциональный тон склонялся к негативному на фоне новой риторики насилия в Заливе.",
   "themes": [
     {
-      "title_en": "Iran drones hit Kuwait and Bahrain",
-      "title_ru": "Дроны Ирана бьют по Кувейту и Бахрейну",
-      "blurb_en": "IRGC said it struck Kuwait and Bahrain in retaliation for U.S. attacks, warning further aggression would meet a crushing response.",
-      "blurb_ru": "КСИР заявил об ударах по Кувейту и Бахрейну в ответ на атаки США и предупредил, что новая агрессия встретит сокрушительный ответ.",
-      "text_en": "Posts said Iran’s Revolutionary Guards claimed Saturday-night strikes on Kuwait and Bahrain after U.S. attacks on Iranian territory. Separate notes framed a “weekend war” pattern—U.S. action while major markets were closed—and skepticism that a short-lived MoU would hold. Some commentary also floated further tanker risk in Hormuz into the coming week.",
-      "text_ru": "Посты писали, что КСИР заявил о субботних ночных ударах по Кувейту и Бахрейну после атак США по территории Ирана. Отдельно описывали схему «уикенд-войны» — действия США при закрытых крупных рынках — и скепсис, что недолговечный MoU устоит. Часть комментариев допускала новые риски для танкеров в Ормузе на следующей неделе.",
+      "title_en": "Inbound Hormuz traffic under US escort watch",
+      "title_ru": "Входящий трафик Ормуза под надзором США",
+      "blurb_en": "Two oil tankers and two LPG carriers were seen crossing Hormuz inbound on the Omani route with AIS on under heavy US Navy/Air Force watch.",
+      "blurb_ru": "Два нефтяных танкера и два LPG-газенеревоза заходили в Ормуз по оманскому маршруту с включённым AIS под плотным надзором ВМС/ВВС США.",
+      "text_en": "The day’s most-viewed logistics post said two oil tankers and two LPG carriers were crossing inbound via the Omani route with AIS turned on under heavy US Navy and Air Force watch. Washington was framed as trying hard to keep that Omani route viable despite Iranian objections.",
+      "text_ru": "Самый просматриваемый логистический пост дня: два нефтяных танкера и два LPG-газенеревоза идут внутрь по оманскому маршруту с AIS под плотным надзором ВМС и ВВС США. Вашингтон описывали как изо всех сил поддерживающий жизнеспособность оманского маршрута вопреки возражениям Ирана.",
+      "tone": "mixed",
+      "tweet_ids": ["2071155042569052229"]
+    },
+    {
+      "title_en": "Iran: only Tehran’s Hormuz rules, or delays",
+      "title_ru": "Иран: только правила Тегерана по Ормузу — или задержки",
+      "blurb_en": "Iran’s foreign minister warned that any separate Hormuz arrangements versus Tehran’s plan would complicate reopening and raise tensions.",
+      "blurb_ru": "МИД Ирана предупредил: любые отдельные схемы по Ормузу вне плана Тегерана усложнят открытие пролива и повысят напряжённость.",
+      "text_en": "A widely shared quote from Iran’s foreign minister said new or separate arrangements versus what Iran is running would only lead to more complicated situations, delays in reopening Hormuz, and increased tensions — as seen in recent nights. The line underscored Iranian veto power over competing transit schemes.",
+      "text_ru": "Широко разошедшаяся цитата МИД Ирана: новые или отдельные договорённости по сравнению с тем, что ведёт Иран, лишь усложнят ситуацию, задержат открытие Ормуза и повысят напряжённость — как в последние ночи. Формулировка подчеркивала иранское право вето на конкурирующие транзитные схемы.",
+      "tone": "bullish",
+      "tweet_ids": ["2071188694862594353"]
+    },
+    {
+      "title_en": "IRGC strikes rhetoric: Kuwait and Bahrain",
+      "title_ru": "Риторика ударов КСИР: Кувейт и Бахрейн",
+      "blurb_en": "Iran’s Revolutionary Guards said they struck Kuwait and Bahrain in retaliation for US attacks and threatened crushing responses to further aggression.",
+      "blurb_ru": "КСИР заявили об ударах по Кувейту и Бахрейну в ответ на атаки США и пригрозили «сокрушительным» ответом на дальнейшую агрессию.",
+      "text_en": "Weekend posts said the IRGC carried out strikes against Kuwait and Bahrain in retaliation for US attacks on Iranian territory, warning any further aggression would meet a crushing response. Separate notes simply flagged Iran launching drones versus Kuwait and Bahrain — putting Gulf neighbors back on the escalation map.",
+      "text_ru": "Выходные посты писали, что КСИР нанесли удары по Кувейту и Бахрейну в ответ на атаки США по территории Ирана и предупредили о «сокрушительном» ответе на дальнейшую агрессию. Отдельно просто фиксировали запуск иранских дронов против Кувейта и Бахрейна — снова включая соседей по Заливу в карту эскалации.",
       "tone": "bullish",
       "tweet_ids": ["2071177734089285835", "2071063964633719043"]
     },
     {
-      "title_en": "Bulls: launchpad for an oil spike",
-      "title_ru": "Быки: трамплин для скачка нефти",
-      "blurb_en": "The day’s most-viewed clip argued the launchpad was set for oil to skyrocket, while weekend WTI trackers printed above $72.",
-      "blurb_ru": "Самый просматриваемый ролик дня утверждал, что трамплин для резкого роста нефти уже готов, а уикенд-трекеры WTI печатали выше $72.",
-      "text_en": "JustDario’s Episode 83 claimed the launchpad was set for oil prices to suddenly skyrocket and drew the session’s largest audience. A weekend WTI tracker printed above $72. Inventory-focused posts said consecutive record prints would soon force WTI to “feel” tighter balances despite soft headline price action.",
-      "text_ru": "83-й эпизод JustDario утверждал, что трамплин для внезапного взлёта цен на нефть уже готов, и собрал крупнейшую аудиторию дня. Уикенд-трекер WTI показывал выше $72. Посты про запасы писали, что череда рекордных цифр скоро заставит WTI «почувствовать» более жёсткие балансы несмотря на мягкую цену.",
-      "tone": "bullish",
-      "tweet_ids": ["2071233269140459847", "2071047682022388010"]
-    },
-    {
       "title_en": "Ukraine hits Russian refineries again",
-      "title_ru": "Украина снова бьёт по НПЗ России",
-      "blurb_en": "Kyiv said overnight strikes hit a Krasnodar-region refinery and reached another in Yaroslavl as part of a longer pressure campaign.",
-      "blurb_ru": "Киев сообщил о ночных ударах по НПЗ в Краснодарском крае и о достижении объекта в Ярославской области в рамках кампании давления.",
-      "text_en": "Zelenskyy said Ukraine struck the Slavyansk-na-Kubani oil refinery in Krasnodar and “reached” a Yaroslavl-region plant overnight. Wire-style posts repeated the Krasnodar hit as evidence that Russian refining remains a live target set. That narrative kept a products-tightness premium in the weekend mix.",
-      "text_ru": "Зеленский сообщил, что Украина ударила по НПЗ в Славянске-на-Кубани (Краснодарский край) и «достигла» завода в Ярославской области за ночь. Ленточные посты повторяли удар по Краснодару как сигнал, что российская переработка остаётся живой целью. Этот нарратив держал премию за жёсткость продуктов в уикенд-смеси.",
+      "title_ru": "Украина снова бьёт по российским НПЗ",
+      "blurb_en": "Kyiv said it struck a Krasnodar-region refinery and reached another in Yaroslavl overnight as part of a longer-range campaign.",
+      "blurb_ru": "Киев заявил об ударе по НПЗ в Краснодарском крае и «досягаемости» ещё одного в Ярославской области ночью в рамках дальнего кампании.",
+      "text_en": "Posts quoting Zelenskyy said Ukraine struck the Slavyaansk-na-Kubani oil refinery in Krasnodar and “reached” a refinery in the Yaroslavl region overnight. Earlier notes had already flagged a Krasnodar hit — keeping Russian products risk in the weekend mix beside Gulf geopolitics.",
+      "text_ru": "Посты с цитатой Зеленского: Украина ударила по НПЗ Славянск-на-Кубани в Краснодарском крае и «досягнула» НПЗ в Ярославской области ночью. Ранее уже писали об ударе по Краснодару — риски российских продуктов оставались в смеси выходных рядом с геополитикой Залива.",
       "tone": "bullish",
       "tweet_ids": ["2071189505650921553", "2071130058488422604"]
     },
     {
-      "title_en": "Talk-down headlines before futures open",
-      "title_ru": "Заголовки «успокоения» перед открытием",
-      "blurb_en": "Skeptics said Washington was using anonymous briefings and ceasefire optics to cap oil just as futures prepared to reopen.",
-      "blurb_ru": "Скептики утверждали, что Вашингтон использует анонимные брифинги и оптику перемирия, чтобы придержать нефть перед открытием фьючерсов.",
-      "text_en": "One high-reach post listed Axios citing an anonymous senior U.S. official near the open plus alleged persistent shorting as tricks to lower oil. Another quipped that “peace in the Middle East” broke out just ahead of futures open. Critics called the pattern fake ceasefire news designed to keep crude below $80.",
-      "text_ru": "Один из самых заметных постов перечислял Axios с анонимным старшим чиновником США перед открытием и якобы постоянный шорт как приёмы для снижения нефти. Другой ехидно писал, что «мир на Ближнем Востоке» вспыхнул как раз перед открытием фьючерсов. Критики называли это фейковыми перемириями, чтобы держать нефть ниже $80.",
-      "tone": "mixed",
-      "tweet_ids": ["2071381829358362720", "2071329940461543677"]
+      "title_en": "Weekend launchpad talk vs peace headlines",
+      "title_ru": "Разговоры о «стартовой площадке» vs заголовки мира",
+      "blurb_en": "Bullish weekend media argued oil was set to skyrocket, while competing posts claimed last-minute peace headlines aimed to cap prices into the open.",
+      "blurb_ru": "Бычьи выходные СМИ твердили, что нефть готова взлететь, а конкурирующие посты видели в запоздалых заголовках о мире попытку удержать цены к открытию.",
+      "text_en": "A high-view podcast headline said the launchpad was set for oil prices to suddenly skyrocket. Counterposts argued Washington was using weekend messaging and market-closed timing to talk prices down, while inventory bulls still pointed to record-lean inventories as a delayed flat-price catalyst.",
+      "text_ru": "Подкаст с большим охватом заявил, что «стартовая площадка» для внезапного взлёта нефти уже готова. Контрпосты утверждали, что Вашингтон использует выходной месседж и тайминг при закрытых рынках, чтобы давить на цены, а быки по запасам всё ещё указывали на рекордно тощие инвентори как на отложенный катализатор flat-price.",
+      "tone": "bullish",
+      "tweet_ids": ["2071233269140459847", "2071381829358362720"]
     },
     {
-      "title_en": "Novak: no need for Russia diesel ban",
-      "title_ru": "Новак: запрет экспорта дизеля РФ не нужен",
-      "blurb_en": "Russia’s deputy PM said there was no need to ban diesel exports—a bearish products counterpoint to refinery-strike headlines.",
-      "blurb_ru": "Вице-премьер России заявил, что запрет экспорта дизеля не нужен — медвежий продуктовый противовес заголовкам об ударах по НПЗ.",
-      "text_en": "Coverage quoted Deputy PM Novak saying Russia did not need a diesel export ban. Later posts noted he had said the same earlier, framing the line as an attempt to calm products markets. The message clashed with Ukraine’s overnight refinery strikes in the same feed.",
-      "text_ru": "В ленте цитировали вице-премьера Новака: России не нужен запрет экспорта дизеля. Позже напоминали, что он говорил то же ранее, трактуя это как попытку успокоить продуктовый рынок. Сообщение контрастировало с ночными ударами Украины по НПЗ в той же ленте.",
+      "title_en": "Russia: no need for a diesel export ban",
+      "title_ru": "Россия: запрет экспорта дизеля не нужен",
+      "blurb_en": "Deputy PM Novak said there was no need for Russia to ban diesel exports — cooling a products-tightness theme from earlier in the week.",
+      "blurb_ru": "Вице-премьер Новак заявил, что России нет нужды запрещать экспорт дизеля — остудив тему продуктовой жёсткости с начала недели.",
+      "text_en": "A Sunday note quoted Novak saying there is no need for Russia to ban diesel exports. That walked back earlier-week chatter about a multi-month diesel export ban and removed one bullish products overhang from the weekend narrative.",
+      "text_ru": "Воскресная заметка цитировала Новака: России нет нужды запрещать экспорт дизеля. Это отыгрывало разговоры начала недели о многомесячном запрете и снимало один бычий продуктовый навес с нарратива выходных.",
       "tone": "bearish",
-      "tweet_ids": ["2071216076210282949", "2071305664878576058"]
-    },
-    {
-      "title_en": "Flights still near 2019 demand levels",
-      "title_ru": "Авиарейсы всё ещё около спроса 2019",
-      "blurb_en": "Eurocontrol’s 7-day average sat only +0.6% versus 2019, offering a soft demand check beside the geopolitical noise.",
-      "blurb_ru": "7-дневное среднее Eurocontrol было лишь на +0.6% к 2019 году — мягкая проверка спроса на фоне геополитического шума.",
-      "text_en": "Charts of commercial flights tracked by Flightradar24 circulated alongside Eurocontrol data showing the 7-day average at +0.6% versus 2019, down from +0.9% the prior week. Separately, some argued Hormuz workarounds helped explain strong April oil-product demand. The aviation prints kept a neutral demand anchor in an otherwise risk-on geopolitical day.",
-      "text_ru": "Графики коммерческих рейсов Flightradar24 шли рядом с данными Eurocontrol: 7‑дневное среднее +0.6% к 2019 против +0.9% неделей ранее. Отдельно связывали обходы Ормуза с сильным апрельским спросом на нефтепродукты. Авиационные цифры держали нейтральный якорь спроса в иначе геополитически бычьем дне.",
-      "tone": "neutral",
-      "tweet_ids": ["2071136687262998585", "2071136974954541168"]
+      "tweet_ids": ["2071216076210282949"]
     }
   ]
 }

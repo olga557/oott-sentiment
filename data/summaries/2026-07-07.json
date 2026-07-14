@@ -1,47 +1,57 @@
 {
   "date": "2026-07-07",
-  "overview_en": "Tuesday turned sharply more bullish as Iran shipped tens of millions of barrels during the blockade pause, a Saudi-flagged tanker was damaged near Hormuz, and API showed product draws. Price sentiment was firmly bullish; emotional tone mixed with negative spikes on Gulf incidents.",
-  "overview_ru": "Во вторник тон резко стал бычьим: Иран вывез десятки миллионов баррелей за паузу блокады, у Ормуза повредили танкер под саудовским флагом, API показал отбор продуктов. Сентимент по цене уверенно бычий; эмоциональный тон смешанный с негативными всплесками по инцидентам в Заливе.",
+  "overview_en": "Tuesday centered on Iranian attacks on oil and LNG tankers in Hormuz, a US strike wave and revocation of Iran’s oil waiver, plus strong API product draws. Price sentiment was firmly bullish; emotional tone turned more negative amid escalation and dark shipping traffic.",
+  "overview_ru": "Во вторник в центре были атаки Ирана на нефтяные и СПГ-танкеры в Ормузе, волна ударов США и отзыв нефтяного вейвера Ирана плюс сильные отборы продуктов по API. Сентимент по цене был уверенно бычьим; эмоциональный тон стал более негативным на фоне эскалации и «тёмного» судоходства.",
   "themes": [
     {
-      "title_en": "Iran ships ~60 mb since blockade pause",
-      "title_ru": "Иран вывез ~60 млн барр. с паузы блокады",
-      "blurb_en": "TankerTrackers said Iran managed to ship out about 60 million barrels of crude since the US Navy blockade paused in mid-June — a huge volume flush that also underscored how much was trapped.",
-      "blurb_ru": "TankerTrackers: Иран смог вывезти около 60 млн баррелей сырой с паузы блокады ВМС США с середины июня — огромный выброс объёма, который также показал, сколько было заперто.",
-      "text_en": "The day's most-viewed post quantified ~60 mb of Iranian crude shipped since the mid-June blockade pause. That supply release sat beside warnings that the pause could reverse and that Hormuz risk remained asymmetric.",
-      "text_ru": "Самый просматриваемый пост дня оценил ~60 млн барр. иранской сырой, вывезенной с паузы блокады с середины июня. Выброс предложения шёл рядом с предупреждениями, что пауза может откатиться, а риск Ормуза остаётся асимметричным.",
-      "tone": "mixed",
-      "tweet_ids": ["2074636575435100606"]
-    },
-    {
-      "title_en": "Saudi tanker damaged near Hormuz",
-      "title_ru": "Саудовский танкер повреждён у Ормуза",
-      "blurb_en": "A Saudi-flagged crude tanker was damaged near the Strait of Hormuz after a separate LNG tanker collision — raising maritime risk premiums.",
-      "blurb_ru": "Танкер под саудовским флагом повреждён у Ормузского пролива после отдельного столкновения с газовозом — рост морской премии за риск.",
-      "text_en": "Amena Bakr reported a Saudi-flagged crude oil tanker damaged near Hormuz after a separate LNG tanker collision. Staunovo separately noted Israel's energy minister touting an oil pipeline to bypass Hormuz.",
-      "text_ru": "Amena Bakr сообщила о повреждении танкера под саудовским флагом у Ормуза после отдельного столкновения с газовозом. Staunovo отдельно отметил, что министр энергетики Израиля продвигает нефтепровод в обход Ормуза.",
+      "title_en": "Iran hits tankers; Hormuz traffic goes dark",
+      "title_ru": "Иран бьёт по танкерам; трафик Ормуза гаснет",
+      "blurb_en": "Iran attacked at least two to three oil and LNG tankers in Hormuz within 24 hours, with AIS-dark traffic and pressure to push ships into Iranian lanes.",
+      "blurb_ru": "Иран за 24 часа атаковал как минимум два–три нефтяных и СПГ-танкера в Ормузе; трафик ушёл в «тёмный» AIS, а суда теснили в иранские фарватеры.",
+      "text_en": "High-view posts said Iran had attacked at least two — and probably three — oil/LNG tankers in the last day, with all Strait of Hormuz traffic again going AIS-dark. Earlier notes described fire on vessels and a push to redirect traffic away from the Omani side toward Iranian lanes, even as some Japanese ships were still allowed across. Separate coverage flagged a Saudi-flagged crude tanker damaged near the strait after an LNG collision event in the same zone.",
+      "text_ru": "Самые читаемые посты писали, что Иран за сутки атаковал как минимум два — а вероятно три — нефтяных/СПГ-танкера, и весь трафик Ормуза снова ушёл в «тёмный» AIS. Ранее отмечали обстрелы судов и попытку перенаправить поток с оманской стороны в иранские фарватеры, хотя части японских судов всё же давали пройти. Отдельно сообщали о повреждении саудовского нефтяного танкера у пролива после инцидента/столкновения с СПГ-танкером в той же зоне.",
       "tone": "bullish",
-      "tweet_ids": ["2074435628209725713", "2074518601978011883"]
+      "tweet_ids": ["2074516511612449069", "2074378107952275677"]
     },
     {
-      "title_en": "API: gasoline and distillate draws",
-      "title_ru": "API: отбор бензина и дистиллятов",
-      "blurb_en": "API showed large gasoline and distillate draws with only a small crude draw — supportive for products and overnight sentiment.",
-      "blurb_ru": "API показал сильный отбор бензина и дистиллятов при небольшом отборе сырой — поддержка продуктов и ночного сентимента.",
-      "text_en": "JuliOnTwtr and BroadStreetOil printed API crude roughly −0.4 mb, gasoline about −2.9 mb and distillates about −1.8 mb — among the day's most-shared inventory posts.",
-      "text_ru": "JuliOnTwtr и BroadStreetOil опубликовали API: сырая roughly −0.4 млн барр., бензин около −2.9 млн, дистилляты около −1.8 млн — среди самых расшаренных инвентарных постов дня.",
+      "title_en": "US revokes Iran oil waiver and strikes",
+      "title_ru": "США отзывают вейвер Ирана и наносят удары",
+      "blurb_en": "Washington revoked the sanctions waiver on Iranian oil and petrochemical sales and launched strikes to punish attacks on commercial shipping.",
+      "blurb_ru": "Вашингтон отозвал санкционный вейвер на нефть и нефтехимию Ирана и начал удары в наказание за атаки на коммерческое судоходство.",
+      "text_en": "Breaking posts said the US revoked the waiver covering Iran’s oil and petrochemical exports after the tanker attacks. The US military then said it was launching a series of powerful strikes against Iran to impose heavy costs for targeting commercial shipping. WTI was cited jumping several percent intraday as the risk premium snapped back.",
+      "text_ru": "Breaking-посты сообщали, что США отозвали вейвер на нефть и нефтехимию Ирана после атак на танкеры. Затем военные США заявили о серии мощных ударов по Ирану, чтобы наложить «высокие издержки» за атаки на коммерческое судоходство. WTI в течение дня прибавлял несколько процентов по мере возврата премии за риск.",
+      "tone": "bullish",
+      "tweet_ids": ["2074569858428059904", "2074606051781955770"]
+    },
+    {
+      "title_en": "API: gasoline −2.9 mb, distillates −1.8 mb",
+      "title_ru": "API: бензин −2.9 млн барр., дистилляты −1.8 млн",
+      "blurb_en": "API showed a small crude draw but large gasoline and distillate withdrawals — a products-bullish inventory print.",
+      "blurb_ru": "API показал небольшой отбор нефти, но крупные снятия бензина и дистиллятов — бычий отчёт по продуктам.",
+      "text_en": "API for 07/07 printed crude −0.399 mb (vs ~−1.5 mb expected), Cushing −0.069 mb, gasoline −2.929 mb and distillates −1.801 mb, with SPR cited at −6.2 mb actual. The product draws dominated bullish inventory chatter even though the crude print missed the deeper draw estimate.",
+      "text_ru": "API за 07/07: нефть −0.399 млн барр. (ожидали около −1.5 млн), Cushing −0.069 млн, бензин −2.929 млн и дистилляты −1.801 млн, при фактическом SPR −6.2 млн. Именно отборы продуктов задавали бычий тон по запасам, хотя нефть не дотянула до более глубокого консенсуса.",
       "tone": "bullish",
       "tweet_ids": ["2074594405118345303", "2074593946706035132"]
     },
     {
-      "title_en": "SPR sales tally; Iran OFAC license",
-      "title_ru": "Итог продаж SPR; лицензия OFAC по Ирану",
-      "blurb_en": "US SPR sales so far were pegged near 96 mb of a 132.5 mb program, while OFAC issued an amended Iran-related general license.",
-      "blurb_ru": "Продажи из SPR США оценили примерно в 96 млн барр. из программы 132.5 млн; OFAC выпустил обновлённую генеральную лицензию по Ирану.",
-      "text_en": "Staunovo said SPR sales so far were around 96 million barrels versus 132.5 million authorized. LiveSquawk flagged an amended Iran-related OFAC general license — policy plumbing beside the Hormuz physical risk.",
-      "text_ru": "Staunovo оценил продажи из SPR примерно в 96 млн барр. при авторизованных 132.5 млн. LiveSquawk отметил обновлённую генеральную лицензию OFAC по Ирану — регуляторная «сантехника» рядом с физическим риском Ормуза.",
+      "title_en": "Iran loads Kharg while shipping ~60 mb since mid-June",
+      "title_ru": "Иран грузит Харг и вывез ~60 млн барр. с середины июня",
+      "blurb_en": "Even as tankers were attacked, Kharg loadings picked up and trackers said Iran had shipped about 60 mb since the US blockade pause.",
+      "blurb_ru": "Даже на фоне атак на танкеры погрузки на Харге выросли, а трекеры оценивали вывоз Ирана примерно в 60 млн барр. с паузы блокады США.",
+      "text_en": "While Iran attacked tankers, satellite notes said Kharg Island loadings had picked up sharply versus prior weeks. TankerTrackers estimated Iran had shipped out about 60 million barrels since the mid-June US Navy blockade pause and would still hold roughly 50 mb stuck if the blockade resumed. That dual picture — export urgency plus shipping risk — kept Iranian barrels a volatile swing factor.",
+      "text_ru": "Пока Иран атаковал танкеры, спутниковые заметки фиксировали резкий рост погрузок на острове Харг против прошлых недель. TankerTrackers оценивал, что с паузы блокады ВМС США в середине июня Иран вывез около 60 млн барр. и при возобновлении блокады остался бы примерно с ~50 млн барр. «застрявших». Двойная картина — срочный экспорт плюс риск судоходства — оставляла иранские баррели волатильным свингом.",
       "tone": "mixed",
-      "tweet_ids": ["2074493461194055719", "2074567081048019410"]
+      "tweet_ids": ["2074636575435100606", "2074540282373177736"]
+    },
+    {
+      "title_en": "Bypass talk: East–West pipe and Israel route",
+      "title_ru": "Обход Ормуза: East–West и маршрут Израиля",
+      "blurb_en": "Saudi expansion of the East–West pipeline and an Israeli bypass-pipe pitch showed how durable Hormuz risk still looks.",
+      "blurb_ru": "Идеи расширения саудовского East–West и израильского обходного трубопровода показывали, насколько устойчивым выглядит риск Ормуза.",
+      "text_en": "Israel’s energy minister publicly touted an oil pipeline to bypass Hormuz. Separate notes said Saudi Arabia was considering expanding its East–West Red Sea pipeline by up to about 2 mb/d after months of conflict. Those infrastructure headlines were treated as multi-year hedges, not near-term supply relief.",
+      "text_ru": "Министр энергетики Израиля публично продвигал нефтепровод в обход Ормуза. Отдельно писали, что Саудовская Аравия рассматривает расширение East–West к Красному морю примерно до +2 млн б/с после месяцев конфликта. Эти инфраструктурные заголовки читали как многолетний хедж, а не ближнее облегчение предложения.",
+      "tone": "neutral",
+      "tweet_ids": ["2074518601978011883", "2074393107232117161"]
     }
   ]
 }

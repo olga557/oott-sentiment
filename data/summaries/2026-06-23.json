@@ -1,67 +1,67 @@
 {
   "date": "2026-06-23",
-  "overview_en": "Tuesday mixed Hormuz transit rebound headlines with Iran's daily vessel caps and conflicting US-Iran shipping guidance, plus Russia diesel-ban talk and a sizable API crude draw. Price sentiment was modestly bullish; emotional tone stayed mostly neutral amid supply-tightness chatter versus easing strait flows.",
-  "overview_ru": "Во вторник смешались заголовки о восстановлении транзитов через Ормуз с суточными лимитами Ирана и противоречивыми указаниями США и Ирана для судов, разговоры о запрете экспорта дизеля из России и заметный отбор нефти по API. Сентимент по цене был умеренно бычьим; эмоциональный тон оставался в основном нейтральным на фоне жёсткости предложения и ослабления потоков через пролив.",
+  "overview_en": "Tuesday mixed Hormuz “fully open” and tolls-versus-services diplomacy with UAE export recovery maths, soft China demand relief, API inventory prints, and a Russia diesel-ban watch. Price sentiment was mixed-to-slightly bullish; emotional tone stayed mostly neutral.",
+  "overview_ru": "Во вторник смешались заявления о «полностью открытом» Ормузе и дипломатия пошлин vs «услуг» с математикой восстановления экспорта ОАЭ, мягким спросом Китая, данными API и слежением за возможным запретом дизеля в России. Сентимент по цене был смешанным с лёгким бычьим уклоном; эмоциональный тон оставался в основном нейтральным.",
   "themes": [
     {
-      "title_en": "API crude draw, SPR at multi-decade low",
-      "title_ru": "Отбор нефти по API, SPR на многолетнем минимуме",
-      "blurb_en": "Weekly API data showed a 765 kb crude draw plus product builds, with SPR down 9.1 mb to a multi-decade low.",
-      "blurb_ru": "Недельные данные API показали отбор нефти на 765 тыс. барр. при росте запасов продуктов; SPR упал на 9,1 млн барр. до многолетнего минимума.",
-      "text_en": "API prints flagged crude down 765,000 barrels, Cushing down 982,000, gasoline up 1.238 mb and distillates up 1.447 mb, with SPR falling 9.1 mb to the lowest level in more than four decades. Follow-on posts echoed the commercial draw. The release landed beside same-day Brent settlement near $77.08/bbl.",
-      "text_ru": "Данные API зафиксировали отбор нефти на 765 тыс. барр., снижение в Cushing на 982 тыс., рост бензина на 1,238 млн и дистиллятов на 1,447 млн; SPR упал на 9,1 млн барр. до минимума более чем за 40 лет. Последующие посты подтвердили коммерческий отбор. Цифры вышли в день, когда Brent закрылся около $77,08/барр.",
-      "tone": "bullish",
-      "tweet_ids": ["2069520457041056153", "2069520082103877900"]
-    },
-    {
-      "title_en": "Hormuz rebound vs daily transit caps",
-      "title_ru": "Восстановление Ормуза vs суточные лимиты транзита",
-      "blurb_en": "Posts cited Hormuz flows rebounding toward 4.8 mb/d even as Iran's navy said it would allow only a limited number of vessels through each day.",
-      "blurb_ru": "Посты отмечали восстановление потоков через Ормуз до около 4,8 млн б/с, хотя ВМС Ирана заявили о пропуске лишь ограниченного числа судов в сутки.",
-      "text_en": "One widely viewed headline said Hormuz transits rebounded to 4.8 mb/d as stranded tonnage and sanctioned fleets cleared the blockade. Separate reports said Iran's Revolutionary Guards Navy would coordinate only a capped daily number of passages, with the limit fluctuating by conditions. That mixed a bearish flow-normalization read with lingering choke-point control risk.",
-      "text_ru": "Широко просматриваемый заголовок сообщил о восстановлении транзитов через Ормуз до 4,8 млн б/с по мере разблокировки застрявшего тоннажа и санкционных флотов. Отдельно писали, что ВМС КСИР будут координировать лишь ограниченное суточное число проходов в зависимости от обстановки. Так смешались медвежий сигнал нормализации потоков и сохраняющийся риск контроля над узким местом.",
+      "title_en": "Hormuz open, but “costs” vs “no tolls”",
+      "title_ru": "Ормуз открыт, но «издержки» vs «без пошлин»",
+      "blurb_en": "Iran said the strait was fully open to commercial shipping, while US officials rejected tolls even as Iran-Oman talk of “services” and “costs” continued.",
+      "blurb_ru": "Иран говорил, что пролив полностью открыт для коммерческого шиппинга, а США отвергали пошлины — при том что Иран и Оман продолжали язык «услуг» и «издержек».",
+      "text_en": "Semi-official Iranian media said large oil volumes had moved through Hormuz in recent days. Separate posts highlighted an Iran-Oman joint statement and the wording clash: Washington said no tolls on an international waterway, while Iran and Oman discussed costs for services. Shipowners were also described as receiving conflicting US-Iran routing advice.",
+      "text_ru": "Полуофициальные иранские СМИ писали, что за последние дни через Ормуз прошли большие объёмы нефти. Отдельно выделяли совместное заявление Ирана и Омана и конфликт формулировок: Вашингтон — никаких пошлин на международном пути, Иран и Оман — издержки за услуги. Судовладельцев также описывали как получающих противоречивые советы США и Ирана по маршруту.",
       "tone": "mixed",
-      "tweet_ids": ["2069482976170103238", "2069390364893487155"]
+      "tweet_ids": ["2069359278964535683", "2069408176579989518"]
     },
     {
-      "title_en": "Conflicting US-Iran Hormuz guidance",
-      "title_ru": "Противоречивые указания США и Ирана по Ормузу",
-      "blurb_en": "FT-linked posts said shipowners were getting incompatible US and Iranian routing advice on the safest way through the strait.",
-      "blurb_ru": "Посты со ссылкой на FT сообщали, что судовладельцы получают несовместимые указания США и Ирана по безопасному маршруту через пролив.",
-      "text_en": "LiveSquawk flagged an FT story that conflicting US-Iran advice on Hormuz left shipowners adrift, with vessels given incompatible instructions on the safest crossing route. Follow-on posts amplified the same headline. The guidance gap kept transit risk elevated even as some flow prints improved.",
-      "text_ru": "LiveSquawk процитировал FT: противоречивые советы США и Ирана по Ормузу оставляют судовладельцев в неопределённости, с несовместимыми инструкциями по безопасному маршруту. Последующие посты продублировали заголовок. Разрыв в указаниях сохранял повышенный транзитный риск даже при улучшении части цифр по потокам.",
-      "tone": "bullish",
-      "tweet_ids": ["2069272383848947899", "2069274425128612297"]
-    },
-    {
-      "title_en": "Russia mulling diesel export ban",
-      "title_ru": "Россия рассматривает запрет экспорта дизеля",
-      "blurb_en": "Deputy PM Novak said Moscow was considering a diesel export ban as refineries maxed out and rescheduled maintenance after strikes.",
-      "blurb_ru": "Вице-премьер Новак заявил, что Москва рассматривает запрет экспорта дизеля, пока НПЗ работают на пределе и переносят ремонты после ударов.",
-      "text_en": "Staunovo reported Novak saying Russia may ban diesel exports, with refineries maxing out, speeding up runs, and rescheduling maintenance. Separate headlines said Russia was discussing fuel imports amid Ukrainian strikes on energy infrastructure. The products-tightness thread was a clear bullish footnote for middle distillates.",
-      "text_ru": "Staunovo сообщил, что Новак допускает запрет экспорта дизеля, а НПЗ работают на пределе, ускоряют переработку и переносят ремонты. Отдельные заголовки отмечали обсуждение импорта топлива в Россию на фоне украинских ударов по энергетической инфраструктуре. Тема жёсткости продуктового рынка стала явным бычьим штрихом по средним дистиллятам.",
-      "tone": "bullish",
-      "tweet_ids": ["2069443089429631122", "2069429934179680346"]
-    },
-    {
-      "title_en": "Market feels like The Big Short",
-      "title_ru": "Рынок напоминает «Игру на понижение»",
-      "blurb_en": "A widely shared post argued traders can see tightening ahead while prices move the other way, with inventories still falling.",
-      "blurb_ru": "Популярный пост утверждал, что участники видят ужесточение впереди, а цены идут в другую сторону, хотя запасы продолжают снижаться.",
-      "text_en": "A Big Short analogy drew heavy engagement, saying the market can see what is coming but is trading the other way. Related commentary argued oil is talked down ahead of the open while daily deficits and global inventory draws continue. The framing kept a bullish physical bias against softer paper price action.",
-      "text_ru": "Аналогия с «Игрой на понижение» собрала много просмотров: рынок видит ужесточение, но торгуется в обратную сторону. Смежные комментарии писали о «разговорить нефть вниз» перед открытием при продолжающемся дефиците и снижении мировых запасов. Рамка сохраняла бычий уклон по физике против более мягкой бумажной цены.",
-      "tone": "bullish",
-      "tweet_ids": ["2069432177432178817", "2069403913254773066"]
-    },
-    {
-      "title_en": "Iraq southern output near 2.1 mb/d",
-      "title_ru": "Добыча на юге Ирака около 2,1 млн б/с",
-      "blurb_en": "Iraqi oil officials said southern field output rose to about 2.1 mb/d as more tankers queued at Gulf export terminals.",
-      "blurb_ru": "Иракские нефтяные чиновники сообщили, что добыча на южных месторождениях выросла до около 2,1 млн б/с, пока к экспортным терминалам в заливе выстраивались танкеры.",
-      "text_en": "Two Iraqi oil officials told Reuters southern output reached roughly 2.1 million bpd with more tankers lining up to load from Gulf terminals. That recovery sat beside separate notes that Iraq was leaning on central-bank reserves after an earlier oil-export collapse. Higher southern barrels were the day's clearest regional supply add.",
-      "text_ru": "Два иракских нефтяных чиновника сообщили Reuters, что добыча на юге достигла примерно 2,1 млн б/с, а к терминалам в заливе выстраивается больше танкеров. Восстановление шло рядом с заметками о том, что Ирак опирается на резервы центробанка после более раннего обвала экспорта нефти. Рост южной добычи стал самым явным региональным приростом предложения за день.",
+      "title_en": "Count PG flows, not just SoH barrels",
+      "title_ru": "Считать потоки Залива, а не только Ормуз",
+      "blurb_en": "Persian Gulf recovery maths stressed bypass pipelines and dark Oman-coast crossings, with UAE exports put near 85% of pre-war levels.",
+      "blurb_ru": "Математика восстановления Залива упирала на обходные трубы и «тёмные» проходы у Омана: экспорт ОАЭ ставили около 85% довоенного уровня.",
+      "text_en": "IEA-linked commentary put early-June UAE total oil exports at about 4.3 mb/d versus 1.9 mb/d in March, helped by bypass pipe, Fujairah storage and dark SoH crossings. A parallel note argued SoH volumes need not fully normalize if bypass lines stay maxed for overall Gulf flows to recover.",
+      "text_ru": "Комментарии со ссылкой на МЭА ставили совокупный экспорт нефти ОАЭ в начале июня около 4.3 млн б/с против 1.9 млн б/с в марте — обходная труба, хранилища Фуджейры и «тёмные» проходы. Параллельно писали, что объёмы через Ормуз не обязаны полностью нормализоваться, если обходы остаются на максимуме для восстановления совокупных потоков Залива.",
       "tone": "bearish",
-      "tweet_ids": ["2069360883281596903", "2069264118377251298"]
+      "tweet_ids": ["2069519539478368457", "2069307297159901673"]
+    },
+    {
+      "title_en": "API: crude and Cushing draw, products build",
+      "title_ru": "API: отбор нефти и Cushing, рост продуктов",
+      "blurb_en": "API-style prints showed a crude and Cushing draw beside gasoline and distillate builds, with another large SPR decline flagged.",
+      "blurb_ru": "Оценки в стиле API показали отбор нефти и Cushing при росте бензина и дистиллятов плюс ещё одно крупное снижение SPR.",
+      "text_en": "One widely shared inventory card put crude −765 kb, gasoline +1.24 mb, distillates +1.45 mb, Cushing about −982 kb near 19.1 mb, and SPR −9.1 mb at a multi-decade low. Bulls leaned on the draws; bears still saw product builds as a softener.",
+      "text_ru": "Широко разошедшаяся карточка запасов ставила нефть −765 тыс. барр., бензин +1.24 млн, дистилляты +1.45 млн, Cushing около −982 тыс. к уровню ~19.1 млн и SPR −9.1 млн на многодесятилетнем минимуме. Быки опирались на отборы; медведи смягчали картину ростом продуктов.",
+      "tone": "bullish",
+      "tweet_ids": ["2069520457041056153", "2069521571534799019"]
+    },
+    {
+      "title_en": "China demand strike eased global pressure",
+      "title_ru": "Забастовка спроса Китая сняла давление",
+      "blurb_en": "An IEA-linked read said China had cut crude imports about 40%, or 4.6 mb/d, from February to May, helping ease wider market stress.",
+      "blurb_ru": "Оценка со ссылкой на МЭА: Китай сократил импорт нефти примерно на 40%, или 4.6 млн б/с, с февраля по май — это смягчило давление на рынок.",
+      "text_en": "The quote framed China’s import slash as a major buffer while Hormuz risk premium faded. It sat beside the UAE export-recovery charts as another reason physical tightness was less acute than wartime headlines.",
+      "text_ru": "Цитата представляла обвал импорта Китая как крупный буфер на фоне угасающей премии за риск Ормуза. Рядом с графиками восстановления экспорта ОАЭ это объясняло, почему физическая жёсткость слабее военных заголовков.",
+      "tone": "bearish",
+      "tweet_ids": ["2069515439961477170"]
+    },
+    {
+      "title_en": "Russia weighs diesel export ban",
+      "title_ru": "Россия взвешивает запрет экспорта дизеля",
+      "blurb_en": "Moscow was again said to be mulling a diesel export ban while refining hard after Ukrainian strikes, with fuel-import talk also circulating.",
+      "blurb_ru": "Москву снова описывали как обсуждающую запрет экспорта дизеля при жёсткой загрузке НПЗ после ударов Украины; ходили и разговоры об импорте топлива.",
+      "text_en": "Deputy PM Novak was cited on a possible diesel export ban as refineries maximized runs and reshuffled maintenance. Separate notes said Russia was discussing fuel imports amid Ukrainian strikes — a products-tightness counterweight to softer crude optics.",
+      "text_ru": "Со ссылкой на вице-премьера Новака писали о возможном запрете экспорта дизеля при максимизации переработки и переносе ремонтов. Отдельно — о обсуждении импорта топлива на фоне украинских ударов: продуктовая жёсткость как противовес более мягкой картине по нефти.",
+      "tone": "bullish",
+      "tweet_ids": ["2069443089429631122", "2069348230005981339"]
+    },
+    {
+      "title_en": "Hormuz transits rebound toward 4.8 mb/d",
+      "title_ru": "Транзиты Ормуза отскакивают к ~4.8 млн б/с",
+      "blurb_en": "Transit reads put Hormuz flows rebounding toward about 4.8 mb/d as stranded and sanctioned fleets cleared the blockade.",
+      "blurb_ru": "Оценки транзита ставили отскок потоков Ормуза к примерно 4.8 млн б/с, пока «застрявший» и санкционный флот очищал блокаду.",
+      "text_en": "One market note said Hormuz transits rebounded to 4.8 mb/d as stranded tonnage and sanctioned fleets cleared. That flow recovery sat next to still-fragile confidence and conflicting routing guidance for shipowners.",
+      "text_ru": "Рыночная заметка ставила отскок транзитов Ормуза до 4.8 млн б/с по мере расчистки «застрявшего» тоннажа и санкционного флота. Восстановление потоков шло рядом с хрупким доверием и противоречивыми маршрутами для судовладельцев.",
+      "tone": "bearish",
+      "tweet_ids": ["2069482976170103238", "2069274425128612297"]
     }
   ]
 }

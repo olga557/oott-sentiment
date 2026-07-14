@@ -1,47 +1,57 @@
 {
   "date": "2026-07-09",
-  "overview_en": "Thursday mixed Iran war headlines — Bushehr explosions, Hormuz deal-clause fights, and a rush of Iranian barrels out of the strait — with diesel tightness and SPR buying. Price sentiment was moderately bullish; emotional tone mostly dry/neutral with negative spikes on escalation.",
-  "overview_ru": "В четверг смешались военные заголовки по Ирану — взрывы в Бушере, споры о формулировках сделки по Ормузу и спешный выход иранских баррелей из пролива — с дефицитом дизеля и закупками в SPR. Сентимент по цене был умеренно бычьим; эмоциональный тон в основном сухой/нейтральный с негативными всплесками на эскалации.",
+  "overview_en": "Thursday mixed Iran’s overnight rush of ~10 mb out of Hormuz and claims of strikes on Gulf Arab sites with US facilitation tallies, diesel tightness and a softer settle. Price sentiment stayed moderately bullish; emotional tone was mostly negative amid still-live war risk.",
+  "overview_ru": "В четверг смешались ночной вывоз Ираном порядка 10 млн баррелей через Ормуз и заявления об ударах по объектам арабских монархий Залива с подсчётами США по сопровождению транзита, жёсткостью дизеля и более мягким закрытием. Сентимент по цене оставался умеренно бычьим; эмоциональный тон — в основном негативным на фоне всё ещё живого военного риска.",
   "themes": [
     {
-      "title_en": "Iran ships ~10 mb before a possible blockade return",
-      "title_ru": "Иран вывез ~10 млн барр. до возможного возврата блокады",
-      "blurb_en": "TankerTrackers said Tehran rushed out at least 10 million barrels ahead of a possible US Navy blockade restart — a near-term supply flush that still flagged future choke risk.",
-      "blurb_ru": "TankerTrackers писал, что Тегеран спешно вывез не менее 10 млн баррелей перед возможным возобновлением блокады ВМС США — краткосрочный выброс предложения при сохранении риска перекрытия.",
-      "text_en": "The day's most-viewed post argued Iran exploited the lifted blockade window to move crude and fuel oil. Separate notes said Iranian tankers were rushing out of Hormuz and that the US could reinstate a tougher second-iteration blockade. Staunovo framed the Hormuz fight as hinging on a poorly worded clause (paragraph 5) in Trump's deal.",
-      "text_ru": "Самый просматриваемый пост дня утверждал, что Иран использовал окно снятой блокады, чтобы вывезти нефть и мазут. Отдельно писали, что иранские танкеры спешат из Ормуза, а США могут вернуть более жёсткую «вторую итерацию» блокады. Staunovo сводил спор по Ормузу к неудачной формулировке пункта 5 сделки Трампа.",
+      "title_en": "Iran rushes ~10 mb overnight ahead of blockade talk",
+      "title_ru": "Иран срочно вывозит ~10 млн барр. накануне блокады",
+      "blurb_en": "Trackers said Tehran shipped at least 10 mb of crude and fuel oil overnight anticipating a possible US Navy blockade restart.",
+      "blurb_ru": "Трекеры писали, что Тегеран за ночь вывез не менее 10 млн барр. нефти и мазута в ожидании возможного возобновления блокады ВМС США.",
+      "text_en": "The day's highest-view post said Iran, anticipating an imminent US Navy blockade restart, shipped no less than 10 million barrels of crude and fuel oil overnight. Parallel notes described Iranian tankers rushing out of Hormuz. That export sprint sat beside warnings that a second blockade iteration could be tighter if storage and berths at Jask were targeted.",
+      "text_ru": "Самый просматриваемый пост дня: Иран, ожидая скорую новую блокаду ВМС США, за ночь вывез не менее 10 млн барр. нефти и мазута. Параллельно описывали, как иранские танкеры спешно выходят из Ормуза. Спринт экспорта шёл рядом с предупреждениями, что вторую итерацию блокады могут сделать жёстче, если ударят по хранилищам и причалам у Джаска.",
       "tone": "mixed",
-      "tweet_ids": ["2075169689001513301", "2075277509793550415"]
+      "tweet_ids": ["2075169689001513301", "2075219392087130117"]
     },
     {
-      "title_en": "Bushehr explosions; war risk stays live",
-      "title_ru": "Взрывы в Бушере; военный риск жив",
-      "blurb_en": "Explosions were reported in Bushehr province near Iran's nuclear plant, keeping escalation risk in the feed.",
-      "blurb_ru": "Сообщали о взрывах в провинции Бушер рядом с атомной станцией Ирана — риск эскалации оставался в ленте.",
-      "text_en": "Amena Bakr relayed Mehr reporting of several explosions in Bushehr on Thursday morning. FT-linked posts discussed an Iran-war windfall putting Big Oil on a collision course with Trump. Community chatter treated the pause as uneasy rather than resolved.",
-      "text_ru": "Amena Bakr передала сообщения Mehr о нескольких взрывах в Бушере утром в четверг. Посты со ссылкой на FT обсуждали «военную» сверхприбыль Big Oil и конфликт с Трампом. В сообществе паузу читали как тревожную, а не как урегулирование.",
+      "title_en": "Iran claims strikes on Kuwait, Bahrain, Qatar",
+      "title_ru": "Иран заявляет об ударах по Кувейту, Бахрейну, Катару",
+      "blurb_en": "Iran said it targeted sites in Kuwait, Bahrain and Qatar after a wave of US strikes on roughly 90 Iranian targets.",
+      "blurb_ru": "Иран заявил, что нанёс удары по объектам в Кувейте, Бахрейне и Катаре после волны американских ударов примерно по 90 целям в Иране.",
+      "text_en": "Posts relayed Iranian claims of targeting sites in Kuwait, Bahrain and Qatar after US strikes on about 90 targets, including air defenses, coastal surveillance and drone/missile storage. Separate morning notes reported explosions in Bushehr province near Iran’s nuclear power plant. The geographic widening of the war story kept Gulf infrastructure risk elevated.",
+      "text_ru": "В ленте передавали заявления Ирана об ударах по объектам в Кувейте, Бахрейне и Катаре после американских ударов примерно по 90 целям, включая ПВО, береговое наблюдение и склады дронов/ракет. Отдельно утром писали о взрывах в провинции Бушер у иранской АЭС. Расширение географии войны удерживало риск для инфраструктуры Залива высоким.",
       "tone": "bullish",
-      "tweet_ids": ["2075171973131636912", "2075069641404133386"]
+      "tweet_ids": ["2075104343695524293", "2075171973131636912"]
     },
     {
-      "title_en": "Diesel squeeze: Europe short, Med tight",
-      "title_ru": "Дизельный дефицит: Европе не хватает, Средиземноморье жёсткое",
-      "blurb_en": "Europe and the US were both described as short diesel, while Mediterranean supply tightened as Russian exports tumbled.",
-      "blurb_ru": "Европу и США описывали как испытывающих дефицит дизеля; поставки в Средиземноморье ужесточились на фоне падения российского экспорта.",
-      "text_en": "June Goh's widely shared thread cast Europe begging for diesel while the US could not help and India offered barrels that might be Russian-tainted. Staunovo separately noted Mediterranean diesel supply tightening as Russian exports fell — extending the product-tightness theme from the prior day.",
-      "text_ru": "Широко разошедшийся тред June Goh изображал Европу, просящую дизель, США без возможности помочь и Индию с баррелями «с возможным российским следом». Staunovo отдельно отметил ужесточение поставок дизеля в Средиземноморье при падении российского экспорта — продолжение темы жёсткости продуктов со среды.",
+      "title_en": "US: 380 mb facilitated via Hormuz since May",
+      "title_ru": "США: 380 млн барр. «проведены» через Ормуз с мая",
+      "blurb_en": "The US military claimed it had facilitated 380 mb of oil through Hormuz since early May — implying roughly 5.4 mb/d if counted from May 1.",
+      "blurb_ru": "ВМС США заявили, что с начала мая «провели» через Ормуз 380 млн барр. нефти — около 5.4 млн б/с, если считать с 1 мая.",
+      "text_en": "A widely viewed note said the US military claimed facilitation of 380 million barrels via Hormuz since early May; the accompanying math put that at about 5.4 mb/d across May–early July. A separate must-read argued that if Hormuz stays at least partially open, the short-term war impact has not been cataclysmic. Those takes framed flows as impaired but not zero.",
+      "text_ru": "Широко читаемая заметка: военные США заявили о facilitation 380 млн барр. через Ормуз с начала мая; в расчёте это около 5.4 млн б/с за май–начало июля. Отдельный must-read утверждал, что если пролив останется хотя бы частично открыт, краткосрочное влияние войны не было катастрофическим. Эти тексты рисовали потоки как нарушенные, но не нулевые.",
+      "tone": "neutral",
+      "tweet_ids": ["2075328498420343051", "2075295047428272516"]
+    },
+    {
+      "title_en": "Diesel still tight from Europe to Asia",
+      "title_ru": "Дизель всё ещё дефицитен от Европы до Азии",
+      "blurb_en": "Europe and the US looked short diesel while India and China juggled tainted barrels and restarted export allowances.",
+      "blurb_ru": "Европа и США выглядели короткими по дизелю, а Индия и Китай жонглировали «запятнанными» баррелями и вновь разрешённым экспортом.",
+      "text_en": "A viral products jab had Europe short diesel, the US unable to help, India offering possibly Russia-tainted barrels, and China allowing exports again into a scramble. Mediterranean diesel tightness as Russian exports tumbled remained in the tape. Product cracks stayed a bullish undertone even as crude settled softer.",
+      "text_ru": "Вирусный «диалог» по продуктам: Европа коротка по дизелю, США помочь не могут, Индия предлагает возможно «запятнанные» российской нефтью баррели, а Китай снова разрешает экспорт в эту гонку. Жёсткость средиземноморского дизеля на фоне падения российского экспорта оставалась в ленте. Креки продуктов держали бычий подтекст даже при более мягком закрытии нефти.",
       "tone": "bullish",
       "tweet_ids": ["2075148676947906952", "2075269303327400162"]
     },
     {
-      "title_en": "SPR buying and Asia stock builds",
-      "title_ru": "Закупки в SPR и запасы в Азии",
-      "blurb_en": "China and India strategic storage plans plus notes that SPR buying could support crude demand through 2028 offset some of the soft settlement.",
-      "blurb_ru": "Планы Китая и Индии по стратегическим хранилищам и заметки, что закупки в SPR могут поддержать спрос на нефть до 2028 года, частично компенсировали мягкое закрытие дня.",
-      "text_en": "Posts highlighted China building new strategic oil storage sites and India more than doubling SPR capacity, with Philippines also expanding. Staunovo said strategic reserve buying was set to support crude demand through 2028. WTI settled near $72.08 and Brent near $76.30 — off the prior day's spike highs.",
-      "text_ru": "В ленте отмечали новые стратегические хранилища Китая и планы Индии более чем удвоить SPR, плюс расширение на Филиппинах. Staunovo писал, что закупки в стратегические резервы поддержат спрос на нефть до 2028 года. WTI закрылся около $72.08, Brent — около $76.30, ниже пиков скачка среды.",
-      "tone": "bullish",
-      "tweet_ids": ["2075234196982022430", "2075217867860304194"]
+      "title_en": "Crude settles softer: WTI ~$72, Brent ~$76",
+      "title_ru": "Более мягкое закрытие: WTI ~$72, Brent ~$76",
+      "blurb_en": "After the midweek spike, WTI settled near $72 and Brent near $76 as traders digested still-open Hormuz scenarios.",
+      "blurb_ru": "После среднедедельного скачка WTI закрылся около $72, Brent — около $76, пока рынок переваривал сценарии всё ещё частично открытого Ормуза.",
+      "text_en": "End-of-day notes put WTI at about $72.08 and Brent at about $76.30. Options desks flagged another huge ~450 mb notionals of Brent structure trades as volatility stayed elevated. The softer settle did not erase the war premium, but it cooled the hottest midweek squeeze narrative.",
+      "text_ru": "Итоговые заметки ставили WTI около $72.08 и Brent около $76.30. Опционные столы отмечали очередной огромный ~450 млн барр. нотионал структурных сделок по Brent на фоне высокой волатильности. Более мягкое закрытие не сняло военную премию, но охладило самый горячий среднедедельный нарратив сквиза.",
+      "tone": "neutral",
+      "tweet_ids": ["2075286673513120191", "2075291608019526116"]
     }
   ]
 }

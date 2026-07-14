@@ -1,77 +1,67 @@
 {
   "date": "2026-06-26",
-  "overview_en": "Friday swung between bearish Gulf normalization—Aramco restarting Ras Tanura and OPEC restoring Iraq quotas—and fresh Hormuz friction as IRGC turned tankers back and Russia eyed a multi-month diesel ban. Price sentiment was mixed; emotional tone stayed mostly neutral as record crack spreads sat beside falling crude.",
-  "overview_ru": "В пятницу рынок метался между медвежьей нормализацией в заливе — перезапуск Ras Tanura у Aramco и восстановление квот OPEC для Ирака — и новым трением в Ормузе, где КСИР разворачивал танкеры, а Россия рассматривала многомесячный запрет экспорта дизеля. Сентимент по цене был смешанным; эмоциональный тон оставался в основном нейтральным на фоне рекордных crack spreads и падающей нефти.",
+  "overview_en": "Friday’s tape was Saudi Aramco restarting Persian Gulf loadings on multiple VLCCs, weak Atlantic physical spreads, Iran-mediated barrel offers into India, softer money-manager length, and a still-contested Hormuz fee/security regime. Price sentiment was mixed; emotional tone stayed mostly neutral.",
+  "overview_ru": "Пятница прошла под рестартом погрузок Saudi Aramco в Персидском заливе на нескольких VLCC, слабыми атлантическими физическими спредами, предложениями иранской нефти в Индию, сокращением длины мани-менеджеров и всё ещё спорным режимом пошлин/безопасности Ормуза. Сентимент по цене был смешанным; эмоциональный тон оставался в основном нейтральным.",
   "themes": [
     {
-      "title_en": "Aramco restarts Ras Tanura loadings",
-      "title_ru": "Aramco возобновила погрузки в Ras Tanura",
-      "blurb_en": "Saudi Aramco resumed crude loadings at Ras Tanura after a nearly four-month halt, with Bahri VLCCs loading roughly 2 mbbl each.",
-      "blurb_ru": "Saudi Aramco возобновила погрузку нефти в Ras Tanura после почти четырёхмесячной паузы; VLCC Bahri грузят примерно по 2 млн барр. каждый.",
-      "text_en": "Amena Bakr said Aramco restarted Ras Tanura loadings Friday with at least two Bahri VLCCs loading about 2 million barrels each and another waiting. Staunovo noted shipping data showing two VLCCs began loading after a nearly four-month break. The restart was the day's most-viewed supply headline.",
-      "text_ru": "Amena Bakr сообщила о возобновлении погрузок в Ras Tanura в пятницу: минимум два VLCC Bahri грузят примерно по 2 млн барр. каждый, ещё один ждёт очереди. Staunovo привёл данные судоходства: два VLCC начали погрузку после почти четырёхмесячного перерыва. Перезапуск стал самым просматриваемым заголовком дня по предложению.",
+      "title_en": "Saudi loadings restart: 4 VLCCs in the Gulf",
+      "title_ru": "Рестарт саудовских погрузок: 4 VLCC в Заливе",
+      "blurb_en": "Photos and tanker notes showed Saudi Arabia loading about four supertankers at once at Ju’aymah and Ras Tanura after nearly four months offline.",
+      "blurb_ru": "Фото и танкерные заметки показали одновременную погрузку примерно четырёх супертанкеров у Ju’aymah и Ras Tanura после почти четырёх месяцев паузы.",
+      "text_en": "The day’s top post said Saudi Arabia was loading four supertankers in the Persian Gulf — two at Ju’aymah SPMs plus activity at Ras Tanura Sea Islands, one AIS-visible and one dark. Separate reporting said Aramco resumed Ras Tanura loadings after a nearly four-month stop with Bahri VLCCs of about 2 mb each.",
+      "text_ru": "Топ-пост дня: Саудовская Аравия грузит четыре супертанкера в Персидском заливе — два у SPM Ju’aymah плюс активность у Sea Islands Ras Tanura, один с AIS, другой «тёмный». Отдельно писали о возобновлении погрузок Aramco в Ras Tanura после паузы почти в четыре месяца на VLCC Bahri примерно по 2 млн барр.",
       "tone": "bearish",
-      "tweet_ids": ["2070436136766341562", "2070334064347783425"]
+      "tweet_ids": ["2070396326445973603", "2070436136766341562"]
     },
     {
-      "title_en": "One-sided Hormuz opening favors Iran",
-      "title_ru": "Одностороннее открытие Ормуза в пользу Ирана",
-      "blurb_en": "Commentary said most oil leaving Hormuz was Iranian and headed to China while Saudi and UAE tankers were turned back.",
-      "blurb_ru": "Комментарии отмечали: через Ормуз в основном выходит иранская нефть в Китай, тогда как саудовские и эмиратские танкеры разворачиваются.",
-      "text_en": "A widely viewed post amplified Ana Alhajji's map showing mostly Iranian barrels heading to China while Saudi and Emirati tankers made U-turns. Separate analysis said the IRGC turning tankers back on the southern route was the first real test of Hormuz normalization. The message was that Iran—not the market—sets transit rules.",
-      "text_ru": "Популярный пост процитировал карту Ana Alhajji: в Китай идёт в основном иранская нефть, а танкеры Саудовской Аравии и ОАЭ разворачиваются. Отдельный анализ назвал разворот танкеров КСИР на южном маршруте первым настоящим тестом нормализации Ормуза. Смысл: правила транзита задаёт Иран, а не рынок.",
-      "tone": "bullish",
-      "tweet_ids": ["2070355591030050973", "2070348367520022929"]
-    },
-    {
-      "title_en": "Russia diesel ban may last months",
-      "title_ru": "Запрет экспорта дизеля из России может длиться месяцы",
-      "blurb_en": "Deputy PM Novak said authorities were considering a diesel export ban for fuel producers that could last several months.",
-      "blurb_ru": "Вице-премьер Новак заявил, что власти рассматривают запрет экспорта дизеля для производителей топлива на несколько месяцев.",
-      "text_en": "TASS-cited posts said Novak was considering a ban on diesel exports for fuel producers for several months. Headline follow-ups called it a short-term diesel export ban under review. The products-tightness risk was a clear bullish counterweight to Gulf supply restart headlines.",
-      "text_ru": "Посты со ссылкой на TASS сообщили, что Новак рассматривает запрет экспорта дизеля для производителей топлива на несколько месяцев. Последующие заголовки называли это краткосрочным запретом экспорта дизеля на рассмотрении. Риск жёсткости продуктов стал явным бычьим противовесом заголовкам о перезапуске поставок из залива.",
-      "tone": "bullish",
-      "tweet_ids": ["2070442600000020559", "2070421659975098775"]
-    },
-    {
-      "title_en": "US oil rigs +7 to 440, cycle high",
-      "title_ru": "Нефтяные буровые США +7 до 440 — максимум цикла",
-      "blurb_en": "Baker Hughes showed US oil rigs up seven to 440, a new cycle high, with gas rigs also up three.",
-      "blurb_ru": "Baker Hughes: нефтяные буровые США +7 до 440 — новый максимум цикла; газовые также +3.",
-      "text_en": "The June 26 Baker Hughes count showed oil rigs up seven and gas up three. Follow-on posts put US oil rigs at 440, framing a new cycle high. Rising US drilling activity was a medium-term bearish supply signal beside the day's Gulf restart news.",
-      "text_ru": "Данные Baker Hughes на 26 июня показали рост нефтяных буровых на семь и газовых на три. Последующие посты указали 440 нефтяных буровых США — новый максимум цикла. Рост буровой активности в США стал среднесрочным медвежьим сигналом по предложению рядом с новостями о перезапуске в заливе.",
+      "title_en": "Atlantic physicals weakest since mid-2023",
+      "title_ru": "Атлантический физик слабейший с середины 2023",
+      "blurb_en": "Brent Dated-to-Frontline, a key Atlantic physical gauge, was charted at its weakest since mid-2023.",
+      "blurb_ru": "Спред Brent Dated-to-Frontline — ключевой индикатор атлантического физика — зафиксировали на минимуме с середины 2023 года.",
+      "text_en": "The chart-of-the-day post put DFL at its weakest since mid-2023, signaling soft prompt physical crude in the Atlantic basin. That weakness aligned with China’s continued absence as a reliable buyer and with Gulf barrels returning to the water.",
+      "text_ru": "«Чарт дня» ставил DFL на минимуме с середины 2023 — сигнал слабости ближней физической нефти в Атлантике. Слабость стыковалась с продолжающимся отсутствием Китая как надёжного покупателя и с возвращением баррелей Залива на воду.",
       "tone": "bearish",
-      "tweet_ids": ["2070553488568746234", "2070558970213728554"]
+      "tweet_ids": ["2070556263214207410"]
     },
     {
-      "title_en": "Crack spreads at records, crude weak",
-      "title_ru": "Crack spreads на рекордах, нефть слаба",
-      "blurb_en": "Posts highlighted record US crack spreads and gasoline spreads diverging from falling crude as refinery bottlenecks bite.",
-      "blurb_ru": "Посты отмечали рекордные crack spreads в США и расхождение бензиновых спредов с падающей нефтью из‑за узких мест на НПЗ.",
-      "text_en": "SpreadCharts said RBOB spreads were ignoring oil weakness because of a clear US refinery bottleneck, with crack spreads making new highs. Separate commentary argued high cracks are not explained by product exports versus a year ago, since diesel exports are lower and gasoline flat. Products stayed tight even as crude sold off.",
-      "text_ru": "SpreadCharts писал, что спреды RBOB игнорируют слабость нефти из‑за явного узкого места на американских НПЗ, а crack spreads обновляют максимумы. Отдельный комментарий отмечал, что высокие cracks не объясняются экспортом продуктов относительно года назад: экспорт дизеля ниже, бензина — без изменений. Продукты оставались жёсткими при распродаже нефти.",
-      "tone": "mixed",
-      "tweet_ids": ["2070434740075675714", "2070366517473186043"]
+      "title_en": "Iranian barrels shopped to Indian refiners",
+      "title_ru": "Иранскую нефть предлагают индийским НПЗ",
+      "blurb_en": "After the US waiver, middlemen were said to be offering Iranian oil to Indian refiners as Gulf traffic returned.",
+      "blurb_ru": "После американской лицензии посредники, по сообщениям, предлагали иранскую нефть индийским НПЗ на фоне возвращения трафика Залива.",
+      "text_en": "Sources-linked posts said middlemen offered Iranian oil to Indian refiners after the US waiver. Separate flow notes said Nigerian/UAE cargo trade was also adjusting as Gulf traffic returned, including Dangote buying UAE crude.",
+      "text_ru": "Посты со ссылкой на источники писали, что посредники предлагали иранскую нефть индийским НПЗ после американской лицензии. Отдельно отмечали перестройку торговли нигерийскими/эмиратскими грузами при возвращении трафика Залива, включая покупки Dangote нефти ОАЭ.",
+      "tone": "bearish",
+      "tweet_ids": ["2070469283130327392", "2070588818789376254"]
     },
     {
-      "title_en": "Managed money slashed Brent length",
-      "title_ru": "Managed money резко сократил длинные по Brent",
-      "blurb_en": "CFTC/ICE positioning data showed money managers cut Brent net length by 23,790 contracts in the week to June 23.",
-      "blurb_ru": "Данные CFTC/ICE показали, что money managers сократили чистую длинную позицию по Brent на 23 790 контрактов за неделю до 23 июня.",
-      "text_en": "Staunovo reported Brent managed-money net length down 23,790 to 90,338, with longs falling 52,097 and shorts down 28,307. Positioning charts for non-commercial accounts in Brent and WTI were among the day's most-viewed technical posts. The de-risking fit a bearish paper-market tone after the Hormuz premium fade.",
-      "text_ru": "Staunovo сообщил, что чистая длинная позиция managed money по Brent снизилась на 23 790 до 90 338: лонги −52 097, шорты −28 307. Графики позиционирования некоммерческих счетов по Brent и WTI были среди самых просматриваемых технических постов дня. Сокращение риска совпало с медвежьим тоном бумажного рынка после исчезновения премии за Ормуз.",
+      "title_en": "Hormuz still contested: fees, mines, IRGC rules",
+      "title_ru": "Ормуз всё ещё спорен: пошлины, мины, правила КСИР",
+      "blurb_en": "Europe was warned ship fees might still be needed, mine-clearance talk lingered, and IRGC turn-backs kept confidence incomplete.",
+      "blurb_ru": "Европу предупреждали, что судовые сборы всё ещё могут понадобиться, ходили разговоры о разминировании, а развороты КСИР не давали доверию восстановиться.",
+      "text_en": "One headline said Oman reportedly warned European allies that ship fees were likely needed for Hormuz. Separate notes cited roughly 80 mines still in the strait and IRGC actions turning tankers on the southern route — “open” water with unfinished confidence.",
+      "text_ru": "Заголовок писал, что Оман якобы предупредил европейских союзников: судовые сборы за Ормуз, скорее всего, понадобятся. Отдельно называли порядка 80 мин в проливе и развороты КСИР на южном маршруте — вода «открыта», доверие — нет.",
+      "tone": "bullish",
+      "tweet_ids": ["2070520353420399079", "2070545754779750494"]
+    },
+    {
+      "title_en": "Managed-money length cut in Brent",
+      "title_ru": "Мани-менеджеры сократили длину в Brent",
+      "blurb_en": "CFTC-style reads showed money managers cutting net Brent length as front prices softened into the Hormuz-open week.",
+      "blurb_ru": "Оценки в стиле CFTC показали сокращение чистой длины мани-менеджеров в Brent на фоне смягчения цен в неделю открытия Ормуза.",
+      "text_en": "One positioning print said money managers cut net length in Brent futures and options by 23,790 contracts to 90,338 in the week ending June 23, with both long-only and short-only books reduced. Charts of non-commercial net positioning circulated with the same June 23 stamp.",
+      "text_ru": "Позиционный принт: мани-менеджеры снизили нетто-длину в фьючерсах и опционах Brent на 23 790 контрактов до 90 338 за неделю до 23 июня; сократились и long-only, и short-only. Графики нетто-позиции некоммерческих счетов ходили с той же датой 23 июня.",
       "tone": "bearish",
       "tweet_ids": ["2070573041289941357", "2070596500896243891"]
     },
     {
-      "title_en": "Hormuz mines still clog the lane",
-      "title_ru": "Мины в Ормузе всё ещё засоряют фарватер",
-      "blurb_en": "Late notes cited roughly 80 mines in the standard Hormuz lane, with Intertanko warning clearance will take time.",
-      "blurb_ru": "Поздние заметки сообщали о примерно 80 минах на стандартной полосе Ормуза; Intertanko предупреждал, что разминирование займёт время.",
-      "text_en": "A widely viewed post tied IMO guidance that the usual Hormuz lane may hold about 80 mines to Intertanko's Phil Belcher warning clearance will take time. Separate AIS notes said 39 crude tankers with combined capacity of about 59 mb had returned toward the Persian Gulf since June 22. Mine risk kept a bullish transit-friction undercurrent under the restart headlines.",
-      "text_ru": "Популярный пост связал данные IMO о примерно 80 минах на обычной полосе Ормуза с предупреждением Phil Belcher из Intertanko, что разминирование займёт время. Отдельные заметки по AIS сообщили, что с 22 июня к Персидскому заливу вернулись 39 танкеров с сырой нефтью суммарной вместимостью около 59 млн барр. Риск мин сохранял бычий подтекст транзитных трений под заголовками о перезапуске.",
+      "title_en": "Russia again eyes a diesel export ban",
+      "title_ru": "Россия снова смотрит на запрет экспорта дизеля",
+      "blurb_en": "Russian officials were again cited considering a multi-month diesel export ban for fuel producers.",
+      "blurb_ru": "Российских официальных лиц снова цитировали как рассматривающих многомесячный запрет экспорта дизеля для производителей топлива.",
+      "text_en": "TASS-linked posts citing Deputy PM Novak said authorities were considering a ban on diesel exports for fuel producers for several months. That products-risk footnote remained one of the few clearly bullish supply-side notes on an otherwise soft Gulf-reload day.",
+      "text_ru": "Посты со ссылкой на ТАСС и вице-премьера Новака писали о рассмотрении запрета экспорта дизеля для производителей топлива на несколько месяцев. Эта продуктовая сноска оставалась одним из немногих явно бычьих сигналов предложения в день в целом мягкого рестарта Залива.",
       "tone": "bullish",
-      "tweet_ids": ["2070545754779750494", "2070567881793053047"]
+      "tweet_ids": ["2070442600000020559", "2070421659975098775"]
     }
   ]
 }

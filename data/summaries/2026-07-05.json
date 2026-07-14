@@ -1,37 +1,58 @@
 {
   "date": "2026-07-05",
-  "overview_en": "Sunday focused on OPEC+ confirming another ~188 kb/d August unwind and a viral podcast arguing the oil glut is fake. Price sentiment was mildly bearish on the quota headline; emotional tone mostly neutral.",
-  "overview_ru": "В воскресенье в центре были подтверждение OPEC+ ещё около 188 тыс. б/с раскрутки в августе и вирусный подкаст о «фейковом профиците». Сентимент по цене слабо медвежий из‑за квот; эмоциональный тон в основном нейтральный.",
+  "overview_en": "Sunday focused on OPEC+ confirming another ~188 kb/d August unwind—now more real as Hormuz reopens—and a viral podcast arguing the oil glut is fake. Price sentiment was mildly bearish on the quota headline; emotional tone stayed mostly neutral.",
+  "overview_ru": "В воскресенье в центре были подтверждение OPEC+ ещё около 188 тыс. б/с раскрутки в августе — теперь более «реальной» по мере открытия Ормуза — и вирусный подкаст о «фейковом профиците». Сентимент по цене слабо медвежий из‑за квот; эмоциональный тон в основном нейтральный.",
   "themes": [
     {
       "title_en": "OPEC+ August +188 kb/d confirmed",
       "title_ru": "OPEC+: август +188 тыс. б/с подтверждён",
-      "blurb_en": "Saudi Arabia, Russia and five peers adjusted production and reaffirmed commitment — another 188k of voluntary-cut unwind for August.",
-      "blurb_ru": "Саудовская Аравия, Россия и ещё пять стран скорректировали добычу и подтвердили курс — ещё 188 тыс. б/с раскрутки добровольных сокращений на август.",
-      "text_en": "Amena Bakr previewed another 188k unwind for August from OPEC+ voluntary-cut members. Staunovo listed Saudi Arabia, Russia, Iraq, Kuwait, Kazakhstan, Algeria and Oman adjusting production and reaffirming commitment, with monthly review meetings to continue.",
-      "text_ru": "Amena Bakr заранее писала о ещё 188 тыс. раскрутки в августе у стран с добровольными сокращениями OPEC+. Staunovo перечислил Саудовскую Аравию, Россию, Ирак, Кувейт, Казахстан, Алжир и Оман с корректировкой добычи и ежемесячными обзорами рынка.",
+      "blurb_en": "Core OPEC+ nations agreed another 188 kb/d monthly hike for August, with posts noting prior hikes were often virtual until Hormuz reopenings make them bite.",
+      "blurb_ru": "Ядро OPEC+ согласовало ещё +188 тыс. б/с ежемесячной прибавки на август; посты отмечали, что прежние повышения часто были «виртуальными», пока открытие Ормуза не сделает их ощутимыми.",
+      "text_en": "JavierBlas said core OPEC+ agreed another 188,000 b/d monthly hike for August and stressed that while war-era increases were often virtual, they would increasingly matter as Hormuz reopens. Amena Bakr and Staunovo echoed the 188k unwind from voluntary-cut members, listing Saudi Arabia, Russia, Iraq, Kuwait, Kazakhstan, Algeria and Oman.",
+      "text_ru": "JavierBlas писал, что ядро OPEC+ согласилось ещё на +188 тыс. б/с в месяц на август и подчеркивал: в войну прибавки часто были виртуальными, но по мере открытия Ормуза они будут всё важнее. Amena Bakr и Staunovo подтверждали раскрутку 188 тыс. у стран с добровольными сокращениями — Саудовская Аравия, Россия, Ирак, Кувейт, Казахстан, Алжир и Оман.",
       "tone": "bearish",
-      "tweet_ids": ["2073698893737431535", "2073712488034566584"]
+      "tweet_ids": [
+        "2073747593146822699",
+        "2073698893737431535"
+      ]
     },
     {
       "title_en": "Podcast: fake glut, record cracks",
       "title_ru": "Подкаст: фейковый профицит, рекордные креки",
-      "blurb_en": "The day's top podcast argued oil's glut is fake given record crack spreads, low inventories and strategic storage demand.",
-      "blurb_ru": "Топ-подкаст дня утверждал, что профицит нефти «фейковый» на фоне рекордных креков, низких запасов и спроса стратегических хранилищ.",
-      "text_en": "DarioCpx's JustDarioCigarTime episode on fake glut, record cracks and low inventories dominated views. JODI data showing US gasoline demand up 1.14 mb/d added a demand-side bullish footnote.",
-      "text_ru": "Эпизод JustDarioCigarTime про фейковый профицит, рекордные креки и низкие запасы лидировал по просмотрам. Данные JODI о росте спроса на бензин в США на 1.14 млн б/с добавили бычью сноску по спросу.",
+      "blurb_en": "The day’s top podcast argued oil’s glut is fake given record crack spreads, low inventories and a Hormuz Strait far from fully reopened.",
+      "blurb_ru": "Топ-подкаст дня утверждал, что профицит нефти «фейковый» на фоне рекордных креков, низких запасов и всё ещё не полностью открытого Ормуза.",
+      "text_en": "DarioCpx’s JustDarioCigarTime episode on fake glut, record cracks, low inventories and an incomplete Hormuz reopen dominated views. JODI data showing US gasoline demand up 1.14 mb/d added a demand-side bullish footnote.",
+      "text_ru": "Эпизод JustDarioCigarTime про фейковый профицит, рекордные креки, низкие запасы и неполное открытие Ормуза лидировал по просмотрам. Данные JODI о росте спроса на бензин в США на 1.14 млн б/с добавили бычью сноску по спросу.",
       "tone": "bullish",
-      "tweet_ids": ["2073773602386952316", "2073705722597011599"]
+      "tweet_ids": [
+        "2073773602386952316",
+        "2073705722597011599"
+      ]
     },
     {
       "title_en": "CME 10-barrel contract after Iran war",
       "title_ru": "Контракт CME на 10 баррелей после войны с Ираном",
-      "blurb_en": "CME planned a 10-barrel contract as retail traders poured in after the Iran war — a market-structure note, price-neutral.",
-      "blurb_ru": "CME готовила контракт на 10 баррелей на фоне притока ритейла после войны с Ираном — заметка о структуре рынка, нейтральная для цены.",
-      "text_en": "Staunovo covered CME launching a 10-barrel contract after Iran-war retail interest, contrasting it with the 1,000-barrel standard and 100-barrel micro.",
-      "text_ru": "Staunovo писал о запуске CME контракта на 10 баррелей на фоне ритейл-интереса после войны с Ираном, сравнивая со стандартным 1 000 и микро на 100 баррелей.",
+      "blurb_en": "CME planned a 10-barrel WTI contract as retail traders poured in after the Iran war — a market-structure note, price-neutral.",
+      "blurb_ru": "CME готовила контракт WTI на 10 баррелей на фоне притока ритейла после войны с Ираном — заметка о структуре рынка, нейтральная для цены.",
+      "text_en": "Staunovo covered CME launching a 10-barrel contract after Iran-war retail interest, contrasting it with the 1,000-barrel standard and 100-barrel micro. Separate notes said the seven OPEC+ countries would keep monthly reviews, next on 2 August 2026.",
+      "text_ru": "Staunovo писал о запуске CME контракта на 10 баррелей на фоне ритейл-интереса после войны с Ираном, сравнивая со стандартным 1 000 и микро на 100 баррелей. Отдельно отмечали, что семь стран OPEC+ продолжат ежемесячные обзоры — следующая встреча 2 августа 2026.",
       "tone": "neutral",
-      "tweet_ids": ["2073639112595079225", "2073639497019826539"]
+      "tweet_ids": [
+        "2073639112595079225",
+        "2073639497019826539"
+      ]
+    },
+    {
+      "title_en": "Iraq–Halliburton deal for +250 kb/d",
+      "title_ru": "Сделка Ирак–Halliburton на +250 тыс. б/с",
+      "blurb_en": "Iraq signed a joint-management deal with Halliburton for two fields aiming to boost output by about 250 kb/d.",
+      "blurb_ru": "Ирак подписал соглашение о совместном управлении с Halliburton по двум месторождениям с целью роста добычи примерно на 250 тыс. б/с.",
+      "text_en": "Staunovo reported Iraq signed joint-management contracts with US Halliburton for Bin Omar and Al Sindbad, aiming to boost output by 250,000 bpd as Baghdad sought more US energy investment. That medium-term supply note sat beside the same-day OPEC+ unwind headlines.",
+      "text_ru": "Staunovo сообщал, что Ирак подписал контракты совместного управления с Halliburton по Bin Omar и Al Sindbad с целью роста добычи на 250 тыс. б/с на фоне стремления Багдада к большим US-инвестициям в энергетику. Среднесрочная нота предложения шла рядом с заголовками о раскрутке OPEC+ в тот же день.",
+      "tone": "bearish",
+      "tweet_ids": [
+        "2073782426539635142"
+      ]
     }
   ]
 }

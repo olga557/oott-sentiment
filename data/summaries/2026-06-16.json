@@ -1,67 +1,84 @@
 {
   "date": "2026-06-16",
-  "overview_en": "Tuesday mixed a massive API crude draw with Hormuz reopening delays, a WSJ report that Iran could immediately sell oil, and a sharp post-deal price crash. Price sentiment was mixed; emotional tone stayed mostly neutral amid inventory tightness and deal-driven selling.",
-  "overview_ru": "Во вторник смешались огромный отбор нефти по API, задержки с открытием Ормуза, сообщение WSJ о немедленных продажах нефти Ираном и резкое падение цен после сделки. Сентимент по цене был смешанным; эмоциональный тон оставался в основном нейтральным на фоне дефицита запасов и распродаж на сделке.",
+  "overview_en": "Tuesday mixed a huge API crude draw with collapsing Middle East differentials, China-as-oil-stabilizer commentary, and warnings that Hormuz normalcy remains weeks away. Price sentiment leaned bearish as WTI slumped despite the inventory print; emotional tone stayed mostly neutral with some negative notes on the selloff.",
+  "overview_ru": "Во вторник огромный отбор crude по API смешался с обвалом ближневосточных дифференциалов, тезисом о Китае как стабилизаторе нефти и предупреждениями, что нормализация Ормуза всё ещё на недели. Сентимент по цене склонялся к медвежьему на фоне просадки WTI вопреки отчёту по запасам; эмоциональный тон оставался в основном нейтральным с негативными нотами по распродаже.",
   "themes": [
     {
+      "title_en": "China as oil-price stabilizer",
+      "title_ru": "Китай как стабилизатор цен на нефть",
+      "blurb_en": "A widely read column cast Beijing as a stabilizing force in the Hormuz crisis — potentially reshaping energy risk premia and Asian geopolitics.",
+      "blurb_ru": "Широко читаемая колонка представила Пекин как стабилизирующую силу в кризисе Ормуза — с возможной перестройкой энергопремий и азиатской геополитики.",
+      "text_en": "Javier Blas’s Opinion piece on the Chinese 'oil weapon' argued the Hormuz crisis showed Beijing helping keep oil prices from spiraling. That framing sat beside notes that Chinese coal-fired power generation rose again in May, reinforcing the demand-side nuance in the China debate.",
+      "text_ru": "Opinion-колонка Javier Blas о китайском «нефтяном оружии» утверждала, что кризис Ормуза показал роль Пекина в сдерживании ралли цен. Рядом шли заметки о новом росте угольной генерации в Китае в мае — добавляя спросный нюанс к спору о Китае.",
+      "tone": "bearish",
+      "tweet_ids": [
+        "2066803751931797530",
+        "2066836368878080226"
+      ]
+    },
+    {
       "title_en": "API crude draw −8.33 mb",
-      "title_ru": "Отбор API: нефть −8,33 млн барр.",
-      "blurb_en": "Tuesday API data showed an 8.33 mb commercial crude draw plus another 8.9 mb SPR withdrawal — the day's dominant inventory headline.",
-      "blurb_ru": "Данные API во вторник показали отбор коммерческой нефти на 8,33 млн барр. плюс ещё 8,9 млн из SPR — главный инвентарный заголовок дня.",
-      "text_en": "Staunovo and API trackers reported crude down 8.33 mb versus expectations near −4.5 mb, with SPR actual down 8.9 mb to the lowest levels since the 1980s. Cushing also fell about 1.5 mb while gasoline built 2.5 mb and distillates drew 461,000 bbl.",
-      "text_ru": "Staunovo и трекеры API сообщили о снижении нефти на 8,33 млн барр. при ожиданиях около −4,5 млн, а фактический отбор SPR — 8,9 млн до минимумов с 1980-х. Cushing тоже упал примерно на 1,5 млн барр., бензин вырос на 2,5 млн, дистилляты — минус 461 тыс. барр.",
+      "title_ru": "Отбор API по нефти −8,33 млн барр.",
+      "blurb_en": "API showed a much larger-than-expected crude draw of 8.33 mb, with Cushing also down and SPR still scraping multi-decade lows.",
+      "blurb_ru": "API показал отбор crude на 8,33 млн барр. — сильно больше ожидания; Cushing тоже снизился, а SPR оставался у многодесятилетних минимумов.",
+      "text_en": "API for the week printed crude −8.33 mb versus roughly −4.5 mb expected, gasoline +2.479 mb, distillates −461 kb and Cushing −1.523 mb. Posts paired the commercial draw with the prior SPR print of about −8.9 mb, the lowest since 1983.",
+      "text_ru": "API за неделю: нефть −8,33 млн барр. против ожидания около −4,5 млн, бензин +2,479 млн, дистилляты −461 тыс., Cushing −1,523 млн. Посты ставили коммерческий отбор рядом с предыдущим SPR около −8,9 млн — минимумом с 1983 года.",
       "tone": "bullish",
-      "tweet_ids": ["2066983617402654906", "2066984895063249152"]
+      "tweet_ids": [
+        "2066983617402654906",
+        "2066984895063249152"
+      ]
     },
     {
-      "title_en": "Oil crash: WTI $76.05",
-      "title_ru": "Обвал нефти: WTI $76,05",
-      "blurb_en": "Front-month crude settled down $4.70 to $76.05/bbl as Brent hit its lowest level since early March.",
-      "blurb_ru": "Ближний фьючерс на нефть закрылся минус $4,70 на $76,05/бbl, Brent достиг минимума с начала марта.",
-      "text_en": "LiveSquawk flagged US crude settling at $76.05/bbl, down 5.82% on the day. Staunovo posted WTI at $76.05 and Brent at $78.96/bbl, with separate commentary noting Brent front month at $78 — the lowest since the war began.",
-      "text_ru": "LiveSquawk отметил закрытие нефти США на $76,05/бbl, минус 5,82% за день. Staunovo указал WTI на $76,05 и Brent на $78,96/бbl, отдельные комментарии отмечали ближний Brent на $78 — минимум с начала войны.",
+      "title_en": "ME differentials collapse into soft structure",
+      "title_ru": "Обвал ближневосточных дифференциалов и мягкая структура",
+      "blurb_en": "Dubai physical premia flipped negative and key Middle East time spreads tumbled toward contango even before Hormuz fully reopened.",
+      "blurb_ru": "Физические премии Dubai ушли в минус, а ключевые ближневосточные тайм-спреды рухнули к контанго ещё до полного открытия Ормуза.",
+      "text_en": "Javier Blas noted Dubai crude physical premia went negative for the first time since early 2026 after peaking near +$65/bbl in mid-March — now about −33¢. Separately, Murban and other ME grades saw time spreads collapse into contango ahead of Friday’s formal deal signing.",
+      "text_ru": "Javier Blas отметил, что физические премии Dubai впервые с начала 2026 ушли в минус после пика около +$65/барр. в середине марта — сейчас около −33¢. Отдельно тайм-спреды Murban и других ближневосточных сортов рухнули в контанго ещё до пятничного формального подписания сделки.",
       "tone": "bearish",
-      "tweet_ids": ["2066951770018865536", "2066951820971270540"]
+      "tweet_ids": [
+        "2066858755917017284",
+        "2066797775950344377"
+      ]
     },
     {
-      "title_en": "Hormuz reopening takes weeks",
-      "title_ru": "Открытие Ормуза займёт недели",
-      "blurb_en": "The largest tanker operator warned Hormuz flows would need weeks to resume, with about 118 laden tankers carrying roughly 75 mb still stranded.",
-      "blurb_ru": "Крупнейший танкерный оператор предупредил, что потоки через Ормуз возобновятся лишь через недели, а около 118 гружёных танкеров с примерно 75 млн барр. всё ещё в заторе.",
-      "text_en": "Mitsui OSK Lines cautioned fleet owners need confidence before returning to Hormuz. Tracking posts said SAR radar showed flows still pinned low, with about 118 laden oil tankers and 75 million barrels inside the Gulf that would move only after reopening — not true normalization.",
-      "text_ru": "Mitsui OSK Lines предупредил, что владельцам флота нужна уверенность перед возвратом в Ормуз. Посты по трекингу говорили, что SAR-радар показывает потоки всё ещё на низком уровне: около 118 гружёных танкеров и 75 млн барр. в заливе, которые двинутся лишь после открытия — это не полная нормализация.",
+      "title_en": "Fast Qatar LNG and Gulf oil restart",
+      "title_ru": "Быстрый возврат катарского СПГ и нефти Залива",
+      "blurb_en": "Qatar was said to aim for ~50% of LNG output in four weeks after Hormuz reopens — read as a bullish-for-supply signal for oil restart too.",
+      "blurb_ru": "Катар, по сообщениям, целится вернуть ~50% добычи СПГ за четыре недели после открытия Ормуза — это читали как бычий для предложения сигнал и по нефти.",
+      "text_en": "Bloomberg reporting relayed by Javier Blas said Qatar plans to restore about 50% of LNG production in four weeks after the strait reopens and ~80% in two months. The point was rhetorical: if LNG restarts that fast, oil output elsewhere in the Gulf could rebound even quicker.",
+      "text_ru": "Со ссылкой на Bloomberg Javier Blas передавал план Катара вернуть около 50% СПГ за четыре недели после открытия пролива и ~80% за два месяца. Риторика была ясной: если СПГ так быстро, нефть в заливе может отскочить ещё быстрее.",
+      "tone": "bearish",
+      "tweet_ids": [
+        "2066835921098432648"
+      ]
+    },
+    {
+      "title_en": "Hormuz reopen still measured in weeks",
+      "title_ru": "Открытие Ормуза всё ещё меряют неделями",
+      "blurb_en": "Tanker owners warned confidence rebuild takes weeks, while roughly 118 laden tankers and ~75 mb remained stranded inside the Gulf.",
+      "blurb_ru": "Судовладельцы предупреждали, что восстановление доверия займёт недели, а внутри залива всё ещё застряли порядка 118 гружёных танкеров и ~75 млн барр.",
+      "text_en": "Mitsui OSK’s boss cautioned Hormuz flow would take weeks to resume as owners rebuild confidence. Amena Bakr tallied about 118 laden oil tankers carrying roughly 75 mb stranded inside the Gulf and stressed that early traffic would be trapped cargo leaving, not true normalization — with most replacement vessels still far away.",
+      "text_ru": "Глава Mitsui OSK предупреждал, что потоки через Ормуз возобновятся через недели, пока судовладельцы не наберут уверенность. Amena Bakr насчитала около 118 гружёных танкеров с примерно 75 млн барр. внутри залива и подчеркивала: ранний трафик — это выход застрявших грузов, а не нормализация, тем более что суда-замены всё ещё далеко.",
       "tone": "bullish",
-      "tweet_ids": ["2066740275616071785", "2066814556068835681"]
+      "tweet_ids": [
+        "2066740275616071785",
+        "2066814556068835681"
+      ]
     },
     {
-      "title_en": "WSJ: Iran can sell oil now",
-      "title_ru": "WSJ: Иран может продавать нефть сейчас",
-      "blurb_en": "The Trump-Iran deal reportedly lets Tehran immediately sell oil and waives banking and transport sanctions — a major bearish supply headline.",
-      "blurb_ru": "Сделка Трампа с Ираном, по сообщениям, позволяет Тегерану немедленно продавать нефть и снимает банковские и транспортные санкции — главный медвежий заголовок по предложению.",
-      "text_en": "LiveSquawk cited WSJ reporting that the deal allows Iran to immediately sell oil. Staunovo added the agreement also waives banking and transport sanctions to facilitate transactions, framing an early financial benefit for Tehran.",
-      "text_ru": "LiveSquawk со ссылкой на WSJ сообщил, что сделка позволяет Ирану немедленно продавать нефть. Staunovo добавил, что соглашение также снимает банковские и транспортные санкции для облегчения сделок, описывая раннюю финансовую выгоду для Тегерана.",
+      "title_en": "WTI settles at $76.05",
+      "title_ru": "WTI закрылся на $76,05",
+      "blurb_en": "US crude futures settled at $76.05, down $4.70 (−5.82%), capping a day when bulls’ narrative was mocked as sliding with the price.",
+      "blurb_ru": "Фьючерсы на нефть США закрылись на $76,05, минус $4,70 (−5,82%), завершая день, где нарратив быков высмеивали как скользящий вместе с ценой.",
+      "text_en": "LiveSquawk reported the $76.05 settle after a nearly 6% drop. Javier Blas jabbed that bulls were about to switch from “tank bottoms” talk to celebrating every day WTI stays above $75.",
+      "text_ru": "LiveSquawk сообщил о закрытии на $76,05 после почти 6% падения. Javier Blas ехидно заметил, что быки вот-вот сменят риторику «дна резервуаров» на празднование каждого дня с WTI выше $75.",
       "tone": "bearish",
-      "tweet_ids": ["2066911177267958245", "2066916089636757771"]
-    },
-    {
-      "title_en": "Ukraine hits Russian refineries",
-      "title_ru": "Украина бьёт по НПЗ России",
-      "blurb_en": "Drone attacks damaged Gazpromneft's Moscow refinery and an oil depot in Krasnodar, adding a bullish supply-risk footnote.",
-      "blurb_ru": "Атаки дронов повредили московский НПЗ Gazpromneft и нефтебазу в Краснодаре — бычья сноска о риске предложения.",
-      "text_en": "Posts reported a Ukrainian drone strike damaged Gazpromneft's Moscow refinery, with Moscow's mayor confirming the hit. A separate attack sparked a fire at an oil depot in Russia's Krasnodar region, keeping Russian product stress in focus.",
-      "text_ru": "Посты сообщали об ударе украинского дрона по московскому НПЗ Gazpromneft, мэр Москвы подтвердил попадание. Отдельная атака вызвала пожар на нефтебазе в Краснодарском крае, удерживая в фокусе проблемы с российскими продуктами.",
-      "tone": "bullish",
-      "tweet_ids": ["2066760415833477290", "2066763918899392809"]
-    },
-    {
-      "title_en": "US gasoline below $4",
-      "title_ru": "Бензин в США ниже $4",
-      "blurb_en": "Average US pump prices slipped below $4/gal for the first time since April as Hormuz deal optimism eased fuel costs.",
-      "blurb_ru": "Средняя цена бензина на заправках США опустилась ниже $4/гал впервые с апреля на оптимизме по сделке об Ормузе.",
-      "text_en": "Headlines said average US petrol fell below $4 on the deal to reopen Hormuz, hitting a nearly two-month low. Staunovo flagged US gasoline below $4 a gallon for the first time since April, with analysts warning the move could understate lingering supply risk.",
-      "text_ru": "Заголовки сообщали, что средняя цена бензина в США упала ниже $4 на фоне сделки об открытии Ормуза, до почти двухмесячного минимума. Staunovo отметил бензин ниже $4/гал впервые с апреля, аналитики предупреждали, что движение может недооценивать сохраняющийся риск предложения.",
-      "tone": "bearish",
-      "tweet_ids": ["2066729171208818724", "2066763882945781903"]
+      "tweet_ids": [
+        "2066951770018865536",
+        "2066830843310489630"
+      ]
     }
   ]
 }

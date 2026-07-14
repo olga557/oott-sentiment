@@ -1,8 +1,20 @@
 {
   "date": "2026-07-01",
-  "overview_en": "Wednesday mixed a large EIA crude draw and Hormuz flow notes with talk of another OPEC+ August quota hike. Price sentiment was slightly bullish; emotional tone stayed mostly neutral.",
-  "overview_ru": "В среду смешались сильный отбор нефти по EIA и заметки по потокам через Ормуз с разговорами о новом повышении квот OPEC+ в августе. Сентимент по цене был слабо бычьим; эмоциональный тон оставался в основном нейтральным.",
+  "overview_en": "Wednesday mixed UAE export recovery toward pre-war levels, a large EIA crude draw, and Hormuz flow caveats with talk of another OPEC+ August quota hike. Price sentiment was mixed; emotional tone stayed mostly neutral as WTI’s prompt time-spread flirted with contango.",
+  "overview_ru": "В среду смешались восстановление экспорта ОАЭ к довоенным уровням, сильный отбор нефти по EIA и оговорки по потокам Ормуза с разговорами о новом повышении квот OPEC+ в августе. Сентимент по цене был смешанным; эмоциональный тон оставался в основном нейтральным на фоне флирта промпт-спреда WTI с контанго.",
   "themes": [
+    {
+      "title_en": "UAE first Gulf exporter near pre-war volumes",
+      "title_ru": "ОАЭ — первый экспортёр Залива около довоенных объёмов",
+      "blurb_en": "The UAE was flagged as the first Persian Gulf country lifting oil exports to—or even above—pre-war levels in June.",
+      "blurb_ru": "ОАЭ называли первой страной Персидского залива, поднявшей экспорт нефти в июне до довоенных уровней или даже выше.",
+      "text_en": "JavierBlas said June UAE oil exports had surged to >95% of pre-war levels—and some tanker trackers even above—while warning a ‘ketchup effect’ from inventories may inflate the print. He argued wellhead production recovery would not be far behind as UAE barrels flowed past Hormuz choke points.",
+      "text_ru": "JavierBlas писал, что июньский экспорт ОАЭ вырос выше 95% довоенных уровней — а у части трекеров даже выше — с оговоркой о «эффекте кетчупа» от запасов. По его оценке, восстановление добычи на скважинах не заставит себя ждать, пока баррели ОАЭ идут мимо узких мест Ормуза.",
+      "tone": "bearish",
+      "tweet_ids": [
+        "2072323484030541892"
+      ]
+    },
     {
       "title_en": "EIA draw: crude −3.8 mb, SPR also down",
       "title_ru": "Отбор EIA: нефть −3.8 млн барр., SPR тоже вниз",
@@ -11,37 +23,60 @@
       "text_en": "LiveSquawk and Staunovo flagged US crude inventories down about 3.8 mb commercially, with total crude including SPR down roughly 9.3 mb. Distillate builds offset some of the bullish optics. PADD2 commentary noted extra oil moving toward Cushing.",
       "text_ru": "LiveSquawk и Staunovo отмечали снижение коммерческих запасов нефти США примерно на 3.8 млн барр., а с учётом SPR — около 9.3 млн. Рост дистиллятов частично смягчал бычью картину. По PADD2 писали о дополнительном притоке к Cushing.",
       "tone": "bullish",
-      "tweet_ids": ["2072327228252143861", "2072327144886178204"]
+      "tweet_ids": [
+        "2072327228252143861",
+        "2072327144886178204"
+      ]
     },
     {
       "title_en": "Hormuz June flows vs the headline",
       "title_ru": "Потоки Ормуза в июне vs заголовок",
       "blurb_en": "About 5 mb/d of crude exited Hormuz in June — posts warned not to read the print as a full normalization of the strait.",
       "blurb_ru": "Около 5 млн б/с нефти вышло через Ормуз в июне — посты предупреждали не читать цифру как полную нормализацию пролива.",
-      "text_en": "Amena Bakr stressed that just over 5 million bpd exiting Hormuz in June should not fool the market into thinking flows were healthy. Separate notes tied inventory math to Hormuz timing.",
-      "text_ru": "Amena Bakr подчеркивала, что чуть более 5 млн б/с через Ормуз в июне не должны создать иллюзию «здоровых» потоков. Отдельно связывали математику запасов с таймингом по Ормузу.",
+      "text_en": "Amena Bakr stressed that just over 5 million bpd exiting Hormuz in June should not fool the market into thinking flows were healthy—still only about a third of pre-war. Separate notes tied inventory math to Hormuz timing.",
+      "text_ru": "Amena Bakr подчеркивала, что чуть более 5 млн б/с через Ормуз в июне не должны создать иллюзию «здоровых» потоков — это всё ещё около трети довоенных. Отдельно связывали математику запасов с таймингом по Ормузу.",
       "tone": "bullish",
-      "tweet_ids": ["2072331209904886023", "2072148210819166538"]
+      "tweet_ids": [
+        "2072331209904886023",
+        "2072148210819166538"
+      ]
     },
     {
       "title_en": "OPEC+ may add ~188 kb/d in August",
       "title_ru": "OPEC+ может добавить ~188 тыс. б/с в августе",
-      "blurb_en": "The day's most-viewed headline said OPEC+ was likely to raise August quotas by 188,000 b/d — the main bearish counterweight.",
-      "blurb_ru": "Самый просматриваемый заголовок дня: OPEC+ с высокой вероятностью поднимет августовские квоты на 188 тыс. б/с — главный медвежий противовес.",
-      "text_en": "DeItaone reported OPEC+ was likely to raise August oil output quotas by 188,000 barrels per day at Sunday's meeting. That supply-unwinding expectation sat beside the inventory draw in the day's mix.",
-      "text_ru": "DeItaone сообщил, что OPEC+ на воскресной встрече, вероятно, повысит квоты на август на 188 тыс. б/с. Ожидание раскрутки предложения стояло рядом с отбором запасов в смеси дня.",
+      "blurb_en": "Sources said OPEC+ was likely to raise August quotas by 188,000 b/d — a main bearish supply counterweight.",
+      "blurb_ru": "Источники: OPEC+ с высокой вероятностью поднимет августовские квоты на 188 тыс. б/с — главный медвежий противовес по предложению.",
+      "text_en": "DeItaone reported OPEC+ was likely to raise August oil output quotas by 188,000 barrels per day at Sunday’s meeting. That supply-unwinding expectation sat beside the inventory draw and Gulf export-recovery notes in the day’s mix.",
+      "text_ru": "DeItaone сообщил, что OPEC+ на воскресной встрече, вероятно, повысит квоты на август на 188 тыс. б/с. Ожидание раскрутки предложения стояло рядом с отбором запасов и заметками о восстановлении экспорта Залива.",
       "tone": "bearish",
-      "tweet_ids": ["2072292131528483075"]
+      "tweet_ids": [
+        "2072292131528483075"
+      ]
+    },
+    {
+      "title_en": "WTI prompt spread flirts with contango",
+      "title_ru": "Промпт-спред WTI заигрывает с контанго",
+      "blurb_en": "The WTI prompt time-spread was flagged as flirting with contango — a bearish structure signal into the holiday week.",
+      "blurb_ru": "Промптный тайм-спред WTI отмечали как заигрывающий с контанго — медвежий сигнал структуры перед праздничной неделей.",
+      "text_en": "JavierBlas noted the WTI prompt time-spread flirting with contango. Separately he flagged that US total oil production in the first four months of 2026 averaged 21.33 mb/d — more than 900 kb/d above the same period of 2025 — even before shale fully reacted to ~$100 oil.",
+      "text_ru": "JavierBlas отметил флирт промпт-спреда WTI с контанго. Отдельно он писал, что суммарная добыча нефти США за первые 4 месяца 2026 в среднем составила 21.33 млн б/с — более чем на 900 тыс. б/с выше того же периода 2025 — ещё до полной реакции сланца на нефть около $100.",
+      "tone": "bearish",
+      "tweet_ids": [
+        "2072338254578196676",
+        "2072268044940804358"
+      ]
     },
     {
       "title_en": "Russia buys Indian gasoline",
       "title_ru": "Россия покупает индийский бензин",
       "blurb_en": "Sources said Russia was buying gasoline from India to tackle shortages — a products-tightness footnote.",
       "blurb_ru": "Источники сообщали, что Россия закупает бензин в Индии из‑за дефицита — сноска о жёсткости продуктового рынка.",
-      "text_en": "Staunovo cited sources that Russia bought at least 60,000 metric tons of gasoline from India to ease domestic shortages after refining stress.",
-      "text_ru": "Staunovo со ссылкой на источники писал, что Россия купила у Индии не менее 60 тыс. т бензина, чтобы смягчить внутренний дефицит после проблем с переработкой.",
+      "text_en": "Staunovo cited sources that Russia bought at least 60,000 metric tons of gasoline from India to ease domestic shortages after refining stress. Coverage tied the purchases to rationing, queues and price spikes at home.",
+      "text_ru": "Staunovo со ссылкой на источники писал, что Россия купила у Индии не менее 60 тыс. т бензина, чтобы смягчить внутренний дефицит после проблем с переработкой. В фоне оставались рационирование, очереди и скачки цен внутри страны.",
       "tone": "bullish",
-      "tweet_ids": ["2072288733156594134"]
+      "tweet_ids": [
+        "2072288733156594134"
+      ]
     }
   ]
 }

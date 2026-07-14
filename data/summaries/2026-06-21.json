@@ -1,67 +1,83 @@
 {
   "date": "2026-06-21",
-  "overview_en": "Sunday mixed collapsed US-Iran talks in Switzerland with Hormuz closure headlines, Trump strait threats, and Iran still exporting large crude volumes. Price sentiment was mixed; emotional tone turned more negative as the walkout and risk-premium chatter dominated.",
-  "overview_ru": "В воскресенье смешались сорванные переговоры США–Иран в Швейцарии, заголовки о закрытии Ормуза, угрозы Трампа по проливу и продолжающийся крупный экспорт иранской нефти. Сентимент по цене был смешанным; эмоциональный тон стал более негативным на фоне ухода делегации и разговоров о премии риска.",
+  "overview_en": "Sunday mixed Iran’s continued heavy crude exports and Trump’s “oil is gushing” line with a walkout over Hormuz threats, China’s weaker imports as a price lid, and lingering deal fragility. Price sentiment was mixed-to-bullish on risk-premium talk; emotional tone turned more negative amid threats and protests.",
+  "overview_ru": "В воскресенье тяжёлый иранский экспорт crude и тезис Трампа, что «нефть хлещет», смешались с уходом делегации из‑за угроз по Ормузу, более слабым импортом Китая как крышкой для цены и сохраняющейся хрупкостью сделки. Сентимент по цене был смешанно-бычьим на разговорах о премии риска; эмоциональный тон стал негативнее на фоне угроз и протестов.",
   "themes": [
-    {
-      "title_en": "Iran walks out after Trump Hormuz threats",
-      "title_ru": "Иран уходит после угроз Трампа по Ормузу",
-      "blurb_en": "Iran’s delegation left the talks venue in protest after Trump’s fresh threats on Iran and the strait, calling them an MoU violation.",
-      "blurb_ru": "Делегация Ирана покинула площадку переговоров в знак протеста после новых угроз Трампа по Ирану и проливу, назвав их нарушением MoU.",
-      "text_en": "Posts said Iran abandoned Sunday’s talks after Trump commented on Iran and the Strait of Hormuz. A follow-up claimed the Iranian delegation left in protest, arguing the threats violated the June 18 MoU ban on threat or force. Separate notes said Tehran would not reopen Hormuz until a Lebanon ceasefire held and oil waivers were issued.",
-      "text_ru": "Посты сообщали, что Иран сорвал воскресные переговоры после комментариев Трампа об Иране и Ормузском проливе. Далее писали, что иранская делегация ушла в знак протеста, считая угрозы нарушением запрета MoU от 18 июня на угрозу или силу. Отдельно отмечали, что Тегеран не откроет Ормуз, пока не удержится перемирие в Ливане и не будут выданы нефтяные waivers.",
-      "tone": "bullish",
-      "tweet_ids": ["2068739105807306807", "2068687695010795875"]
-    },
     {
       "title_en": "Iran exported 36 mb since June 15",
       "title_ru": "Иран экспортировал 36 млн барр. с 15 июня",
-      "blurb_en": "The day’s top post said Iran had exported 36 million barrels since June 15, with roughly as much still afloat in Iranian waters.",
-      "blurb_ru": "Главный пост дня сообщил, что Иран экспортировал 36 млн барр. с 15 июня, а примерно столько же всё ещё на плаву в иранских водах.",
-      "text_en": "Tracking said Iran exported 36 million barrels of crude since 2026-06-15, with roughly an equal amount still afloat in Iran. Separate shipping notes flagged active dirty and clean tanker STS transfers near Fujairah and off Shinas, Oman. Bulls still argued the broader squeeze was intact despite the Iranian loadings.",
-      "text_ru": "Трекинг сообщал, что Иран экспортировал 36 млн барр. нефти с 2026-06-15, а примерно столько же всё ещё находится на плаву в Иране. Отдельные морские заметки фиксировали активные STS грязных и чистых танкеров у Фуджейры и у Шинаса в Омане. Быки всё равно утверждали, что более широкий сквиз сохраняется несмотря на иранские погрузки.",
+      "blurb_en": "Trackers put Iranian crude exports at 36 mb since June 15, with roughly as much still afloat inside Iranian waters.",
+      "blurb_ru": "Трекеры оценили экспорт иранской нефти в 36 млн барр. с 15 июня, и примерно столько же всё ещё на плаву во внутренних иранских водах.",
+      "text_en": "TankerTrackers reported Iran has exported 36 mb of crude since 2026-06-15, with roughly an equal amount still afloat in Iran. Parallel STS notes around Fujairah and Oman showed product and dirty transfers continuing even as traditional Hormuz prints stayed sparse.",
+      "text_ru": "TankerTrackers сообщил, что с 15 июня 2026 Иран экспортировал 36 млн барр. crude, и примерно столько же всё ещё на плаву в Иране. Параллельные заметки по STS у Фуджейры и Омана показывали продолжение грязных и чистых перевалок даже при редких традиционных транзитах Ормуза.",
       "tone": "bearish",
-      "tweet_ids": ["2068838932201292164", "2068772817861230968"]
+      "tweet_ids": [
+        "2068838932201292164",
+        "2068772817861230968"
+      ]
     },
     {
-      "title_en": "Hormuz: sparse transits, conditional reopen",
-      "title_ru": "Ормуз: редкие транзиты, условное открытие",
-      "blurb_en": "Posts claimed almost no visible Hormuz transits over 24 hours even as three Indian-flagged tankers were said to have cleared.",
-      "blurb_ru": "Посты утверждали, что за 24 часа почти не было видимых транзитов через Ормуз, хотя три танкера под индийским флагом якобы прошли.",
-      "text_en": "One weekend warning said there were no visible Strait of Hormuz transits in the past 24 hours. A counter-headline said three Indian-flagged oil tankers had cleared the strait. Tasnim-linked conditions tied any reopen to a lasting Lebanon ceasefire and issuance of oil waivers.",
-      "text_ru": "Одно предупреждение выходных говорило, что за прошедшие 24 часа не было видимых транзитов через Ормуз. Контрзаголовок сообщал, что три нефтяных танкера под индийским флагом прошли пролив. Условия со ссылкой на Tasnim связывали любое открытие с устойчивым перемирием в Ливане и выдачей нефтяных waivers.",
+      "title_en": "Trump: Hormuz open, oil gushing",
+      "title_ru": "Трамп: Ормуз открыт, нефть хлещет",
+      "blurb_en": "Trump’s social-media line that the strait is open and “the oil is gushing” dominated bearish reopen messaging.",
+      "blurb_ru": "Строка Трампа в соцсетях, что пролив открыт и «нефть хлещет», доминировала в медвежьей риторике открытия.",
+      "text_en": "Javier Blas amplified Trump’s post claiming the Hormuz Strait is open and oil is gushing. Separate Staunovo commentary threads on Trump’s Iran/strait remarks kept the official US reopen narrative in focus against Iranian walkout headlines.",
+      "text_ru": "Javier Blas усилил пост Трампа о том, что Ормузский пролив открыт и нефть «хлещет». Отдельные треды Staunovo по комментариям Трампа об Иране и проливе держали официальную американскую риторику открытия в фокусе на фоне заголовков об уходе иранской делегации.",
+      "tone": "bearish",
+      "tweet_ids": [
+        "2068802642994741610",
+        "2068687695010795875"
+      ]
+    },
+    {
+      "title_en": "Iran walks out over Trump threats",
+      "title_ru": "Иран уходит с переговоров из‑за угроз Трампа",
+      "blurb_en": "Iran’s delegation left the US-Iran talks venue in protest, calling Trump’s threats a violation of the June 18 MoU’s no-threat clause.",
+      "blurb_ru": "Делегация Ирана покинула площадку переговоров с США в знак протеста, назвав угрозы Трампа нарушением пункта MoU от 18 июня о запрете угроз и силы.",
+      "text_en": "MktPulseIndia reported Iran’s delegation left the talks venue after Trump threats, arguing they violated the June 18 MoU bar on threat or force. That walkout revived bullish deal-break risk even as US messaging insisted the strait was open.",
+      "text_ru": "MktPulseIndia сообщил, что делегация Ирана покинула площадку переговоров после угроз Трампа, посчитав их нарушением запрета MoU от 18 июня на угрозы и силу. Уход снова поднял бычий риск срыва сделки даже при американской риторике открытого пролива.",
+      "tone": "bullish",
+      "tweet_ids": [
+        "2068739105807306807"
+      ]
+    },
+    {
+      "title_en": "China import cut keeps a lid on prices",
+      "title_ru": "Снижение импорта Китая держит крышку на ценах",
+      "blurb_en": "Weaker Chinese oil imports were again cited as one of the main reasons prices were not rocketing despite the shock.",
+      "blurb_ru": "Более слабый нефтяной импорт Китая снова называли одной из главных причин, почему цены не взлетают несмотря на шок.",
+      "text_en": "Javier Blas highlighted Jason Bordoff’s line that the reduction in Chinese oil imports is one of the most important reasons oil prices are not going through the roof. That demand-side brake remained central to the week’s bearish counter-narrative.",
+      "text_ru": "Javier Blas выделил формулировку Jason Bordoff: снижение китайского импорта нефти — одна из важнейших причин, почему цены не уходят «в небеса». Этот спросный тормоз оставался ядром медвежьего контрнарратива недели.",
+      "tone": "bearish",
+      "tweet_ids": [
+        "2068822248341852188"
+      ]
+    },
+    {
+      "title_en": "Bulls keep a risk premium after loose ends",
+      "title_ru": "Быки удерживают премию риска из‑за «хвостов»",
+      "blurb_en": "Posts argued hardliner and Israel-Lebanon loose ends mean oil cannot simply return to pre-war prices.",
+      "blurb_ru": "Посты утверждали: «хвосты» по хардлайнерам и линии Израиль–Ливан не дают нефти просто вернуться к довоенным ценам.",
+      "text_en": "SanctionsAml listed Iran hardliners and Israel-Lebanon as unfinished business requiring an embedded risk premium. More aggressive bullish voices talked of a violent upside if draws persist and “pretend peace deals” fail — keeping emotional tone hotter than most of the week.",
+      "text_ru": "SanctionsAml перечислял иранских хардлайнеров и линию Израиль–Ливан как незакрытые сюжеты, требующие вшитой премии риска. Более агрессивные бычьи голоса говорили о жёстком апсайде, если отборы запасов продолжатся, а «бутафорские мирные сделки» рухнут — эмоциональный тон был горячее, чем большую часть недели.",
+      "tone": "bullish",
+      "tweet_ids": [
+        "2068676675664064980",
+        "2068838913213452488"
+      ]
+    },
+    {
+      "title_en": "Iran waiver draft vs Ukraine refining hits",
+      "title_ru": "Черновик waivers для Ирана vs удары по НПЗ РФ",
+      "blurb_en": "Iran said an oil-sanctions-waiver draft was finalized even as fresh Ukrainian drones hit Russian refining logistics.",
+      "blurb_ru": "Иран заявил о готовом черновике нефтяных санкционных waivers, тогда как новые украинские дроны били по российской НПЗ-логистике.",
+      "text_en": "Staunovo cited an Iranian negotiator saying a draft on Iranian oil sanctions waivers was finalized and would be issued soon, while the US energy secretary defended the waiver path. The same day, Zelenskiy confirmed a drone strike on Tyumen-region refining facilities and fires were reported at Kerch/Port Kavkaz oil infrastructure.",
+      "text_ru": "Staunovo со ссылкой на иранского переговорщика писал, что черновик waivers по иранской нефти готов и скоро будет выпущен, а министр энергетики США защищал этот путь. В тот же день Зеленский подтвердил удар дронами по НПЗ в Тюменской области, а также писали о пожарах на нефтяной инфраструктуре Керчи/Порт-Кавказа.",
       "tone": "mixed",
-      "tweet_ids": ["2068526613759685065", "2068570678807146867"]
-    },
-    {
-      "title_en": "Bulls hold $80–90 risk premium",
-      "title_ru": "Быки держат премию риска $80–90",
-      "blurb_en": "Commentary said loose ends on the peace deal and ongoing crude draws justify keeping oil in an $80–90 risk-premium range.",
-      "blurb_ru": "Комментарии говорили, что незакрытые хвосты мирной сделки и продолжающиеся отборы нефти оправдывают удержание цен в диапазоне премии риска $80–90.",
-      "text_en": "One widely viewed post argued pretend peace deals would not stop a violent upside move and that time favored Iran. Another said Iran hardliners and Israel-Lebanon loose ends mean a risk premium must stay priced, leaving markets stuck in an $80–90 range. Macro bulls separately urged watching continuing crude draws into the week.",
-      "text_ru": "Один широко просматриваемый пост утверждал, что «притворные» мирные сделки не остановят жёсткий рост и что время на стороне Ирана. Другой писал, что ястребы в Иране и незакрытый трек Израиль–Ливан требуют сохранить премию риска, оставляя рынок в диапазоне $80–90. Макро-быки отдельно призывали следить за продолжающимися отборами нефти на неделе.",
-      "tone": "bullish",
-      "tweet_ids": ["2068838913213452488", "2068676675664064980"]
-    },
-    {
-      "title_en": "Iran oil-waiver draft vs US defense",
-      "title_ru": "Черновик нефтяных waivers Ирана vs защита США",
-      "blurb_en": "Iranian negotiators said a sanctions-waiver draft for Iranian oil was finalized, while the US Energy Secretary defended the waivers.",
-      "blurb_ru": "Иранские переговорщики заявили, что черновик waivers по санкциям на иранскую нефть готов, а министр энергетики США защищал эти послабления.",
-      "text_en": "A member of Iran’s negotiating team told state media a draft on sanctions waivers for Iranian oil had been finalized and would be issued soon. Separate headlines said the US Energy Secretary was defending Iran oil waivers amid criticism. The supply-return signal sat awkwardly beside the same day’s talk walkout.",
-      "text_ru": "Член иранской переговорной команды сообщил госСМИ, что черновик waivers по санкциям на иранскую нефть согласован и скоро будет выдан. Отдельные заголовки писали, что министр энергетики США защищает нефтяные waivers для Ирана на фоне критики. Сигнал о возврате предложения странно соседствовал с уходом с переговоров в тот же день.",
-      "tone": "bearish",
-      "tweet_ids": ["2068757909555556612", "2068723343826604499"]
-    },
-    {
-      "title_en": "Ukraine hits Russian refining again",
-      "title_ru": "Украина снова бьёт по российской переработке",
-      "blurb_en": "Ukraine confirmed a drone strike on refining facilities in Tyumen, while Kerch and Port Kavkaz oil depots were also reported hit.",
-      "blurb_ru": "Украина подтвердила удар дронами по НПЗ в Тюмени; также сообщали об ударах по нефтебазам в Керчи и порту Кавказ.",
-      "text_en": "Zelenskiy confirmed a drone strike on refining facilities in Russia’s Tyumen region. Separate posts said drones struck Kerch and Port Kavkaz, with an oil depot and port facilities catching fire. The hits added a products-side bullish footnote beside the Middle East drama.",
-      "text_ru": "Зеленский подтвердил удар дронами по объектам переработки в Тюменской области России. Отдельные посты сообщали об ударах по Керчи и порту Кавказ, где загорелись нефтебаза и портовые объекты. Удары добавили бычью продуктовую сноску рядом с ближневосточной драмой.",
-      "tone": "bullish",
-      "tweet_ids": ["2068570639254905235", "2068590083318456818"]
+      "tweet_ids": [
+        "2068757909555556612",
+        "2068570639254905235"
+      ]
     }
   ]
 }

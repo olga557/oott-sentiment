@@ -1,47 +1,57 @@
 {
   "date": "2026-07-08",
-  "overview_en": "Wednesday centered on Hormuz tanker traffic grinding to a halt, Trump saying the Iran ceasefire was over, and a sharp settlement rally in crude. Price sentiment was firmly bullish; emotional tone mixed toward negative amid war and squeeze talk.",
-  "overview_ru": "В среду обсуждали почти остановившийся танкерный трафик через Ормуз, слова Трампа о конце перемирия с Ираном и резкий рост расчётных цен на нефть. Сентимент по влиянию на цену был уверенно бычьим; эмоциональный тон — смешанный с уклоном в негатив на фоне войны и разговоров о шорт-сквизе.",
+  "overview_en": "Wednesday mixed Russia’s diesel export ban and fresh US–Iran escalation with a sharp crude rally, product-heavy EIA draws, and tempering IMF/China fuel-export notes. Price sentiment was strongly bullish; emotional tone was more negative amid ceasefire-over rhetoric.",
+  "overview_ru": "В среду смешались запрет России на экспорт дизеля и новая эскалация США–Иран с резким ралли нефти, сильными отборами продуктов по EIA и смягчающими заметками МВФ/Китая по экспорту топлива. Сентимент по цене был уверенно бычьим; эмоциональный тон — более негативным на фоне риторики «перемирие окончено».",
   "themes": [
     {
-      "title_en": "Hormuz: traffic 'essentially stopped'",
-      "title_ru": "Ормуз: трафик «практически остановился»",
-      "blurb_en": "Reports said Hormuz tanker traffic had essentially stopped, while others argued trapped hulls were clearing — chokepoint risk stayed front and center.",
-      "blurb_ru": "Сообщения говорили, что танкерный трафик через Ормуз практически остановился, другие — что застрявшие суда уже выходят; риск «бутылочного горлышка» оставался в центре внимания.",
-      "text_en": "Staunovo said oil tanker traffic through the Strait of Hormuz had 'essentially stopped', while CRUDEOIL231 argued the Persian Gulf bottleneck had largely cleared as trapped laden hulls left. Iran's Press TV, citing a source, said Tehran would close Hormuz if attacked again. Shipowners were described as wrestling with Hormuz risks as the US–Iran deal narrative crumbled.",
-      "text_ru": "Staunovo писал, что танкерный трафик через Ормуз «практически остановился», а CRUDEOIL231 утверждал, что узкое место в Заливе в основном рассосалось. Press TV Ирана со ссылкой на источник заявило о закрытии Ормуза при новых атаках. Отдельно писали, что судовладельцы борются с рисками Ормуза на фоне развала нарратива сделки США–Иран.",
+      "title_en": "Russia bans diesel exports",
+      "title_ru": "Россия запрещает экспорт дизеля",
+      "blurb_en": "Russia banned diesel exports, further tightening the global refined-products balance after weeks of Mediterranean diesel stress.",
+      "blurb_ru": "Россия запретила экспорт дизеля, ещё сильнее ужесточив глобальный баланс нефтепродуктов после недель стресса по средиземноморскому дизелю.",
+      "text_en": "The day's top-viewed breaking note said Russia had banned diesel exports, tightening the global products S&D balance. Deputy PM Novak was cited as the official source, after earlier coverage that Mediterranean diesel supply was already tightening as Russian exports tumbled. Products, not just crude risk premium, became a core bullish pillar.",
+      "text_ru": "Самый просматриваемый breaking дня: Россия запретила экспорт дизеля, ужесточив глобальный баланс нефтепродуктов. Официальным источником называли вице-премьера Новака — на фоне более ранних сообщений, что средиземноморский дизель уже ужесточался из‑за падения российского экспорта. Продукты, а не только премия за риск по нефти, стали ключевым бычьим столпом.",
       "tone": "bullish",
-      "tweet_ids": ["2074857990323069040", "2074871726656385366"]
+      "tweet_ids": ["2074873820482064428", "2074873886026469719"]
     },
     {
-      "title_en": "Trump: ceasefire over; oil may rise",
-      "title_ru": "Трамп: перемирие кончилось; нефть может вырасти",
-      "blurb_en": "Trump said the Iran ceasefire was over 'as far as I’m concerned' and floated steps that could lift oil prices.",
-      "blurb_ru": "Трамп заявил, что перемирие с Ираном кончилось «насколько его это касается», и допустил меры, которые могут поднять цены на нефть.",
-      "text_en": "Amena Bakr highlighted Trump in Ankara ending the ceasefire framing. LiveSquawk carried related soundbites — uncertainty about a deal, finishing the job, and comments that Washington might take steps that raise oil prices, plus Bessent on where US oil 'should' trade.",
-      "text_ru": "Amena Bakr выделила слова Трампа в Анкаре о конце перемирия. LiveSquawk передавал смежные реплики — сомнения насчёт сделки, «добить дело» и намёк, что США могут сделать шаги, поднимающие цену нефти, плюс комментарии Бессента о «правильном» уровне американской нефти.",
+      "title_en": "Trump: ceasefire over; more Iran strikes",
+      "title_ru": "Трамп: перемирие окончено; новые удары по Ирану",
+      "blurb_en": "Trump said the Iran ceasefire was over for him and floated another US strike night, keeping Gulf geopolitics center stage.",
+      "blurb_ru": "Трамп заявил, что перемирие с Ираном для него окончено, и допустил новую ночь ударов США — геополитика Залива осталась в центре.",
+      "text_en": "Trump said the ceasefire was over “as far as I’m concerned” and that he did not want to deal with Tehran anymore, while still allowing negotiators to talk. Later posts said he expected another US strike that night and simultaneously claimed the flare-up could end “very quickly.” Markets treated the rhetoric as higher near-term interruption risk even as appetite for a full new war was questioned.",
+      "text_ru": "Трамп сказал, что перемирие окончено «насколько его это касается», и что он больше не хочет иметь дело с Тегераном, хотя переговорщикам ещё позволял говорить. Позже писали, что он ждал ещё один удар США этой ночью и одновременно заявлял, что вспышка может закончиться «очень быстро». Рынок читал риторику как рост ближнего риска перебоев, даже если аппетит к новой большой войне ставили под вопрос.",
       "tone": "bullish",
-      "tweet_ids": ["2074778685643927587", "2074863519950934169"]
+      "tweet_ids": ["2074771468135678039", "2074840269577507228"]
     },
     {
-      "title_en": "Settlement spike: WTI +4%, Brent +5%",
-      "title_ru": "Расчётный скачок: WTI +4%, Brent +5%",
-      "blurb_en": "US crude settled near $73.52 (+$3.08) and Brent near $78.02 (+$3.86) as shorts were warned of a squeeze.",
-      "blurb_ru": "Американская нефть закрылась около $73.52 (+$3.08), Brent — около $78.02 (+$3.86); шортов предупреждали о риске сквиза.",
-      "text_en": "LiveSquawk printed WTI up 4.37% to $73.52 and Brent up 5.2% to $78.02. The day's most-viewed podcast framed oil shorts as fighting not to be brutally squeezed. EIA showed a crude build with large distillate draws — mixed inventory optics beside the rally.",
-      "text_ru": "LiveSquawk зафиксировал WTI +4.37% до $73.52 и Brent +5.2% до $78.02. Самый просматриваемый подкаст дня описывал нефтяные шорты как борющиеся, чтобы их «жестоко» не выдавило. EIA показала рост запасов нефти при сильном отборе дистиллятов — смешанная картинка запасов на фоне ралли.",
+      "title_en": "Crude rally: Brent ~$78, WTI ~$73.5",
+      "title_ru": "Ралли нефти: Brent ~$78, WTI ~$73.5",
+      "blurb_en": "Futures settled sharply higher — Brent near $78 (+5%) and WTI near $73.5 (+4%) — with shorts described as fighting a squeeze.",
+      "blurb_ru": "Фьючерсы закрылись резко выше — Brent около $78 (+5%) и WTI около $73.5 (+4%) — шорты описывали как борющиеся против сквиза.",
+      "text_en": "Settlement prints put US crude up about $3.08 to $73.52 and Brent up about $3.86 to $78.02. A widely viewed commentary said oil shorts were fighting not to be squeezed out. Trump also floated doing “some things that could increase oil price,” adding a policy-risk layer to the tape.",
+      "text_ru": "По расчётам US crude вырос примерно на $3.08 до $73.52, Brent — примерно на $3.86 до $78.02. Широко читаемый комментарий писал, что нефтяные шорты борются, чтобы их не выжало. Трамп также допускал «сделать кое-что, что может поднять цену нефти», добавляя слой policy-риска к ленте.",
       "tone": "bullish",
       "tweet_ids": ["2074924371626316051", "2074841618574893206"]
     },
     {
-      "title_en": "Products tight; Russia diesel ban",
-      "title_ru": "Продукты жёсткие; запрет российского дизеля",
-      "blurb_en": "US refined-product exports hit a record 8.73 mbpd, and Russia banned diesel exports — supporting the product-tightness story.",
-      "blurb_ru": "Экспорт нефтепродуктов США достиг рекорда 8.73 млн б/с, а Россия запретила экспорт дизеля — в пользу истории о жёсткости продуктового рынка.",
-      "text_en": "Staunovo flagged record US refined product exports at 8.730 mbpd and separately reported Russia's diesel export ban via deputy PM Novak. Refining commentary stressed crude weakness versus product strength as the structural theme of the month.",
-      "text_ru": "Staunovo отметил рекордный экспорт нефтепродуктов США 8.730 млн б/с и отдельно — запрет России на экспорт дизеля (зампред Новак). В комментариях по переработке снова звучала тема «слабая нефть / сильные продукты» как структурный мотив месяца.",
-      "tone": "bullish",
-      "tweet_ids": ["2074868703418609796", "2074873886026469719"]
+      "title_en": "EIA: crude +3 mb but distillates −5 mb",
+      "title_ru": "EIA: нефть +3 млн барр., но дистилляты −5 млн",
+      "blurb_en": "Commercial crude built about 3 mb while gasoline and distillates drew hard and SPR fell again — a mixed headline, products-bullish detail.",
+      "blurb_ru": "Коммерческая нефть выросла примерно на 3 млн барр., но бензин и дистилляты сильно снизились, а SPR снова упал — смешанный заголовок при бычьих продуктах.",
+      "text_en": "EIA WPSR showed crude about +3.0 mb commercially, gasoline −1.9 mb and distillates −5.0 mb, with SPR down ~6.2 mb again. One reconciliation put commercial crude +2.998 mb and total crude including SPR −3.168 mb. Separately, US refined-product exports hit a record 8.730 mb/d — underscoring product tightness and export pull.",
+      "text_ru": "EIA WPSR: коммерческая нефть около +3.0 млн барр., бензин −1.9 млн и дистилляты −5.0 млн, SPR снова −~6.2 млн. Одна сверка давала commercial crude +2.998 млн и суммарную нефть с SPR −3.168 млн. Отдельно экспорт нефтепродуктов США достиг рекорда 8.730 млн б/с — акцент на жёсткости продуктов и экспортном вытягивании.",
+      "tone": "mixed",
+      "tweet_ids": ["2074864328893669618", "2074868703418609796"]
+    },
+    {
+      "title_en": "IMF: Hormuz shock weathered; China fuel exports resume",
+      "title_ru": "МВФ: шок Ормуза пережит; Китай снова экспортирует топливо",
+      "blurb_en": "IMF charts argued the world had weathered the Hormuz shock better than feared, while China lifted July fuel-export limits — the main soft-demand counterweights.",
+      "blurb_ru": "Графики МВФ утверждали, что мир пережил шок Ормуза лучше ожиданий, а Китай снял июльские лимиты на экспорт топлива — главные смягчающие противовесы.",
+      "text_en": "A chart-of-the-day note summarized the IMF view that the global economy had weathered the Hormuz war shock better than feared, with GDP forecasts barely changed. Reuters-sourced posts said China had lifted refined-fuel export restrictions for the rest of July and let a private refiner resume shipments after a four-month halt. Those headlines tempered pure risk-premium bulls.",
+      "text_ru": "Chart of the day суммировал взгляд МВФ: мировая экономика пережила военный шок Ормуза лучше, чем боялись, а прогнозы ВВП почти не изменились. Посты со ссылкой на Reuters писали, что Китай снял ограничения на экспорт нефтепродуктов до конца июля и разрешил частному НПЗ возобновить отгрузки после 4‑месячной паузы. Эти заголовки смягчали чистых быков по премии за риск.",
+      "tone": "bearish",
+      "tweet_ids": ["2074904187389775906", "2074768935904248303"]
     }
   ]
 }

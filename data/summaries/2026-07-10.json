@@ -1,47 +1,57 @@
 {
   "date": "2026-07-10",
-  "overview_en": "Friday rotated toward Russian refining hits from Ukrainian drones, softer crude settlements, and talk of an uneasy US–Iran pause via the Omani Hormuz corridor. Price sentiment was only mildly bullish; emotional tone stayed mostly neutral.",
-  "overview_ru": "В пятницу лента сместилась к ударам украинских дронов по российской переработке, более мягкому закрытию нефти и разговорам о тревожной паузе США–Иран вокруг оманского коридора в Ормузе. Сентимент по цене был лишь слабо бычьим; эмоциональный тон оставался в основном нейтральным.",
+  "overview_en": "Friday mixed IEA notes on record UAE output and the first post-war global stock build with Russian refining hits, Qatari mediation and still-elevated Hormuz/Iran noise. Price sentiment was mixed-to-soft; emotional tone stayed mostly neutral with pockets of bearish supply relief talk.",
+  "overview_ru": "В пятницу смешались оценки IEA по рекордной добыче ОАЭ и первому послевоенному росту мировых запасов с ударами по российской переработке, катарским посредничеством и всё ещё повышенным шумом вокруг Ормуза/Ирана. Сентимент по цене был смешанным/мягким; эмоциональный тон в основном нейтральным с вкраплениями медвежьих разговоров об облегчении предложения.",
   "themes": [
     {
-      "title_en": "Ukraine drones hit Russian refining",
-      "title_ru": "Удары дронов Украины по российской переработке",
-      "blurb_en": "Ilsky refinery fire and claims that Russian gasoline output covered only ~65% of demand kept the products/sanctions bull case alive.",
-      "blurb_ru": "Пожар на НПЗ Ильский и оценки, что выпуск бензина в России покрывает лишь ~65% спроса, поддерживали бычий кейс по продуктам и санкциям.",
-      "text_en": "Staunovo reported a drone attack fire at Russia's Ilsky refinery and a broader note that Ukrainian drones were reaching Siberia and imperiling energy assets. Sources said Russia's gasoline output covered about 65% of demand after strikes on major refineries. Legislation talk on holding buyers of Russian oil and gas accountable also circulated.",
-      "text_ru": "Staunovo сообщал о пожаре на НПЗ Ильский после атаки дрона и о том, что украинские дроны дотягиваются до Сибири и угрожают энергоактивам. Источники оценивали выпуск бензина в России примерно в 65% спроса после ударов по крупным НПЗ. В ленте также ходил законопроект об ответственности покупателей российской нефти и газа.",
-      "tone": "bullish",
-      "tweet_ids": ["2075449111227314555", "2075555879122837705"]
-    },
-    {
-      "title_en": "Hormuz pause: Omani corridor noise, mediators",
-      "title_ru": "Пауза в Ормузе: шум вокруг оманского коридора, медиаторы",
-      "blurb_en": "Posts mixed Omani-corridor chatter and mediator efforts to pull the US and Iran back from the brink with warnings that Hormuz flows may have peaked.",
-      "blurb_ru": "В ленте смешались разговоры об оманском коридоре и усилия медиаторов оттащить США и Иран от края с предупреждениями, что потоки через Ормуз могли уже пройти пик.",
-      "text_en": "CRUDEOIL231 dismissed much of the Omani corridor 'love tap' noise between DC and Tehran. Staunovo carried mediator reports of an uneasy pause after days of strikes, while other notes said Hormuz traffic had slowed and that oil exiting the strait may have peaked. PickeringEnergy published a longer Iran-centric risk piece calling the dynamic a wild card.",
-      "text_ru": "CRUDEOIL231 скептически отозвался о шуме вокруг оманского коридора и «лёгких тычках» между Вашингтоном и Тегераном. Staunovo передавал сообщения медиаторов о тревожной паузе после дней ударов; другие посты писали о замедлении трафика в Ормузе и возможном пике вывоза. PickeringEnergy выпустил развёрнутый иранский разбор с выводом, что динамика — wild card.",
-      "tone": "mixed",
-      "tweet_ids": ["2075642119386218934", "2075541228872241165"]
-    },
-    {
-      "title_en": "Settlements ease; managers cut Brent length",
-      "title_ru": "Котировки смягчились; управляющие сократили лонг Brent",
-      "blurb_en": "Brent settled near $76.01 and WTI near $71.41 while money managers trimmed Brent net-length — cooling the prior spike.",
-      "blurb_ru": "Brent закрылся около $76.01, WTI — около $71.41, а управляющие чуть сократили нетто-лонг по Brent — остывание после предыдущего скачка.",
-      "text_en": "Staunovo's most-viewed post showed money managers reducing Brent net-length by 547 contracts to 55,087 (week ending July 7) as shorts rose. Same-day settles printed Brent around $76.01 and WTI around $71.41. Inventory–spread correlation chatter and unchanged US oil rigs at 445 filled the technical/flow sidebar.",
-      "text_ru": "Самый просматриваемый пост Staunovo показал сокращение нетто-лонга управляющих по Brent на 547 контрактов до 55 087 (неделя к 7 июля) на фоне роста шортов. В тот же день Brent закрылся около $76.01, WTI — около $71.41. В сайдбаре — корреляции запасов и спредов плюс неизменные 445 нефтяных буровых в США.",
+      "title_en": "IEA: UAE June liquids record; stocks rebuild",
+      "title_ru": "IEA: рекорд жидкостей ОАЭ в июне; запасы растут",
+      "blurb_en": "IEA put UAE crude at a record 4.1 mb/d in June and said global stocks rose for the first month since the war — entirely on oil-on-water.",
+      "blurb_ru": "IEA оценила добычу нефти ОАЭ в июне рекордными 4.1 млн б/с и сообщила о первом с начала войны месячном росте мировых запасов — целиком за счёт нефти на воде.",
+      "text_en": "The session’s top post said IEA showed UAE crude at a record 4.1 mb/d in June, with total oil liquids near 4.8 mb/d including condensates and NGLs. A follow-on chart said global oil stocks rose in June for the first month since the war, entirely from rising oil-on-water after ~360 mb (~3.9 mb/d) of draws from March through May. That IEA pair was the clearest bearish supply/stocking counterweight of the day.",
+      "text_ru": "Топ дня: по IEA добыча нефти ОАЭ в июне — рекордные 4.1 млн б/с, а суммарные нефтяные жидкости около 4.8 млн б/с с конденсатом и ШФЛУ. Следом график показывал рост мировых запасов в июне впервые с начала войны — целиком из‑за нефти на воде после отборов ~360 млн барр. (~3.9 млн б/с) с марта по май. Эта пара IEA была самым ясным медвежьим противовесом дня по предложению/запасам.",
       "tone": "bearish",
-      "tweet_ids": ["2075642789820539115", "2075655764774141962"]
+      "tweet_ids": ["2075491939307135318", "2075499080474566704"]
     },
     {
-      "title_en": "Asia SPR plans; diesel how-to still viral",
-      "title_ru": "Планы SPR в Азии; «как делают дизель» всё ещё вирусно",
-      "blurb_en": "India's ONGC strategic reserve plans and a popular diesel-refining explainer kept structural product demand in view.",
-      "blurb_ru": "Планы ONGC по стратегическому резерву Индии и популярный разбор «как делают дизель» держали в поле зрения структурный спрос на продукты.",
-      "text_en": "Staunovo noted ONGC plans for a 1.75 million ton national strategic oil reserve. June Goh's diesel refresher ('no hopium') remained widely engaged. A Dangote refinery funding pledge from Tanzania's richest man added an African refining footnote.",
-      "text_ru": "Staunovo отметил планы ONGC по нацрезерву 1.75 млн т. Разбор дизеля от June Goh («без hopium») оставался высоко вовлечённым. Обещание $100 млн на НПЗ Dangote от богатейшего человека Танзании добавило африканскую сноску по переработке.",
-      "tone": "neutral",
-      "tweet_ids": ["2075448573991526597", "2075589265430626654"]
+      "title_en": "Qatar mediates as Trump talks and fights",
+      "title_ru": "Катар посредничает, пока Трамп и говорит, и воюет",
+      "blurb_en": "Qatari mediators sought a pause even as Trump said talks continue while reiterating the ceasefire is over.",
+      "blurb_ru": "Катарские посредники искали паузу, даже когда Трамп говорил, что переговоры продолжаются, но перемирие окончено.",
+      "text_en": "Iranian media said a Qatari delegation had arrived for talks after days of strikes and counter-strikes. Separate coverage described mediators trying to pull Washington and Tehran back from the brink. Trump was quoted agreeing to continue talks while again saying the ceasefire is over — a mixed signal that kept geopolitics live but less one-directionally bullish than midweek.",
+      "text_ru": "Иранские СМИ сообщали о прибытии катарской делегации для переговоров после дней ударов и ответов. Отдельно писали о посредниках, пытающихся увести Вашингтон и Тегеран от края. Трампа цитировали: переговоры продолжит, но перемирие снова назвал оконченным — смешанный сигнал, из‑за которого геополитика оставалась живой, но менее односторонне бычьей, чем в середине недели.",
+      "tone": "mixed",
+      "tweet_ids": ["2075579772571127963", "2075590201737425225"]
+    },
+    {
+      "title_en": "Russia fuel crunch: 65% gasoline cover, Ilsky hit",
+      "title_ru": "Топливный стресс России: бензин на 65%, удар по Ilsky",
+      "blurb_en": "Sources said Russian gasoline output covers only ~65% of demand after drone hits, with Ilsky refinery on fire and deeper Siberian reach.",
+      "blurb_ru": "Источники писали, что выпуск бензина в России покрывает лишь ~65% спроса после дронов; НПЗ Ilsky горел, а удары дотягивались глубже в Сибирь.",
+      "text_en": "Staunovo relayed sources that Russia’s gasoline output covers about 65% of demand after major refineries halted on Ukrainian drone attacks, with imports rising and fuel exports already banned. Ilsky refinery in Krasnodar caught fire after a drone strike. Broader notes said Ukrainian drones are now reaching Siberia, widening the air-defense problem for Russian energy assets.",
+      "text_ru": "Staunovo со ссылкой на источники писал, что выпуск бензина в России покрывает около 65% спроса после остановок крупных НПЗ из‑за украинских дронов; импорт растёт, а экспорт топлива уже запрещён. НПЗ Ilsky в Краснодарском крае загорелся после удара дрона. Более широкие заметки утверждали, что украинские дроны уже дотягиваются до Сибири, расширяя проблему ПВО для российской энергоинфраструктуры.",
+      "tone": "bullish",
+      "tweet_ids": ["2075555879122837705", "2075449111227314555"]
+    },
+    {
+      "title_en": "Brazil output surges ~500 kb/d to 4.5 mb/d",
+      "title_ru": "Добыча Бразилии +~500 тыс. б/с до 4.5 млн б/с",
+      "blurb_en": "Brazilian oil production jumped about 500 kb/d since COP30 hosting to an all-time high near 4.5 mb/d last month.",
+      "blurb_ru": "Добыча нефти в Бразилии выросла примерно на 500 тыс. б/с после COP30 до исторического максимума около 4.5 млн б/с в прошлом месяце.",
+      "text_en": "A high-view supply note said that since hosting COP30 in November 2025, Brazilian oil production had surged about 500,000 b/d to an all-time high of 4.5 mb/d last month. That non-OPEC surge added to the day’s overhang narrative beside the UAE/IEA prints. Managers also trimmed Brent net-length slightly in the week to July 7.",
+      "text_ru": "Заметный пост по предложению: после проведения COP30 в ноябре 2025 добыча нефти Бразилии выросла примерно на 500 тыс. б/с до исторического максимума 4.5 млн б/с в прошлом месяце. Этот рост вне OPEC+ дополнял нарратив overhang рядом с цифрами ОАЭ/IEA. Управляющие также слегка сократили нетто-лонг Brent за неделю к 7 июля.",
+      "tone": "bearish",
+      "tweet_ids": ["2075581305266614582", "2075642789820539115"]
+    },
+    {
+      "title_en": "Hormuz still noisy; hulls keep lifting",
+      "title_ru": "Ормуз всё ещё шумный; суда продолжают сниматься",
+      "blurb_en": "Omani-corridor chatter and US–Iran love-taps continued, but feeds still showed hulls actively lifting barrels.",
+      "blurb_ru": "Шум про оманский коридор и «любовные шлепки» США–Иран продолжался, но ленты всё ещё показывали активные погрузки судов.",
+      "text_en": "Traders said there was loud talk about the Omani corridor and continuous tit-for-tat between DC and Tehran, yet vessel feeds still showed hulls lifting. Separate commentary argued the Iran dynamic remains a wild card for at least another three months with WTI below $75 looking vulnerable to risk re-pricing. China was again cast as the swing consumer reshaping producer–consumer oil dynamics.",
+      "text_ru": "Трейдеры писали о громком шуме вокруг оманского коридора и непрерывном обмене уколами между Вашингтоном и Тегераном, но судовые ленты всё ещё показывали активные погрузки. Отдельный комментарий утверждал, что иранский фактор останется wild card ещё минимум три месяца, а WTI ниже $75 уязвима к переоценке риска. Китай снова называли swing-потребителем, перекраивающим динамику цен между производителями и покупателями.",
+      "tone": "mixed",
+      "tweet_ids": ["2075642119386218934", "2075574882335948996"]
     }
   ]
 }

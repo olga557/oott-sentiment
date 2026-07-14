@@ -1,67 +1,57 @@
 {
   "date": "2026-06-22",
-  "overview_en": "Monday mixed optimistic Iran progress headlines and a US oil-sales license with whipsaw Hormuz counts, a plunging SPR, and weak China import data. Price sentiment was mixed; emotional tone stayed mostly neutral amid conflicting diplomacy and inventory math.",
-  "overview_ru": "В понедельник смешались оптимистичные заголовки о прогрессе с Ираном и лицензия США на продажу нефти с резкими переключениями по Ормузу, падением SPR и слабыми данными по импорту Китая. Сентимент по цене был смешанным; эмоциональный тон оставался в основном нейтральным на фоне противоречивой дипломатии и математики запасов.",
+  "overview_en": "Monday centered on a wide US Treasury waiver of Iran oil sanctions, Switzerland talks that kept Hormuz open, a huge SPR release, and China’s still-collapsing June imports. Price sentiment was firmly bearish; emotional tone stayed mostly neutral amid diplomacy and a flood of barrels.",
+  "overview_ru": "В понедельник в центре были широкий отказ США от нефтяных санкций против Ирана, швейцарские переговоры с открытым Ормузом, крупный выброс SPR и продолжающийся обвал июньского импорта Китая. Сентимент по цене был уверенно медвежьим; эмоциональный тон оставался в основном нейтральным на фоне дипломатии и притока баррелей.",
   "themes": [
     {
-      "title_en": "US SPR falls to 331 mb, lowest since 1983",
-      "title_ru": "SPR США падает до 331 млн барр., минимум с 1983",
-      "blurb_en": "US SPR crude fell about 9.1 mb week-on-week to 331.2 mb — a multi-year low and the day’s most-viewed inventory print.",
-      "blurb_ru": "Запасы SPR США снизились примерно на 9,1 млн барр. з/н до 331,2 млн — многолетний минимум и самый просматриваемый отчёт по запасам дня.",
-      "text_en": "Posts said US SPR crude inventories fell by roughly 9.1 mb week-on-week to 331.2 mb, with sour down about 3.7 mb to 208.2 mb and sweet down about 5.3 mb to 123.0 mb. Headlines called it the lowest since 1983. Commentary warned weekly draws of 8–9 mb could hit a 300 mb red line by mid-July if summer demand lifts the pace further.",
-      "text_ru": "Посты сообщали, что запасы нефти в SPR США упали примерно на 9,1 млн барр. з/н до 331,2 млн: sour −3,7 млн до 208,2 млн, sweet −5,3 млн до 123,0 млн. Заголовки называли это минимумом с 1983 года. Комментарии предупреждали, что при отборах 8–9 млн в неделю «красная линия» в 300 млн может быть достигнута уже к середине июля, если летний спрос ускорит темп.",
-      "tone": "bullish",
-      "tweet_ids": ["2069093369880486277", "2069093916150780100"]
+      "title_en": "US waives key Iran oil sanctions to Aug 21",
+      "title_ru": "США снимают ключевые санкции на нефть Ирана до 21 авг.",
+      "blurb_en": "Treasury issued a broad general license covering Iranian crude, products, shipping and dollar payments for at least 60 days — an historic sanctions rollback.",
+      "blurb_ru": "Минфин США выдал широкую генеральную лицензию на иранскую нефть, продукты, шиппинг и оплату в долларах минимум на 60 дней — исторический откат санкций.",
+      "text_en": "Posts flagged a rather wide-ranging license through August 21, 2026, covering exports, shipping, ancillary services, crude, refined products and petrochemicals. One widely viewed note said the waiver effectively rolled back more than 40 years of US oil sanctions and even allowed US refiners to import Iranian barrels and pay in greenbacks. Follow-ups stressed that dollar payments to previously sanctioned entities were permitted for the window.",
+      "text_ru": "Посты отмечали довольно широкую лицензию до 21 августа 2026 года — экспорт, шиппинг, сопутствующие услуги, нефть, нефтепродукты и нефтехимия. В самом просматриваемом материале говорили об откате более чем 40 лет американских нефтяных санкций и даже о праве НПЗ США импортировать иранскую нефть за доллары. В продолжениях подчеркивали, что оплату в долларах ранее санкционным структурам на этот срок разрешили.",
+      "tone": "bearish",
+      "tweet_ids": ["2069065870865838151", "2069054913078874114"]
     },
     {
-      "title_en": "71 Hormuz transits vs closure headlines",
-      "title_ru": "71 транзит через Ормуз против заголовков о закрытии",
-      "blurb_en": "Kpler recorded 71 confirmed Hormuz-zone crossings over 19–21 June even as other headlines said shipping slowed on a fresh closure claim.",
-      "blurb_ru": "Kpler зафиксировал 71 подтверждённый проход через зону Ормуза за 19–21 июня, хотя другие заголовки писали о замедлении судоходства из‑за нового заявления о закрытии.",
-      "text_en": "Confirmed crossings through the monitored Strait of Hormuz zone rose sharply over 19–21 June, with 71 total transits recorded. Separate headlines still said shipping slowed after Iran claimed it had again shut the strait. US VP Vance was quoted saying about 15 mb of oil had come out of Hormuz and that a mechanism was being set up to keep it open.",
-      "text_ru": "Подтверждённые проходы через мониторируемую зону Ормуза резко выросли за 19–21 июня — всего зафиксировали 71 транзит. Отдельные заголовки всё ещё писали о замедлении судоходства после заявления Ирана о повторном закрытии пролива. Вице-президента США Вэнса цитировали со словами, что из Ормуза вышло около 15 млн барр. нефти и создаётся механизм, чтобы пролив оставался открытым.",
+      "title_en": "Hormuz talks: open strait, safe-passage line",
+      "title_ru": "Переговоры по Ормузу: пролив открыт, линия связи",
+      "blurb_en": "Mediator and US comments painted encouraging Switzerland progress, with Hormuz open and a mechanism to keep safe passage.",
+      "blurb_ru": "Медиаторы и США рисовали обнадеживающий прогресс в Швейцарии: Ормуз открыт и есть механизм безопасного прохода.",
+      "text_en": "A Pakistan-Qatar joint statement said encouraging progress had been made and parties set a communication line to avoid incidents in the strait. Separate notes quoted JD Vance saying Hormuz was open, inspectors were invited back, and about 15 mb of oil had come out. Hormuz transit counts were also reported sharply higher over 19–21 June.",
+      "text_ru": "Совместное заявление Пакистана и Катара говорило об обнадеживающем прогрессе и линии связи во избежание инцидентов в проливе. Отдельно цитировали Вэнса: Ормуз открыт, инспекторов зовут обратно, из пролива вышло около 15 млн барр. Также писали о резком росте транзитов через Ормуз 19–21 июня.",
+      "tone": "bearish",
+      "tweet_ids": ["2068927551859269765", "2069018071755325462"]
+    },
+    {
+      "title_en": "SPR dump: −9.1 mb, multi-year low",
+      "title_ru": "Выброс SPR: −9.1 млн барр., многолетний минимум",
+      "blurb_en": "US SPR crude fell about 9.1 mb last week to roughly 331 mb — among the largest weekly releases ever and a multi-decade inventory low.",
+      "blurb_ru": "Запасы SPR США упали примерно на 9.1 млн барр. за неделю до около 331 млн — один из крупнейших недельных выбросов и многодесятилетний минимум.",
+      "text_en": "Commentary put the weekly SPR put at about 9.1 mb, equal to roughly 1.3 mb/d, and noted an eight-week average release above 1 mb/d. Other posts framed stocks at 331.2 mb as the lowest since 1983 while still underscoring heavy strategic oil still hitting the market.",
+      "text_ru": "Комментарии ставили недельный выброс SPR около 9.1 млн барр., или примерно 1.3 млн б/с, и средний выброс за 8 недель выше 1 млн б/с. Другие посты отмечали 331.2 млн барр. как минимум с 1983 года, одновременно подчеркивая, что стратегическая нефть всё ещё активно выходит на рынок.",
       "tone": "mixed",
-      "tweet_ids": ["2068975624366989767", "2068898829563281577"]
+      "tweet_ids": ["2069114299474207035", "2069093369880486277"]
     },
     {
-      "title_en": "Progress claims and US Iran oil license",
-      "title_ru": "Заявления о прогрессе и лицензия США на нефть Ирана",
-      "blurb_en": "Iran claimed major progress on ending the Lebanon war while the US issued an Iran-related general license for oil sales.",
-      "blurb_ru": "Иран заявил о крупном прогрессе по завершению войны в Ливане, а США выдали общий Iran-related license на продажу нефти.",
-      "text_en": "Iran’s foreign minister said talks delivered major progress toward ending the Lebanon war and that US-Iran technical talks would continue through the week. Treasury-linked headlines said the US issued an Iran-related general license. A foreign-ministry spokesperson separately stressed Tehran did not negotiate the nuclear issue or accept new commitments in Sunday’s Switzerland talks.",
-      "text_ru": "Глава МИД Ирана заявил, что переговоры дали крупный прогресс к завершению войны в Ливане, а технический диалог США–Иран продолжится всю неделю. Заголовки со ссылкой на Treasury сообщали, что США выдали общий Iran-related license. Пресс-секретарь МИД отдельно подчеркнул, что в воскресных переговорах в Швейцарии Тегеран не обсуждал ядерный вопрос и не принимал новых обязательств.",
+      "title_en": "China June imports still collapsing",
+      "title_ru": "Июньский импорт Китая всё ещё обваливается",
+      "blurb_en": "Vortexa-linked reads put China crude and condensate imports around 5.3 mb/d in June 1–20 — below May’s 10-year low and more than half off pre-war levels.",
+      "blurb_ru": "Оценки по Vortexa ставили импорт нефти и конденсата Китая около 5.3 млн б/с за 1–20 июня — ниже майского 10-летнего минимума и более чем вдвое ниже довоенных уровней.",
+      "text_en": "The day’s China thread argued the buying strike kept deepening even as Iranian barrels became easier to move. Separate customs charts on origin mixes circulated, but the headline import pace remained the main demand-side bearish fact.",
+      "text_ru": "Китайская ветка дня утверждала, что «забастовка покупателей» углублялась даже на фоне более лёгкого движения иранских баррелей. Отдельно ходили таможенные графики по происхождению, но главный медвежий факт по спросу — сам темп импорта.",
       "tone": "bearish",
-      "tweet_ids": ["2068949177447444625", "2069047170628497619"]
+      "tweet_ids": ["2068962257317298683", "2068971961103855704"]
     },
     {
-      "title_en": "Saudi April exports and stocks plunge",
-      "title_ru": "Падение апрельского экспорта и запасов Саудовской Аравии",
-      "blurb_en": "JODI data showed Saudi crude exports at 3.986 mb/d in April versus 4.974 mb/d in March, with inventories also sharply lower.",
-      "blurb_ru": "Данные JODI показали экспорт саудовской нефти 3,986 млн б/с в апреле против 4,974 млн в марте; запасы тоже резко снизились.",
-      "text_en": "JODI-linked posts put Saudi crude exports at 3.986 mb/d in April versus 4.974 mb/d in March. Crude inventories were reported at 139.967 mb in April versus 152.645 mb in March. Separate commentary said April Saudi crude production fell to levels not seen since around 1989–1990, framing a war-disrupted supply print.",
-      "text_ru": "Посты со ссылкой на JODI ставили экспорт саудовской нефти на 3,986 млн б/с в апреле против 4,974 млн в марте. Запасы нефти оценивались в 139,967 млн барр. в апреле против 152,645 млн в марте. Отдельные комментарии писали, что апрельская добыча Саудовской Аравии упала до уровней примерно 1989–1990 годов, описывая военный сбой предложения.",
-      "tone": "bullish",
-      "tweet_ids": ["2069038951680131347", "2069042886855848159"]
-    },
-    {
-      "title_en": "China May imports crash to 7.82 mb/d",
-      "title_ru": "Импорт Китая в мае обвалился до 7,82 млн б/с",
-      "blurb_en": "China’s May crude imports fell to 7.82 mb/d, down 1.58 mb/d month-on-month and 3.20 mb/d from March.",
-      "blurb_ru": "Импорт нефти Китаем в мае упал до 7,82 млн б/с — минус 1,58 млн б/с м/м и 3,20 млн б/с к марту.",
-      "text_en": "Business-linked posts said China oil imports crashed in May to 7.82 mb/d from 9.40 mb/d in April and 11.02 mb/d in March. Customs charts of crude imports by origin circulated widely. The weak May print was the main demand-side counterweight to the bullish SPR and Saudi supply headlines.",
-      "text_ru": "Посты со ссылкой на деловые СМИ сообщали, что импорт нефти Китаем в мае обвалился до 7,82 млн б/с с 9,40 млн в апреле и 11,02 млн в марте. Широко разошлись таможенные графики импорта по происхождению. Слабый майский отчёт стал главным спросовым противовесом бычьим заголовкам по SPR и саудовскому предложению.",
+      "title_en": "Gulf barrels out: Hormuz plus bypass, SPR, Iran",
+      "title_ru": "Баррели из Залива: Ормуз плюс обходы, SPR, Иран",
+      "blurb_en": "A supply checklist stacked heavy Hormuz exits, full bypass pipelines, ongoing SPR releases, newly legal Iranian oil, and China’s buying strike.",
+      "blurb_ru": "Чек-лист предложения: сильный выход через Ормуз, полная загрузка обходных труб, текущие выбросы SPR, вновь легальная иранская нефть и забастовка Китая по закупкам.",
+      "text_en": "One widely shared frame listed dark and visible Hormuz cargoes, bypass pipelines still flat-out, US/Japan/Europe SPR barrels still flowing, Iranian oil legal for at least 60 days, and China still on a buying strike. Confirmed Hormuz zone crossings were also said to have risen sharply over 19–21 June.",
+      "text_ru": "Широко расходившийся фрейм перечислял «тёмные» и видимые грузы через Ормуз, обходные трубы на полную, текущие баррели SPR США/Японии/Европы, иранскую нефть легальной минимум на 60 дней и Китай всё ещё на забастовке закупок. Также писали о резком росте подтверждённых транзитов через зону Ормуза 19–21 июня.",
       "tone": "bearish",
-      "tweet_ids": ["2069018490133270977", "2068971961103855704"]
-    },
-    {
-      "title_en": "Thin SPR lease uptake, breaking-point talk",
-      "title_ru": "Слабый спрос на аренду SPR и разговоры о tipping point",
-      "blurb_en": "Only 500 kb of a 40 mb SPR exchange had been awarded, feeding talk that few want to return barrels later at much higher prices.",
-      "blurb_ru": "Из обмена SPR на 40 млн барр. было распределено лишь 500 тыс., усиливая разговоры, что мало кто хочет возвращать баррели позже по куда более высоким ценам.",
-      "text_en": "DOE award information showed that as of June 22 only a 500,000-barrel exchange contract to Vitol had been awarded under a program covering up to 40 million barrels. Commentary argued oil executives do not want to take leased barrels near $75 if they may have to return them later at $100–$200. Bulls tied the thin uptake to an approaching inventory breaking point as SPR neared the 300 mb zone.",
-      "text_ru": "Данные DOE по присуждению контрактов показывали, что на 22 июня по программе обмена до 40 млн барр. был выдан лишь контракт Vitol на 500 тыс. барр. Комментарии утверждали, что нефтяные компании не хотят брать арендованные баррели около $75, если потом их придётся возвращать по $100–200. Быки связывали слабый спрос с приближением tipping point по запасам, пока SPR движется к зоне 300 млн.",
-      "tone": "bullish",
-      "tweet_ids": ["2069123682077692140", "2069205270534738097"]
+      "tweet_ids": ["2069087057020903874", "2068975624366989767"]
     }
   ]
 }

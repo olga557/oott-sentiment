@@ -1,57 +1,57 @@
 {
   "date": "2026-07-12",
-  "overview_en": "Sunday focused on the IRGC closing the Strait of Hormuz, attacks on vessels and a Kuwaiti offshore platform, and a sharp overnight jump in crude. Price sentiment was strongly bullish; emotional tone was mostly negative amid escalation and war headlines.",
-  "overview_ru": "В воскресенье лента крутилась вокруг закрытия Ормузского пролива КСИР, атак на суда и кувейтскую морскую платформу и резкого ночного скачка цен на нефть. Сентимент по влиянию на цену был уверенно бычьим; эмоциональный тон — в основном негативным на фоне эскалации и военных заголовков.",
+  "overview_en": "Sunday focused on an effectively closed Hormuz, renewed US strikes, a Kuwait offshore platform hit, and a sharp overnight crude jump toward $79 Brent. Price sentiment was strongly bullish; emotional tone was mostly negative amid escalation and dead-MoU talk.",
+  "overview_ru": "В воскресенье лента крутилась вокруг фактически закрытого Ормуза, новых ударов США, атаки на морскую платформу Кувейта и резкого ночного скачка нефти к Brent около $79. Сентимент по цене был уверенно бычьим; эмоциональный тон — в основном негативным на фоне эскалации и разговоров о мёртвом MoU.",
   "themes": [
     {
-      "title_en": "Hormuz closed — mines, vessel hits, near-zero traffic",
-      "title_ru": "Ормуз закрыт — мины, удары по судам, трафик почти ноль",
-      "blurb_en": "IRGC declared Hormuz closed indefinitely after striking vessels, with MarineTraffic showing almost no AIS transit and a severe maritime threat level.",
-      "blurb_ru": "КСИР объявил Ормуз закрытым на неопределённый срок после ударов по судам; MarineTraffic почти не видел AIS-транзита, угроза мореплаванию — SEVERE.",
-      "text_en": "Iranian forces announced an indefinite Hormuz closure after warning shots and strikes on 'offending' vessels, including a fire that forced a crew to abandon ship on the southern US-backed lane. Reports of mining in the Omani southern corridor circulated alongside JMIC notes that the corridor was notionally open while CENTCOM and Iranian authorities contradicted each other on whether traffic was flowing. Market takeaway: physical chokepoint risk dominated the day.",
-      "text_ru": "Иранские силы объявили бессрочное закрытие Ормуза после предупредительных выстрелов и ударов по «нарушившим» судам, включая пожар, из‑за которого экипаж покинул судно на южном (проамериканском) маршруте. Сообщения о минировании южного коридора у Омана шли параллельно с нотами JMIC о формальной открытости коридора, тогда как CENTCOM и иранские власти спорили, идёт ли трафик. Для рынка доминировал риск физического «бутылочного горлышка».",
+      "title_en": "Hormuz effectively closed; near-zero AIS transit",
+      "title_ru": "Ормуз фактически закрыт; AIS-транзит почти ноль",
+      "blurb_en": "Feeds showed almost no AIS transit through Hormuz after vessel hits, with the strait described as effectively closed under renewed fighting.",
+      "blurb_ru": "Ленты показывали почти нулевой AIS-транзит через Ормуз после ударов по судам; пролив описывали как фактически закрытый на фоне новой фазы боёв.",
+      "text_en": "MarineTraffic notes said virtually no transit was visible, with only one or two vessels crossing AIS-off and two vessels hit in the prior 24 hours. Parallel headlines said the US had begun launching more strikes on Iran at 5pm ET and called the strait effectively closed. First post-MoU significant attack language treated the recent deal’s honeymoon as already over.",
+      "text_ru": "Заметки MarineTraffic фиксировали почти отсутствие транзита: лишь 1–2 судна шли с выключенным AIS, а за предыдущие 24 часа были поражены два судна. Параллельные заголовки сообщали о новых ударах США по Ирану с 17:00 ET и называли пролив фактически закрытым. Формулировки о первой значимой атаке после MoU трактовали «медовый месяц» недавней сделки как уже законченный.",
       "tone": "bullish",
       "tweet_ids": ["2076299146760478909", "2076440694181229020"]
     },
     {
       "title_en": "Crude jumps: Brent toward $79, spreads blow out",
       "title_ru": "Нефть скачет: Brent к $79, спреды разлетаются",
-      "blurb_en": "Brent traded near $78–79 (about +3% on Gulf skirmishing) while weekly futures spreads widened sharply after the prior week's rally to $76.01.",
-      "blurb_ru": "Brent торговался около $78–79 (примерно +3% на фоне стычек в Заливе), а недельные фьючерсные спреды резко расширились после ралли предыдущей недели до $76.01.",
-      "text_en": "Overnight prints showed Brent up roughly $2.5 toward the high $78s and WTI up over $2 into the mid-$70s, with one widely viewed post calling Brent ~$79 'still low by wartime standards'. Art Berman had already flagged a 5% front-month Brent rise to $76.01 for the week ending July 10 and extreme widening in 6- and 12-month spreads. Shorts were described as scrambling into the open while some traders floated a short-term gap-fill risk.",
-      "text_ru": "Ночные котировки показывали Brent примерно +$2.5 к верхней зоне $78 и WTI более чем +$2 к середине $70, а один из самых читаемых постов назвал Brent около $79 «всё ещё низким по военным меркам». Art Berman ранее отмечал 5% рост фронт-месяца Brent до $76.01 за неделю к 10 июля и экстремальное расширение 6- и 12-месячных спредов. Шорты описывали как спешно защищающиеся к открытию, часть трейдеров допускала краткосрочный риск заполнения гэпа.",
+      "blurb_en": "Brent traded near $78–79 (+~3% on Gulf skirmishing) while weekly futures spreads had already widened sharply into the prior close.",
+      "blurb_ru": "Brent торговался около $78–79 (+~3% на стычках в Заливе), а недельные фьючерсные спреды уже резко расширились к предыдущему закрытию.",
+      "text_en": "A widely viewed note put Brent about 3% higher near $79, still “low by wartime standards.” Overnight prints showed Brent up roughly $2.5 toward the high $78s and WTI up over $2 into the mid-$70s. Art Berman’s week-to-July-10 read had front-month Brent already up about 5% to $76.01 with extreme 6- and 12-month spread widening; shorts were described as scrambling into the open.",
+      "text_ru": "Широко читаемый пост ставил Brent примерно на 3% выше — около $79, «всё ещё низко по военным меркам». Ночные котировки показывали Brent примерно +$2.5 к верхней зоне $78 и WTI более чем +$2 к середине $70. Недельный срез к 10 июля уже фиксировал рост фронт-месяца Brent примерно на 5% до $76.01 и экстремальное расширение 6- и 12-месячных спредов; шорты описывали как спешно защищающиеся к открытию.",
       "tone": "bullish",
       "tweet_ids": ["2076433412223590535", "2076250481857274268"]
     },
     {
-      "title_en": "Kuwait oil platform hit; Gulf escalation widens",
-      "title_ru": "Удар по платформе Кувейта; эскалация в Заливе шире",
-      "blurb_en": "A drone strike damaged a Kuwait Oil Company offshore platform and injured a worker as Iran warned Arab hosts of US forces and claimed further Gulf hits.",
-      "blurb_ru": "Дрон повредил морскую платформу Kuwait Oil Company и ранил работника; Иран предупредил арабских хозяев баз США и заявлял о новых ударах в Заливе.",
-      "text_en": "Kuwait's military said three northern border posts and an offshore drilling platform were attacked, with material damage and one injured worker. Iranian messaging threatened 'severe consequences' for Arab states hosting US operations and claimed strikes on US-linked assets including Al-Udeid and other Gulf targets. The narrative shifted from a strait-only story to broader Gulf energy infrastructure risk.",
-      "text_ru": "Армия Кувейта сообщила об атаке на три северных погранпоста и морскую буровую платформу — материальный ущерб и один раненый. Иранские заявления грозили «серьёзными последствиями» арабским странам, принимающим операции США, и утверждали удары по связанным с США объектам, включая Аль-Удейд и другие цели в Заливе. Сюжет ушёл от «только пролива» к риску для энергоинфраструктуры Залива в целом.",
+      "title_en": "Kuwait oil platform hit; Gulf risk widens",
+      "title_ru": "Удар по платформе Кувейта; риск в Заливе шире",
+      "blurb_en": "A drone strike damaged a Kuwait Oil Company offshore platform and injured a worker as escalation spilled beyond the strait alone.",
+      "blurb_ru": "Дрон повредил морскую платформу Kuwait Oil Company и ранил работника — эскалация вышла за рамки одного только пролива.",
+      "text_en": "Kuwait’s military said a drone attack on an offshore oil platform injured one worker and caused material damage. Community posts treated the hit as proof the war story had widened from a Hormuz-chokepoint tape to broader Gulf energy-infrastructure risk. That shifted weekend positioning toward higher supply-interruption odds into Monday.",
+      "text_ru": "Армия Кувейта сообщила, что удар дрона по морской нефтяной платформе ранил одного работника и нанёс материальный ущерб. В сообществе удар читали как доказательство, что сюжет войны расширился от «только узкого места Ормуза» к риску для энергоинфраструктуры Залива в целом. Это сдвигало уикенд-позиционирование к более высоким шансам перебоев поставок к понедельнику.",
       "tone": "bullish",
       "tweet_ids": ["2076353761904390648", "2076347597279707210"]
     },
     {
-      "title_en": "War footing: US strikes resume, MoU written off",
-      "title_ru": "Военный режим: удары США снова, MoU списан",
-      "blurb_en": "Fresh US strike waves and IRGC vows to keep fighting buried the recent MoU narrative; markets largely ignored Trump's claim that Hormuz was open.",
-      "blurb_ru": "Новые волны ударов США и заявления КСИР продолжать войну похоронили недавний MoU; рынок в основном игнорировал слова Трампа, что Ормуз открыт.",
-      "text_en": "Posts tracked renewed US strikes after Hormuz incidents and IRGC rhetoric that hostilities would continue Monday even if oil hit $200. Community notes called the MoU's honeymoon over after vessel attacks. When Trump said the strait remained open, traders openly dismissed the line as not moving overnight crude.",
-      "text_ru": "В ленте фиксировали новые удары США после инцидентов в Ормузе и риторику КСИР, что боевые действия продолжатся в понедельник даже при нефти по $200. Сообщество писало, что «медовый месяц» MoU закончился после атак на суда. Когда Трамп заявил, что пролив открыт, трейдеры прямо говорили, что фраза ночные котировки не двигает.",
+      "title_en": "War footing returns; MoU written off",
+      "title_ru": "Снова военный режим; MoU списан",
+      "blurb_en": "Fresh US strike waves and vessel attacks buried the recent MoU narrative; markets mostly shrugged at claims the strait was still open.",
+      "blurb_ru": "Новые волны ударов США и атаки на суда похоронили недавний MoU; рынок в основном игнорировал заявления, что пролив ещё открыт.",
+      "text_en": "Posts tracked renewed US strikes after Hormuz incidents and argued the MoU, signed after lengthy negotiations, had not survived even a short honeymoon. First significant post-MoU ship attacks on the southern US-backed lane, with a crew abandoning ship, were framed as the message that would stick. Traders openly treated “strait is open” political lines as not moving overnight crude.",
+      "text_ru": "В ленте фиксировали новые удары США после инцидентов в Ормузе и писали, что MoU, подписанный после долгих переговоров, не пережил даже короткий «медовый месяц». Первые значимые атаки на суда в южном (проамериканском) фарватере после MoU, с экипажем, покинувшим судно, подавали как запоминающееся послание. Трейдеры прямо говорили, что политические формулы «пролив открыт» ночные котировки не двигают.",
       "tone": "bullish",
-      "tweet_ids": ["2076440694181229020", "2076429696292532298"]
+      "tweet_ids": ["2076440694181229020", "2076299291451437280"]
     },
     {
-      "title_en": "Products tight; OPEC+ May add barrels",
-      "title_ru": "Продукты в дефиците; OPEC+ может добавить баррели",
-      "blurb_en": "Record gasoil cracks and Russia's diesel export halt supported the bull case, while sources floated an OPEC+ August hike of ~188 kb/d as a modest counterweight.",
-      "blurb_ru": "Рекордные креки газойля и запрет России на экспорт дизеля усиливали бычий кейс, а источники говорили о возможном повышении квот OPEC+ в августе примерно на 188 тыс. б/с — скромный противовес.",
-      "text_en": "Traders highlighted extreme European gasoil cracks near $60/bbl and a year-on-year drop in global crude runs, compounded by Russia's July 9 diesel export stop. Separately, three sources said OPEC+ was likely to raise August quotas by about 188,000 b/d — one of the few clearly bearish supply headlines in an otherwise risk-premium day.",
-      "text_ru": "Трейдеры отмечали экстремальные европейские креки газойля около $60/барр. и снижение мировой переработки год к году на фоне полной остановки экспорта российского дизеля с 9 июля. Отдельно три источника сообщили, что OPEC+ с высокой вероятностью поднимет августовские квоты примерно на 188 тыс. б/с — один из немногих явно медвежьих заголовков по предложению в день премии за риск.",
+      "title_en": "Products still tight; OPEC+ may add ~188 kb/d",
+      "title_ru": "Продукты всё ещё жёсткие; OPEC+ может добавить ~188 тыс. б/с",
+      "blurb_en": "Extreme gasoil cracks near $60/bbl supported the bull case, while sources floated an OPEC+ August hike of about 188 kb/d as a modest counterweight.",
+      "blurb_ru": "Экстремальные креки газойля около $60/барр. поддерживали бычий кейс, а источники говорили о возможном повышении квот OPEC+ в августе примерно на 188 тыс. б/с — скромный противовес.",
+      "text_en": "Traders highlighted European gasoil cracks around $60/bbl as product pricing remained seriously tight. Separately, three sources said OPEC+ was likely to raise August output quotas by about 188,000 b/d at Sunday’s meeting — one of the few clearly bearish supply headlines in an otherwise risk-premium session. The net weekend read still favored interruption risk over quota math.",
+      "text_ru": "Трейдеры отмечали европейские креки газойля около $60/барр. при всё ещё серьёзной жёсткости продуктового прайсинга. Отдельно три источника сообщили, что OPEC+ с высокой вероятностью поднимет августовские квоты примерно на 188 тыс. б/с на воскресной встрече — один из немногих явно медвежьих заголовков по предложению в сессии премии за риск. Итоговый уикенд-ридон всё же склонялся к риску перебоев, а не к математике квот.",
       "tone": "mixed",
-      "tweet_ids": ["2076271497199624649", "2076355408512323724"]
+      "tweet_ids": ["2076278017333117050", "2076355408512323724"]
     }
   ]
 }

@@ -1,67 +1,84 @@
 {
   "date": "2026-06-18",
-  "overview_en": "Thursday tracked early Hormuz transits, Gulf producers racing to restore output, Iran sanctions-relief headlines, and renewed Israel-Lebanon deal risks. Price sentiment was mixed; emotional tone stayed mostly neutral amid reopening optimism and lingering geopolitical doubt.",
-  "overview_ru": "В четверг отслеживали первые транзиты через Ормуз, гонку производителей Залива за восстановлением добычи, заголовки о послаблении санкций против Ирана и новые риски для сделки из‑за Израиль–Ливан. Сентимент по цене был смешанным; эмоциональный тон оставался в основном нейтральным на фоне оптимизма по открытию и сохраняющихся геополитических сомнений.",
+  "overview_en": "Thursday tracked early Hormuz loadings and transits, Kuwait’s race back toward 2 mb/d, easing US gasoline below $4, and oil trading lower year-on-year. Price sentiment leaned bearish; emotional tone stayed mostly neutral aside from deal-risk and Lebanon spoilers.",
+  "overview_ru": "В четверг следили за ранними погрузками и транзитами через Ормуз, гонкой Кувейта обратно к 2 млн б/с, снижением розничного бензина США ниже $4 и нефтью дешевле, чем год назад. Сентимент по цене склонялся к медвежьему; эмоциональный тон оставался в основном нейтральным, если не считать рисков сделки и ливанских «спойлеров».",
   "themes": [
     {
-      "title_en": "Hormuz transits picking up",
-      "title_ru": "Транзиты через Ормуз оживают",
-      "blurb_en": "Kpler data showed verified Hormuz crossings continuing and three Saudi VLCCs with about 6 mb of crude reappearing on AIS.",
-      "blurb_ru": "Данные Kpler показали продолжающиеся подтверждённые проходы через Ормуз и три саудовских VLCC с около 6 млн барр. нефти, снова появившихся на AIS.",
-      "text_en": "Amena Bakr flagged three Saudi VLCCs carrying around 6 million barrels transiting the strait after more than two months off AIS. Kpler tracking posts recorded six verified Hormuz crossings on June 17, while SAR radar commentary noted vessel prints east of the strait — still far from full normalization.",
-      "text_ru": "Amena Bakr отметила три саудовских VLCC с около 6 млн барр. нефти, прошедших через пролив после более двух месяцев вне AIS. Посты Kpler зафиксировали шесть подтверждённых проходов через Ормуз 17 июня, а комментарии по SAR-радару отмечали слепки судов к востоку от пролива — всё ещё далеко от полной нормализации.",
+      "title_en": "Kuwait aims for 2 mb/d within a week",
+      "title_ru": "Кувейт целится в 2 млн б/с за неделю",
+      "blurb_en": "KPC’s CEO said Kuwait had started ramping toward 2 mb/d within a week from about 0.5 mb/d in the war — faster than prior guidance.",
+      "blurb_ru": "CEO KPC заявил, что Кувейт начал разгон к 2 млн б/с за неделю с примерно 0,5 млн б/с во время войны — быстрее прежних ориентиров.",
+      "text_en": "Javier Blas highlighted Sheikh Nawaf Al-Sabah telling Bloomberg Kuwait plans 2 mb/d within a week, with recovery faster than previously thought; force majeure notices were later reported lifted. Follow-on posts argued Saudi Arabia and the UAE could restart even more easily, though tanker logistics remain the bottleneck.",
+      "text_ru": "Javier Blas выделил слова шейха Навафа ас-Сабаха Bloomberg: Кувейт целится в 2 млн б/с за неделю, восстановление быстрее прежних оценок; позже сообщали о снятии force majeure. Последующие посты утверждали, что Саудовской Аравии и ОАЭ перезапуск ещё проще, хотя узким местом остаётся танкерная логистика.",
       "tone": "bearish",
-      "tweet_ids": ["2067527218780361017", "2067678551676256386"]
+      "tweet_ids": [
+        "2067601212250157392",
+        "2067602558898540967"
+      ]
+    },
+    {
+      "title_en": "Hormuz: crossings and Saudi VLCCs",
+      "title_ru": "Ормуз: транзиты и саудовские VLCC",
+      "blurb_en": "Confirmed strait crossings continued and three Saudi-owned VLCCs with about 6 mb reappeared on AIS after months dark.",
+      "blurb_ru": "Подтверждённые транзиты через пролив продолжались, а три саудовских VLCC с примерно 6 млн барр. снова появились на AIS после месяцев «тишины».",
+      "text_en": "Amena Bakr/Kpler counted six verified Hormuz crossings on June 17. Javier Blas and Amena both flagged three Saudi-owned VLCCs with about 6 mb outside the strait — noted as mostly late-Feb/early-Mar loaded barrels moving, not yet proof of full Saudi production restart — while ballast VLCCs headed toward the Gulf of Oman.",
+      "text_ru": "Amena Bakr/Kpler насчитали шесть подтверждённых транзитов Ормуза 17 июня. Javier Blas и Amena отмечали три саудовских VLCC с примерно 6 млн барр. вне пролива — скорее баррели погрузки конца февраля/начала марта, а не доказательство полного перезапуска добычи — а балластные VLCC шли к Оманскому заливу.",
+      "tone": "bearish",
+      "tweet_ids": [
+        "2067527218780361017",
+        "2067678551676256386"
+      ]
+    },
+    {
+      "title_en": "Oil down year-on-year; US gasoline under $4",
+      "title_ru": "Нефть ниже год к году; бензин США под $4",
+      "blurb_en": "WTI around $74.5 was lower than a year earlier, while US average retail gasoline slipped to $3.999 for the first time since late March.",
+      "blurb_ru": "WTI около $74,5 был ниже, чем год назад, а средний розничный бензин в США впервые с конца марта опустился до $3,999.",
+      "text_en": "Javier Blas noted WTI near $74.5 was below its June 18, 2025 level, even if still above February 2026 pre-war prices. His chart of the day also showed US average retail gasoline dipping below $4/gal to $3.999 — politically important even if still expensive versus pre-war.",
+      "text_ru": "Javier Blas отметил WTI около $74,5 ниже уровня 18 июня 2025, хотя всё ещё выше довоенных февральских 2026. Chart of the day также показал средний розничный бензин США ниже $4/галл. до $3,999 — политически важно, даже если дорого против довоенного уровня.",
+      "tone": "bearish",
+      "tweet_ids": [
+        "2067490403087974796",
+        "2067595212864606356"
+      ]
+    },
+    {
+      "title_en": "Blockade lift and Iran oil-money optics",
+      "title_ru": "Снятие блокады и оптика нефтяных денег Ирана",
+      "blurb_en": "The US Navy formally lifted Iran’s ports blockade while critics likened MoU oil money to a Treaty of Versailles echo.",
+      "blurb_ru": "ВМС США формально сняли блокову иранских портов, а критики сравнивали нефтяные деньги по MoU с эхом Версальского договора.",
+      "text_en": "Javier Blas reported the US Navy’s formal announcement lifting Iran’s ports blockade. Earlier he mocked the Versailles signing optics of an MoU that effectively gives Iran billions in oil money; separate FT-linked headlines said Iran would access $6 bn of frozen funds to buy US goods, and Vance said sanctions could be lifted temporarily without Congress.",
+      "text_ru": "Javier Blas сообщил о формальном объявлении ВМС США о снятии блокады иранских портов. Ранее он язвил над версальской оптикой подписания MoU, фактически дающего Ирану миллиарды нефтяных денег; отдельно по линии FT писали о доступе Ирана к $6 млрд замороженных средств на покупку американских товаров, а Вэнс говорил о временном снятии санкций без Конгресса.",
+      "tone": "bearish",
+      "tweet_ids": [
+        "2067659532499640816",
+        "2067483527789105317"
+      ]
     },
     {
       "title_en": "Israel rejects Lebanon withdrawal",
       "title_ru": "Израиль отвергает вывод из Ливана",
-      "blurb_en": "A senior Israeli official said the IDF would not withdraw from southern Lebanon despite the US-Iran MOU — a top deal-spoiler headline.",
-      "blurb_ru": "Старший израильский чиновник заявил, что ЦАХАЛ не выведет войска из южного Ливана несмотря на MoU США–Иран — главный заголовок о срыве сделки.",
-      "text_en": "Posts circulated a senior Israeli official saying that despite the MOU, the IDF would not withdraw from southern Lebanon. Commentary framed the statement as the kind of headline that could spoil the broader peace framework even as tanker traffic ticked higher.",
-      "text_ru": "Посты распространяли заявление старшего израильского чиновника о том, что несмотря на MoU, ЦАХАЛ не выведет войска из южного Ливана. Комментарии описывали это как заголовок, способный сорвать более широкий мирный каркас даже при росте танкерного трафика.",
+      "blurb_en": "A senior Israeli line that the IDF will not leave southern Lebanon despite the MoU was cast as a deal spoiler.",
+      "blurb_ru": "Заявление, что ЦАХАЛ не уйдёт из южного Ливана несмотря на MoU, подавали как фактор, способный сорвать сделку.",
+      "text_en": "Amena Bakr asked what would spoil the deal and pointed to a senior Israeli official saying the IDF will not withdraw from southern Lebanon despite the MoU. That kept geopolitical risk premia alive even as Hormuz shipping headlines turned more orderly.",
+      "text_ru": "Amena Bakr спрашивала, что может сорвать сделку, и указывала на старшего израильского чиновника: ЦАХАЛ не уйдёт из южного Ливана несмотря на MoU. Это оставляло геополитическую премию живой даже на фоне более спокойных заголовков по судоходству в Ормузе.",
       "tone": "bullish",
-      "tweet_ids": ["2067527848253116459"]
+      "tweet_ids": [
+        "2067527848253116459"
+      ]
     },
     {
-      "title_en": "Iran sanctions relief path",
-      "title_ru": "Путь к послаблению санкций Ирана",
-      "blurb_en": "US officials signaled temporary Iran sanctions could be lifted without Congress and Tehran may access $6 bn in frozen funds for US goods.",
-      "blurb_ru": "Чиновники США заявили, что временные санкции против Ирана можно снять без Конгресса, а Тегеран может получить доступ к $6 млрд замороженных средств на закупку американских товаров.",
-      "text_en": "Vance was quoted saying the administration felt confident it could temporarily lift Iran sanctions without congressional approval. FT headlines added Iran would get access to $6 billion of frozen funds to buy US goods, reinforcing the bearish supply-return narrative.",
-      "text_ru": "Вэнс цитировался со словами, что администрация уверена в возможности временно снять санкции против Ирана без одобрения Конгресса. Заголовки FT добавили, что Иран получит доступ к $6 млрд замороженных средств на покупку американских товаров, усиливая медвежий нарратив о возврате предложения.",
-      "tone": "bearish",
-      "tweet_ids": ["2067637281733664968", "2067673360935333966"]
-    },
-    {
-      "title_en": "Kuwait targets 2 mb/d in a week",
-      "title_ru": "Кувейт целится в 2 млн б/с за неделю",
-      "blurb_en": "KPC said it could reach 2 mb/d within a week and lifted all war-era force majeure notices — far faster than prior guidance.",
-      "blurb_ru": "KPC заявил, что может выйти на 2 млн б/с за неделю и снял все форс-мажорные уведомления военного периода — намного быстрее прежних ориентиров.",
-      "text_en": "Bloomberg and business posts said Kuwait started ramping production toward 2 mb/d within a week, versus a two-month timeline cited just weeks earlier. Staunovo later reported KPC lifted all force majeure notices issued during the war with immediate effect.",
-      "text_ru": "Bloomberg и деловые посты сообщали, что Кувейт начал наращивать добычу к 2 млн б/с за неделю против двухмесячного срока, озвученного ещё несколько недель назад. Позже Staunovo сообщил, что KPC снял все форс-мажорные уведомления военного периода немедленно.",
-      "tone": "bearish",
-      "tweet_ids": ["2067631465089638597", "2067651888774861047"]
-    },
-    {
-      "title_en": "OPEC WOO: robust demand",
-      "title_ru": "OPEC WOO: устойчивый спрос",
-      "blurb_en": "OPEC's World Oil Outlook launch maintained strong near-term demand growth and nudged up longer-term views.",
-      "blurb_ru": "Презентация World Oil Outlook OPEC сохранила сильный рост спроса в ближайшие годы и немного повысила долгосрочные оценки.",
-      "text_en": "Staunovo summarized OPEC's 2026 WOO launch, saying the group kept robust global oil demand growth over the next four years and revised its 2050 demand forecast higher. Separate posts cited a $580 billion annual investment need and no sign of a demand peak.",
-      "text_ru": "Staunovo резюмировал запуск WOO 2026 OPEC: группа сохранила устойчивый рост мирового спроса на нефть в ближайшие четыре года и повысила прогноз спроса к 2050 году. Отдельные посты указывали на потребность в $580 млрд инвестиций в год и отсутствие признаков пика спроса.",
-      "tone": "bullish",
-      "tweet_ids": ["2067611824413876272", "2067688380670828691"]
-    },
-    {
-      "title_en": "Products ease: Singapore stocks up",
-      "title_ru": "Смягчение продуктов: рост запасов Сингапура",
-      "blurb_en": "Singapore oil product inventories rose 0.85 mb w/w as US gasoline slipped back below $4/gal on easing Iran strain.",
-      "blurb_ru": "Запасы нефтепродуктов в Сингапуре выросли на 0,85 млн барр. за неделю, а бензин в США снова опустился ниже $4/гал на фоне ослабления напряжения с Ираном.",
-      "text_en": "Staunovo posted Singapore oil product stocks up 850,000 bbl w/w to 35.258 mb. Headlines tied lower US gasoline prices below $4 a gallon to easing Iran war strain, while a large Sep Brent $70 put traded for 100 million barrels as a bearish positioning reminder.",
-      "text_ru": "Staunovo сообщил о росте запасов нефтепродуктов в Сингапуре на 850 тыс. барр. за неделю до 35,258 млн. Заголовки связывали снижение бензина в США ниже $4/гал с ослаблением напряжения из‑за Ирана, а крупный пут на сентябрьский Brent $70 на 100 млн барр. напоминал о медвежьем позиционировании.",
-      "tone": "bearish",
-      "tweet_ids": ["2067528491117969765", "2067605700193271819"]
+      "title_en": "China stabilizer debate; India May imports up",
+      "title_ru": "Спор о стабилизаторе-Китае; импорт Индии в мае выше",
+      "blurb_en": "Debate continued over Beijing’s role in capping the shock, while official Indian May crude imports rose 1.1% y/y to about 5.1 mb/d.",
+      "blurb_ru": "Спор о роли Пекина в сдерживании шока продолжался, а официальный импорт crude Индии в мае вырос на 1,1% г/г примерно до 5,1 млн б/с.",
+      "text_en": "Javier Blas pushed back on critiques that China’s imports simply fell with all of Asia when Hormuz closed, defending Beijing’s stabilizing role. Separately he flagged India’s official May crude imports at 21.6 mt (+1.1% y/y), or about 5.1 mb/d using a standard conversion — demand that stayed surprisingly firm.",
+      "text_ru": "Javier Blas отвечал критикам тезиса, что импорт Китая просто упал вместе со всей Азией при закрытии Ормуза, защищая стабилизирующую роль Пекина. Отдельно он отметил официальный майский импорт crude Индии 21,6 млн т (+1,1% г/г), или около 5,1 млн б/с — спрос оставался на удивление крепким.",
+      "tone": "mixed",
+      "tweet_ids": [
+        "2067502091627643105",
+        "2067596354369605663"
+      ]
     }
   ]
 }

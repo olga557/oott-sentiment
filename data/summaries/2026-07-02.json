@@ -1,47 +1,82 @@
 {
   "date": "2026-07-02",
-  "overview_en": "Thursday pushed back on the 'glut' narrative: Saudi export estimates were revised lower, Hormuz flows were called far from normal, and US oil rigs ticked up. Price sentiment was mildly bullish; tone stayed calm.",
-  "overview_ru": "В четверг спорили с нарративом «профицита»: оценки саудовского экспорта понизили, потоки через Ормуз назвали далёкими от нормы, а нефтяные буровые в США чуть выросли. Сентимент по цене был слабо бычьим; тон оставался спокойным.",
+  "overview_en": "Thursday centered on Saudi VLCCs reappearing outside Hormuz, Gulf loadings ramping, and WTI’s prompt spread flipping into contango, with pushback that a full glut narrative was premature. Price sentiment leaned mildly bearish on the export surge; emotional tone stayed mostly neutral.",
+  "overview_ru": "В четверг в центре были саудовские VLCC вне Ормуза, наращивание погрузок в Заливе и переход промпт-спреда WTI в контанго — при отпоре тезису о полном профиците. Сентимент по цене слегка медвежий из‑за всплеска экспорта; эмоциональный тон оставался в основном нейтральным.",
   "themes": [
+    {
+      "title_en": "Saudi VLCCs laden outside Hormuz",
+      "title_ru": "Саудовские VLCC с грузом вне Ормуза",
+      "blurb_en": "Four fully laden Saudi VLCCs emerged outside Hormuz after going dark near Ras Tanura, with satellite shots of more Aramco loadings inside the Gulf.",
+      "blurb_ru": "Четыре полностью гружёных саудовских VLCC появились вне Ормуза после «затемнения» у Ras Tanura; спутники показали новые погрузки Aramco внутри Залива.",
+      "text_en": "JavierBlas flagged four Saudi VLCCs outside Hormuz with drafts indicating full loads—three had briefly turned AIS on near Ras Tanura before going dark. Follow-ups showed Aramco loading more tankers at Ras Tanura Sea Islands and Al Juaima'h SPMs, plus higher pipeline-bypass loadings.",
+      "text_ru": "JavierBlas отметил четыре саудовских VLCC вне Ормуза с осадкой полного груза — трое кратко включали AIS у Ras Tanura и затем «гасли». Далее показывали новые погрузки Aramco у Sea Islands Ras Tanura и SPM Al Juaima'h плюс рост погрузок по обходному трубопроводу.",
+      "tone": "bearish",
+      "tweet_ids": [
+        "2072576251693240727",
+        "2072582985161838838"
+      ]
+    },
+    {
+      "title_en": "Export rush; market-share battle ahead",
+      "title_ru": "Гонка экспорта; впереди битва за долю",
+      "blurb_en": "Posts described a rush to export more oil—partly from stocks, increasingly from rising wellhead output—that could turn into a market-share fight.",
+      "blurb_ru": "Посты описывали гонку наращивания экспорта — частично со складов, всё чаще с растущей добычи — которая может перейти в борьбу за долю рынка.",
+      "text_en": "JavierBlas argued Saudi Arabia was pushing barrels both via the Hormuz-bypass pipe and fresh Gulf loadings, with most volumes described as new loadings rather than stocks. He warned the export surge could soon become a battle for market share and a possible price war.",
+      "text_ru": "JavierBlas утверждал, что Саудовская Аравия гонит баррели и через обходной трубопровод, и свежими погрузками в Заливе — и большая часть объёмов это новые погрузки, а не стоки. Он предупреждал, что всплеск экспорта скоро может стать битвой за долю рынка и возможным ценовым противостоянием.",
+      "tone": "bearish",
+      "tweet_ids": [
+        "2072668591103656274",
+        "2072695141828002044"
+      ]
+    },
+    {
+      "title_en": "WTI prompt time-spread flips into contango",
+      "title_ru": "Промпт-спред WTI уходит в контанго",
+      "blurb_en": "The WTI prompt time-spread flipped into contango — a clear bearish structure signal on the day.",
+      "blurb_ru": "Промптный тайм-спред WTI перешёл в контанго — явный медвежий сигнал структуры дня.",
+      "text_en": "JavierBlas reported the WTI prompt time-spread flipping into contango. That structure shift reinforced the day’s soft-balance reading even as some voices warned commercial inventories were still not glut-like.",
+      "text_ru": "JavierBlas сообщил о переходе промпт-спреда WTI в контанго. Сдвиг структуры усиливал мягкое прочтение баланса дня, даже когда часть голосов предупреждала, что коммерческие запасы всё ещё не выглядят как профицит.",
+      "tone": "bearish",
+      "tweet_ids": [
+        "2072623278363984005"
+      ]
+    },
     {
       "title_en": "Saudi exports ~5.8, not 6.3 mb/d",
       "title_ru": "Экспорт Саудовской Аравии ~5.8, не 6.3 млн б/с",
-      "blurb_en": "Saudi crude and products exports averaged about 5.8 mb/d rather than the 6.3 mb/d some trackers printed — undercutting the glut story.",
-      "blurb_ru": "Экспорт саудовской нефти и продуктов в среднем около 5.8 млн б/с, а не 6.3 млн б/с у части трекеров — удар по истории «профицита».",
-      "text_en": "Amena Bakr and Staunovo both flagged Saudi crude and product exports near 5.8 mbpd in recent days versus higher reported figures. Separate posts called the market-awash narrative increasingly hard to defend.",
-      "text_ru": "Amena Bakr и Staunovo отмечали экспорт саудовской нефти и продуктов около 5.8 млн б/с против более высоких оценок. Другие посты писали, что нарратив «рынок залит нефтью» всё труднее защищать.",
+      "blurb_en": "Sources put Saudi crude and product exports near 5.8 mb/d rather than 6.3 mb/d, calling glut headlines misleading while Hormuz stayed far from normal.",
+      "blurb_ru": "Источники оценивали экспорт нефти и продуктов Саудовской Аравии около 5.8 млн б/с, а не 6.3, называя заголовки о профиците вводящими в заблуждение при всё ещё ненормальном Ормузе.",
+      "text_en": "Amena Bakr said Saudi crude and products exports averaged around 5.8 mb/d, not the 6.3 mb/d some reported, with the higher figure including previously stranded cargoes. She called the glut narrative very misleading and stressed Hormuz flows were still far from normal.",
+      "text_ru": "Amena Bakr писала, что экспорт нефти и продуктов Саудовской Аравии в среднем около 5.8 млн б/с, а не 6.3, которые кто-то указывал — завышенная цифра включает ранее застрявшие грузы. Она называла нарратив о профиците очень вводящим в заблуждение и подчеркивала, что потоки Ормуза всё ещё далеки от нормы.",
       "tone": "bullish",
-      "tweet_ids": ["2072757494678753684", "2072747058369376292"]
+      "tweet_ids": [
+        "2072757494678753684",
+        "2072758583834669552"
+      ]
     },
     {
-      "title_en": "Hormuz still not normal",
-      "title_ru": "Ормуз всё ещё не нормален",
-      "blurb_en": "Posts insisted Hormuz flows remained far from normal despite some traffic recovery headlines.",
-      "blurb_ru": "Посты настаивали, что потоки через Ормуз далеки от нормы, несмотря на заголовки о частичном восстановлении трафика.",
-      "text_en": "Amena Bakr wrote that Hormuz flows are far from normal. Additional VLCC signals for Basrah kept the tanker/shipping watchlist active without resolving the chokepoint debate.",
-      "text_ru": "Amena Bakr писала, что потоки через Ормуз далеки от нормы. Дополнительные сигналы VLCC на Басру держали танкерную тему в фокусе, не закрывая спор о «бутылочном горлышке».",
-      "tone": "bullish",
-      "tweet_ids": ["2072758583834669552", "2072727994469159140"]
-    },
-    {
-      "title_en": "US rigs +5 to 445",
-      "title_ru": "Буровые США +5 до 445",
-      "blurb_en": "Baker Hughes showed US oil rigs up 5 to 445 — a modest bearish supply signal in an otherwise anti-glut day.",
-      "blurb_ru": "Baker Hughes: нефтяные буровые США +5 до 445 — скромный медвежий сигнал на фоне антипрофицитного дня.",
-      "text_en": "Staunovo reported US oil rigs +5 to 445. The print was widely shared as incremental shale/US production response even as Saudis and Hormuz dominated the narrative fight.",
-      "text_ru": "Staunovo сообщил о росте нефтяных буровых США на 5 до 445. Цифру широко расшарили как реакцию сланца/добычи США, даже пока спор о Саудовской Аравии и Ормузе доминировал в нарративе.",
+      "title_en": "US oil rigs +5 to 445",
+      "title_ru": "Нефтяные буровые США +5 до 445",
+      "blurb_en": "Baker Hughes showed US oil rigs up 5 to 445 — a modest bearish supply-response footnote.",
+      "blurb_ru": "Baker Hughes: нефтяные буровые США +5 до 445 — умеренно медвежья сноска об ответе предложения.",
+      "text_en": "Staunovo posted Baker Hughes US oil rigs +5 to 445. Beside Gulf export headlines, the print fed the idea that US activity was edging higher even as the global supply narrative dominated views.",
+      "text_ru": "Staunovo опубликовал Baker Hughes: нефтяные буровые США +5 до 445. Рядом с заголовками по экспорту Залива цифра подпитывала мысль о небольшом росте активности в США, даже когда глобальный нарратив предложения доминировал по просмотрам.",
       "tone": "bearish",
-      "tweet_ids": ["2072727365508038777"]
+      "tweet_ids": [
+        "2072727365508038777"
+      ]
     },
     {
-      "title_en": "Russian fuel shortages spill over",
-      "title_ru": "Дефицит топлива в России перекидывается",
-      "blurb_en": "Kyrgyzstan asked neighbours for fuel help as Russian shortages bite — extending the products-stress theme.",
-      "blurb_ru": "Кыргызстан просил соседей о помощи с топливом на фоне дефицита в России — продолжение темы стресса продуктового рынка.",
-      "text_en": "Staunovo noted Kyrgyzstan seeking fuel supplies from neighbours as Russian shortages intensified, echoing the prior day's India-gasoline purchases story.",
-      "text_ru": "Staunovo отметил, что Кыргызстан ищет топливо у соседей на фоне усиления дефицита в России — эхо вчерашней истории о закупках бензина у Индии.",
-      "tone": "bullish",
-      "tweet_ids": ["2072590272228139461"]
+      "title_en": "More VLCCs signal for Basrah",
+      "title_ru": "Новые VLCC сигналят на Басру",
+      "blurb_en": "Additional VLCCs linked to Sinokor were signaling for Basrah loadings as Iraq’s export lane slowly reopened.",
+      "blurb_ru": "Дополнительные VLCC, связанные с Sinokor, сигналили на погрузки в Басре на фоне медленного открытия экспортного коридора Ирака.",
+      "text_en": "Noam Raydan listed additional VLCCs signaling for Basrah—Peru Prosperity, Suriname Prosperity and Dominica Prosperity—taking Sinokor-linked nominations to at least seven on AIS. That Iraq lane reopening sat beside the Saudi loading surge in the day’s tanker tape.",
+      "text_ru": "Noam Raydan перечислил дополнительные VLCC на Басру — Peru Prosperity, Suriname Prosperity и Dominica Prosperity — доведя связанные с Sinokor номинации минимум до семи по AIS. Открытие иракского коридора шло рядом с саудовским всплеском погрузок в танкерной ленте дня.",
+      "tone": "bearish",
+      "tweet_ids": [
+        "2072727994469159140"
+      ]
     }
   ]
 }

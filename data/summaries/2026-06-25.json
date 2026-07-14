@@ -1,77 +1,67 @@
 {
   "date": "2026-06-25",
-  "overview_en": "Thursday centered on brittle Hormuz diplomacy—IRGC rejection of the Oman corridor, a ship strike probe, and warnings the physical market could turn ugly—alongside hard-running Asian refineries and a Trainer refinery fire. Price sentiment leaned modestly bullish; emotional tone stayed mostly neutral amid ceasefire doubts.",
-  "overview_ru": "В четверг в центре были хрупкая дипломатия по Ормузу — отказ КСИР от оманского коридора, расследование атаки на судно и предупреждения об ухудшении физического рынка — а также высокая загрузка азиатских НПЗ и пожар на Trainer. Сентимент по цене был слабо бычьим; эмоциональный тон оставался в основном нейтральным на фоне сомнений в перемирии.",
+  "overview_en": "Thursday mixed China’s West Africa selling strike and Brent back near $72.5 with apparent Saudi reload readiness in the Gulf, a Hormuz vessel attack scare, Iraq’s OPEC quota push, and lingering IRGC route rules. Price sentiment was mixed-to-slightly bullish; emotional tone stayed mostly neutral.",
+  "overview_ru": "В четверг смешались продолжающаяся «забастовка» Китая с продажами западноафриканской нефти и возврат Brent к ~$72.5 с признаками готовности Саудовской Аравии снова грузиться в Заливе, пугающий удар по судну у Ормуза, требование Ирака по квоте OPEC и сохраняющиеся правила маршрутов КСИР. Сентимент по цене был смешанным с лёгким бычьим уклоном; эмоциональный тон оставался в основном нейтральным.",
   "themes": [
     {
-      "title_en": "IRGC rejects Oman-IMO Hormuz plan",
-      "title_ru": "КСИР отверг план Oman-IMO по Ормузу",
-      "blurb_en": "Posts said the IRGC Navy rejected the Oman-IMO transit plan and insisted vessels stay inside Tehran-designated corridors.",
-      "blurb_ru": "Посты сообщали, что ВМС КСИР отвергли план транзита Oman-IMO и настаивали на проходе судов только по коридорам, обозначенным Тегераном.",
-      "text_en": "Multiple accounts said the IRGC Navy rejected the Oman-IMO Hormuz transit plan, arguing Iran disagrees that the crisis is over. Iran's Persian Gulf Strait Authority warned international traffic against transiting outside officially designated channels. Rabobank's Michael Every framed the situation as an armistice with unresolved fault lines, not peace.",
-      "text_ru": "Несколько аккаунтов писали, что ВМС КСИР отвергли план транзита Oman-IMO: Иран не согласен, что кризис закончен. Персидско-заливная администрация пролива (PGSA) предупредила международное судоходство не идти вне официально обозначенных каналов. Michael Every из Rabobank называл ситуацию перемирием с нерешёнными линиями разлома, а не миром.",
+      "title_en": "China sells WAF; grades at ~15-year discounts",
+      "title_ru": "Китай продаёт WAF; сорта на дисконтах ~15 лет",
+      "blurb_en": "Chinese companies kept selling West Africa crude, with Nigerian and Angolan grades at the widest discounts to Dated Brent in about 15 years.",
+      "blurb_ru": "Китайские компании продолжали продавать западноафриканскую нефть: нигерийские и ангольские сорта — на максимальных за ~15 лет дисконтах к Dated Brent.",
+      "text_en": "The day’s most-viewed physical note said Beijing’s import strike continued and that several Nigerian and Angolan grades hit their widest discount in at least roughly 15 years. The warning was blunt: without a near-term China return — or fresh Iranian Hormuz games — the physical market risked getting ugly.",
+      "text_ru": "Самый просматриваемый физический пост дня: «забастовка» импорта Пекина продолжается, а ряд нигерийских и ангольских сортов вышел на максимальный дисконт минимум за ~15 лет. Предупреждение было прямым: без скорого возвращения Китая — или новых игр Ирана в Ормузе — физический рынок рискует сильно просесть.",
+      "tone": "bearish",
+      "tweet_ids": ["2070186310267019357", "2070186992827060731"]
+    },
+    {
+      "title_en": "Saudi VLCCs gather to reload in the Gulf",
+      "title_ru": "Саудовские VLCC собираются грузиться в Заливе",
+      "blurb_en": "Saudi-owned ballast VLCCs concentrated at Ju’aymah, pointing to a possible first Persian Gulf loading restart since early March.",
+      "blurb_ru": "Саудовские VLCC в балласте сконцентрировались у Ju’aymah — возможный первый рестарт погрузки в Персидском заливе с начала марта.",
+      "text_en": "Posts flagged three Saudi-owned ballast VLCCs around Ju’aymah’s six SPMs; if loadings proceeded it would be the first known since early March. Follow-ups said the tankers had crossed Hormuz inbound dark over 48 hours, with other Saudi VLCCs outside the strait also going dark — a supply-restoration signal if confirmed.",
+      "text_ru": "Посты отмечали три саудовских VLCC в балласте у шести SPM Ju’aymah; при старте погрузки это был бы первый известный случай с начала марта. В продолжениях писали, что танкеры за 48 часов зашли в Ормуз «в темноте», а другие саудовские VLCC у пролива тоже погасили AIS — сигнал восстановления предложения, если подтвердится.",
+      "tone": "bearish",
+      "tweet_ids": ["2070116566037913608", "2070123042504647054"]
+    },
+    {
+      "title_en": "Brent back to pre-war ~$72.5",
+      "title_ru": "Brent снова у довоенных ~$72.5",
+      "blurb_en": "Brent was described back near pre-war levels around $72.5 after an April peak above $126.",
+      "blurb_ru": "Brent описывали снова около довоенных уровней ~$72.5 после апрельского пика выше $126.",
+      "text_en": "One widely shared price note put Brent around $72.5 a barrel versus an April 30 futures peak of $126.41. That collapse framed the day’s China and Saudi supply-restoration threads as price-destructive for near-term crude.",
+      "text_ru": "Широко разошедшаяся ценовая заметка ставила Brent около $72.5 за баррель против пика фьючерсов 30 апреля в $126.41. Этот обвал делал четверговые ветки про Китай и возможный саудовский рестарт явно деструктивными для ближней нефти.",
+      "tone": "bearish",
+      "tweet_ids": ["2070032330828177813"]
+    },
+    {
+      "title_en": "Hormuz attack scare pauses IMO evacuation",
+      "title_ru": "Атака у Ормуза ставит паузу на эвакуацию IMO",
+      "blurb_en": "IMO paused a ship-evacuation plan after an attack on a vessel near Oman, and the White House said it was looking into the strike.",
+      "blurb_ru": "IMO поставила на паузу план эвакуации судов после удара по судну у Омана; Белый дом заявил, что разбирается с атакой.",
+      "text_en": "Posts said IMO paused evacuation planning from inside Hormuz after an attack near the Omani coast. Separately, a White House official said the US was looking into a ship strike in Hormuz and that it was too soon to say who attacked — a reminder the security risk had not vanished.",
+      "text_ru": "Посты писали, что IMO приостановила планы эвакуации изнутри Ормуза после атаки у побережья Омана. Отдельно официальный представитель Белого дома сказал, что США разбираются с ударом по судну в Ормузе и пока рано говорить, кто атаковал — напоминание, что риск безопасности не исчез.",
+      "tone": "bullish",
+      "tweet_ids": ["2070207982432833843", "2070221504394965275"]
+    },
+    {
+      "title_en": "Iran still policing Hormuz routing",
+      "title_ru": "Иран по-прежнему контролирует маршруты Ормуза",
+      "blurb_en": "Iran rejected an Oman-IMO transit plan and warned vessels off unofficial routes, arguing leverage requires an ongoing Hormuz crisis.",
+      "blurb_ru": "Иран отверг план транзита Оман–IMO и предупредил суда вне официальных маршрутов: рычаг давления требует продолжающегося кризиса Ормуза.",
+      "text_en": "Analyst notes said the IRGC Navy rejected the Oman-IMO Hormuz transit plan and that Iran was using the ceasefire to cement permanent leverage. Persian Gulf Strait Authority warnings added that vessels outside designated routes would no longer be tolerated — keeping normalization incomplete.",
+      "text_ru": "Аналитические посты писали, что ВМС КСИР отвергли план транзита Оман–IMO и что Иран использует перемирие, чтобы закрепить постоянный рычаг. Предупреждения Strait Authority добавляли: суда вне назначенных маршрутов больше не потерпят — нормализация остаётся неполной.",
       "tone": "bullish",
       "tweet_ids": ["2069968057380802568", "2070233781449974091"]
     },
     {
-      "title_en": "Ship struck in Hormuz, US investigating",
-      "title_ru": "Судно атаковано в Ормузе, США расследуют",
-      "blurb_en": "The White House said it was looking into a strike on a ship in Hormuz as tankers used the southern corridor and some turned back.",
-      "blurb_ru": "Белый дом сообщил о расследовании атаки на судно в Ормузе, пока танкеры шли по южному коридору, а часть разворачивалась.",
-      "text_en": "A White House official said the US was looking into a strike on a ship in Hormuz and that it was too soon to say who attacked. LiveSquawk flagged three oil tankers passing through the southern corridor while bypassing and returning toward the Persian Gulf. The incident kept transit risk alive after the ceasefire narrative.",
-      "text_ru": "Официальный представитель Белого дома заявил, что США расследуют атаку на судно в Ормузе и пока рано говорить, кто напал. LiveSquawk отметил три танкера, прошедших через южный коридор с обходом и возвращением к Персидскому заливу. Инцидент сохранил транзитный риск после нарратива о перемирии.",
-      "tone": "bullish",
-      "tweet_ids": ["2070221504394965275", "2070087372440523051"]
-    },
-    {
-      "title_en": "Watch Hormuz inflows, not outflows",
-      "title_ru": "Смотреть на приток в Ормуз, а не отток",
-      "blurb_en": "Shipping trackers warned more vessels were leaving Hormuz than returning, suggesting the Gulf was still effectively a trap.",
-      "blurb_ru": "Трекеры судоходства предупреждали: из Ормуза уходит больше судов, чем возвращается — залив по-прежнему ловушка.",
-      "text_en": "A widely shared post urged watching Hormuz inflows, not just outflows, noting more ships leaving than returning as the traffic jam cleared. Study of War analysis argued many expect pre-war normalization, but Iran is using the ceasefire to create permanent leverage. The probability of fully normalized flows was therefore called lower than consensus.",
-      "text_ru": "Популярный пост призывал смотреть на приток в Ормуз, а не только на отток: уходит больше судов, чем возвращается, хотя затор рассасывается. Анализ Study of War: многие ждут довоенной нормализации, но Иран использует перемирие для закрепления постоянных рычагов. Вероятность полностью нормальных потоков оценивалась ниже консенсуса.",
-      "tone": "bullish",
-      "tweet_ids": ["2069968888884760728", "2069967184302850213"]
-    },
-    {
-      "title_en": "BLAS: physical market to get ugly",
-      "title_ru": "BLAS: физический рынок ужесточится",
-      "blurb_en": "A blunt headline warned the physical oil market is about to get ugly even as paper prices softened.",
-      "blurb_ru": "Жёсткий заголовок предупредил, что физический нефтяной рынок скоро ужесточится, хотя бумажные цены смягчились.",
-      "text_en": "Javier Blas posted that the physical oil market is going to get ugly. That sat beside a widely viewed note arguing the next Middle East conflict may be an oil price war rather than a military one. Iran was also said to estimate a $40 billion windfall from a Hormuz reopening deal with Gulf states.",
-      "text_ru": "Javier Blas написал, что физический нефтяной рынок станет жёстче. Это шло рядом с популярным постом о том, что следующий конфликт на Ближнем Востоке может быть ценовой войной за нефть, а не военной. Иран, по сообщениям, оценивал потенциальный доход от сделки по открытию Ормуза с государствами залива в $40 млрд.",
-      "tone": "bullish",
-      "tweet_ids": ["2070186992827060731", "2070064384353685685"]
-    },
-    {
-      "title_en": "Japan, Korea refineries running hard",
-      "title_ru": "НПЗ Японии и Кореи работают на пределе",
-      "blurb_en": "Asia-focused posts said Japanese and Korean refiners were running hard while China's independents stayed offline, making margins the swing factor.",
-      "blurb_ru": "Азиатские посты писали, что японские и корейские НПЗ работают на пределе, а китайские независимые стоят — решают маржи.",
-      "text_en": "One thread said Japan and Korea are running refineries hard, China's independents are offline, and Chinese runs will not return until margins turn—even with cheap Iranian crude on offer. USGC 3:2:1 refining margins were flagged as hot in the same products conversation. The Asia run-rate split kept products tightness in focus.",
-      "text_ru": "Один тред: Япония и Корея гонят НПЗ на пределе, китайские независимые стоят, и китайские загрузки не вернутся, пока не развернутся маржи — даже при дешёвой иранской нефти. В том же продуктовом разговоре отмечали «горячие» маржи USGC 3:2:1. Раскол азиатских загрозок удерживал в фокусе жёсткость продуктов.",
-      "tone": "bullish",
-      "tweet_ids": ["2070175193348165659", "2070128831323897954"]
-    },
-    {
-      "title_en": "Trainer refinery fire in Pennsylvania",
-      "title_ru": "Пожар на НПЗ Trainer в Пенсильвании",
-      "blurb_en": "A fire at the Trainer refinery in Marcus Hook added another US Atlantic Coast refining disruption.",
-      "blurb_ru": "Пожар на НПЗ Trainer в Marcus Hook добавил ещё один сбой переработки на атлантическом побережье США.",
-      "text_en": "Staunovo and local-media follow-ons flagged a large fire burning at the Trainer refinery in Marcus Hook, Pennsylvania. The incident landed in a day already focused on tight product balances and elevated crack spreads. It was a bullish US Atlantic Coast refining footnote.",
-      "text_ru": "Staunovo и сообщения местных СМИ отметили крупный пожар на НПЗ Trainer в Marcus Hook, Пенсильвания. Инцидент пришёлся на день, уже сосредоточенный на жёстком балансе продуктов и повышенных crack spreads. Это стал бычий штрих по переработке на атлантическом побережье США.",
-      "tone": "bullish",
-      "tweet_ids": ["2070181720591061413", "2070209491396706454"]
-    },
-    {
-      "title_en": "Iraq may suspend OPEC membership",
-      "title_ru": "Ирак может приостановить членство в OPEC",
-      "blurb_en": "Reports said Iraq would consider suspending OPEC membership if barred from producing in line with its capabilities.",
-      "blurb_ru": "Сообщалось, что Ирак рассмотрит приостановку членства в OPEC, если ему запретят добывать в соответствии с возможностями.",
-      "text_en": "Posts cited Iraq saying it would consider suspending OPEC membership if barred from producing to its capabilities. Follow-ons framed the threat after UAE-related quit talk as another sign of OPEC cohesion stress. Markets read the headline as a bearish supply-discipline risk.",
-      "text_ru": "Посты цитировали заявление Ирака о возможной приостановке членства в OPEC, если ему запретят добывать по возможностям. Последующие комментарии ставили угрозу рядом с разговорами о выходе ОАЭ как признак напряжения сплочённости OPEC. Рынок читал заголовок как медвежий риск для дисциплины предложения.",
+      "title_en": "Iraq presses OPEC for a higher quota",
+      "title_ru": "Ирак давит на OPEC за повышение квоты",
+      "blurb_en": "Iraq was framed as demanding a higher OPEC production quota — a supply-side escalation risk inside the group.",
+      "blurb_ru": "Ирак представляли как требующий повышения квоты OPEC — риск эскалации предложения внутри группы.",
+      "text_en": "A high-engagement post cast Iraq’s message to OPEC as “increase our oil production quota — or else.” That sat next to softer flat prices as another potential future supply add if quota politics loosen.",
+      "text_ru": "Пост с высоким охватом формулировал послание Ирака OPEC как «повысьте нашу квоту — или иначе». На фоне мягких цен это выглядело ещё одним потенциальным приростом предложения, если квотная политика ослабнет.",
       "tone": "bearish",
-      "tweet_ids": ["2070015265710997738", "2070106868786094133"]
+      "tweet_ids": ["2070065783330218370"]
     }
   ]
 }

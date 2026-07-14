@@ -1,67 +1,85 @@
 {
   "date": "2026-06-17",
-  "overview_en": "Wednesday paired another large EIA crude draw with Trump's admission of limited Hormuz options, Gulf supply-restart talk, and skepticism that the deal could normalize flows quickly. Price sentiment was mixed; emotional tone stayed mostly neutral.",
-  "overview_ru": "В среду сочетались ещё один крупный отбор нефти по EIA, признание Трампа об ограниченных опциях по Ормузу, разговоры о возобновлении добычи в Заливе и скепсис, что сделка быстро нормализует потоки. Сентимент по цене был смешанным; эмоциональный тон оставался в основном нейтральным.",
+  "overview_en": "Wednesday paired another large EIA crude draw with the circulating US-Iran MoU text, digital signing headlines, Iran oil-revenue math, and an IEA warning of a 2027 glut. Price sentiment was mixed; emotional tone stayed mostly neutral amid deal news and lingering doubt over a fast Hormuz miracle.",
+  "overview_ru": "В среду крупный отбор crude по EIA совместился с циркулирующим текстом MoU США–Иран, заголовками о цифровом подписании, оценкой нефтяных доходов Ирана и предупреждением МЭА о профиците в 2027-м. Сентимент по цене был смешанным; эмоциональный тон оставался в основном нейтральным на фоне сделки и сомнений в «чуде» быстрого Ормуза.",
   "themes": [
     {
-      "title_en": "Market betting on impossible miracle",
-      "title_ru": "Рынок ставит на невозможное чудо",
-      "blurb_en": "The day's most-viewed post argued traders were pricing an impossible Trump miracle on Hormuz reopening versus grim operational reality.",
-      "blurb_ru": "Самый просматриваемый пост дня утверждал, что трейдеры закладывают в цену невозможное «чудо Трампа» по открытию Ормуза вопреки мрачной операционной реальности.",
-      "text_en": "A widely shared podcast warned the oil market was betting on an impossible Trump miracle to rush Hormuz reopening. Trump himself was quoted saying the US had run out of military options to settle the war and wrest control of the strait, reinforcing doubts that headlines matched logistics.",
-      "text_ru": "Широко распространённый подкаст предупреждал, что рынок нефти ставит на невозможное «чудо Трампа» с форсированным открытием Ормуза. Сам Трамп цитировался со словами, что у США закончились военные опции завершить войну и взять пролив под контроль, усиливая сомнения, что заголовки совпадают с логистикой.",
-      "tone": "bullish",
-      "tweet_ids": ["2067234942019633424", "2067301682703134739"]
+      "title_en": "MoU text out; digital signing claimed",
+      "title_ru": "Текст MoU и заявленное цифровое подписание",
+      "blurb_en": "A 14-point draft MoU circulated and Iran later said the presidents had signed digitally, with the Geneva ceremony no longer needed.",
+      "blurb_ru": "Циркулировал 14-пунктный проект MoU, а затем Иран заявил о цифровом подписании президентами — женевская церемония стала ненужной.",
+      "text_en": "Javier Blas said Bloomberg obtained the 14-point draft memorandum scheduled for Friday in Geneva. Later he relayed Iranian state-TV claims that the MoU was signed digitally by both presidents, canceling the formal Geneva signing though delegations would still meet; a senior US readout also highlighted Iran’s “best efforts” Hormuz safe-passage clause.",
+      "text_ru": "Javier Blas сообщил, что Bloomberg получил 14-пунктный проект меморандума, намеченный на пятницу в Женеве. Позже он передал заявления иранского ТВ о цифровом подписании президентами обеих стран — формальная церемония в Женеве отменялась, хотя делегации всё равно встретятся; в брифинге США также выделяли пункт об усилиях Ирана по безопасному проходу через Ормуз.",
+      "tone": "bearish",
+      "tweet_ids": [
+        "2067140119539200132",
+        "2067366563573879187"
+      ]
     },
     {
       "title_en": "EIA crude draw −8.3 mb",
-      "title_ru": "Отбор EIA: нефть −8,3 млн барр.",
-      "blurb_en": "Weekly EIA data showed another large commercial crude draw, reinforcing the inventory-tightness narrative.",
-      "blurb_ru": "Недельные данные EIA показали ещё один крупный отбор коммерческой нефти, усиливая нарратив о дефиците запасов.",
-      "text_en": "EIA WPSR prints flagged crude down 8.3 mb, gasoline down 900,000 bbl and distillates up 1 mb. LiveSquawk detailed DoE crude at −8.263 mb versus expectations near −3 mb, with Cushing down 1.606 mb. Staunovo posted inventory charts showing the broader petroleum stock slide.",
-      "text_ru": "Отчёт EIA WPSR показал нефть минус 8,3 млн барр., бензин минус 900 тыс. барр. и дистилляты плюс 1 млн. LiveSquawk детализировал запасы DoE: −8,263 млн при ожиданиях около −3 млн, Cushing −1,606 млн. Staunovo опубликовал графики запасов нефтепродуктов США.",
+      "title_ru": "Отбор EIA по нефти −8,3 млн барр.",
+      "blurb_en": "Official EIA prints confirmed another oversized crude draw of about 8.3 mb, with Cushing down and gasoline also lower.",
+      "blurb_ru": "Официальный EIA подтвердил очередной крупный отбор crude около 8,3 млн барр., со снижением Cushing и бензина.",
+      "text_en": "DoE crude inventories for the week to June 12 fell 8.263 mb (est. −3.0 mb), with distillates +951 kb, Cushing −1.606 mb and gasoline −906 kb. Separate posts put total US crude stocks down about 17.2 mb when including broader stock categories, keeping the inventory tape firmly supportive.",
+      "text_ru": "Коммерческая нефть DoE за неделю к 12 июня −8,263 млн барр. (ожидание −3,0), дистилляты +951 тыс., Cushing −1,606 млн, бензин −906 тыс. Отдельные посты говорили о снижении общих запасов нефти США примерно на 17,2 млн барр. с учётом более широких категорий — инвентарный фон оставался поддерживающим.",
       "tone": "bullish",
-      "tweet_ids": ["2067255214613115381", "2067254929937330626"]
+      "tweet_ids": [
+        "2067254929937330626",
+        "2067255214613115381"
+      ]
     },
     {
-      "title_en": "Leaked barrels still ~3 mb/d",
-      "title_ru": "«Утечка» баррелей всё ещё ~3 млн б/с",
-      "blurb_en": "Flow analysis showed non-Iran Gulf leakage clearing the market at roughly 3 mb/d through June — far from full normalization.",
-      "blurb_ru": "Анализ потоков показал, что «утечка» из Залива без Ирана снимала с рынка около 3 млн б/с в июне — далеко от полной нормализации.",
-      "text_en": "A tracking post showed that stripping out Iran, Gulf flow cleared the market at around 3 mb/d through June. Commentary framed the print as evidence barrels were leaking despite the deal, but still well below prewar norms.",
-      "text_ru": "Пост по трекингу показал, что без учёта Ирана поток из Залива снимал с рынка около 3 млн б/с в июне. Комментарии описывали цифру как доказательство «утечки» баррелей несмотря на сделку, но всё ещё далеко от довоенных норм.",
-      "tone": "neutral",
-      "tweet_ids": ["2067158019285368906"]
-    },
-    {
-      "title_en": "UAE and Iraq ramp output",
-      "title_ru": "ОАЭ и Ирак наращивают добычу",
-      "blurb_en": "Posts asked how fast the UAE could lift production outside OPEC restrictions and flagged Iraq southern output rising toward 1.5 mb/d.",
-      "blurb_ru": "Посты спрашивали, как быстро ОАЭ нарастит добычу вне ограничений OPEC, и отмечали рост южного экспорта Ирака к 1,5 млн б/с.",
-      "text_en": "Commentary explored how far UAE production could rise if the US-Iran MoU held and OPEC constraints eased. Iraq's southern output was reported at 1.5 mb/d, up from about 1 mb/d, while Arab states were said to be routing exports through alternative corridors.",
-      "text_ru": "Комментарии обсуждали, насколько ОАЭ может нарастить добычу при сохранении MoU США–Иран и ослаблении ограничений OPEC. Южный экспорт Ирака оценивали в 1,5 млн б/с против примерно 1 млн, а страны Залива, по сообщениям, направляли экспорт по альтернативным маршрутам.",
+      "title_en": "Iran oil money: $60–70 bn/year",
+      "title_ru": "Нефтяные деньги Ирана: $60–70 млрд/год",
+      "blurb_en": "At current prices, reverting to pre-war exports was pegged at $60–70 billion a year for Tehran — with MoU waivers helping repatriate the cash.",
+      "blurb_ru": "При текущих ценах возврат к довоенному экспорту оценили в $60–70 млрд в год для Тегерана — а waivers в MoU помогают вернуть эти деньги.",
+      "text_en": "Javier Blas calculated that if Iran returns to pre-war crude and liquids exports, revenues could reach $60–70 bn a year at current prices. MoU waivers, he argued, would let Tehran repatriate that oil money — “pallets and pallets” of it.",
+      "text_ru": "Javier Blas посчитал: если Иран вернётся к довоенному экспорту нефти и жидкостей, выручка может составить $60–70 млрд в год при текущих ценах. Waivers в MoU, по его словам, позволят Тегерану репатриировать эти нефтяные деньги — «поддонами и поддонами».",
       "tone": "bearish",
-      "tweet_ids": ["2067165468016726224", "2067298668231680454"]
+      "tweet_ids": [
+        "2067160464543420806",
+        "2067360859039650011"
+      ]
     },
     {
-      "title_en": "VIP pass and mine clearance",
-      "title_ru": "«VIP-пропуск» и разминирование",
-      "blurb_en": "Despite Trump calling Hormuz open, shippers awaited mine clearance and a mooted administration 'VIP pass' for tankers.",
-      "blurb_ru": "Несмотря на заявления Трампа об открытом Ормузе, судовладельцы ждали разминирования и обсуждаемый администрацией «VIP-пропуск» для танкеров.",
-      "text_en": "FT and headline posts said the Trump administration was mulling how to coax more tankers through Hormuz despite owners staying cautious. Tanker brokers warned the next 30 days would be a bonanza for diving companies clearing mines rather than a simple 'start your engines' moment.",
-      "text_ru": "FT и заголовки говорили, что администрация Трампа обдумывает, как убедить больше танкеров идти через Ормуз, хотя владельцы остаются осторожными. Брокеры предупреждали, что ближайшие 30 дней — золотое время для водолазных компаний по разминированию, а не момент «заводите моторы».",
+      "title_en": "Curve collapse; Brent flirts with contango",
+      "title_ru": "Обвал кривой; Brent на грани контанго",
+      "blurb_en": "Flat-price weakness was notable, but prompt Brent time spreads plunging toward contango was called the more spectacular signal.",
+      "blurb_ru": "Слабость flat-цены была заметна, но ещё эффектнее выглядел обвал ближнего тайм-спреда Brent к контанго.",
+      "text_en": "Javier Blas said Brent prompt time spreads were flirting with contango and that across the curve spreads looked weaker than pre-war. He also mocked the sliding bull mantra — every day WTI stays above $70 becoming the new win.",
+      "text_ru": "Javier Blas писал, что ближний тайм-спред Brent балансирует на грани контанго, а по кривой спреды слабее довоенных. Он же высмеивал скользящий бычий рефрен: теперь «победа» — каждый день с WTI выше $70.",
       "tone": "bearish",
-      "tweet_ids": ["2067094504415342990", "2067390457789784532"]
+      "tweet_ids": [
+        "2067142499227811959",
+        "2067145274305224843"
+      ]
     },
     {
-      "title_en": "Russia gasoline imports, refinery damage",
-      "title_ru": "Импорт бензина в Россию, ущерб НПЗ",
-      "blurb_en": "Russia was set to import gasoline by sea as shortages loomed, while a Saudi refinery repair timeline stretched to 2027.",
-      "blurb_ru": "Россия готовилась импортировать бензин морем на фоне надвигающегося дефицита, а сроки ремонта саудовского НПЗ растянулись до 2027 года.",
-      "text_en": "Staunovo cited sources that Russia would import gasoline by sea as a shortage loomed. TotalEnergies' Saudi Arabia refinery was not expected to be fully repaired until early 2027, adding a bullish products-tightness angle beside bearish Gulf supply-restart talk.",
-      "text_ru": "Staunovo со ссылкой на источники писал, что Россия будет импортировать бензин морем из‑за надвигающегося дефицита. НПЗ TotalEnergies в Саудовской Аравии, по ожиданиям, не будет полностью восстановлен до начала 2027 года — бычий угол по продуктам рядом с медвежьими разговорами о возврате предложения из Залива.",
+      "title_en": "IEA sees 2027 oil glut again",
+      "title_ru": "МЭА снова видит профицит в 2027-м",
+      "blurb_en": "The IEA’s first look at 2027 warned of another surplus once Hormuz reopens, even while flagging unusually high forecast uncertainty.",
+      "blurb_ru": "Первый взгляд МЭА на 2027-й предупреждал о новом профиците после открытия Ормуза, хотя и с необычно высокой неопределённостью прогноза.",
+      "text_en": "Javier Blas’s chart of the day highlighted the IEA warning that, with expected Hormuz reopening, the world again faces too much oil by this time next year. Separately, commentary pointed to rapid UAE capacity freer of OPEC constraints and Iraq’s southern output already recovering toward 1.5 mb/d.",
+      "text_ru": "Chart of the day Javier Blas выделил предупреждение МЭА: при ожидаемом открытии Ормуза к этому времени в следующем году нефти снова будет слишком много. Отдельно писали о быстром наращивании ОАЭ вне ограничений ОПЕК и о восстановлении южной добычи Ирака уже к 1,5 млн б/с.",
+      "tone": "bearish",
+      "tweet_ids": [
+        "2067162216155992552",
+        "2067165468016726224"
+      ]
+    },
+    {
+      "title_en": "Market bets on an impossible Hormuz miracle",
+      "title_ru": "Рынок ставит на невозможное чудо Ормуза",
+      "blurb_en": "High-engagement posts said Trump was rushing a Hormuz reopen that traders were treating as a miracle while military options ran out.",
+      "blurb_ru": "Самые заметные посты утверждали: Трамп торопит открытие Ормуза как «чудо», а военных опций уже почти не осталось.",
+      "text_en": "DarioCpx’s JustDarioDaily argued the oil market is betting on an impossible Trump miracle to reopen Hormuz while ignoring grim operational reality. Separate commentary highlighted Trump admitting limited military alternatives and a need for a deal, reinforcing skepticism that paper peace equals barrels.",
+      "text_ru": "JustDarioDaily у DarioCpx утверждал, что рынок ставит на невозможное чудо Трампа по открытию Ормуза, игнорируя мрачную операционную реальность. Отдельно акцентировали признание Трампом ограниченности военных опций и нужды в сделке — усиливая скепсис, что бумажный мир равен баррелям.",
       "tone": "bullish",
-      "tweet_ids": ["2067238649545023651", "2067229089019179443"]
+      "tweet_ids": [
+        "2067234942019633424",
+        "2067301682703134739"
+      ]
     }
   ]
 }

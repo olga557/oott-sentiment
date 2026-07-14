@@ -1,67 +1,82 @@
 {
   "date": "2026-06-30",
-  "overview_en": "Tuesday weighed Iran’s rapid post-blockade crude exports against a large API crude draw, record U.S. April demand, and a rare blank Brent August loading slate. Price sentiment was mixed-to-bullish; emotional tone remained largely neutral amid the data dump.",
-  "overview_ru": "Во вторник взвешивали быстрый пост-блокадный экспорт сырой нефти Ирана против сильного отбора crude по API, рекордного апрельского спроса США и редкого пустого слота августовских отгрузок Brent. Сентимент по цене был смешанно-бычьим; эмоциональный тон оставался в основном нейтральным на фоне потока данных.",
+  "overview_en": "Tuesday mixed Iran’s post-blockade export rebound and awfully weak physical oil windows with a large API crude draw and record US April output. Price sentiment was mixed; emotional tone stayed mostly neutral amid a market that looked weaker on the tape than on the inventory prints.",
+  "overview_ru": "Во вторник смешались постблокадный отскок экспорта Ирана и очень слабые физические окна с крупным отбором API по нефти и рекордной апрельской добычей США. Сентимент по цене был смешанным; эмоциональный тон оставался в основном нейтральным на фоне рынка, выглядевшего слабее по котировкам, чем по запасам.",
   "themes": [
     {
-      "title_en": "Iran exports 50 mb since blockade lift",
-      "title_ru": "Иран экспортировал 50 млн барр. после снятия блокады",
-      "blurb_en": "Trackers said Iran exported 50 million barrels since the U.S. blockade was lifted—about 1.66 mb/d for June—while peers still lagged.",
-      "blurb_ru": "Трекеры писали, что Иран экспортировал 50 млн баррелей после снятия блокады США — около 1.66 млн б/с за июнь — тогда как соседи всё ещё отставали.",
-      "text_en": "The day’s most-viewed post said Iran had exported 50 million barrels of crude since the U.S.-imposed blockade was lifted two weeks earlier, equating to about 1.66 mb/d for June 2026, with most regional peers still nowhere near that pace. Tanker Trackers echoed the 50 mb figure after the lifting of U.S. sanctions/blockade constraints. Separate notes floated Iranian floating storage near Singapore as a possible bet on higher near-term prices.",
-      "text_ru": "Самый просматриваемый пост дня писал, что Иран экспортировал 50 млн баррелей сырой нефти за две недели после снятия блокады США — около 1.66 млн б/с за июнь 2026 — тогда как большинство стран региона всё ещё далеко от такого темпа. Tanker Trackers повторил цифру 50 млн барр. после снятия ограничений. Отдельно допускали накопление иранского плавучего хранения у Сингапура как ставку на рост цен вблизи.",
+      "title_en": "Physicals soft; MS says prices tell weakness",
+      "title_ru": "Физика слабая; MS: цены показывают слабость",
+      "blurb_en": "Widely shared notes said strip away the narrative and prices show a market weakened across the board, with physical windows still awful.",
+      "blurb_ru": "Широко расходящиеся заметки говорили: отбросьте нарратив — цены показывают ослабление по всему рынку, а физические окна всё ещё ужасны.",
+      "text_en": "The day’s top post amplified Morgan Stanley: strip away the narrative and oil prices describe a market weakened across the board. A follow-up said sellers still offered the largest-ever discounts for some WAF grades without finding buyers, while North Sea physical premia hit a fresh six-year low.",
+      "text_ru": "Топ-пост дня усиливал тезис Morgan Stanley: без нарратива цены нефти описывают ослабление по всему рынку. Далее писали, что продавцы давали рекордные дисконты по части WAF без покупателей, а премии на физику North Sea обновили шестилетний минимум.",
       "tone": "bearish",
-      "tweet_ids": ["2072011769740997078", "2072014788624810295"]
+      "tweet_ids": [
+        "2071839987511734368",
+        "2072012991394898122"
+      ]
+    },
+    {
+      "title_en": "Iran exports 50 mb since blockade lift",
+      "title_ru": "Иран вывез 50 млн барр. после снятия блокады",
+      "blurb_en": "Tanker tracking said Iran had exported 50 million barrels since the US blockade lift—about 1.66 mb/d for June—while most neighbors stayed far below pre-war.",
+      "blurb_ru": "Трекинг танкеров писал, что Иран вывез 50 млн барр. после снятия блокады США — около 1.66 млн б/с за июнь — тогда как большинство соседей всё ещё далеко от довоенных уровней.",
+      "text_en": "TankerTrackers said Iran exported 50 mb of crude since the blockade was lifted two weeks earlier, equating to ~1.66 mb/d for June 2026, while most other regional exporters remained nowhere near pre-war levels. LiveSquawk relayed the same 50 mb tally into the wire stream.",
+      "text_ru": "TankerTrackers сообщал о 50 млн барр. экспорта Ирана за две недели после снятия блокады — около 1.66 млн б/с за июнь 2026 — при том что большинство региональных экспортёров всё ещё далеки от довоенных уровней. LiveSquawk транслировал ту же цифру 50 млн барр. в ленту.",
+      "tone": "bearish",
+      "tweet_ids": [
+        "2072011769740997078",
+        "2072014788624810295"
+      ]
     },
     {
       "title_en": "API: crude −6.1 mb, gasoline also down",
       "title_ru": "API: нефть −6.1 млн барр., бензин тоже вниз",
-      "blurb_en": "API showed crude −6.072 mb and gasoline −2.106 mb, with distillates +2.9 mb, Cushing +0.503 mb, and SPR −5.5 mb.",
-      "blurb_ru": "API показал crude −6.072 млн барр. и бензин −2.106 млн при дистиллятах +2.9 млн, Cushing +0.503 млн и SPR −5.5 млн.",
-      "text_en": "API inventory moves for 06/30 printed crude −6.072 million, gasoline −2.106 million, distillates +2.9 million, Cushing +503,000, and SPR actual −5.5 million. Shorter recaps repeated the crude and gasoline draws as the bullish core of the print. EIA monthly data the same day also showed total U.S. petroleum inventories (crude, SPR, refined products) down 53.929 mb m/m in April.",
-      "text_ru": "Движения запасов API на 06/30: crude −6.072 млн, бензин −2.106 млн, дистилляты +2.9 млн, Cushing +503 тыс., SPR фактически −5.5 млн. Короткие рекапы повторяли отборы нефти и бензина как бычье ядро отчёта. Месячные данные EIA в тот же день показали падение суммарных нефтезапасов США (нефть, SPR, продукты) на 53.929 млн барр. м/м в апреле.",
+      "blurb_en": "API showed crude down about 6.1 mb and gasoline down 2.1 mb, with distillates building—a bullish inventory counterweight to soft physicals.",
+      "blurb_ru": "API показал нефть −около 6.1 млн барр. и бензин −2.1 млн при росте дистиллятов — бычий противовес слабой физике по запасам.",
+      "text_en": "JuliOnTwtr’s API board read crude −6.072 mb, gasoline −2.106 mb, distillates +2.9 mb, Cushing +503 kb, with SPR actual −5.5 mb. That draw dominated the bullish inventory camp even as physical windows stayed soft.",
+      "text_ru": "Сводка API у JuliOnTwtr: нефть −6.072 млн, бензин −2.106 млн, дистилляты +2.9 млн, Cushing +503 тыс., SPR actual −5.5 млн. Этот отбор держал бычий лагерь по запасам, даже когда физические окна оставались мягкими.",
       "tone": "bullish",
-      "tweet_ids": ["2072060074365698538", "2072058464025624652"]
+      "tweet_ids": [
+        "2072060074365698538"
+      ]
+    },
+    {
+      "title_en": "US April oil output hits record highs",
+      "title_ru": "Апрельская добыча США — рекордные максимумы",
+      "blurb_en": "Revised EIA data lifted April US total oil and crude to record highs, with crude near 13.93 mb/d.",
+      "blurb_ru": "Пересмотренные данные EIA подняли апрельскую суммарную добычу нефти США и сырую нефть до рекордов — crude около 13.93 млн б/с.",
+      "text_en": "JavierBlas said revised EIA monthly data pegged US total oil output at 21.836 mb/d in April, up 565 kb/d from the initial weekly-based estimate. April crude was revised to a record 13.934 mb/d. Staunovo broke the crude m/m rise as +216 kb/d, led by the Gulf of America.",
+      "text_ru": "JavierBlas писал, что пересмотренные месячные данные EIA оценивают суммарную добычу нефти США в апреле в 21.836 млн б/с — на 565 тыс б/с выше первой оценки по недельным. Апрельская crude была повышена до рекорда 13.934 млн б/с. Staunovo разбирал рост crude м/м на +216 тыс б/с во главе с Gulf of America.",
+      "tone": "bearish",
+      "tweet_ids": [
+        "2072047956799463656",
+        "2071984422174220735"
+      ]
     },
     {
       "title_en": "No Brent August cargoes to load",
-      "title_ru": "Нет августовских грузов Brent к отгрузке",
-      "blurb_en": "Headline risk flipped bullish after reports that no Brent crude cargoes were set to load in August—a first for the benchmark.",
-      "blurb_ru": "Риск заголовка стал бычьим после сообщений, что на август не намечено ни одного груза Brent — впервые для бенчмарка.",
-      "text_en": "A high-reach wire noted that no Brent crude oil cargoes were set to load in August, described as a first for the global price benchmark. That scarcity signal sat beside still-heavy talk of Iranian barrels returning to the water. For bulls it was the cleanest physical-tightness headline of the day.",
-      "text_ru": "Широко разошедшаяся лента отмечала, что на август не намечено ни одного груза сырой Brent — впервые для мирового ценового бенчмарка. Сигнал дефицита стоял рядом с разговорами о возвращении иранских баррелей на воду. Для быков это был самый чистый заголовок дня о физической жёсткости.",
+      "title_ru": "Нет авгрузки Brent на август",
+      "blurb_en": "No Brent crude cargoes were set to load in August—a first for the global price benchmark and a tightness footnote.",
+      "blurb_ru": "На август не было запланировано ни одной отгрузки Brent — впервые для мирового бенчмарка и сноска о жёсткости.",
+      "text_en": "Staunovo highlighted that no Brent crude oil cargoes were set to load in August, called a first for the global price benchmark. That loading-gap note sat beside the soft physical-window headlines in the day’s structure debate.",
+      "text_ru": "Staunovo подчеркивал, что на август не запланировано ни одной отгрузки Brent — впервые для мирового бенчмарка. Эта заметка о дыре в погрузках шла рядом с заголовками о мягких физических окнах в споре о структуре дня.",
       "tone": "bullish",
-      "tweet_ids": ["2071985431739077097"]
+      "tweet_ids": [
+        "2071985431739077097"
+      ]
     },
     {
       "title_en": "US April demand hits record 20.8 mb/d",
       "title_ru": "Спрос США в апреле — рекорд 20.8 млн б/с",
-      "blurb_en": "EIA said U.S. oil demand rose 595 kb/d y/y to 20.808 mb/d in April—a new record high for that month.",
-      "blurb_ru": "EIA: спрос на нефть в США вырос на 595 тыс. б/с г/г до 20.808 млн б/с в апреле — новый рекорд для этого месяца.",
-      "text_en": "EIA prints showed U.S. oil demand up 595 kb/d or 2.9% y/y to 20.808 mb/d in April, a record for the month. Product detail had gasoline +213 kb/d to 9.123 mb/d, NGL +242 to 3.489, jet +50 to 1.814, and distillate roughly flat. Record U.S. refined-product exports of 8.017 mb/d in April reinforced the strong demand/pull narrative.",
-      "text_ru": "По EIA спрос США вырос на 595 тыс. б/с или 2.9% г/г до 20.808 млн б/с в апреле — рекорд для месяца. В разбивке: бензин +213 тыс. до 9.123 млн б/с, NGL +242 до 3.489, авиакеросин +50 до 1.814, дистиллят почти без изменений. Рекордный экспорт нефтепродуктов США 8.017 млн б/с в апреле усиливал нарратив сильного спроса/отгрузки.",
+      "blurb_en": "EIA said US oil demand rose 595 kb/d year-on-year to 20.808 mb/d in April—a new record for the month.",
+      "blurb_ru": "EIA: спрос на нефть в США вырос на 595 тыс. б/с г/г до 20.808 млн б/с в апреле — новый рекорд для месяца.",
+      "text_en": "Staunovo cited EIA that US oil demand was up 595 kb/d or 2.9% y/y to 20.808 mb/d in April, a new April record. Product detail showed gasoline +213 kb/d and NGLs +242 kb/d among the larger contributors.",
+      "text_ru": "Staunovo со ссылкой на EIA писал, что спрос США вырос на 595 тыс. б/с или 2.9% г/г до 20.808 млн б/с в апреле — новый апрельский рекорд. В разбивке бензин +213 тыс. б/с и ШФЛУ +242 тыс. б/с были среди крупных вкладов.",
       "tone": "bullish",
-      "tweet_ids": ["2072019228081754333", "2072020608892723281"]
-    },
-    {
-      "title_en": "US crude output +216 kb/d to 13.93 mb/d",
-      "title_ru": "Добыча нефти США +216 тыс. б/с до 13.93 млн б/с",
-      "blurb_en": "April U.S. crude production rose to 13.934 mb/d from 13.718 mb/d in March, led by the Gulf of America and New Mexico.",
-      "blurb_ru": "Апрельская добыча нефти США выросла до 13.934 млн б/с с 13.718 млн в марте — лидировали Gulf of America и Нью-Мексико.",
-      "text_en": "EIA monthly data put U.S. crude production at 13.934 mb/d in April versus 13.718 mb/d in March (revised), a +216 kb/d m/m rise. Gains were led by Gulf of America/Mexico (+119), New Mexico (+65), and Texas (+36). Record U.S. crude exports of 5.593 mb/d in April added a bearish supply-availability footnote.",
-      "text_ru": "Месячные данные EIA показали добычу нефти США 13.934 млн б/с в апреле против 13.718 млн в марте (пересмотр) — рост +216 тыс. б/с м/м. Лидеры прироста: Gulf of America/Mexico (+119), Нью-Мексико (+65) и Техас (+36). Рекордный экспорт сырой нефти США 5.593 млн б/с в апреле добавлял медвежью сноску о доступности предложения.",
-      "tone": "bearish",
-      "tweet_ids": ["2071984422174220735", "2072003184525033485"]
-    },
-    {
-      "title_en": "Russia fuel stress; India buys more Russian oil",
-      "title_ru": "Топливный стресс РФ; Индия берёт больше нефти РФ",
-      "blurb_en": "Russia weighed lower-quality fuel output and imports as its supply crisis bit, while India’s June Russian oil imports headed for a record.",
-      "blurb_ru": "Россия взвешивала выпуск топлива худшего качества и импорт на фоне кризиса поставок, а июньский импорт российской нефти в Индию шёл к рекорду.",
-      "text_en": "Reports said Russia may allow lower-quality fuel production and imports as the domestic supply crisis deepened. Separate data showed India’s Russian oil imports heading for a June record high. Those threads kept products tightness in Russia alongside continued Asian bid for discounted barrels.",
-      "text_ru": "Сообщения говорили, что Россия может разрешить выпуск топлива худшего качества и импорт на фоне углубления внутреннего кризиса поставок. Отдельные данные показывали курс июньского импорта российской нефти в Индию на рекорд. Эти ветки держали жёсткость продуктов в РФ рядом с продолжающимся азиатским спросом на дисконтные баррели.",
-      "tone": "mixed",
-      "tweet_ids": ["2071800709167661249", "2071945248599630071"]
+      "tweet_ids": [
+        "2072019228081754333"
+      ]
     }
   ]
 }

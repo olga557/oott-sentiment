@@ -1,67 +1,83 @@
 {
   "date": "2026-06-15",
-  "overview_en": "Monday centered on the signed US-Iran MoU, promised Hormuz reopening, and deep skepticism over mines, backlog, and deal fragility. Price sentiment was mixed as headline-driven selling met alarm over depleted SPR stocks; emotional tone stayed mostly neutral amid deal euphoria and doubt.",
-  "overview_ru": "В понедельник в центре были подписанный MoU США–Иран, обещанное открытие Ормуза и глубокий скепсис по минам, затору и хрупкости сделки. Сентимент по цене был смешанным: продажи на заголовках сталкивались с тревогой по истощённым запасам SPR; эмоциональный тон оставался в основном нейтральным на фоне эйфории и сомнений.",
+  "overview_en": "Monday centered on the signed US-Iran MoU and Hormuz reopening pledges, depleted SPR stocks, and the takeaway that the historic supply shock never produced a full energy crisis. Price sentiment was mixed as deal-driven selling met tight-stock and deal-fragility concern; emotional tone stayed mostly neutral amid euphoria and doubt.",
+  "overview_ru": "В понедельник в центре были подписанный MoU США–Иран и обещания открыть Ормуз, истощённые запасы SPR и вывод, что исторический шок предложения так и не перерос в полномасштабный энергетический кризис. Сентимент по цене был смешанным: продажи на сделке сталкивались с тревогой по запасам и хрупкости договорённостей; эмоциональный тон оставался в основном нейтральным на фоне эйфории и сомнений.",
   "themes": [
+    {
+      "title_en": "Historic shock, no energy crisis",
+      "title_ru": "Исторический шок без энергокризиса",
+      "blurb_en": "The week's most-viewed post argued the 2026 supply shock — worse than 1973, 1979 and 2022 combined per the IEA — still failed to push fuels past prior peaks.",
+      "blurb_ru": "Самый просматриваемый пост недели утверждал, что шок предложения 2026 года — по оценке МЭА хуже, чем 1973, 1979 и 2022 вместе взятые — всё равно не вывел энергоносители выше прошлых пиков.",
+      "text_en": "Javier Blas framed the episode as remarkable: the largest oil supply disruption on record, which the IEA called worse than the 1973, 1979 and 2022 shocks combined, did not create a major energy crisis. Oil, gas, power and coal never surpassed previous peaks, undercutting panic framing even as Hormuz diplomacy dominated the tape.",
+      "text_ru": "Javier Blas назвал исход замечательным: крупнейший зафиксированный срыв нефтяного предложения, который МЭА оценило как хуже шоков 1973, 1979 и 2022 вместе, не породил крупного энергокризиса. Нефть, газ, электричество и уголь не превысили прошлых пиков — это ослабляло паническую рамку даже на фоне дипломатии по Ормузу.",
+      "tone": "neutral",
+      "tweet_ids": [
+        "2066476247824130215"
+      ]
+    },
     {
       "title_en": "SPR draw to multi-year low",
       "title_ru": "Отбор SPR до многолетнего минимума",
-      "blurb_en": "US SPR crude fell about 8.9 mb w/w to 340.3 mb — the day's most-viewed inventory headline and a clear bullish supply signal.",
-      "blurb_ru": "Запасы нефти в SPR США снизились примерно на 8,9 млн барр. за неделю до 340,3 млн — самый просматриваемый инвентарный заголовок дня и явный бычий сигнал по предложению.",
-      "text_en": "Staunovo flagged SPR crude down roughly 8.9 mb w/w to a multi-year low of 340.3 mb, with sour at 211.9 mb and sweet at 128.3 mb. Posts tied the draw to continued wartime releases and warned depleted stocks could keep prices supported even if Hormuz rhetoric turned dovish.",
-      "text_ru": "Staunovo отметил снижение нефти в SPR примерно на 8,9 млн барр. за неделю до многолетнего минимума 340,3 млн барр., с кислой нефтью на 211,9 млн и сладкой на 128,3 млн. Посты связывали отбор с продолжающимися военными релизами и предупреждали, что истощённые запасы могут поддерживать цены даже при мирной риторике по Ормузу.",
+      "blurb_en": "US SPR crude fell about 8.9 mb w/w to 340.3 mb — the lowest since 1983 and a clear bullish stock signal.",
+      "blurb_ru": "Запасы нефти в SPR США снизились примерно на 8,9 млн барр. за неделю до 340,3 млн — минимум с 1983 года и явный бычий сигнал по запасам.",
+      "text_en": "Staunovo flagged SPR crude down roughly 8.9 mb w/w to a multi-year low of 340.3 mb, with sour at 211.9 mb and sweet at 128.3 mb. Separately, about 75 mb of a 132 mb SPR allocation had already been released, with bids for another 40 mb exchange ending the same day.",
+      "text_ru": "Staunovo отметил снижение нефти в SPR примерно на 8,9 млн барр. за неделю до многолетнего минимума 340,3 млн, с кислой на 211,9 млн и сладкой на 128,3 млн. Отдельно сообщалось, что из выделенных 132 млн барр. SPR уже выпущено около 75 млн, а заявки на ещё 40 млн по обмену закрывались в тот же день.",
       "tone": "bullish",
-      "tweet_ids": ["2066569785584877874", "2066590334277030100"]
+      "tweet_ids": [
+        "2066569785584877874",
+        "2066601507194024180"
+      ]
     },
     {
       "title_en": "US-Iran MoU signed",
       "title_ru": "Подписан MoU США–Иран",
-      "blurb_en": "A senior US official confirmed the MoU was signed, promising Hormuz reopening, blockade lift, and a possible $300 billion reconstruction fund.",
-      "blurb_ru": "Старший чиновник США подтвердил подписание MoU с обещанием открытия Ормуза, снятия блокады и возможного фонда восстановления на $300 млрд.",
-      "text_en": "LiveSquawk reported the US signed an MoU with Iran, with Trump and Vance among signatories. The deal called for immediate Hormuz opening and lifting the US blockade, though officials said mine clearance could delay flows by one to two weeks. Details on frozen funds and sanctions relief were tied to Iranian performance.",
-      "text_ru": "LiveSquawk сообщил, что США подписали MoU с Ираном, среди подписантов — Трамп и Вэнс. Сделка предусматривала немедленное открытие Ормуза и снятие американской блокады, хотя чиновники говорили, что разминирование может задержать потоки на 1–2 недели. Детали по замороженным средствам и санкционным послаблениям были привязаны к выполнению обязательств Ираном.",
+      "blurb_en": "A senior US official confirmed the MoU was signed, promising immediate Hormuz opening, blockade lift, and a possible $300 billion reconstruction fund.",
+      "blurb_ru": "Старший чиновник США подтвердил подписание MoU с обещанием немедленного открытия Ормуза, снятия блокады и возможного фонда восстановления на $300 млрд.",
+      "text_en": "LiveSquawk reported the US signed an MoU with Iran, with Trump and Vance among signatories. Officials said details would follow in 24–48 hours, with technical talks later in the week and frozen funds plus sanctions relief tied to Iranian performance; a possible $300 billion rebuilding fund was also cited.",
+      "text_ru": "LiveSquawk сообщил, что США подписали MoU с Ираном, среди подписантов — Трамп и Вэнс. Чиновники обещали детали через 24–48 часов, технические переговоры на неделе и привязку разморозки средств и санкционных послаблений к выполнению обязательств Ираном; также упоминался возможный фонд восстановления на $300 млрд.",
       "tone": "bearish",
-      "tweet_ids": ["2066546606854295655", "2066548400909127906"]
+      "tweet_ids": [
+        "2066546606854295655",
+        "2066548400909127906"
+      ]
     },
     {
-      "title_en": "Price drop vs war damage",
-      "title_ru": "Падение цены vs ущерб войны",
-      "blurb_en": "The day's top geopolitical post argued the headline selloff ignored real war damage and surprised the market with price manipulation.",
-      "blurb_ru": "Главный геополитический пост дня утверждал, что распродажа на заголовках игнорирует реальный ущерб войны и удивила рынок манипуляциями с ценой.",
-      "text_en": "Amena Bakr wrote that the expected drop on deal headlines was happening, but damage from the conflict was not yet reflected in price. She questioned whether the market was celebrating a fragile status quo while roughly 500 vessels remained trapped in the Gulf.",
-      "text_ru": "Amena Bakr писала, что ожидаемое падение на заголовках о сделке происходит, но ущерб от конфликта ещё не отражён в цене. Она ставила вопрос, не празднует ли рынок хрупкий статус-кво, пока около 500 судов остаются в ловушке в заливе.",
+      "title_en": "Selloff vs unfinished war damage",
+      "title_ru": "Распродажа vs незакрытый ущерб войны",
+      "blurb_en": "Headline-driven price drops were called premature by posts stressing real war damage, trapped vessels, and only a fragile return to status quo.",
+      "blurb_ru": "Падение цены на заголовках называли преждевременным: посты подчеркивали реальный ущерб войны, застрявшие суда и лишь хрупкий возврат к status quo.",
+      "text_en": "Amena Bakr argued the expected headline drop was underway but war damage was not yet in the price, while celebrating status quo — if it even happens. Separate notes counted some 500 vessels trapped in the Gulf and warned a Hormuz backlog could take weeks to clear even after the deal.",
+      "text_ru": "Amena Bakr писала, что ожидаемое падение на заголовках уже идёт, но ущерб войны ещё не в цене, а «празднование status quo» уместно лишь если он вообще случится. Отдельно считали порядка 500 судов, застрявших в заливе, и предупреждали, что затор в Ормузе может рассасываться неделями даже после сделки.",
       "tone": "bullish",
-      "tweet_ids": ["2066348854107087123", "2066364912440422833"]
+      "tweet_ids": [
+        "2066348854107087123",
+        "2066368590928810057"
+      ]
     },
     {
-      "title_en": "Hormuz reopening will take weeks",
-      "title_ru": "Открытие Ормуза займёт недели",
-      "blurb_en": "Analysts warned Hormuz backlog and mine clearance could take weeks, with about 60 laden crude vessels still inside the strait.",
-      "blurb_ru": "Аналитики предупреждали, что разбор заторов и разминирование в Ормузе могут занять недели, а около 60 гружёных танкеров с нефтью всё ещё внутри пролива.",
-      "text_en": "Staunovo cited warnings that Hormuz oil backlog could take weeks to clear and that scouring for mines might delay shippers. Amena Bakr noted about 60 laden crude vessels remained in the strait, while EIA commentary suggested pre-conflict traffic might not return until early 2027.",
-      "text_ru": "Staunovo со ссылкой на предупреждения писал, что разбор нефтяного заторa в Ормузе может занять недели, а поиск мин — задержать судовладельцев. Amena Bakr отмечала около 60 гружёных танкеров с нефтью в проливе, а комментарии EIA предполагали, что довоенный трафик может не вернуться до начала 2027 года.",
-      "tone": "bullish",
-      "tweet_ids": ["2066368590928810057", "2066545140982804787"]
-    },
-    {
-      "title_en": "WTI slips below $80",
-      "title_ru": "WTI опустился ниже $80",
-      "blurb_en": "Crude futures fell below $80/bbl for the first time since March after the peace-deal headlines, with WTI settling at $80.75.",
-      "blurb_ru": "Фьючерсы на нефть впервые с марта упали ниже $80/бbl на заголовках о мире, WTI закрылся на $80,75.",
-      "text_en": "LiveSquawk flagged US crude below $80/bbl for the first time since March after the US-Iran deal news. Staunovo later posted WTI at $80.75/bbl and Brent at $83.17/bbl. Equity futures rose on the same headline, underscoring the risk-off unwind in oil.",
-      "text_ru": "LiveSquawk отметил, что нефть США впервые с марта опустилась ниже $80/бbl после новостей о сделке США–Иран. Позже Staunovo указал WTI на $80,75/бbl и Brent на $83,17/бbl. Фьючерсы на акции выросли на том же заголовке, подчёркивая разворот риска в нефти.",
+      "title_en": "SPR releases continue despite the deal",
+      "title_ru": "Релизы SPR продолжаются несмотря на сделку",
+      "blurb_en": "Even after the MoU, DoE kept feeding the market — about 8.89 mb last week, or roughly 1.3 mb/d — extending weeks of >1 mb/d SPR releases.",
+      "blurb_ru": "Даже после MoU Минэнерго США продолжало кормить рынок: около 8,89 млн барр. за неделю, или примерно 1,3 млн б/с, продлевая недели релизов SPR выше 1 млн б/с.",
+      "text_en": "Javier Blas stressed that despite the US-Iran deal, SPR releases would continue for a while, with last week's ~8.89 mb (~1.3 mb/d) helping keep the US market better supplied. That sat beside bullish SPR-stock headlines and framed government barrels as an ongoing overhang.",
+      "text_ru": "Javier Blas подчеркивал, что несмотря на сделку США–Иран релизы SPR продлятся ещё какое-то время: около 8,89 млн барр. за прошлую неделю (~1,3 млн б/с) помогали лучше снабжать американский рынок. Это соседствовало с бычьими заголовками по запасам SPR и представляло госбаррели как продолжающийся навес.",
       "tone": "bearish",
-      "tweet_ids": ["2066422561169133814", "2066591234517270694"]
+      "tweet_ids": [
+        "2066598768405827856"
+      ]
     },
     {
-      "title_en": "Deal fragility: Israel and Lebanon",
-      "title_ru": "Хрупкость сделки: Израиль и Ливан",
-      "blurb_en": "Posts warned key MoU pillars were already fraying as Israel rejected the Lebanon clause and framework terms looked shaky.",
-      "blurb_ru": "Посты предупреждали, что ключевые столпы MoU уже рассыпаются: Израиль отверг ливанский пункт, а условия рамочного соглашения выглядели шаткими.",
-      "text_en": "Amena Bakr highlighted Netanyahu telling Trump Israeli forces would not withdraw from Lebanon and that Israel was not bound by the Lebanon clause. Separate posts said MOU terms were already falling apart and that the agreement remained a vague if-then framework rather than a finished deal.",
-      "text_ru": "Amena Bakr подчеркнула, что Нетаньяху сообщил Трампу об отказе выводить израильские силы из Ливана и не считать Израиль связанным ливанским пунктом. Отдельные посты говорили, что условия MoU уже рассыпаются и соглашение остаётся расплывчатым if-then каркасом, а не готовой сделкой.",
-      "tone": "bullish",
-      "tweet_ids": ["2066347414135476367", "2066378426861170882"]
+      "title_en": "Faster Gulf restart vs fragile Lebanon clause",
+      "title_ru": "Быстрый перезапуск Залива vs хрупкий пункт по Ливану",
+      "blurb_en": "A pre-deal column still expected Persian Gulf production to restart faster than consensus, while Israel’s refusal to leave Lebanon underscored deal fragility.",
+      "blurb_ru": "Колонка до сделки по-прежнему ждала более быстрого, чем консенсус, перезапуска добычи в Персидском заливе, а отказ Израиля уходить из Ливана подчёркивал хрупкость договорённостей.",
+      "text_en": "Javier Blas reiterated his June 8 argument that Gulf oil restart would go much faster than many expect. Amena Bakr flagged Netanyahu telling Trump Israeli forces will not withdraw from Lebanon and do not feel bound by the MoU’s Lebanon clause — a direct hit to a core pillar of the deal.",
+      "text_ru": "Javier Blas повторил тезис от 8 июня: перезапуск нефти в заливе пойдёт намного быстрее, чем ждут многие. Amena Bakr отметила слова Нетаньяху Трампу, что ЦАХАЛ не уйдёт из Ливана и Израиль не считает себя связанным ливанским пунктом MoU — прямой удар по опоре сделки.",
+      "tone": "mixed",
+      "tweet_ids": [
+        "2066404221423911343",
+        "2066347414135476367"
+      ]
     }
   ]
 }

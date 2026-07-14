@@ -1,40 +1,4 @@
-{"id":"2072833998473031867","relevant":true,"price_sentiment":"Bullish","emotional_sentiment":"Neutral","topics":["Iran","Geopolitics"]}
-{"id":"2072836897337204749","relevant":true,"price_sentiment":"Bearish","emotional_sentiment":"Negative","topics":["China demand"]}
-{"id":"2072845248171024782","relevant":true,"price_sentiment":"Bearish","emotional_sentiment":"Neutral","topics":["Supply outlook","Prices/technicals"]}
-{"id":"2072850025265205505","relevant":true,"price_sentiment":"Bullish","emotional_sentiment":"Neutral","topics":["Prices/technicals"]}
-{"id":"2072868962887754172","relevant":true,"price_sentiment":"Neutral","emotional_sentiment":"Negative","topics":[]}
-{"id":"2072869764243046484","relevant":true,"price_sentiment":"Bearish","emotional_sentiment":"Negative","topics":["Demand outlook"]}
-{"id":"2072892328671400048","relevant":true,"price_sentiment":"Neutral","emotional_sentiment":"Neutral","topics":["US inventories"]}
-{"id":"2072892967279349861","relevant":true,"price_sentiment":"Bearish","emotional_sentiment":"Neutral","topics":["Prices/technicals"]}
-{"id":"2072899093207060681","relevant":true,"price_sentiment":"Neutral","emotional_sentiment":"Neutral","topics":["Supply outlook"]}
-{"id":"2072904580761825510","relevant":true,"price_sentiment":"Neutral","emotional_sentiment":"Neutral","topics":["Supply outlook"]}
-{"id":"2072905383262265526","relevant":true,"price_sentiment":"Neutral","emotional_sentiment":"Neutral","topics":[]}
-{"id":"2072935914628685834","relevant":true,"price_sentiment":"Bearish","emotional_sentiment":"Neutral","topics":["Supply outlook"]}
-{"id":"2072936313355903298","relevant":true,"price_sentiment":"Bullish","emotional_sentiment":"Neutral","topics":["Demand outlook"]}
-{"id":"2072936472039072049","relevant":true,"price_sentiment":"Neutral","emotional_sentiment":"Neutral","topics":["Prices/technicals"]}
-{"id":"2072936695368945840","relevant":true,"price_sentiment":"Neutral","emotional_sentiment":"Neutral","topics":["Prices/technicals"]}
-{"id":"2072936896989102290","relevant":true,"price_sentiment":"Neutral","emotional_sentiment":"Neutral","topics":["Shale/US production"]}
-{"id":"2072937098718359774","relevant":true,"price_sentiment":"Neutral","emotional_sentiment":"Neutral","topics":["Shale/US production"]}
-{"id":"2072939729490768260","relevant":true,"price_sentiment":"Neutral","emotional_sentiment":"Neutral","topics":["Supply outlook"]}
-{"id":"2072944193366802600","relevant":true,"price_sentiment":"Neutral","emotional_sentiment":"Neutral","topics":[]}
-{"id":"2072947386834354392","relevant":true,"price_sentiment":"Neutral","emotional_sentiment":"Neutral","topics":["Refining/products"]}
-{"id":"2072947460893299081","relevant":true,"price_sentiment":"Bearish","emotional_sentiment":"Neutral","topics":["Russia sanctions","Supply outlook"]}
-{"id":"2072947516123873357","relevant":true,"price_sentiment":"Bearish","emotional_sentiment":"Neutral","topics":["China demand"]}
-{"id":"2072947934677639205","relevant":true,"price_sentiment":"Neutral","emotional_sentiment":"Neutral","topics":["Supply outlook"]}
-{"id":"2072955351100481561","relevant":true,"price_sentiment":"Neutral","emotional_sentiment":"Neutral","topics":["Demand outlook"]}
-{"id":"2072956247716819117","relevant":true,"price_sentiment":"Neutral","emotional_sentiment":"Neutral","topics":["Russia sanctions"]}
-{"id":"2072958231282864448","relevant":true,"price_sentiment":"Neutral","emotional_sentiment":"Neutral","topics":[]}
-{"id":"2072958368457633932","relevant":true,"price_sentiment":"Neutral","emotional_sentiment":"Neutral","topics":["Tankers/shipping","Iran"]}
-{"id":"2072958465434104071","relevant":true,"price_sentiment":"Neutral","emotional_sentiment":"Neutral","topics":["Supply outlook"]}
-{"id":"2072958898726752377","relevant":true,"price_sentiment":"Bearish","emotional_sentiment":"Neutral","topics":["China demand","Prices/technicals"]}
-{"id":"2072962137337577864","relevant":true,"price_sentiment":"Bearish","emotional_sentiment":"Neutral","topics":["Prices/technicals"]}
-{"id":"2072981244824957297","relevant":true,"price_sentiment":"Bullish","emotional_sentiment":"Neutral","topics":["China demand","Refining/products"]}
-{"id":"2072993766571466835","relevant":true,"price_sentiment":"Bullish","emotional_sentiment":"Neutral","topics":["Russia sanctions"]}
-{"id":"2072993991969120563","relevant":true,"price_sentiment":"Bearish","emotional_sentiment":"Neutral","topics":["Supply outlook"]}
-{"id":"2072998744694390930","relevant":true,"price_sentiment":"Bullish","emotional_sentiment":"Neutral","topics":["Prices/technicals"]}
-{"id":"2073001191500624005","relevant":true,"price_sentiment":"Neutral","emotional_sentiment":"Neutral","topics":[]}
-{"id":"2073013901352943970","relevant":true,"price_sentiment":"Neutral","emotional_sentiment":"Neutral","topics":["Prices/technicals"]}
-{"id":"2073021992073146500","relevant":true,"price_sentiment":"Bearish","emotional_sentiment":"Negative","topics":["Prices/technicals","Supply outlook"]}
-{"id":"2073023379859202507","relevant":true,"price_sentiment":"Neutral","emotional_sentiment":"Neutral","topics":["Refining/products"]}
-{"id":"2073039241102213262","relevant":true,"price_sentiment":"Neutral","emotional_sentiment":"Neutral","topics":["Iraq"]}
-{"id":"2073042252138709375","relevant":true,"price_sentiment":"Bearish","emotional_sentiment":"Neutral","topics":["Russia sanctions","Supply outlook"]}
+{"id":"2072942448129540514","relevant":true,"price_sentiment":"Bearish","emotional_sentiment":"Positive","topics":["China demand"]}
+{"id":"2073001168104464425","relevant":true,"price_sentiment":"Bearish","emotional_sentiment":"Neutral","topics":["Supply outlook"]}
+{"id":"2073029084951560489","relevant":true,"price_sentiment":"Neutral","emotional_sentiment":"Positive","topics":["Natural gas"]}
+{"id":"2073029144636497924","relevant":true,"price_sentiment":"Neutral","emotional_sentiment":"Neutral","topics":["Natural gas"]}

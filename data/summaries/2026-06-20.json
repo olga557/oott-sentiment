@@ -1,57 +1,71 @@
 {
   "date": "2026-06-20",
-  "overview_en": "Saturday was dominated by Iran’s renewed Hormuz closure claim, satellite images of empty traditional lanes, and talk that the MoU was fraying over Lebanon. Price sentiment leaned bullish; emotional tone stayed mostly neutral amid propaganda and conflicting transit counts.",
-  "overview_ru": "В субботу доминировали повторное заявление Ирана о закрытии Ормуза, спутниковые снимки пустых традиционных полос и разговоры о том, что MoU рассыпается из‑за Ливана. Сентимент по цене склонялся к бычьему; эмоциональный тон оставался в основном нейтральным на фоне пропаганды и противоречивых подсчётов транзитов.",
+  "overview_en": "Saturday was dominated by Iran’s renewed Hormuz closure claim versus US insistence the strait stayed open with heavy oil flow, satellite images of empty traditional lanes, and Iranian Kharg loadings. Price sentiment leaned bullish on closure headlines; emotional tone stayed mostly neutral amid conflicting official messages.",
+  "overview_ru": "Субботу определил новый иранский тезис о закрытии Ормуза против утверждений США, что пролив открыт и идёт большой нефтяной поток, плюс спутниковые кадры пустых традиционных фарватеров и погрузки на Харге. Сентимент по цене склонялся к бычьему на заголовках о закрытии; эмоциональный тон оставался в основном нейтральным на фоне противоречивых официальных сигналов.",
   "themes": [
     {
-      "title_en": "Iran declares Hormuz closed again",
-      "title_ru": "Иран снова объявляет Ормуз закрытым",
-      "blurb_en": "Iran-linked headlines said the strait would close to all maritime traffic, citing ceasefire violations.",
-      "blurb_ru": "Связанные с Ираном заголовки заявили, что пролив закрыт для всего морского трафика, ссылаясь на нарушения перемирия.",
-      "text_en": "Tasnim-linked posts said the Strait of Hormuz was closed again because of alleged ceasefire breaches. One widely shared line simply stated the strait would be closed to all maritime traffic. Traders treated the claim as a fresh bullish risk even while other counts still showed some movement.",
-      "text_ru": "Посты со ссылкой на Tasnim заявили о повторном закрытии Ормузского пролива из‑за предполагаемых нарушений перемирия. Одна широко разошедшаяся формулировка прямо говорила, что пролив закрыт для всего морского трафика. Трейдеры читали это как новый бычий риск, даже если другие подсчёты всё ещё показывали какое‑то движение.",
-      "tone": "bullish",
-      "tweet_ids": ["2068323382915940543", "2068322912902258894"]
+      "title_en": "Iran says closed; US says open at 17 mb",
+      "title_ru": "Иран: закрыт; США: открыт, 17 млн барр.",
+      "blurb_en": "Iran declared Hormuz closed while the US insisted it remained open and that 17 mb of oil crossed the waterway that day.",
+      "blurb_ru": "Иран объявил Ормуз закрытым, а США настаивали, что пролив открыт и за день через него прошло 17 млн барр. нефти.",
+      "text_en": "Javier Blas juxtaposed Iran’s closure claim with the US line that the strait remains open and that 17 mb of oil crossed that day — higher than pre-war when bypass pipelines are included. Parallel Iranian media and English headlines repeated the total maritime-traffic closure framing on ceasefire-violation grounds.",
+      "text_ru": "Javier Blas сопоставил тезис Ирана о закрытии с линией США: пролив открыт и за день прошло 17 млн барр. нефти — выше довоенного уровня с учётом обходных трубопроводов. Параллельно иранские СМИ и англоязычные заголовки повторяли рамку полного закрытия морского трафика из‑за нарушения прекращения огня.",
+      "tone": "mixed",
+      "tweet_ids": [
+        "2068379411749929201",
+        "2068323382915940543"
+      ]
     },
     {
       "title_en": "Satellite: empty lanes, Iranian corridor",
-      "title_ru": "Спутник: пустые полосы, иранский коридор",
-      "blurb_en": "SAR imagery showed traditional Hormuz lanes at zero traffic while hulls hugged the Iranian corridor and Iran kept loading at Kharg.",
-      "blurb_ru": "SAR-снимки показали нулевой трафик на традиционных полосах Ормуза, тогда как суда шли по иранскому коридору, а Иран продолжал грузиться в Харге.",
-      "text_en": "June 20 SAR imagery of the Strait of Hormuz showed traditional transit lanes empty, with every visible hull hugging the Iranian corridor. A follow-up noted other GCC players still struggled to get normal loadings off the ground while Iran concurrently loaded three hulls at Kharg. The optics reinforced that Iran kept exporting while peers stayed bottlenecked.",
-      "text_ru": "SAR-снимок Ормуза от 20 июня показал пустые традиционные транзитные полосы, а все видимые суда шли по иранскому коридору. Следующий пост отмечал, что другие игроки ЗСК всё ещё не могут нормально грузиться, пока Иран одновременно грузит три судна в Харге. Картина усиливала вывод, что Иран продолжает экспорт, а соседи остаются в узком месте.",
+      "title_ru": "Спутник: пустые фарватеры, иранский коридор",
+      "blurb_en": "SAR imagery showed traditional transit lanes empty while ships hugged an Iranian-side corridor, with limited GCC loadings versus Kharg activity.",
+      "blurb_ru": "SAR-снимки показали пустые традиционные фарватеры при судах, «прижатых» к иранскому коридору, и слабые погрузки GCC против активности на Харге.",
+      "text_en": "CRUDEOIL231’s June 20 SAR print showed traditional lanes at zero traffic with hulls hugging the Iranian side. Follow-up notes said other GCC players struggled to start normal loadings while Iran concurrently loaded multiple hulls at Kharg.",
+      "text_ru": "SAR-снимок CRUDEOIL231 за 20 июня показал нулевой трафик в традиционных полосах при корпусах, идущих вдоль иранской стороны. В продолжении отмечали, что другим игрокам GCC плохо удаётся нормальная погрузка, тогда как Иран параллельно грузит несколько корпусов на Харге.",
       "tone": "bullish",
-      "tweet_ids": ["2068397928260284736", "2068404791219495210"]
+      "tweet_ids": [
+        "2068397928260284736",
+        "2068404791219495210"
+      ]
+    },
+    {
+      "title_en": "Iran already loading at Kharg",
+      "title_ru": "Иран уже грузится на Харге",
+      "blurb_en": "Satellite stills showed multiple VLCCs loading at Kharg Island as Iran wasted no time restarting fresh export barrels.",
+      "blurb_ru": "Спутниковые кадры показали несколько VLCC на погрузке на острове Харг — Иран не терял времени на возобновление свежего экспорта.",
+      "text_en": "Javier Blas posted Copernicus Sentinel-2 imagery of multiple super-tankers loading at Iran’s Kharg Island terminal. That visual of Iranian restart sat beside JMIC guidance that the southern Omani lane could be used with AIS, radars and lights on — a pathway others were slower to normalize.",
+      "text_ru": "Javier Blas опубликовал снимки Copernicus Sentinel-2 с несколькими супертанкерами на погрузке у терминала Харг. Эта картинка иранского перезапуска соседствовала с рекомендацией JMIC пользоваться южным оманским фарватером с AIS, радарами и огнями — путём, который остальные нормализуют медленнее.",
+      "tone": "bearish",
+      "tweet_ids": [
+        "2068321172773564626",
+        "2068233671828513009"
+      ]
     },
     {
       "title_en": "IEA tallies massive SPR releases",
-      "title_ru": "МЭА подсчитала масштабные релизы из SPR",
-      "blurb_en": "IEA data showed 252 mb released so far with April–May draw paces of 2–2.5 mb/d and 79 mb more scheduled.",
-      "blurb_ru": "Данные МЭА показали уже 252 млн барр. релизов при темпах отбора в апреле–мае 2–2,5 млн б/с и ещё 79 млн запланированных.",
-      "text_en": "Weekend posts shared IEA figures: April release pace 2 mb/d, May 2.5 mb/d, 252 million barrels released so far, and a further 79 million scheduled. Commentary treated the scale of emergency releases as both a near-term lid on prices and a reason future draws may slow. The print was one of the day’s highest-viewed data posts.",
-      "text_ru": "Посты выходных делились цифрами МЭА: темп релизов в апреле 2 млн б/с, в мае 2,5 млн, уже выпущено 252 млн барр., ещё 79 млн запланировано. Комментарии читали масштаб аварийных релизов и как ближайшую крышку для цен, и как причину замедления будущих отборов. Публикация стала одним из самых просматриваемых дата-постов дня.",
+      "title_ru": "МЭА суммирует масштабные релизы SPR",
+      "blurb_en": "IEA figures cited April release pace of 2 mb/d and May at 2.5 mb/d, with 252 mb already out and 79 mb more scheduled.",
+      "blurb_ru": "По цифрам МЭА темп релизов в апреле 2 млн б/с и в мае 2,5 млн б/с; уже выпущено 252 млн барр., ещё 79 млн запланировано.",
+      "text_en": "Staunovo summarized IEA SPR math: April release pace ~2 mb/d, May ~2.5 mb/d, 252 mb released so far and a further 79 mb scheduled. That stock overhang remained a structural counterweight even when Hormuz headlines turned chaotic again.",
+      "text_ru": "Staunovo суммировал математику SPR по МЭА: темп апрельских релизов ~2 млн б/с, майских ~2,5 млн б/с, уже 252 млн барр. выпущено и ещё 79 млн запланировано. Этот навес запасов оставался структурным противовесом даже когда заголовки по Ормузу снова стали хаотичными.",
       "tone": "mixed",
-      "tweet_ids": ["2068379950269252046"]
+      "tweet_ids": [
+        "2068379950269252046"
+      ]
     },
     {
-      "title_en": "MoU dealbreakers pile up",
-      "title_ru": "Копятся dealbreaker’ы MoU",
-      "blurb_en": "Weekend posts listed US navy presence, Israel’s Lebanon stance, and Iran’s Hormuz reversal as breaking the ceasefire framework.",
-      "blurb_ru": "Посты выходных перечислили присутствие ВМС США, позицию Израиля по Ливану и разворот Ирана по Ормузу как разрушающие рамку перемирия.",
-      "text_en": "A dealbreaker checklist cited US navy ships still in Hormuz, Israel refusing to withdraw from Lebanon, and Iran re-closing the strait. Separate notes said US-Iran permanent-ceasefire talks were still set for Sunday in Switzerland even after Iran’s renewed closure order. The weekend narrative framed the MoU as already fraying.",
-      "text_ru": "Чек-лист dealbreaker’ов включал корабли ВМС США в Ормузе, отказ Израиля выводить войска из Ливана и повторное закрытие пролива Ираном. Отдельно писали, что переговоры США–Иран о постоянном прекращении огня всё ещё намечены на воскресенье в Швейцарии даже после нового приказа Ирана о закрытии. Нарратив выходных описывал MoU как уже рассыпающийся.",
-      "tone": "bullish",
-      "tweet_ids": ["2068347638840185275", "2068480018897084426"]
-    },
-    {
-      "title_en": "WTI oversold after 10% weekly drop",
-      "title_ru": "WTI перепродан после недельного падения на 10%",
-      "blurb_en": "WTI fell about $8.28 to $76.60 for the week ending June 19, with spreads pointing to sideways trade rather than a clean short squeeze.",
-      "blurb_ru": "WTI упал примерно на $8,28 до $76,60 за неделю по 19 июня, а спреды указывали скорее на боковик, чем на чистый шорт-сквиз.",
-      "text_en": "One technical post argued WTI futures were oversold after a roughly 10% weekly drop from about $84.99 to $76.60, while 12-month spreads suggested sideways prices into Monday. Another post pushed back on talk of record Brent shorts, noting speculative net positions had collapsed but most specs remained net long. Iraq’s SOMO separately said only two ships were loading south and more needed to enter Hormuz for output to keep rising.",
-      "text_ru": "Один технический пост называл фьючерсы WTI перепроданными после примерно 10% недельного падения с ~$84,99 до $76,60, а 12-месячные спреды указывали на боковик к понедельнику. Другой пост возражал против разговоров о рекордных шортах Brent: нетто-позиции спекулянтов обвалились, но большинство всё ещё в чистом лонге. SOMO Ирака отдельно сказал, что на юге грузятся лишь два судна и для роста добычи в Ормуз должны зайти ещё.",
-      "tone": "mixed",
-      "tweet_ids": ["2068307749495070817", "2068265519040348629"]
+      "title_en": "Negotiators still heading to Switzerland",
+      "title_ru": "Переговорщики всё же едут в Швейцарию",
+      "blurb_en": "Despite the closure spat, Iranian negotiators and US VP Vance were still expected to travel for ceasefire talks.",
+      "blurb_ru": "Несмотря на перепалку о закрытии, иранские переговорщики и вице-президент США Вэнс всё ещё ожидались на переговорах о прекращении огня.",
+      "text_en": "Javier Blas noted Iranian negotiators heading to Switzerland with US VP JD Vance also expected later the same day. Broader posts said permanent-ceasefire talks were still set to kick off Sunday even after Iran’s renewed Hormuz closure order — keeping diplomacy and disruption in the same frame.",
+      "text_ru": "Javier Blas отметил выезд иранских переговорщиков в Швейцарию и ожидание вице-президента США Дж. Д. Вэнса позже в тот же день. Более широкие посты писали, что переговоры о постоянном прекращении огня всё ещё стартуют в воскресенье даже после нового приказа Ирана закрыть Ормуз — дипломатия и срыв оставались в одной рамке.",
+      "tone": "neutral",
+      "tweet_ids": [
+        "2068388557836730673",
+        "2068480018897084426"
+      ]
     }
   ]
 }

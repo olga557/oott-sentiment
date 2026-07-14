@@ -1,67 +1,77 @@
 {
   "date": "2026-06-27",
-  "overview_en": "Saturday centered on Iran tightening control of Hormuz shipping rules, the sharp weekly crude selloff, and rising middle-distillate seaborne supply as the strait reopened. Price sentiment was mixed-to-bullish on geopolitics; emotional tone turned negative amid drone threats and escalation rhetoric.",
-  "overview_ru": "В субботу в центре были ужесточение контроля Ирана над правилами прохода через Ормуз, резкая недельная распродажа нефти и рост поставок средних дистиллятов морем на фоне открытия пролива. Сентимент по цене был смешанно-бычьим из‑за геополитики; эмоциональный тон стал негативным на фоне угроз дронами и эскалации.",
+  "overview_en": "Saturday mixed two-way Omani-route Hormuz traffic with a renewed Iran–US tension spike over the strait, Bahrain drone reports, softer distillate and WTI structure after a 10% weekly slide, and a Norway offshore lockout. Price sentiment was moderately bullish; emotional tone leaned more negative than earlier in the week.",
+  "overview_ru": "В субботу смешались двусторонний трафик Ормуза по оманскому маршруту с новым всплеском напряжённости Иран–США вокруг пролива, сообщениями о дронах по Бахрейну, более мягкой структурой дистиллятов и WTI после недельного падения на 10% и локаутом офшора в Норвегии. Сентимент по цене был умеренно бычьим; эмоциональный тон склонялся к более негативному, чем ранее на неделе.",
   "themes": [
     {
-      "title_en": "Iran asserts new Hormuz control",
-      "title_ru": "Иран закрепляет новый контроль над Ормузом",
-      "blurb_en": "High-reach posts argued traditional Hormuz arrangements have collapsed and Tehran is cementing transit control, including permit demands after warning shots.",
-      "blurb_ru": "Самые просматриваемые посты утверждали, что традиционные договорённости по Ормузу рухнули и Тегеран закрепляет контроль над транзитом, включая разрешения после предупредительных выстрелов.",
-      "text_en": "A widely shared thread said Iran’s actions show Hormuz’s old system has collapsed and a new one aimed at Iranian control is taking shape. Iranian state TV said more ships were seeking Iranian permits after non-authorised vessels faced warning shots. An advisor to Iran’s supreme leader accused the U.S. of violating the war-ending memorandum by creating Hormuz tensions, while JD Vance warned violence would be met with violence.",
-      "text_ru": "Широко разошедшийся тред писал, что действия Ирана показывают крах старой системы Ормуза и формирование новой, нацеленной на иранский контроль. ГосТВ Ирана сообщало, что всё больше судов ищут иранские разрешения после предупредительных выстрелов по несанкционированным судам. Советник верховного лидера обвинил США в нарушении меморандума о прекращении войны из‑за напряжённости в Ормузе, а JD Vance предупредил, что насилие будет встречено насилием.",
-      "tone": "bullish",
-      "tweet_ids": ["2070895836372836698", "2070911943708127646"]
-    },
-    {
-      "title_en": "Bahrain drone attack near Gulf hubs",
-      "title_ru": "Дрон-атака по Бахрейну у нефтяных хабов",
-      "blurb_en": "Bahrain reported an Iranian drone attack with no confirmed damage, while posts stressed proximity to Ras Tanura and Qatar’s Ras Laffan.",
-      "blurb_ru": "Бахрейн сообщил о дрон-атаке Ирана без подтверждённых разрушений, а посты подчёркивали близость к Рас-Тануре и катарскому Рас-Лаффану.",
-      "text_en": "Energy_Tidbits flagged Bahrain’s claim that Iran launched a drone attack on its territory, with no damage reported yet, tying it to prior WSJ coverage of strikes on a U.S. naval base there. Follow-ups noted Bahrain sits under 100 km from Saudi Aramco’s Ras Tanura export hub and Qatar’s Ras Laffan LNG complex—both previously hit by drones. Separate posts also reported a tanker hit by an unidentified projectile near Oman/Hormuz and a JMIC threat-level upgrade to Substantial.",
-      "text_ru": "Energy_Tidbits отметил заявление Бахрейна о дрон-атаке Ирана без пока подтверждённых разрушений и связал это с материалом WSJ об ударах по американской базе. В продолжении писали, что Бахрейн менее чем в 100 км от экспортного хаба Saudi Aramco Рас-Танура и катарского СПГ-комплекса Рас-Лаффан — оба уже били дронами. Отдельно сообщали об ударе неопознанным снарядом по танкеру у Омана/Ормуза и о повышении уровня угрозы JMIC до Substantial.",
-      "tone": "bullish",
-      "tweet_ids": ["2070818493029847155", "2070819496424779876"]
-    },
-    {
-      "title_en": "WTI/Brent down ~10% on the week",
-      "title_ru": "WTI/Brent −~10% за неделю",
-      "blurb_en": "Technical posts highlighted a roughly 10% weekly drop in WTI and Brent plus sharply narrower calendar spreads into Monday.",
-      "blurb_ru": "Технические посты выделяли примерно 10% недельного падения WTI и Brent и резкое сужение календарных спредов к понедельнику.",
-      "text_en": "Art Berman noted WTI fell $7.37 (10%) from $76.60 to $69.23 in the week ending June 26, calling futures oversold while 12-month spreads pointed somewhat lower into Monday. Brent dropped $7.86 (10%) from $79.85 to $71.99, with its 12-month spread narrowing $4.33 (74%) and the 6-month spread $2.90 (95%). Separate commentary still eyed a long only nearer $65 WTI.",
-      "text_ru": "Art Berman отмечал падение WTI на $7.37 (10%) с $76.60 до $69.23 за неделю до 26 июня, называя фьючерсы перепроданными, а 12‑месячные спреды — намекающими на чуть более низкие цены в понедельник. Brent снизился на $7.86 (10%) с $79.85 до $71.99, а 12‑месячный спред сузился на $4.33 (74%), 6‑месячный — на $2.90 (95%). Отдельно писали о готовности обсуждать лонг лишь ближе к $65 по WTI.",
+      "title_en": "Omani Hormuz route now two-way",
+      "title_ru": "Оманский маршрут Ормуза теперь двусторонний",
+      "blurb_en": "The Omani route was described as cleared for inbound tankers as well as outbound, after earlier push for exit-only traffic.",
+      "blurb_ru": "Оманский маршрут описывали как открытый и для входящих танкеров, а не только на выход — раньше доминировал exit-only режим.",
+      "text_en": "The day’s top post said the Omani route in Hormuz was now operating in both directions after tankers had previously been encouraged mainly outbound. That logistics normalization was the clearest bearish flow signal on an otherwise tense security day.",
+      "text_ru": "Топ-пост дня: оманский маршрут в Ормузе теперь работает в обе стороны после режима, где танкеров в основном толкали наружу. Нормализация логистики была самым ясным медвежьим сигналом по потокам в день в целом напряжённой безопасности.",
       "tone": "bearish",
-      "tweet_ids": ["2070888390992478434", "2070905534555812038"]
+      "tweet_ids": ["2070828154134966312"]
     },
     {
-      "title_en": "Middle distillates: supplies up, prices soft",
-      "title_ru": "Средние дистилляты: поставки вверх, цены мягкие",
-      "blurb_en": "Global middle-distillate seaborne supply moved above the June seasonal average and was expected to rise further as Hormuz opened.",
-      "blurb_ru": "Мировые морские поставки средних дистиллятов вышли выше сезонной нормы июня и ожидались ещё выше по мере открытия Ормуза.",
-      "text_en": "Staunovo summarized that middle-distillate seaborne supplies had moved above the seasonal average for June, with prices falling as more barrels were expected once Hormuz flows improved. A related note said the Hormuz crisis had exposed how fragile global jet-fuel logistics remain. That products overhang sat beside still-elevated geopolitical risk premia.",
-      "text_ru": "Staunovo суммировал, что морские поставки средних дистиллятов превысили сезонную норму июня, а цены снижались на ожидании дополнительных баррелей при улучшении потоков через Ормуз. Отдельно отмечали, что кризис Ормуза обнажил хрупкость мировой логистики авиатоплива. Этот продуктовый навес соседствовал с всё ещё высоким геополитическим премиумом.",
+      "title_en": "Iran–US clash over who runs Hormuz",
+      "title_ru": "Спор Иран–США: кто управляет Ормузом",
+      "blurb_en": "Iran accused the US of violating the war-ending memo via Hormuz tensions, while Vance warned violence would be met by violence.",
+      "blurb_ru": "Иран обвинил США в нарушении меморандума о конце войны через напряжённость в Ормузе, а Вэнс предупредил, что насилие встретят насилием.",
+      "text_en": "An advisor to Iran’s Supreme Leader said the US had violated the war-ending memorandum by creating tensions in Hormuz. Parallel posts quoted JD Vance that violence would be met by violence, and Iranian TV said more ships sought Iranian transit permits after warning shots at unauthorized vessels.",
+      "text_ru": "Советник высшего руководителя Ирана заявил, что США нарушили меморандум о конце войны, создавая напряжённость в Ормузе. Параллельно цитировали Вэнса: насилие встретят насилием; иранское ТВ писало, что после предупредительных выстрелов по несущим разрешение судам больше кораблей просят иранские транзитные разрешения.",
+      "tone": "bullish",
+      "tweet_ids": ["2070911943708127646", "2070912661269651870"]
+    },
+    {
+      "title_en": "Iran cementing lasting Hormuz control",
+      "title_ru": "Иран закрепляет долгий контроль над Ормузом",
+      "blurb_en": "Analysis argued traditional Hormuz arrangements had collapsed into a new system aimed at cementing Iranian control, likely not temporary.",
+      "blurb_ru": "Аналитика утверждала, что прежние договорённости по Ормузу рухнули и формируется новая система с закреплением иранского контроля — скорее не временная.",
+      "text_en": "A widely read thread said Iran’s actions showed traditional Hormuz arrangements had collapsed and a new system was taking shape to cement Iranian control. Unless circumstances changed significantly, that shift was not expected to be temporary — keeping a structural risk premium alive.",
+      "text_ru": "Широко читавшаяся ветка писала: действия Ирана показывают крах традиционных договорённостей по Ормузу и формирование новой системы с закреплением иранского контроля. Без существенного изменения обстоятельств этот сдвиг не считали временным — структурная премия за риск сохраняется.",
+      "tone": "bullish",
+      "tweet_ids": ["2070895836372836698", "2070912088654962847"]
+    },
+    {
+      "title_en": "Bahrain drone reports near Gulf hubs",
+      "title_ru": "Дроны по Бахрейну рядом с хабами Залива",
+      "blurb_en": "Bahrain reported a drone attack and Iran was said to hit US-linked targets — uncomfortably close to Ras Tanura and Qatar LNG.",
+      "blurb_ru": "Бахрейн сообщил о дроновой атаке, Иран — об ударах по связанным с США целям: некомфортно близко к Ras Tanura и СПГ Катара.",
+      "text_en": "Posts said Bahrain reported a drone attack on its territory with Iran saying it hit US-linked targets. Follow-ups reminded that Bahrain sits under 100 km from Saudi Ras Tanura and Qatar’s Ras Laffan — geography that keeps Gulf export risk alive even when tanker routes open.",
+      "text_ru": "Посты писали о дроновой атаке на территорию Бахрейна и заявлениях Ирана об ударах по связанным с США целям. В продолжениях напоминали: Бахрейн менее чем в 100 км от саудовского Ras Tanura и катарского Ras Laffan — география сохраняет риск экспорта Залива даже при открытых танкерных маршрутах.",
+      "tone": "bullish",
+      "tweet_ids": ["2070818493029847155", "2070912311666053472"]
+    },
+    {
+      "title_en": "WTI −10% on week; structure softer",
+      "title_ru": "WTI −10% за неделю; структура мягче",
+      "blurb_en": "WTI futures fell about 10% on the week to the high-$60s, with 6- and 12-month spreads narrowing sharply.",
+      "blurb_ru": "Фьючерсы WTI упали примерно на 10% за неделю к верхней зоне $60, а 6- и 12-месячные спреды резко сузились.",
+      "text_en": "Positioning/price notes put WTI down $7.37 (10%) from $76.60 to about $69.23 for the week ending June 26, with 12-month spreads narrowed about 57%. Brent was similarly described down about 10% to roughly $72, with calendar spreads collapsing — bearish structure beside bullish geopolitics.",
+      "text_ru": "Ценовые заметки ставили WTI вниз на $7.37 (10%) с $76.60 до около $69.23 за неделю до 26 июня, 12-месячный спред сузился примерно на 57%. Brent аналогично описывали падением около 10% к ~$72 при сжатии календарных спредов — медвежья структура рядом с бычьей геополитикой.",
       "tone": "bearish",
-      "tweet_ids": ["2070757581228773651", "2070778645426090154"]
+      "tweet_ids": ["2070888390992478434", "2070901157363421319"]
     },
     {
-      "title_en": "Norway service lockout hits offshore drilling",
-      "title_ru": "Локаут сервиса в Норвегии бьёт по бурению",
-      "blurb_en": "A Norway oil-service lockout took effect and was flagged as disrupting offshore drilling—a bullish supply footnote.",
-      "blurb_ru": "В Норвегии вступил в силу локаут нефтяного сервиса с нарушением офшорного бурения — бычья сноска по предложению.",
-      "text_en": "Staunovo reported that Norway’s oil-service lockout had taken effect and was disrupting offshore drilling. Separately, Vår Energi and partners took FID on the Gjøa Subsea projects targeting about 76 million boe of gross 2P reserves. UK North Sea licensing politics also resurfaced as a longer-dated supply watchpoint.",
-      "text_ru": "Staunovo сообщил, что локаут нефтяного сервиса в Норвегии вступил в силу и нарушает офшорное бурение. Отдельно Vår Energi и партнёры приняли FID по проектам Gjøa Subsea с целью около 76 млн бнэ валовых запасов 2P. Политика лицензирования на британском Северном море снова всплыла как долгосрочный фактор предложения.",
-      "tone": "bullish",
-      "tweet_ids": ["2070749242830852436", "2070824466091753578"]
+      "title_en": "Distillates: supplies rise as Hormuz opens",
+      "title_ru": "Дистилляты: предложение растёт с открытием Ормуза",
+      "blurb_en": "Global middle-distillate seaborne supplies were said above the June seasonal average and expected to rise further as Hormuz opens.",
+      "blurb_ru": "Мировые морские поставки средних дистиллятов ставили выше сезонной нормы июня с ожиданием дальнейшего роста по мере открытия Ормуза.",
+      "text_en": "A products note said middle-distillate seaborne supplies had moved above the seasonal average for June and were expected to rise further as the strait of Hormuz opens up. That was a clear near-term bearish products signal against the day’s security headlines.",
+      "text_ru": "Продуктовая заметка писала, что морские поставки средних дистиллятов вышли выше сезонной нормы июня и ждут дальнейшего роста по мере открытия Ормуза. Это ясный ближний медвежий сигнал по продуктам против субботних заголовков по безопасности.",
+      "tone": "bearish",
+      "tweet_ids": ["2070757581228773651"]
     },
     {
-      "title_en": "Russia oil ban extended; Baltics push EU phaseout",
-      "title_ru": "Запрет нефти РФ продлён; Балтика давит на ЕС",
-      "blurb_en": "Putin extended Russia’s oil export ban tied to the G7/EU price cap through 2027, while Baltic states urged the EU to speed a Russian oil import ban.",
-      "blurb_ru": "Путин продлил российский запрет на экспорт нефти, связанный с потолком цен G7/ЕС, до 2027 года, а страны Балтии призвали ЕС ускорить запрет импорта российской нефти.",
-      "text_en": "Staunovo cited Putin extending the Russian oil ban linked to the G7/EU price cap through 2027. Baltic states urged the EU to accelerate a Russian oil import ban after phaseout talks stalled when Hormuz closure raised energy-security fears. Serbia’s Russian-owned NIS also sought another U.S. sanctions waiver.",
-      "text_ru": "Staunovo писал о продлении Путиным российского нефтяного запрета, связанного с потолком цен G7/ЕС, до 2027 года. Страны Балтии призвали ЕС ускорить запрет импорта российской нефти после того, как переговоры о поэтапном отказе застопорились из‑за рисков закрытия Ормуза. Российская NIS в Сербии снова просила у США waiver по санкциям.",
+      "title_en": "Norway oil-service lockout hits drilling",
+      "title_ru": "Локаут нефтесервиса Норвегии бьёт по бурению",
+      "blurb_en": "A Norway oil-service lockout took effect and was said to disrupt offshore drilling — a small North Sea supply risk.",
+      "blurb_ru": "В Норвегии вступил в силу локаут нефтесервиса и, по сообщениям, нарушил офшорное бурение — небольшой риск предложения Северного моря.",
+      "text_en": "Weekend notes said Norway’s oil-service lockout had taken effect and was disrupting offshore drilling. It was a secondary theme beside Hormuz, but one of the few non-Gulf physical supply interruptions discussed.",
+      "text_ru": "Выходные заметки писали, что локаут нефтесервиса Норвегии вступил в силу и нарушает офшорное бурение. Тема вторична рядом с Ормузом, но это одно из немногих обсуждавшихся внезаливских перебоев физпредложения.",
       "tone": "bullish",
-      "tweet_ids": ["2070755938424787091", "2070756397013152045"]
+      "tweet_ids": ["2070749242830852436"]
     }
   ]
 }
