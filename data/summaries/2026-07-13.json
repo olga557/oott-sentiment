@@ -1,0 +1,67 @@
+{
+  "date": "2026-07-13",
+  "overview_en": "Monday centered on a US naval blockade reinstatement plus a proposed 20% Hormuz “guardian” cargo fee, contested Kharg Island strike claims, a sharp crude rally, still-extreme product cracks, and SPR draws to multi-year lows. Price sentiment was firmly bullish; emotional tone was mostly negative amid MoU-crisis talk and shipping risk.",
+  "overview_ru": "В понедельник лента крутилась вокруг возврата морской блокады США и идеи 20% «охранного» сбора в Ормузе, спорных сообщений об ударе по Харгу, резкого ралли нефти, всё ещё экстремальных креков продуктов и просадок СПР к многолетним минимумам. Сентимент по цене был уверенно бычьим; эмоциональный тон — в основном негативным на фоне кризиса MoU и судовладельческих рисков.",
+  "themes": [
+    {
+      "title_en": "US blockade back; 20% Hormuz cargo fee",
+      "title_ru": "Блокада США снова; 20% сбор за Ормуз",
+      "blurb_en": "Washington said it would reinstate a naval blockade on Iran and demand roughly a 20% fee on cargo to “guarantee” Hormuz passage—about $15/bbl on one reading—effective next day at 20:00 UTC.",
+      "blurb_ru": "Вашингтон заявил о возврате морской блокады Ирана и требовании примерно 20% сбора с грузов за «гарантию» прохода через Ормуз (около $15/барр в одной оценке), со вступлением со следующего дня в 20:00 UTC.",
+      "text_en": "A widely viewed breaking note said the US was reinstating the Iranian naval blockade while also billing itself “Guardian of the Hormuz Strait” reimbursed at 20% on all cargo shipped—framed as roughly $15 per barrel. Tanker trackers put reinstatement at 2026-07-14 20:00 UTC. Markets and commentators juxtaposed earlier US rejection of Iranian Hormuz tolls with the new American fee language, while reminding that the first blockade had lasted 66 days.",
+      "text_ru": "Широко читаемый breaking-пост сообщал о возврате морской блокады Ирана и формуле США как «Guardian of the Hormuz Strait» с возмещением 20% со всех грузов — примерно $15 за баррель в одной трактовке. Танкер-трекеры ставили время возврата на 2026-07-14 20:00 UTC. Рынок и комментаторы противопоставляли прежний отказ США от иранских пошлин новым американским сборам и напоминали, что первая блокада длилась 66 дней.",
+      "tone": "bullish",
+      "tweet_ids": ["2076674284823478532", "2076792812314505611"]
+    },
+    {
+      "title_en": "Crude jumps: Brent settles ~$83, WTI ~$78",
+      "title_ru": "Нефть скачет: Brent ~$83, WTI ~$78",
+      "blurb_en": "Blockade headlines helped push crude roughly 8–9% higher, with Brent settling near $83.30/bbl and WTI near $78.14/bbl.",
+      "blurb_ru": "Заголовки о блокаде помогли нефти вырасти примерно на 8–9%: Brent закрылся около $83.30/барр., WTI — около $78.14/барр.",
+      "text_en": "Intraday notes framed oil up about 8% and later “+9% to $78” as markets repriced unfinished Gulf risk after the blockade announcement. End-of-day prints showed Brent settled at $83.30/bbl and WTI at $78.14/bbl, with other posts briefly flagging Brent above $80 and spot chatter toward the mid-80s. Calls for $80–90 on a restored blockade circulated as the short-squeeze narrative returned.",
+      "text_ru": "Внутридневные заметки описывали нефть примерно +8% и позднее «+9% к $78» как переоценку незакрытого риска в Заливе после анонса блокады. К закрытию Brent зафиксировали на $83.30/барр., WTI — на $78.14/барр.; другие посты кратко отмечали Brent выше $80 и разговоры о споте к середине $80. Ожидания $80–90 на фоне возврата блокады подкрепляли нарратив короткого сквиза.",
+      "tone": "bullish",
+      "tweet_ids": ["2076741822366326884", "2076755080712524235"]
+    },
+    {
+      "title_en": "Kharg strike claims, then CENTCOM denial",
+      "title_ru": "Удар по Харгу: слухи, затем отказ CENTCOM",
+      "blurb_en": "Morning reports claimed a direct US hit on Kharg Island export infrastructure; CENTCOM later said forces did not strike the island and satellite “fires” looked like routine flares.",
+      "blurb_ru": "Утром писали о прямом ударе США по экспортной инфраструктуре острова Харг; позже CENTCOM заявило, что остров не били, а «пожары» на спутниках похожи на обычные факелы.",
+      "text_en": "An early high-engagement post said the US had struck Kharg’s western jetty pumping station and pipelines—framed as the first confirmed hit on Iran’s core export terminal, with fires visible from space. A CENTCOM spokesperson subsequently denied any Kharg strike; follow-ups argued FIRMS/NASA heat signatures matched flare stacks seen at the same locations before. The false-hit scare briefly supported oil before the walk-back.",
+      "text_ru": "Ранний пост с огромным охватом сообщал, что США ударили по западной насосной станции пирса и трубопроводам Харга — как о первом подтверждённом ударе по ключевому экспортному терминалу Ирана, с огнём со спутника. Пресс-секретарь CENTCOM затем отрицал удар по Харгу; дальнейшие комментарии связывали тепловые сигнатуры FIRMS/NASA с факелами, уже ранее фиксировавшимися в тех же точках. Ложная тревога кратко поддержала нефть до опровержения.",
+      "tone": "mixed",
+      "tweet_ids": ["2076606664225288239", "2076625553889628269"]
+    },
+    {
+      "title_en": "Products still extreme; Russia refinery hits",
+      "title_ru": "Продукты всё ещё экстремальны; удары по НПЗ РФ",
+      "blurb_en": "Even as crude had eased toward pre-war levels earlier, diesel cracks stayed at historical highs and Ukrainian strikes kept Russian refining under pressure.",
+      "blurb_ru": "Даже когда нефть ранее откатывалась к довоенным уровням, креки дизеля оставались на исторических максимумах, а удары Украины держали российскую переработку под давлением.",
+      "text_en": "Commentary highlighted crude near ~$75 pre-war levels while refined fuels priced as if crude were still above $100, with record refining margins partly blamed on the Russia–Ukraine war. Diesel cracks were called historical highs across regions, with China not expected to relieve tightness. Separately, Russia’s Syzran refinery on the Volga halted after a July 12 drone hit on a primary unit, likely deepening domestic fuel shortages.",
+      "text_ru": "Комментарии отмечали нефть около ~$75 (довоенные уровни) при продуктах, дорогих «как при crude выше $100», и рекордных маржах НПЗ — отчасти из‑за войны Россия–Украина. Креки дизеля называли историческими максимумами по регионам, без помощи со стороны Китая. Отдельно НПЗ в Сызрани на Волге остановился после удара дрона 12 июля по первичной установке, что, вероятно, усугубит дефицит топлива внутри России.",
+      "tone": "mixed",
+      "tweet_ids": ["2076568682810011739", "2076586241135698194"]
+    },
+    {
+      "title_en": "SPR at multi-year low after ~3 mb draw",
+      "title_ru": "СПР на многолетнем минимуме после −~3 млн барр.",
+      "blurb_en": "US SPR crude fell about 3.0 mb week-on-week to 316.5 mb, a multi-year low, with notes also warning Gulf Coast cavern wear from repeated draws.",
+      "blurb_ru": "Сырая нефть в СПР США упала примерно на 3,0 млн барр н/н до 316,5 млн барр — многолетний минимум; параллельно предупреждали об износе соляных каверн на побережье Мексиканского залива от частых отборов.",
+      "text_en": "Weekly SPR tracking put inventories down ~3.0 mb to 316.5 mb, with sour stocks −~2.6 mb to 200.2 mb and sweet −~0.4 mb to 116.3 mb. Separate coverage said frequent draws were pushing the aging Gulf Coast salt-cavern system toward breaking point via fracturing wells and leaky pumps. That buffer story reinforced bullish supply-risk framing into the blockade week.",
+      "text_ru": "Недельный учёт СПР показал −~3,0 млн барр до 316,5 млн барр: sour −~2,6 млн до 200,2 млн, sweet −~0,4 млн до 116,3 млн. Отдельные материалы писали, что частые отборы доводят стареющие соляные каверны Залива до предела из‑за трещин и протекающих насосов. История буфера усиливала бычий ридон по риску поставок на фоне недели блокады.",
+      "tone": "bullish",
+      "tweet_ids": ["2076683958226444314", "2076613618460717105"]
+    },
+    {
+      "title_en": "MoU in crisis; Hormuz transit still blocked",
+      "title_ru": "MoU в кризисе; транзит через Ормуз всё ещё блокирован",
+      "blurb_en": "Tehran called the Washington–Tehran MoU in a “crisis phase,” while shipping voices said Hormuz passage was unfeasible and major owners would not return without a US–Iran agreement.",
+      "blurb_ru": "Тегеран назвал вашингтонско-тегеранский MoU вступившим в «фазу кризиса», а судовладельцы говорили, что проход через Ормуз неосуществим и крупные флоты не вернутся без соглашения США и Ирана.",
+      "text_en": "Iran’s foreign ministry said the MoU had “undoubtedly entered a crisis phase,” and Gulf coverage argued renewed Iranian attacks proved the Hormuz truce was a mirage. Market posts quoted that passage through the strait was currently unfeasible. Nordic Tankers’ CEO was cited saying no tankers would go back through Hormuz until Washington and Tehran agree—keeping physical barrels constrained even before the blockade’s formal restart.",
+      "text_ru": "МИД Ирана заявил, что MoU «несомненно вступил в фазу кризиса», а материалы по Заливу трактовали новые атаки Ирана как доказательство, что перемирие в Ормузе было миражом. В ленте цитировали, что проход через пролив сейчас неосуществим. CEO Nordic Tankers говорили, что танкеры не пошлют обратно через Ормуз, пока США и Иран не договорятся — физические объёмы оставались ограничены ещё до формального рестарта блокады.",
+      "tone": "bullish",
+      "tweet_ids": ["2076579029889536334", "2076697938340839576"]
+    }
+  ]
+}
