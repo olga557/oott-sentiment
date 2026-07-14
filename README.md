@@ -9,7 +9,7 @@
 ```
 scripts/
   fetch_tweets.py   сбор твитов за день через twitterapi.io (ключ в .env)
-  fetch_prices.py   дневные цены Brent (ICE front-month авто; Yahoo — fallback)
+  fetch_prices.py   дневные цены Brent (ICE front-month авто; при недоступности ICE — Investing.com Price, только будни; Yahoo — крайний fallback)
   ingest_excel.py   одноразовый бэкфилл из Excel
   make_batches.py   готовит батчи твитов дня для LLM-классификации
   merge_labels.py   валидирует и сливает метки в data/enriched/
@@ -59,7 +59,10 @@ cp .env.example .env        # вставить ключ twitterapi.io
 ~/Projects/oott-sentiment, затем классифицируй батчи дня по
 prompts/classify.md (субагентом с закреплённой моделью), слей метки
 merge_labels.py, сгенерируй саммари по prompts/summarize.md и пересчитай
-aggregate.py».
+aggregate.py. Цены Brent: сначала ICE (fetch_prices.py); если ICE недоступен —
+бери закрытия со столбца Price на
+https://www.investing.com/commodities/brent-oil-historical-data (только будни
+Mon–Fri, сегодняшний незакрытый день не записывать), затем aggregate/publish».
 
 ## Закреплённая модель классификации
 
